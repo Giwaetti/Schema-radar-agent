@@ -11,6 +11,7 @@ from .fetch import Fetcher
 from .matcher import match_offer
 from .models import LeadRecord, SourceItem
 from .parsers import parse_html_links, parse_html_list, parse_rss_entries
+from .sales import build_sales_plan
 from .scoring import KeywordScorer
 from .utils import (
     ensure_dir,
@@ -29,6 +30,7 @@ class SchemaRadarPipeline:
         self,
         sources: list[dict[str, Any]],
         keyword_config: dict[str, Any],
+        offer_config: dict[str, Any],
         out_dir: str | Path,
         docs_dir: str | Path,
         audit_sites: bool = True,
@@ -38,6 +40,7 @@ class SchemaRadarPipeline:
         self.fetcher = fetcher or Fetcher()
         self.scorer = KeywordScorer(keyword_config)
         self.auditor = SiteAuditor(self.fetcher)
+        self.offer_config = offer_config
         self.out_dir = ensure_dir(out_dir)
         self.docs_dir = ensure_dir(docs_dir)
         self.audit_sites = audit_sites
@@ -48,6 +51,8 @@ class SchemaRadarPipeline:
         leads_sorted = sorted(leads, key=lambda lead: (self._stage_rank(lead["stage"]), lead["score"]), reverse=True)
         write_json(self.out_dir / "leads.json", leads_sorted)
         write_csv(self.out_dir / "leads.csv", [flatten_for_csv(lead) for lead in leads_sorted])
+        write_json(self.out_dir / "sales_queue.json", [self._sales_row(lead) for lead in leads_sorted])
+        write_csv(self.out_dir / "sales_queue.csv", [flatten_for_csv(self._sales_row(lead)) for lead in leads_sorted])
         summary = build_summary(leads_sorted)
         write_json(self.out_dir / "summary.json", summary)
         generate_dashboard(leads_sorted, self.docs_dir / "index.html")
@@ -86,6 +91,19 @@ class SchemaRadarPipeline:
             offer_fit, action_hint = match_offer(score.stage, score.platforms, score.issue_types, audit)
             item_id = make_id(item.source_id, item.url, item.title)
             business_name = guess_business_name(business_url)
+            sales_plan = build_sales_plan(
+                offer_fit=offer_fit,
+                action_hint=action_hint,
+                source_type=item.source_type,
+                source_name=item.source_name,
+                title=item.title,
+                summary=item.summary,
+                platforms=score.platforms,
+                issue_types=score.issue_types,
+                business_name=business_name,
+                business_url=business_url,
+                offers_config=self.offer_config,
+            )
             lead = LeadRecord(
                 item_id=item_id,
                 source=item.source_name,
@@ -105,8 +123,16 @@ class SchemaRadarPipeline:
                 business_name=business_name,
                 business_url=business_url,
                 audit=audit.to_dict() if audit else None,
+                offer_key=sales_plan["offer_key"],
                 offer_fit=offer_fit,
                 action_hint=action_hint,
+                sales_route=sales_plan["sales_route"],
+                cta_label=sales_plan["cta_label"],
+                cta_destination=sales_plan["cta_destination"],
+                contact_email=sales_plan["contact_email"],
+                reply_subject=sales_plan["reply_subject"],
+                reply_draft=sales_plan["reply_draft"],
+                follow_up_draft=sales_plan["follow_up_draft"],
                 tags=item.tags,
             )
             leads.append(lead.to_dict())
@@ -123,6 +149,28 @@ class SchemaRadarPipeline:
                 continue
             return normalize_url(url)
         return None
+
+    def _sales_row(self, lead: dict[str, Any]) -> dict[str, Any]:
+        return {
+            "item_id": lead["item_id"],
+            "stage": lead["stage"],
+            "score": lead["score"],
+            "source": lead["source"],
+            "source_type": lead["source_type"],
+            "title": lead["title"],
+            "source_url": lead["source_url"],
+            "offer_key": lead["offer_key"],
+            "offer_fit": lead["offer_fit"],
+            "sales_route": lead["sales_route"],
+            "cta_label": lead["cta_label"],
+            "cta_destination": lead["cta_destination"],
+            "contact_email": lead["contact_email"],
+            "business_name": lead["business_name"],
+            "business_url": lead["business_url"],
+            "reply_subject": lead["reply_subject"],
+            "reply_draft": lead["reply_draft"],
+            "follow_up_draft": lead["follow_up_draft"],
+        }
 
     @staticmethod
     def _stage_rank(stage: str) -> int:
