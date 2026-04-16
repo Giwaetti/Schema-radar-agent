@@ -1,1 +1,2882 @@
-[]
+[
+  {
+    "item_id": "6e9974641d3df0f0",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1smwgfs/can_we_implement_shopify_schema_ourselves_or_do",
+    "title": "Can we implement Shopify schema ourselves or do we need a developer?",
+    "summary": "I’m currently managing SEO for a client’s Shopify store and looking into improving their structured data (schema) setup for better rich results and overall search visibility. For those who’ve worked with Shopify schema before, is this something that can be realistically handled in-house (through theme edits or apps), or is it usually safer to bring in a Shopify developer for proper implementation? &#32; submitted by &#32; /u/tj42511 [link] &#32; [comments]",
+    "published_at": "2026-04-16T07:23:58+00:00",
+    "discovered_at": "2026-04-16T19:16:30.628941+00:00",
+    "stage": "hot",
+    "score": 13,
+    "score_breakdown": {
+      "matches": {
+        "schema": [
+          "structured data",
+          "rich results",
+          "rich result"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Respond as hands-on implementation help for an active schema problem.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "24ceaa3863e4bcf1",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1smhz8h/do_agencies_ever_bring_in_an_outside_seo",
+    "title": "Do agencies ever bring in an outside SEO strategist for a client account",
+    "summary": "I’ve got a client account where expectations are very high and every short-term analytics fluctuation turns into a problem. My scope is mainly website management, design implementation, plugin/security oversight, and strategic guidance. Lead generation is not part of my scope, but they still fixate on the stats and want a detailed strategy behind every move before anything is implemented. I’m wondering if other agencies ever bring in an experienced SEO consultant or white-label partner to review strategy, sense-check reporting and help support the account from a planning angle. Not looking to hand the client off. More looking for someone sharp who can help behind the scenes or occasionally join strategy discussions if needed. Has anyone here done this successfully? How did you structure it and keep expectations under control. &#32; submitted by &#32; /u/Conscious-Valuable24 [link] &#32; [comments]",
+    "published_at": "2026-04-15T20:29:57+00:00",
+    "discovered_at": "2026-04-16T19:16:30.629151+00:00",
+    "stage": "hot",
+    "score": 11,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "problem",
+          "fix",
+          "support",
+          "looking for"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "problem",
+      "fix",
+      "support",
+      "looking for"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "464719ecc1719bfd",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sm90x3/devs_say_plugins_are_vulnerabilities_to_our_site",
+    "title": "Devs say plugins are vulnerabilities to our site?",
+    "summary": "Hi all, looking for a bit of insight and opinions about Woocommerce store I manage that was built by a web dev agency. As a bit of background, I work for a small company who was setting up an online shop. The owners are not very tech literate and hired an agency to make their site. The agency built a website for them, but it hadn’t been launched for two years. Then I was hired to get the ball rolling. I found the site was lacking a lot of features a site of it’s kind should have, and some things the owners specifically asked for. After some back and forth we got the site up and running, and over the past couple of years we’ve had to make various tweaks and have had problems with site crashes and server downtime, which the web dev agency are vague about or rather dismissive over. The theme they made is also… not great, and getting them to change things is like pulling teeth. After spotty service the past couple of weeks, they told us someone had to have hacked into the site through the user accounts to add plugins and malicious code(?), and we were to change all passwords. We complied, the server crashed two more times over the space of a few days. They are now saying it was Cloudflare not working with the server correctly. After getting the site up we asked about adding an option for customers to download their orders as PDFs online. There are a lot of plugins to do this, however, they said due to the amount of plugins and their vulnerabilities, they would need to code an option from scratch and quoted us a few hundred quid. After years of dealing with this company, my first reaction was that this seemed absurd. Our plugins were all whitelisted by them and are nothing out of the ordinary for an e-commerce site. I just wanted a different perspective/opinion on this before I respond or talk relay the info to my bosses. Thank you! &#32; submitted by &#32; /u/fleshcircuits [link] &#32; [comments]",
+    "published_at": "2026-04-15T15:16:18+00:00",
+    "discovered_at": "2026-04-16T19:16:31.301973+00:00",
+    "stage": "hot",
+    "score": 11,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "problem",
+          "looking for",
+          "hire"
+        ],
+        "platforms": [
+          "woocommerce",
+          "e-commerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "problem",
+      "looking for",
+      "hire"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Respond as hands-on implementation help for an active schema problem.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "5acc1fbf219def00",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1sm0pjf/seo_audit_showing_multiple_errors",
+    "title": "SEO audit showing multiple errors",
+    "summary": "What does this mean and how can I fix this? Thanks for your help Critical Hreflang errors (non-200 URLs, missing return tags, pointing to redirects, no self-reference, conflicts with canonical) Redirect loops and redirect chains Canonical issues (pointing to redirects, non-indexable pages, conflicting with hreflang) Orphan pages (only in sitemap, no internal links) Weak internal linking (pages with only 1 incoming link) Hero image lazy-loaded (affecting LCP) High Priority Duplicate content across pages Duplicate titles and identical H1s Thin pages (&lt;500 words / low content) H1/title keywords not present in page content &#32; submitted by &#32; /u/Comfortable-Virus970 [link] &#32; [comments]",
+    "published_at": "2026-04-15T09:08:43+00:00",
+    "discovered_at": "2026-04-16T19:16:31.816915+00:00",
+    "stage": "hot",
+    "score": 11,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "fix",
+          "error",
+          "missing"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "fix",
+      "error",
+      "missing"
+    ],
+    "business_name": "Preview",
+    "business_url": "https://preview.redd.it/44jribublbvg1.jpg?width=140&amp;height=103&amp;auto=webp&amp;s=d3f68d6d754a19b23509a19331144971d4bc4e9e",
+    "audit": {
+      "business_url": "https://preview.redd.it/44jribublbvg1.jpg?width=140&amp;height=103&amp;auto=webp&amp;s=d3f68d6d754a19b23509a19331144971d4bc4e9e",
+      "final_url": "https://preview.redd.it/44jribublbvg1.jpg?width=140&amp;height=103&amp;auto=webp&amp;s=d3f68d6d754a19b23509a19331144971d4bc4e9e",
+      "domain": "preview.redd.it",
+      "status_code": 403,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTP 403"
+    },
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "2b0c3709c87f7de4",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1sm0mb7/seo_audit_on_website_showing_multiple_errors",
+    "title": "SEO Audit on website showing multiple errors",
+    "summary": "Critical Hreflang errors (non-200 URLs, missing return tags, pointing to redirects, no self-reference, conflicts with canonical) Redirect loops and redirect chains Canonical issues (pointing to redirects, non-indexable pages, conflicting with hreflang) Orphan pages (only in sitemap, no internal links) Weak internal linking (pages with only 1 incoming link) Hero image lazy-loaded (affecting LCP) High Priority Duplicate content across pages Duplicate titles and identical H1s Thin pages (&lt;500 words / low content) H1/title keywords not present in page content External link issues Technical Warnings Hreflang implementation inconsistencies Google Tag Manager incorrectly placed 404 page not returning proper status Missing security headers High Total Blocking Time (JS issues) Performance Reference Mobile performance ~78 LCP ~3.6s (needs improvement) TBT ~410ms Root Causes Misconfigured multilingual setup Weak site structure and linking Content duplication and keyword overlap Fix Priority Hreflang + canonical + redirects Internal linking + orphan pages Performance (hero image, JS) Content cleanup (titles, duplication, depth) &#32; submitted by &#32; /u/Comfortable-Virus970 [link] &#32; [comments]",
+    "published_at": "2026-04-15T09:03:15+00:00",
+    "discovered_at": "2026-04-16T19:16:31.816999+00:00",
+    "stage": "hot",
+    "score": 11,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "fix",
+          "error",
+          "missing"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "fix",
+      "error",
+      "missing"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "cf60468b4c478a52",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1sn09u8/canonical_error",
+    "title": "Canonical error",
+    "summary": "Odd question but on Google search console (yes still battling and trying to understand it) I have a validation for my website starting with www . But it states there is a redirect for my url that doesn’t start with www . Is this an issue or am I making something out of nothing? &#32; submitted by &#32; /u/AloePandaVera [link] &#32; [comments]",
+    "published_at": "2026-04-16T11:04:53+00:00",
+    "discovered_at": "2026-04-16T19:16:30.628826+00:00",
+    "stage": "warm",
+    "score": 10,
+    "score_breakdown": {
+      "matches": {
+        "schema": [
+          "search console"
+        ],
+        "intent": [
+          "issue",
+          "error"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "error"
+    ],
+    "business_name": "Www",
+    "business_url": "http://www/",
+    "audit": {
+      "business_url": "http://www/",
+      "final_url": null,
+      "domain": "www",
+      "status_code": null,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTPConnectionPool(host='www', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www', port=80): Failed to resolve 'www' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "085ac3b966adc06f",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1slysin/zero_brand_llms_visibility_after_trying",
+    "title": "Zero brand LLMs visibility after trying everything for SEO",
+    "summary": "I run a Woocommerce store and spent the last 8 months doing all the SEO basics including, optimized product pages, built backlinks, improved site speed, added structured data, started a blog. Google traffic is up 30% but here's the problem- when I test ChatGPT or Claude asking 'best x products' or 'top solutions for x', my brand never gets mentioned. These AI tools keep recommending the big brands while completely ignoring smaller players like mine, even though we have 4.8 star reviews and good products. It's frustrating because I know customers are now asking ai for recommendations. Anyone else seeing this gap between traditional SEO success and ai visibility? &#32; submitted by &#32; /u/Snaddyxd [link] &#32; [comments]",
+    "published_at": "2026-04-15T07:13:51+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302282+00:00",
+    "stage": "warm",
+    "score": 10,
+    "score_breakdown": {
+      "matches": {
+        "schema": [
+          "structured data"
+        ],
+        "intent": [
+          "problem"
+        ],
+        "platforms": [
+          "woocommerce",
+          "product page"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "problem"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "30cbf1e8b6c51a1e",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1smvy0e/my_travel_blog_lost_rankings_after_a_multilingual",
+    "title": "My travel blog lost rankings after a multilingual setup",
+    "summary": "I’m experiencing a significant drop in rankings after restructuring my website into separate language versions (English, Italian, and Spanish). Since splitting the site, rankings have gradually declined, and some pages are not being indexed at all. All of my content is original and written by me, and I genuinely believe it’s more detailed and authentic than most competitors. Also the content across the three versions isn’t just translated. Even when it’s the same topic each language version is rewritten with a different angle and added context. From an SEO perspective, what could be causing this issue? Could it be related to site structure, hreflang implementation or indexing problems? How can I fix it to recover my rankings? Thanks &#32; submitted by &#32; /u/SundaeMysterious796 [link] &#32; [comments]",
+    "published_at": "2026-04-16T06:54:31+00:00",
+    "discovered_at": "2026-04-16T19:16:30.629015+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "problem",
+          "fix"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "problem",
+      "fix"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "6144c8587b96e15a",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1sm9rxx/did_i_tank_my_seo_14year_site_clean_gsc_but",
+    "title": "Did I Tank My SEO? 14-Year Site, Clean GSC, But Rankings Are Getting Worse",
+    "summary": "Hello All, This is going to be a long one and I do appreciate any replies. OK... I've been doing my own SEO for my website of 14+ years for a while now. I do my own tech as well. I host the server, manage the databases, webserver, security, everything. However, SEO has never been my strong point. But over the years I want to believe I've gotten decent at it. As of today, the site does a few hundred thousand impressions a month, but I'm also in the gaming and geek culture space, which is niche and very cutthroat. And I am growing very frustrated. Currently, the site loads super-fast, I have schemas for the various stuff we do; articles, reviews, etc. GSC has no penalties or errors, everything is good. However, there are two concerns; Back at the end of Jan 2026, I made a change to the site structure to make Google/ Bing happy. I fixed up categories so they are better reflected. For example; I used to have various news categories for Xbox, PlayStation, Nintendo, etc. I changed that from all that to just News -&gt; Gaming News. I did the same thing for our reviews, and I made a lot of changes. I also put in 301 redirects so that Google and Bing would see the changes. But I did not change the URLs of the content, none of that changed. Then I doubled down on schemas so they matched the content, again to make Google happy. However, I find that the site content either doesn't show up in Google, or if it does, it's towards the end and it's getting mildly frustrating. I'm guessing this is to do a loss of reputation, trust or what not? Honestly, I have no clue. But I do want to get the site back on track. I'm at the verge of trying to find something to hire just to look it all over and tell me what's what. But at the same time, I don't feel I need to do this. Can anyone offer any advice here? What am I doing wrong, or miss or am I just at the mercy of Google and Bing. Thanks &#32; submitted by &#32; /u/unknownhax [link] &#32; [comments]",
+    "published_at": "2026-04-15T15:42:51+00:00",
+    "discovered_at": "2026-04-16T19:16:30.629630+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "fix",
+          "error",
+          "hire"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "fix",
+      "error",
+      "hire"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "627812f53335338e",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1sn8got/trying_to_become_that_shopify_guy_where_do_i",
+    "title": "Trying to become “that Shopify guy”, where do I actually start?",
+    "summary": "Hey guys, So I’m down here at the tip of Africa 🇿🇦 watching all these remote ecom roles fly past me like “must be a Shopify expert”, and I’m like… okay cool, but how do I actually get there properly? I’m not completely new to the space, I’ve worked with international clients in customer success, onboarding, even high-ticket sales, so I’m solid when it comes to dealing with people and solving problems. I’ve also touched tools like Gorgias, Zendesk, and Klaviyo, so on, so on.... so I kinda get the ecosystem. But I’m trying to level up for real, not just YouTube-university my way into it and hope for the best, I want to be the person who actually knows what’s going on when things break at 2 am. So for those of you in the trenches: If someone wanted to truly understand how your store runs, what would you recommend a fella like myself to study or learn first? I know this might sound a little dumb lol, but are there any resources, courses, or even YouTube channels that actually helped your understanding of ecom/support systems? Would you suggest like a mock set-up, and then one creates fictional scenarios and tries to solve those? And if you had to train someone from scratch to support your store, what would you focus on first? I know its a mouthful, but I’m not trying to rush into a role. I actually want to understand the system behind the store, not just the surface-level support tasks. &#32; submitted by &#32; /u/PuzzleheadedMusic615 [link] &#32; [comments]",
+    "published_at": "2026-04-16T16:24:21+00:00",
+    "discovered_at": "2026-04-16T19:16:30.984027+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "problem",
+          "support",
+          "expert"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "course"
+      ]
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "problem",
+      "support",
+      "expert"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "92fa6f86413e044d",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1smvfkp/using_shopify_at_a_conference_question",
+    "title": "Using Shopify at a conference question…",
+    "summary": "To try and set the stage: I sell books. I attend conferences several times throughout the year. When going to these conferences, I bring a set number of various titles with me to the conference, five of this book 8 of this other, etc.. My goal at every conference is to not have anything to bring back with me, obviously books are quite heavy, so only transporting or shipping them one way is ideal and selling out while I’m at the conference is the ultimate goal. I would appreciate feedback from people to understand how they handle when they run out of inventory at a location, but still want to continue selling because instead of handing the product to the person directly at the time, they will ship it from the warehouse at a later date. I already use Shopify to host my normal e-commerce website. I’m considering trying to use conference collections, with alternate items so I can set special pricing, tax-free flags on those alternate items, a ‘hidden link’ for the conference collection, as well as Shopify POS at conferences. Currently I use square specifically for conferences to keep things clean and independent from my old e-commerce site… now that I’ve transitioned to Shopify, I’m wondering if I can do it all thru a single interface and can drop my square setup. So if I have 10 people who want to buy a book that I only have five on hand, what do you find is the best way to make the sale at the conference, have Shopify set something as backorder, capture the customer information on site and then fulfill the order when you return to the office and are able to actually ship the items. Obviously Shopify allows you to sell when out of stock, so the actual sale on site doesn’t seem to be an issue… My concern is capturing the customer info so that I have it on hand when I return to the office and can ship to those customers. Right now, even with square our best option is to have them pay and then write it all down on a piece of paper and how many of what they wanted and then take that piece of paper back to the office to box the books and send. Does anyone know of a more convenient way to do this systemically through Shopify? *** edit *** Since the common suggestion is variant for out of stock with shipping charges triggers entry of address, I should mention that we don’t charge shipping for conference purchases (incentive to buy now, on site rather than hoping they might go buy it later). Also, at the conferences with Square, “we” use the device, rather than the customer using the website from their device - so how is the POS capturing the customer details in this regard? Do we need to enter the info as part of their checkout? Does POS pull the detail from CC company? Do you have to turn the screen around for them to enter the details? It’s the capture of customer info that is my primary concern - having them fill out the paper while we help the next customer is the convenience of the paper option - but also the downside. &#32; submitted by &#32; /u/L8nighterOh2 [link] &#32; [comments]",
+    "published_at": "2026-04-16T06:24:56+00:00",
+    "discovered_at": "2026-04-16T19:16:30.984544+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "anyone know",
+          "issue"
+        ],
+        "platforms": [
+          "shopify",
+          "e-commerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "anyone know",
+      "issue"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "bc4afd8df78d8ac2",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1sn6zkj/structured_data_test_validate_jsonld_microdata",
+    "title": "Structured Data Test Validate JSON-LD, Microdata, RDFa, Open Graph & Twitter Cards.",
+    "summary": "&#32; submitted by &#32; /u/anish2good [link] &#32; [comments]",
+    "published_at": "2026-04-16T15:32:39+00:00",
+    "discovered_at": "2026-04-16T19:16:31.816698+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "schema": [
+          "structured data",
+          "json-ld"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": "8Gwifi",
+    "business_url": "https://8gwifi.org/seo/structured-data.jsp",
+    "audit": {
+      "business_url": "https://8gwifi.org/seo/structured-data.jsp",
+      "final_url": "https://8gwifi.org/seo/structured-data.jsp",
+      "domain": "8gwifi.org",
+      "status_code": 403,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTP 403"
+    },
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "420ed328cf175fb5",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1sn5nei/shopify_functions_dynamic_limits",
+    "title": "Shopify Functions Dynamic Limits",
+    "summary": "Hi, I'm building a custom Rust function to power a much improved discounts engine + B2B per customer pricing. I've been wrestling Shopify's function limits for while now and have a system that can process 99.85% of our B2B orders without a problem but will have issues on carts over 100 lines (0.15% of our last 12 months' orders have over 100 line items). The issues stem from the 20kb output limits . I think I can work through and push my solution up to accomodate 150 line items easily, and could probably squeeze 50 more line item capacity from there to get to 200. I would then need to know what the function outputs for functions on carts of over 200 lines would be as I know these increase dynamically. My question is, how do these limits increase? Is there a formula I can use to work out what my output payload size can be from x number of cart lines? If I know I'll be fine over 200 line items, I'll push ahead squeezing what I can out of my current approach. Otherwise I'll start working on a different approach. Thanks! &#32; submitted by &#32; /u/kiko77777 [link] &#32; [comments]",
+    "published_at": "2026-04-16T14:46:16+00:00",
+    "discovered_at": "2026-04-16T19:16:30.984207+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "problem"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "problem"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "fe7d72c6907ab231",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1smza0t/need_help_pictures_dont_load",
+    "title": "Need help pictures don’t load",
+    "summary": "I’m currently working on a Shopify online store and I’m using the Featured Collection section with the Editorial layout. The section is linked to a collection that contains 4 products. Each product already has product images uploaded, and the images show correctly when I switch the section type to Carousel. However, when I switch the same section to Editorial, the product images don’t load properly. They appear as grey boxes or seem to be cropped/hidden. The product titles and prices still show, so the collection itself seems to be connected correctly. The product images are in portrait format, but the same images work in other sections. Has anyone had this issue before? Could this be a theme setting, a product card/media setting, or a bug in the Editorial layout? &#32; submitted by &#32; /u/According-Essay953 [link] &#32; [comments]",
+    "published_at": "2026-04-16T10:11:50+00:00",
+    "discovered_at": "2026-04-16T19:16:30.984331+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "need help",
+          "issue"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "need help",
+      "issue"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "627008cb367488cc",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1smo4fh/wrong_customer_data_populating_at_pos_checkout",
+    "title": "wrong customer data populating at POS checkout",
+    "summary": "We have had some funky stuff happening at check out the last couple weeks. A friend got a receipt from us for an order she didn’t place, her profile was attached to the email of another customer, they don’t have any interaction. It’s not like , housemates or ex husbands or anything like that. I tossed it up to a glitch and tried to untangle their profiles. Then this weekend a new customer checked out and said “that’s not my number or email” when the receipt options popped up. I took note and we didn’t sent a receipt to those contacts. The total content of them was hidden from us. Had 20 or so sales no known issue Then again return customer came in and when she checked out the receipt option populated with an unknown number. We noticed so didn’t sent that number a receipt The funny thing is when I went to our customer profile that number was attached to a new customer profile with no name or other data and said it was generated minutes ago, same time she checked out. Shopify has been a stonewalling nightmare to deal with. Saying this is “expected behavior” and to turn off shop pay. We had shop pay off for a while but found our customers were somewhat annoyed they had to type their emails out each time “don’t you know me?” So we turned it back on. Has anyone dealt with this nightmare? It’s not a good look for us as retailers. Shopify support has been abysmal, gaslighting nonsense. &#32; submitted by &#32; /u/Simple-Position-3083 [link] &#32; [comments]",
+    "published_at": "2026-04-16T00:33:53+00:00",
+    "discovered_at": "2026-04-16T19:16:30.984703+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "support"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "support"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "b558eb9b9486487a",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1smdeg1/google_youtube_app_not_synching_properly",
+    "title": "Google / Youtube App not synching properly",
+    "summary": "I started using Google Merchant Center via Shopify’s Google &amp; YouTube app 4 days ago, and I’m running into serious syncing issues. Most of my products are still not updated in Merchant Center, even after several days. I’ve also changed metafields like age and color (Google said i should do it), but the majority of products don’t reflect those updates. What’s confusing is that I can’t find any option to manually sync or force an update. This becomes a real problem — for example, if I change a price in Shopify but it doesn’t update in Merchant Center, it could potentially lead to a suspension. Is this normal behavior for the Shopify integration? How long does syncing usually take, and is there any way to trigger it manually? Would really appreciate any insights or experiences, this setup is turning out to be way more frustrating than expected. &#32; submitted by &#32; /u/iamwazor [link] &#32; [comments]",
+    "published_at": "2026-04-15T17:49:04+00:00",
+    "discovered_at": "2026-04-16T19:16:30.985035+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "problem"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "problem"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "4df2df0aa8cd8758",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1slwihl/is_there_a_reason_every_shopify_meta_integration",
+    "title": "Is there a reason every Shopify Meta integration is godawful?",
+    "summary": "Meta is plagued by deduplication and low coverage errors. Used the Facebook &amp; Instagram app before moving to Simprosys. The Simprosys product feed is nice but the event portion is just annoying. Can anyone suggest a setup thats given them high event matching between server+web? i feel like the only 'options' I have with these two apps for adding events to the conversion api is like a black box. Shopify help is like 'this is a Meta issue' but Meta documentation (lol) just says to add more event parameters.. &#32; submitted by &#32; /u/trailmix17 [link] &#32; [comments]",
+    "published_at": "2026-04-15T05:06:09+00:00",
+    "discovered_at": "2026-04-16T19:16:30.985320+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "error"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "error"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "a2fb7ae68466834f",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sk6yb3/does_woocommerce_scale_poorly_or_do_we_just_keep",
+    "title": "Does WooCommerce scale poorly… or do we just keep stacking plugins until it breaks?",
+    "summary": "I’ve been working on a few WooCommerce stores recently and noticed a pattern whenever performance or stability becomes an issue, the first reaction is: “WooCommerce doesn’t scale well.” but when you look closer, the setup usually looks like: • 20–40 plugins installed • multiple plugins doing similar things • heavy page builders • random scripts loading on every page at that point, it’s not really “just WooCommerce” anymore 😅 it’s more like a stack of layers on top of it. and when something breaks or slows down, it’s hard to even tell what’s causing it. so now i’m starting to think: is WooCommerce actually the problem… or is it how we build on top of it? curious how others see this have you managed to run a clean, fast WooCommerce setup long-term? &#32; submitted by &#32; /u/OliverPitts [link] &#32; [comments]",
+    "published_at": "2026-04-13T10:34:40+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302727+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "problem"
+        ],
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "problem"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "30ec611e6dcf005c",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sjrdvs/minicart_not_working_on_product_page_bricks_page",
+    "title": "Mini-cart not working on product page, bricks page until refresh",
+    "summary": "On my website 's shop page, the mini cart in the top corner works as it should. When you are on the page for an individual product, the mini cart doesn't display the item count. Clicking on the icon makes the whole page freeze, and I can't interact with anything until refreshing. Sometimes when I refresh the page, the icon will briefly show the count next to it before disappearing. It seems the site is initially loading it fine before getting overwritten by something. Anyone know a fix to this? &#32; submitted by &#32; /u/LennyTheMemeMaster [link] &#32; [comments]",
+    "published_at": "2026-04-12T21:34:51+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302780+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "anyone know",
+          "fix"
+        ],
+        "platforms": [
+          "product page"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "anyone know",
+      "fix"
+    ],
+    "business_name": "Lcdmagazine",
+    "business_url": "https://lcdmagazine.com/shop",
+    "audit": {
+      "business_url": "https://lcdmagazine.com/shop",
+      "final_url": "https://lcdmagazine.com/shop/",
+      "domain": "lcdmagazine.com",
+      "status_code": 200,
+      "ok": true,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": "wordpress",
+      "site_kind": "ecommerce",
+      "title": "Shop – LCD",
+      "opportunity_gaps": [
+        "Missing Product schema on scanned page",
+        "BreadcrumbList not detected on scanned page",
+        "No JSON-LD schema detected on scanned page"
+      ],
+      "notes": [
+        "Detected CMS: wordpress",
+        "Detected site kind: ecommerce"
+      ],
+      "error": null
+    },
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Offer a fast product-schema visibility fix or implementation shortcut.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "7cad77e02dd47c6d",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/missing-field-mainentity-in-faq-schema",
+    "title": "Missing field ‘mainEntity’ in FAQ schema",
+    "summary": "Started by: webrightnow",
+    "published_at": null,
+    "discovered_at": "2026-04-16T19:16:33.063166+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "schema": [
+          "missing field",
+          "faq schema"
+        ],
+        "intent": [
+          "missing"
+        ]
+      },
+      "freshness": 0,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [
+      "missing_schema",
+      "faq_schema"
+    ],
+    "intent_flags": [
+      "missing"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support"
+    ]
+  },
+  {
+    "item_id": "1af6ad154519ed9c",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1snbxhw/shopify_pos_referralhardware_advice",
+    "title": "Shopify POS referral/hardware advice?",
+    "summary": "Got a client moving to Shopify and there also going to be using POS. Now there already on plus but I was thinking of submitting a POS lead. Is this fine to do even if we don’t get end up getting commission as they already get access to POS for free via plus? I’m just not 100% sure on exactly what POS hardware they need my expertise is with the e-commerce side really and would like them to have a Shopify touch point if needed. &#32; submitted by &#32; /u/geekstreak2701 [link] &#32; [comments]",
+    "published_at": "2026-04-16T18:24:24+00:00",
+    "discovered_at": "2026-04-16T19:16:30.983517+00:00",
+    "stage": "warm",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "expert"
+        ],
+        "platforms": [
+          "shopify",
+          "e-commerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "expert"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "995d8d51f65d3933",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1skaoxn/someone_bought_30_wordpress_plugins_and_planted_a",
+    "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+    "summary": "Saw this in r/wordpress and I thought it should be over here also. Here are the plugins: Countdown Timer Ultimate (countdown-timer-ultimate) Popup Anything on Click (popup-anything-on-click) WP Testimonial with Widget (wp-testimonial-with-widget) WP Team Showcase and Slider (wp-team-showcase-and-slider) WP FAQ (sp-faq) SP News and Widget (sp-news-and-widget) WP Blog and Widgets (wp-blog-and-widgets) Album and Image Gallery plus Lightbox (album-and-image-gallery-plus-lightbox) Timeline and History Slider (timeline-and-history-slider) Featured Post Creative (featured-post-creative) Post Grid and Filter Ultimate (post-grid-and-filter-ultimate) Footer Mega Grid Columns (footer-mega-grid-columns) WP Responsive Recent Post Slider (wp-responsive-recent-post-slider) WP Slick Slider and Image Carousel (wp-slick-slider-and-image-carousel) WP Featured Content and Slider (wp-featured-content-and-slider) Hero Banner Ultimate (hero-banner-ultimate) Preloader for Website (preloader-for-website) Accordion and Accordion Slider (accordion-and-accordion-slider) Portfolio and Projects (portfolio-and-projects) Ticker Ultimate (ticker-ultimate) WP Trending Post Slider and Widget (wp-trending-post-slider-and-widget) WooCommerce Product Slider and Carousel (woo-product-slider-and-carousel-with-category) Audio Player with Playlist Ultimate (audio-player-with-playlist-ultimate) Meta Slider and Carousel with Lightbox (meta-slider-and-carousel-with-lightbox) Post Category Image with Grid and Slider (post-category-image-with-grid-and-slider) Product Categories Designs for WooCommerce (product-categories-designs-for-woocommerce) All permanently closed. The author search on WordPress.org returns zero results. The analytics.essentialplugin.com The link below is the article and they explain how to fix it if you have have any of these plugins. https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/ &#32; submitted by &#32; /u/shiftification [link] &#32; [comments]",
+    "published_at": "2026-04-13T13:22:19+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302644+00:00",
+    "stage": "warm",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "fix"
+        ],
+        "platforms": [
+          "woocommerce",
+          "wordpress"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce",
+      "wordpress"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "fix"
+    ],
+    "business_name": "Anchor",
+    "business_url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them",
+    "audit": {
+      "business_url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them",
+      "final_url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "domain": "anchor.host",
+      "status_code": 200,
+      "ok": true,
+      "has_json_ld": true,
+      "schema_types": [
+        "BlogPosting",
+        "ImageObject",
+        "Organization",
+        "Person",
+        "WebPage",
+        "WebSite"
+      ],
+      "cms": "wordpress",
+      "site_kind": "ecommerce",
+      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them.",
+      "opportunity_gaps": [
+        "Missing Product schema on scanned page",
+        "BreadcrumbList not detected on scanned page"
+      ],
+      "notes": [
+        "Detected CMS: wordpress",
+        "Detected site kind: ecommerce",
+        "Schema types found: BlogPosting, ImageObject, Organization, Person, WebPage, WebSite"
+      ],
+      "error": null
+    },
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Offer a fast product-schema visibility fix or implementation shortcut.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "cce722ecb9a7084f",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1snbfph/now_its_easy_to_find_tech_seo_issue_and_fix_it",
+    "title": "Now it's easy to find tech seo issue and fix it",
+    "summary": "&#32; submitted by &#32; /u/anish2good [link] &#32; [comments]",
+    "published_at": "2026-04-16T18:07:02+00:00",
+    "discovered_at": "2026-04-16T19:16:31.816619+00:00",
+    "stage": "warm",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "fix"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "fix"
+    ],
+    "business_name": "Preview",
+    "business_url": "https://preview.redd.it/1les23bmelvg1.gif?width=640&amp;crop=smart&amp;s=dad93f947df04b96495d7e5176dbe4e4c05aa04b",
+    "audit": {
+      "business_url": "https://preview.redd.it/1les23bmelvg1.gif?width=640&amp;crop=smart&amp;s=dad93f947df04b96495d7e5176dbe4e4c05aa04b",
+      "final_url": "https://preview.redd.it/1les23bmelvg1.gif?width=640&amp;crop=smart&amp;s=dad93f947df04b96495d7e5176dbe4e4c05aa04b",
+      "domain": "preview.redd.it",
+      "status_code": 403,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTP 403"
+    },
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "2a5623f95226792a",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1smgyws/looking_for_people_who_have_moved_from_wordpress",
+    "title": "Looking for people who have moved from Wordpress to webflow and pros and cons",
+    "summary": "&#32; submitted by &#32; /u/Coffeeisforclosers_ [link] &#32; [comments]",
+    "published_at": "2026-04-15T19:54:30+00:00",
+    "discovered_at": "2026-04-16T19:16:31.816728+00:00",
+    "stage": "warm",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "looking for"
+        ],
+        "platforms": [
+          "wordpress",
+          "webflow"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "wordpress",
+      "webflow"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "looking for"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "db78a89711476383",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1smbnqk/gsc_cleanupindexing_issue",
+    "title": "GSC Cleanup/Indexing Issue",
+    "summary": "I have a site that was rebuilt and I have a ton of parameter based pages showing up in the index...they are all marked noindex but there are 50K of them all with some weird retargeting param that isn't anything I'm using with my advertising. I haven't run into this issue previously and I am unsure of how to proceed. As far as I can see there is no bulk method to remove param string URLs from the index. The param string is: ?utm_content=Retargeting_bes?kare_0-2d_blank_blank_blank&quot;_blank&quot; Do I need to fix this? Will it fix itself eventually via no index tag? Any help is appreciated. https://preview.redd.it/wud3rreovdvg1.png?width=948&amp;format=png&amp;auto=webp&amp;s=c5db542f38ef11e31bd8c0566fae9afbf17aff89 &#32; submitted by &#32; /u/ghosmer [link] &#32; [comments]",
+    "published_at": "2026-04-15T16:48:48+00:00",
+    "discovered_at": "2026-04-16T19:16:31.816794+00:00",
+    "stage": "warm",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "fix"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "fix"
+    ],
+    "business_name": "Preview",
+    "business_url": "https://preview.redd.it/wud3rreovdvg1.png?width=140&amp;height=121&amp;auto=webp&amp;s=05bb8959aa673c59c68ddcf068cf6ef6ee0288cf",
+    "audit": {
+      "business_url": "https://preview.redd.it/wud3rreovdvg1.png?width=140&amp;height=121&amp;auto=webp&amp;s=05bb8959aa673c59c68ddcf068cf6ef6ee0288cf",
+      "final_url": "https://preview.redd.it/wud3rreovdvg1.png?width=140&amp;height=121&amp;auto=webp&amp;s=05bb8959aa673c59c68ddcf068cf6ef6ee0288cf",
+      "domain": "preview.redd.it",
+      "status_code": 403,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTP 403"
+    },
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "62aaf8396d6074fb",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1skz0yd/website_migrations_how_to_test_redirects_on",
+    "title": "Website migrations: How to test redirects on staging (and a case study about why it’s worth it)",
+    "summary": "Testing redirects before you go live will save you from avoidable traffic losses. I recently went through a complex migration that reinforced everything I believe about this, so here are the practical takeaways. Building your redirect mapping Focus on the URLs that matter most: • URLs with clicks and impressions in GSC • Organic landing pages in GA4 or whatever tool you use • URLs with rankings (pull from whatever tools you use) • URLs with backlinks (collate GSC and external link databases to get a complete dataset) Even if your site is small enough to map everything, keep a separate list of the above so you can pay special attention. You don’t want any of these giving back a 404 or redirecting to the wrong target. Avoiding redirect chains • Always define absolute URLs (protocol, full domain, path) as redirect targets. Double-check every target gives back a 200. • Rules should apply to all variants (www/non-www, http/https, trailing slash/no trailing slash) so each variant redirects directly to the target. • Global rules (http &gt; https, non-www &gt; www) should apply after your 1:1 rules. • Update legacy redirects: if any existing redirect targets are in your list of URLs that need redirecting, replace them. Break up existing chains by pointing every link directly to the final target. In case of a domain switch: Avoid this trap! Don’t use a global rule that simply replaces the domain in your old URLs, even as a catch-all after your 1:1 redirects. Your old domain has probably collected a high number of URLs that don’t exist anymore and give back all kinds of 4xx and 5xx status codes. A domain switch is a great opportunity to get rid of this technical debt. Don’t take your clutter with you. Three levels of testing complexity For testing redirects on staging before the launch, there are three levels of complexity: • Straightforward, no domain switch: Path-based redirect rules, crawl old URL paths on staging. • A bit tricky, with domain switch: Redirects have to point directly to targets on the new domain without a chain. How you test depends on how exactly the redirects are set up. • End boss, merging several domains into one: Duplicate paths across domains, so rules can’t be purely path-based. They have to include host names in the source URLs. How we handled the end boss Merging three content platforms into an existing global corporate website. 15-month project, SEO involved from the beginning. The challenge: testing redirects for three different domains on a heavily protected staging site. Rules had to contain domain host names, so a crawl that only checked old URL paths on staging would not be enough. The solution: a host override to point the three old domains to the staging server’s IP during crawling, bypassing public DNS. Additional challenge: Like with most migrations, the testing setup was ready only a few days before launch. Friday afternoon: critical errors show up Last working day before launch. We had planned to set some old URLs to 410 instead of redirecting them, but somewhere along the line of communication: legacy platform SEO agency → legacy platform team → global migration PM → global dev team → technical provider, wires got crossed and URLs got mixed up. About 2000 high-traffic URLs nuked with 410s instead of redirected. Not something you want to find on the last working day before launch. But even less something you want to miss. Another full day of work over the weekend. Revised mapping live two hours after Monday’s launch. Post-launch surprises On launch day, the team added parameters to redirect targets to show an info banner to users arriving via redirects. I spotted this during my first post-launch tests. The fix: replace parameters with URL fragments (better for crawling and analytics). At 6pm on launch day, we had an acceptable redirect setup. Anyone who has worked on a complex migration would agree that’s a win. After the migration • Staging tests don’t eliminate the need to test again after launch. Crawl all mapped URLs, confirm they 301 to the right target with a 200. • Set up regular monitoring of your old URLs. • If devs are worried about redirect counts: monitor log files after a few months, remove rules for URLs that haven’t been requested and don’t have backlinks. That’s the compromise. How do you handle redirect testing in complex migration projects? Would love to learn more! Tried to keep it brief, but I’m happy to go into more detail about everything, if there are questions. &#32; submitted by &#32; /u/rebelytics [link] &#32; [comments]",
+    "published_at": "2026-04-14T05:01:45+00:00",
+    "discovered_at": "2026-04-16T19:16:31.817499+00:00",
+    "stage": "warm",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "fix",
+          "error"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "fix",
+      "error"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "895c995a09dedf88",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1smo9b1/got_a_notification_from_google_search_console",
+    "title": "Got a notification from Google Search Console about collecting data from my site now, when it's been up for a few months",
+    "summary": "I published a website about 4 months ago and I've seen impressions and clicks since month one but I just got this notification in Google Search Console, does that mean something changed? &quot;Google systems confirm that on 12 April 2026 we started collecting Google Search impressions for your website in Search Console. This means that pages from your website are now appearing in Google search results for some queries. Here’s how you can monitor your site’s Search performance using Search Console.&quot; Has anyone experienced any change in behaviour since you received that message? &#32; submitted by &#32; /u/atamagno [link] &#32; [comments]",
+    "published_at": "2026-04-16T00:39:45+00:00",
+    "discovered_at": "2026-04-16T19:16:30.629077+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "schema": [
+          "search console"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "7cb81082d49f5537",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1sm6b52/how_to_find_freelance_clients",
+    "title": "How to find freelance clients?",
+    "summary": "Hey guys! I work as a full-timer as an SEO Manager for e-commerce in Europe. I do have some free time and would love to earn more and learn even more and I am just wondering if anyone has any tips on how to find some freelance clients? What is your approach in looking for something like this? &#32; submitted by &#32; /u/GBuckets17 [link] &#32; [comments]",
+    "published_at": "2026-04-15T13:35:17+00:00",
+    "discovered_at": "2026-04-16T19:16:30.629674+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "looking for"
+        ],
+        "platforms": [
+          "e-commerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "looking for"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "d79c7dceb56e5fac",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1sm0i1u/seo_help",
+    "title": "SEO Help",
+    "summary": "Hey! So my homepage on Google search console is showing “alternative page with proper conical tag”. When I click the inspect button it says the page is indexed and the referring page is a blog post… Should the referring page be a blog post? What even is the referring page? Secondly it says there’s no referring site maps detected.. but I have updated my site map recently and my home page should be on it. Sorry about all the questions! &#32; submitted by &#32; /u/AloePandaVera [link] &#32; [comments]",
+    "published_at": "2026-04-15T08:56:23+00:00",
+    "discovered_at": "2026-04-16T19:16:30.629783+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "schema": [
+          "search console"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "b3a8de0c471dc1de",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1snao95/shopify_app_stuck_on_checking_app_listing_submit",
+    "title": "Shopify App stuck on “Checking app listing…” — submit button greyed out for days?",
+    "summary": "Hey everyone, I’m trying to submit my Shopify app for review and I’m currently blocked on the App Store review screen. Everything is completed: - API versions ✅ - Config issues ✅ - Emergency contact ✅ - App listing created ✅ - Protected customer data request approved ✅ - Automated checks ✅ - Embedded app capability selected ✅ But it’s stuck on: “Checking app listing…” And the **Submit for review button is still greyed out**. I also see: “Embedded app checks – auto-checked every 2 hours” I’ve already: - Installed the app on a dev store - Logged in and used it - Verified App Bridge is loading - Using session tokens Still no change. Questions: How long does this step usually take in real life? Is there something specific that triggers it to complete? Do I need to repeatedly interact with the app to generate session data? Has anyone had this get stuck indefinitely? App is fully functional and ready to go, just blocked by this step. Appreciate any help — trying to get this submitted ASAP. Thanks! &#32; submitted by &#32; /u/Historical_Lawyer484 [link] &#32; [comments]",
+    "published_at": "2026-04-16T17:40:38+00:00",
+    "discovered_at": "2026-04-16T19:16:30.983769+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "issue"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "f87ebd11eeba0707",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1sn9f5l/how_am_i_getting_so_many_need_help_emails",
+    "title": "How am I getting so many need help emails?",
+    "summary": "I just launched my shopify store last week and have been getting so many emails of people telling me they want to help me. wth. &#32; submitted by &#32; /u/z9cccc [link] &#32; [comments]",
+    "published_at": "2026-04-16T16:58:18+00:00",
+    "discovered_at": "2026-04-16T19:16:30.983809+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "need help"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "need help"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "253bae83b5012327",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1sn7zvj/need_advice_make_inline_shopify_form_submission_a",
+    "title": "Need Advice - Make Inline Shopify Form Submission a Requirement to Add Item to Cart",
+    "summary": "We’re a small museum that uses Shopify for our online store as well as membership sales. Currently on Memberships, we have an inline shopify form set-up before the “add to cart” button that builds a customer profile with all of their information that we need: member(s) name, birthday(s), program interests, etc. However, because Shopify only allows cart customization at the plus level - we’re getting a lot of sales where customers completely skip the form, they just add the membership to their cart and checkout. Meaning we have to go back and reach out to the customer asking for the information that they skipped. Is there a workaround to require that the form be completed before the item can be added to their cart? If an app is the way to go, we’re looking for an option that saves the form input to the custom metafields in the customer’s profile so that we’re not having to backtrack and do extra work manually adding it in or editing responses. We’re a small organization and on a strict budget, so we’re looking for free or very inexpensive options (I likely wouldn't even get approval for an app that's more than like $5/mo ☠️). Any suggestions are greatly appreaciated! &#32; submitted by &#32; /u/kjro8993 [link] &#32; [comments]",
+    "published_at": "2026-04-16T16:08:01+00:00",
+    "discovered_at": "2026-04-16T19:16:30.984127+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "looking for"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "looking for"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "69f83cb9967b74a1",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1smd0gt/help_with_shipping_configurations",
+    "title": "Help with shipping configurations",
+    "summary": "I've had a shopify site for about 4 years now and have always had problems with inaccurate shipping estimates; I have accounts with USPS &amp; UPS. It was a big problem in the beginning as estimates were either WAY too high, driving customers away, or too low and I'd have to eat the difference. I found an app, Boxify, that is able to calculate what products can be put into what boxes that has seemed to have helped but its $20/mo and is still sometimes off. I have hundreds of items of various sizes. What have you found to work best? &#32; submitted by &#32; /u/tbmilk [link] &#32; [comments]",
+    "published_at": "2026-04-15T17:35:37+00:00",
+    "discovered_at": "2026-04-16T19:16:30.985090+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "problem"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "problem"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "c5cfff3c60beb48b",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sn8thr/woocommerce_e_link_youtube",
+    "title": "Woocommerce e link YouTube",
+    "summary": "Scusate domanda da inesperto di woocommerce. Ho preparato un sito con alcuni prodotti solo per presentarli. Nella descrizione ho inserito alcuni link a video YouTube. Succede questo solo con il Chrome. Se quando sono su un articolo voglio tornare indietro utilizzando il pulsante del browser, devo premerlo numero video YouTube presenti nella descrizione dell'articolo più uno. Per capirci,se sono presenti 3 link video devo premere indietro 4 volte, 1 link video devo premere indietro 2 volte. Il problema non si presenta con Firefox. &#32; submitted by &#32; /u/Crevolante [link] &#32; [comments]",
+    "published_at": "2026-04-16T16:36:42+00:00",
+    "discovered_at": "2026-04-16T19:16:31.301545+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "problem"
+        ],
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "problem"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "abe98daecb0d3db6",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1smoz2w/meta_pixel_tracking_for_failed_orders",
+    "title": "Meta Pixel Tracking for Failed Orders",
+    "summary": "We are running into an issue related to tracking purchase events on the Meta pixel. We have WooPayments setup along with Buy Now Pay Later options. When customers select one of those (Klarna, Affirm or Cash app AfterPay) but if they abandon checkout midway and don't proceed till the end WooCommerce creates a failed order. But Meta pixel tracks it as a purchase. I am using Facebook for Woocommerce. And Google for WooCommerce plugins. Any suggestions on how to tackle this? I would ideally like that the conversion event does not track on the Thank you page but tracks when the order status is updated to Processing i.e after payment received. I am thinking may be I can move to PixelYourSite PRO plugin. But I am not sure how can I migrate there properly? As I have already product feeds created with Facebook for Woocommerce plugin. Suggestions are appreciated. Thank you. &#32; submitted by &#32; /u/gr8leo87 [link] &#32; [comments]",
+    "published_at": "2026-04-16T01:11:11+00:00",
+    "discovered_at": "2026-04-16T19:16:31.301734+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue"
+        ],
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "issue"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "cd996dd859c8a113",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sm7fyc/moving_from_bigcommerce_to_woocommerce_advice",
+    "title": "Moving from Bigcommerce to Woocommerce - advice",
+    "summary": "I’ve had a DTC brand since 2020. I started the company on BigCommerce and have been there ever since. At first Big commerce seemed pretty great, but as the years have gone by, I’ve noticed lots of apps have stopped working with big commerce and the cost of using big commerce has only gone up. In June of this year, BigCommerce is adding a percentage per sale fee structure. So I am looking for alternatives and seriously considering moving to Woo commerce. My store is currently doing six figures a year, but it has been growing about 60% year over a year. I want to have a healthy transition retain SEO, and start the store on a healthy foundation with Woo commerce. If you were starting a store today in 2026 what would be some of the core fundamental things you would put in a place you were starting it? Any advice relating to moving my store to Woo commerce is also appreciated! &#32; submitted by &#32; /u/HealthyDad007 [link] &#32; [comments]",
+    "published_at": "2026-04-15T14:18:42+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302109+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "looking for"
+        ],
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "looking for"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "35b7d73f71d4c027",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sm656e/iphone_app_has_changed",
+    "title": "iPhone app has changed?",
+    "summary": "Hi all. In the past few days, my iPhone app has defaulted to showing *net* sales rather than *total* sales (both in the iPhone app and on the widget). We use total sales as our growth metric so this is super frustrating as I like to be able to see where we are at a glance. Did anyone else notice this or figure out a way to fix it? I’ve already toggled off net and gross sales in the analytics on WooCommerce online. Thanks in advance!! &#32; submitted by &#32; /u/ggoldenheart [link] &#32; [comments]",
+    "published_at": "2026-04-15T13:28:55+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302167+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "fix"
+        ],
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "fix"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "a67db8afa0e10e8b",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sjqhnb/downloading_invoices",
+    "title": "Downloading Invoices",
+    "summary": "If i download an invoice, is there any chance that i can name it something like „abc_invoicenumber“ or just the invoice number? I have the problem that the pdf‘s always named „invoice_invoicenumber“ and i have to chance it by hand and its getting more and more every month. I am using woocommerce and germanizedpro. &#32; submitted by &#32; /u/halski12 [link] &#32; [comments]",
+    "published_at": "2026-04-12T21:01:02+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302830+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "problem"
+        ],
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "problem"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "d32241b4ca600b23",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sjgc2l/what_is_the_future_of_the_classic_checkout",
+    "title": "What is the future of the classic checkout?",
+    "summary": "I know that WooCommerce is prioritizing block-based checkout at the moment. But the question is, will they keep supporting the classic checkout, or is it going to get deprecated eventually? &#32; submitted by &#32; /u/Heavy-Tomatillo262 [link] &#32; [comments]",
+    "published_at": "2026-04-12T14:41:03+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302873+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "support"
+        ],
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "support"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "930cda413fdf0c9b",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1sm89oo/what_does_normal_google_search_console_stats_look",
+    "title": "What does 'normal' Google Search Console stats look like....?",
+    "summary": "I just recently took a look at my GSC results for the first time in a long time as my associate handles all my SEO work, and these numbers shocked me. Why would there be 47.8k non indexed pages vs. 7.4k indexed? This tells me GSC doesn't think my pages are worth showing, even though I try to make my pages unique. How does your GSC page indexing look like? For context, we're a small cosmetic shop that has thousands of different small products with different shades of the same products, hence lots of pages. &#32; submitted by &#32; /u/Just_girly_things97 [link] &#32; [comments]",
+    "published_at": "2026-04-15T14:49:37+00:00",
+    "discovered_at": "2026-04-16T19:16:31.816853+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "schema": [
+          "search console"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": "Preview",
+    "business_url": "https://preview.redd.it/iygskz4k9dvg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ea84b55ed2938e83710041367b484d334b072be",
+    "audit": {
+      "business_url": "https://preview.redd.it/iygskz4k9dvg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ea84b55ed2938e83710041367b484d334b072be",
+      "final_url": "https://preview.redd.it/iygskz4k9dvg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ea84b55ed2938e83710041367b484d334b072be",
+      "domain": "preview.redd.it",
+      "status_code": 403,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTP 403"
+    },
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "1acd44058bc88d7c",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1smaoon/do_you_guys_use_llms_to_create_pre_existing",
+    "title": "Do you guys use LLMs to create pre existing templates",
+    "summary": "I’ve been experimenting with a new workflow and want to see if others are doing the same. Instead of asking Claude for SEO advice ( which I avoid due to the risk of unverified facts/hallucinations ), I’ve started using it to summarize reputable strategies I've found from experts in the industry. It's not that Claude creates the strategy, but rather acts as a logic engine that extracts the main points and turns them into an Excel deliverable template. For example: &quot;Read this article by xxx on internal linking. Now, create a structured Excel-style table with columns for 'Current URL,' 'Target URL,' and 'Link Placement Logic' based on his specific criteria.&quot; Are you using Claude to build &quot;empty&quot; templates for your SEO deliverables based on high-level thought leadership? Even when summarizing a direct source, do you find Claude still tries to &quot;hallucinate&quot; its own SEO best practices into the template? I feel like this is a safer way to use AI; it handles the &quot;grunt work&quot; of formatting and organization, but I’m still the one entering the actual data and making the final strategic calls. Love to hear everyone's thoughts. &#32; submitted by &#32; /u/LengthinessAny7553 [link] &#32; [comments]",
+    "published_at": "2026-04-15T16:14:18+00:00",
+    "discovered_at": "2026-04-16T19:16:30.629471+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "expert"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "expert"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "b20d837305113848",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1smabsk/cost_of_seo_optimization",
+    "title": "Cost of SEO optimization?",
+    "summary": "So I am looking to hire someone in fivver to do all my SEO for my store. How much am i looking to send. My dropshipping store is relevantly new. &#32; submitted by &#32; /u/Popular_Armadillo608 [link] &#32; [comments]",
+    "published_at": "2026-04-15T16:02:02+00:00",
+    "discovered_at": "2026-04-16T19:16:30.629512+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "hire"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "hire"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "7fbba40c12009f09",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1sm40kf/im_genuinely_curious_how_do_you_guys_survive",
+    "title": "I’m genuinely curious how do you guys survive clients who treat SEO like a ‘change anytime’ subscription? one call they want keywords, next call they want sales yesterday.",
+    "summary": "I keep noticing one big issue clients constantly change expectations mid-way. one day it’s keyword rankings next day it’s leads and then suddenly it’s we need sales ASAP. It’s hard to stick to a clear SEO strategy when goals keep shifting every other call. &#32; submitted by &#32; /u/DigitalHarbor_Ease [link] &#32; [comments]",
+    "published_at": "2026-04-15T12:01:00+00:00",
+    "discovered_at": "2026-04-16T19:16:30.629725+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "f9bde976a6918f4a",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1sn8kqh/high_chargeback_risk_on_a_lowticket_item",
+    "title": "High chargeback risk on a low-ticket item?",
+    "summary": "Following the advice from this community, I normally cancel anything I receive with a fraud alert. I was wondering if it's worth taking a chance on one order since 1) everything checks out except for the alert, and 2) I sell a relatively low-ticket product. With shipping included, the total loss would be $10 to me or a $60 gain if it's legit. I'm not concerned about the money as much as it causing payment processing issues somehow. I already emailed the customer a casual &quot;just making sure everything looks right because we received an alert.&quot; I heard calls are useless in the long run because they show no proof. &#32; submitted by &#32; /u/AppropriateSite3768 [link] &#32; [comments]",
+    "published_at": "2026-04-16T16:28:15+00:00",
+    "discovered_at": "2026-04-16T19:16:30.983868+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "20cc4bca6c415033",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1sn8kn4/massive_spike_in_bot_traffic",
+    "title": "Massive spike in bot(?) traffic?",
+    "summary": "The past two days I've had a huge spike in traffic to particular collection pages. Basically the equivalent of my average monthly total traffic. No additional conversions. What could the cause be? I know that Shopify typically excluded bots from session counts, so I'm not sure why these are showing up at all. Any ideas? &#32; submitted by &#32; /u/Turtlefarming [link] &#32; [comments]",
+    "published_at": "2026-04-16T16:28:10+00:00",
+    "discovered_at": "2026-04-16T19:16:30.983913+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "shopify",
+          "collection page"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "19c5f1a8f3f1e8c5",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1smm3mz/hello_looking_for_suggestions_for_an_app_or",
+    "title": "Hello! Looking for suggestions for an app or setting to set up local pick up and delivery for a florist.",
+    "summary": "I have tried a few apps, but nothing is working right. I want to be able to control a calendar in the back end that clients can pick open date/time from a drop down, then collect customer delivery information. My schedule is inconsistent and my availability changes weekly, so a flexible scheduler is necessary. &#32; submitted by &#32; /u/idunnothisworks [link] &#32; [comments]",
+    "published_at": "2026-04-15T23:07:21+00:00",
+    "discovered_at": "2026-04-16T19:16:30.984747+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "looking for"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "looking for"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "37e29a418c95667a",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1smegcj/sidekick_ai_cap",
+    "title": "Sidekick AI cap?",
+    "summary": "Has anyone hit a cap with Sidekick where it simply refuses to continue? After 1-2 weeks of serious vibecoding with GPT / Grok / Sidekick all talking to each other, Sidekick just spat out &quot;You're sending messages faster than I can respond! Please try again in a few moments.&quot; A few minutes later it 'unlocked' and I asked it about what happened. The response: Appreciated — and honestly I'm not entirely sure what triggered it on my end. It may have been a temporary system hiccup rather than a true rate limit, since the volume of messages in this session wasn't unusual for the work we've been doing. General rules of thumb to avoid it: Wait for a full response before sending the next message — sending multiple messages in quick succession before I've replied is the most common trigger Batch related questions into one message rather than sending them separately Large pastes + follow-up messages sent back-to-back can sometimes cause it You've actually been doing all of this correctly throughout our session. The duplicate Grok analysis messages sent in close succession is likely what triggered it — not anything on your end intentionally. Then it broke again and now I'm getting &quot;Sidekick ran into an issue.&quot; Anyone have this happen? &#32; submitted by &#32; /u/e39dinan [link] &#32; [comments]",
+    "published_at": "2026-04-15T18:25:15+00:00",
+    "discovered_at": "2026-04-16T19:16:30.984903+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "94328f7655f71332",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1smgujp/royal_mail_click_and_drop_integration",
+    "title": "Royal Mail Click and Drop Integration",
+    "summary": "Yesterday my Woo integration with Royal Mail click and drop failed and it's still not working. Tried all the usual, reinstall, disabled plugins, updates ran, firewall off etc but nothing is working so starting to think it could be a Royal Mail issue. Is anyone else running the integration and getting new orders showing up in Royal Mail since yesterday? &#32; submitted by &#32; /u/Regular_Economics275 [link] &#32; [comments]",
+    "published_at": "2026-04-15T19:50:12+00:00",
+    "discovered_at": "2026-04-16T19:16:31.301781+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "877bd8ee6107b0d4",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1skme1f/does_anyone_know_how_to_create_a_peak_product",
+    "title": "Does anyone know how to create a peak product slider?",
+    "summary": "Does anyone know how to create a product slider, where you see part of the next product on the screen? Im currently using carousel loop in Elementor to show my products. &#32; submitted by &#32; /u/Mike_v_E [link] &#32; [comments]",
+    "published_at": "2026-04-13T20:08:14+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302450+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "anyone know"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "anyone know"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "09ff62da9b674e6a",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1skdxzv/how_to_manage_stock_for_size_color_combinations",
+    "title": "How to manage stock for size + color combinations in WooCommerce?",
+    "summary": "I’m running a WooCommerce store on WordPress where I sell t-shirts, and I’m a bit confused about how to properly manage inventory. Here’s my setup: 5 colors: Black, Blue, Brown, Maroon, White 4 sizes: M, L, XL, 2XL 13 different t-shirt designs (so 13 products total) What I actually want is to track stock like this: Black (M) = 135 Black (L) = 133 Black (XL) = 144 Same for all other color + size combinations Important detail: I print the shirts myself (heat transfer), so I don’t keep finished stock per design. I just have blank shirts in different colors and sizes. Right now, I feel like WooCommerce is tracking stock at the product level, but I actually want it at the attribute level (color + size) across all designs. &#32; submitted by &#32; /u/emperior-96 [link] &#32; [comments]",
+    "published_at": "2026-04-13T15:18:49+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302536+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "woocommerce",
+          "wordpress"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce",
+      "wordpress"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "9143e50ee530f3a1",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1sl6qjq/how_well_do_llms_actually_handle_accordions_and",
+    "title": "How well do LLMs actually handle accordions and tabbed content",
+    "summary": "Been thinking about this more lately as AI crawlers become a bigger part of how content gets discovered. The traditional googlebot story around hidden content is pretty well understood at this point, but LLMs are a different beast. If a panel is hidden behind a JS trigger with aria-hidden set, there's a good chance an AI agent is just never seeing that content at all. Not because it can't parse the HTML, but because it's not simulating user interaction to expand those states. What's interesting is the BCG angle on this, basically recommending that content meant to be, discovered by LLM agents should be flat and stable rather than gated behind interactive elements. That's a pretty significant shift if you've spent years structuring FAQs and services pages with accordions to avoid text overload. The SEO reason for collapsing content was always UX, but now there's a real case that hiding it hurts AI retrievability too. So you're kind of trading one problem for another. I reckon the ARIA implementation matters a lot here but most sites aren't doing it properly anyway. The gap between &quot;accordion exists&quot; and &quot;accordion is actually accessible and crawlable&quot; is huge in practice. Curious whether anyone has done any actual testing on this, like comparing how much, content from collapsed tabs ends up cited by AI tools versus the equivalent flat page. Haven't seen clean data on it yet. &#32; submitted by &#32; /u/resbeefspat [link] &#32; [comments]",
+    "published_at": "2026-04-14T12:05:51+00:00",
+    "discovered_at": "2026-04-16T19:16:31.817117+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "problem"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "problem"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "2d9220bd842bd189",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1skch4z/opensourced_superseo_skill_entity_analysis_pop",
+    "title": "Open-sourced SuperSEO Skill: entity analysis, POP test priorities, anti-AI-slop writing",
+    "summary": "I opensourced skillset I use internally for my SEO clients and for my own (often affiliate based) websites. They work pretty well, better then any previously tried marketing skill. Optimized for SEO-categories with high competition. Included is: page-audit: 7 dimensions, on-page technical prioritized by Kyle Roof's POP test hierarchy (title &gt; body &gt; URL &gt; H1 &gt; H2 &gt; alt text), not a generic checklist content-brief: entity/predicate gap analysis, Koray Tuğberk style. Not &quot;add 5 related keywords&quot; write-content: anti-AI-slop ruleset baked in. 50+ banned words, structural tell detection, Horoscope Test per paragraph, the 30% Rule (at least 30% of any article must be details no generic AI could produce) eeat-audit: scores what's demonstrated in the content, not declared in the bio. The Experience dimension catches AI content cold semantic-gap-analysis: compares your page to the top 3 results and lists the specific entities and EAV relationships they have that you don't Linkbuilding skills: personally I hate linkbuilding, this makes it a bit better. Also includes keyword-deep-dive, topic-cluster-planning, featured-snippet-optimizer, improve-content and expert-interview. Open source at: https://github.com/inhouseseo/superseo-skills &#32; submitted by &#32; /u/Equal-Rough-7547 [link] &#32; [comments]",
+    "published_at": "2026-04-13T14:28:28+00:00",
+    "discovered_at": "2026-04-16T19:16:31.817714+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "expert"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "expert"
+    ],
+    "business_name": "Github",
+    "business_url": "https://github.com/inhouseseo/superseo-skills",
+    "audit": {
+      "business_url": "https://github.com/inhouseseo/superseo-skills",
+      "final_url": "https://github.com/inhouseseo/superseo-skills",
+      "domain": "github.com",
+      "status_code": 200,
+      "ok": true,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": "ecommerce",
+      "title": "GitHub - inhouseseo/superseo-skills: 11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray   Tuğberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO · GitHub",
+      "opportunity_gaps": [
+        "Missing Product schema on scanned page",
+        "BreadcrumbList not detected on scanned page",
+        "No JSON-LD schema detected on scanned page"
+      ],
+      "notes": [
+        "Detected site kind: ecommerce"
+      ],
+      "error": null
+    },
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as repeatable schema generation for product and category pages.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "9855791d01ea1633",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/json-ld-product-schema-syntax-issues-data-types-case-sensitivity",
+    "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
+    "summary": "Started by: ventio",
+    "published_at": null,
+    "discovered_at": "2026-04-16T19:16:33.066411+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "schema": [
+          "json-ld"
+        ],
+        "intent": [
+          "issue"
+        ]
+      },
+      "freshness": 0,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [
+      "product_schema"
+    ],
+    "intent_flags": [
+      "issue"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support"
+    ]
+  },
+  {
+    "item_id": "d91f6066a882699d",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1snb5if/interesting_seo_play_i_noticed_from_an_ai_ppt",
+    "title": "Interesting SEO play I noticed from an AI PPT tool (Dokie AI)",
+    "summary": "Was digging into AI presentation tools and came across Dokie AI — not here to promote it, but their SEO approach is pretty interesting. What stood out: Heavy “alternatives” pages They seem to target queries like: “X alternative” “X vs Y” Classic intent capture, but done at scale across competitors. Tool-based landing pages (x → PPT) Stuff like: PDF to PPT Word to PPT Text to PPT These map really well to high-intent, conversion-ready keywords. Content for students (top-of-funnel) Things like essay examples, topics, etc. Not directly monetizable, but huge traffic potential. Clear positioning in content A lot of pages push the idea of “business-ready structure,” not just design — which differentiates them from design-first tools. My take: They’re basically building a full funnel via SEO: TOF: informational/student content MOF: alternatives/comparisons BOF: tools + product pages Nothing fundamentally new — but the execution + coverage is solid. Curious what others think: Is this just standard programmatic SEO done well, or do you see anything here that actually stands out / is defensible long-term? &#32; submitted by &#32; /u/Long_Application1718 [link] &#32; [comments]",
+    "published_at": "2026-04-16T17:57:30+00:00",
+    "discovered_at": "2026-04-16T19:16:30.628271+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "product page"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "reddit",
+      "seo"
+    ]
+  },
+  {
+    "item_id": "d8db1b2f7809f189",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1snbsz9/how_do_you_decide_which_paid_shopify_apps_are",
+    "title": "How do you decide which paid Shopify apps are actually worth keeping?",
+    "summary": "I started my store a few months ago and quickly fell into the trap of adding apps for every little feature. Now my monthly bill is way higher than I expected. I have apps for reviews, upsells, email capture, currency conversion, and more. Some get used daily, others I barely touch. How do you evaluate whether an app is truly adding value versus just burning cash? Do you have a process for cutting apps that aren't pulling their weight? I am also curious if anyone has replaced multiple paid apps with a single tool or custom solution. The recent thread about subscriptions being insane really hit home for me. What features do you consider essential versus nice to have for a small store just trying to grow? &#32; submitted by &#32; /u/Jinnapat397 [link] &#32; [comments]",
+    "published_at": "2026-04-16T18:19:57+00:00",
+    "discovered_at": "2026-04-16T19:16:30.983592+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "e62dc5f4012e549d",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1snb00k/fulfillment_timeframe",
+    "title": "Fulfillment Timeframe",
+    "summary": "I’m currently in a pre-sale state for my store. I have clear information both on the website and in confirmation emails that states orders placed during this timeframe will ship as inventory is ready and all orders will ship by May 1st. With that said, I noticed as orders come in, Shopify automatically places a timeframe on fulfillment internally. I’m a little worried that I’ll end up being “punished” in some form (hold on payouts etc) if I don’t meet that timeframe that’s automatically set. Does anyone have experience with this? Is this just Shopify’s “ideal” timeframe but really doesn’t affect anything if you don’t meet it? Or are there downhill consequences for not meeting it? &#32; submitted by &#32; /u/PumpkinChaser776 [link] &#32; [comments]",
+    "published_at": "2026-04-16T17:52:11+00:00",
+    "discovered_at": "2026-04-16T19:16:30.983668+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "19524aa340f185b9",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1sn52op/i_love_it_that_one_day_im_making_bank_and_the",
+    "title": "I love it that one day I'm making bank, and the next day a payment processor says \"No more service for you!\" and gives zero explanation",
+    "summary": "Klarna. It was Klarna, through Shopify Payments. It's 100% needed for &quot;Klarna leaning countries&quot;, so you're just SOL if it's gone. Shopify gives me the runaround (&quot;Contact Klarna!&quot;) and Klarna does too. And now I'm quite literally forced to start over from scratch, with zero explanation as to why two of my stores got Klarna withdrawn for some reason. &#32; submitted by &#32; /u/Ree_For_Thee [link] &#32; [comments]",
+    "published_at": "2026-04-16T14:25:09+00:00",
+    "discovered_at": "2026-04-16T19:16:30.984255+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "759aafd0838bff87",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1sme03t/am_i_the_only_one_who_spends_more_time_pulling",
+    "title": "Am I the only one who spends more time pulling data than actually analyzing it?",
+    "summary": "Doing analytics for a few independent Shopify stores but look for broader view. Most of them use the combo Shopify, Klaviyo and ads (Google / Meta), so when i want do analysis i have to switch to each and that give me headaches Every time I want a complete picture I'm jumping between 4 tabs, 4 different data models, 4 definitions of &quot;conversion.&quot; By the time I've pulled it together the insight is already stale. How are you handling this? Is there a tool or workflow that actually works at this scale, or is spreadsheet chaos just the norm? &#32; submitted by &#32; /u/Busy-Cauliflower-288 [link] &#32; [comments]",
+    "published_at": "2026-04-15T18:09:39+00:00",
+    "discovered_at": "2026-04-16T19:16:30.984958+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "4089c382b65dcc68",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1sm97cc/is_there_a_better_way_to_edit_products_for_google",
+    "title": "Is there a better way to edit products for Google & YouTube?",
+    "summary": "I'm currently in the process of optimizing my product data for Google &amp; YouTube. I've been going into the Google &amp; YouTube app and bulk editing my products from there. This is quite tedious since it puts ALL my products onto a single spreadsheet. Typically if I were doing this with just Shopify I'd break it down by collection at least. As far as I'm concerned what Google is doing is putting its own extensions on top of what's already on the base Shopify product data. Is there any better way to mass edit columns specific to Google rather than the brute force method of having EVERY on a single spreadsheet at once? &#32; submitted by &#32; /u/steve_man_64 [link] &#32; [comments]",
+    "published_at": "2026-04-15T15:22:32+00:00",
+    "discovered_at": "2026-04-16T19:16:30.985147+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "d08ebd34dae8b556",
+    "source": "Reddit /r/shopify",
+    "source_id": "reddit-shopify",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/shopify/comments/1sm2hly/starting_a_shopify_store_and_realizing_everything",
+    "title": "Starting a Shopify store and realizing EVERYTHING is a subscription is actually insane 😭",
+    "summary": "I added reviews with Judge.me , then a loyalty program, and suddenly I’m paying for multiple apps on top of Shopify… while I have barely launched and made sales. And the worst part? The features you actually need (like multilingual emails for EU stores) are locked behind paid plans. I am based in the EU. For example: My store is in Dutch, German and English but review request emails go out in English unless I upgrade and I have to pay for that. Plus I am alreadyon 14 days free trial for Love loyalty app for rewards and points after which I start paying. I feel this is so overwhelming. It feels like profits = subscriptions 💀 How are other small store owners handling this? Are you actually paying for all these apps early on when you start? (because they do seem significant for user experience) Would love to hear how you approached this without burning money. &#32; submitted by &#32; /u/Confusedmind75 [link] &#32; [comments]",
+    "published_at": "2026-04-15T10:48:03+00:00",
+    "discovered_at": "2026-04-16T19:16:30.985267+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": "Judge",
+    "business_url": "http://Judge.me/",
+    "audit": {
+      "business_url": "http://Judge.me/",
+      "final_url": "https://judge.me/",
+      "domain": "judge.me",
+      "status_code": 200,
+      "ok": true,
+      "has_json_ld": true,
+      "schema_types": [
+        "ContactPoint",
+        "ImageObject",
+        "Organization",
+        "WebSite"
+      ],
+      "cms": "squarespace",
+      "site_kind": "ecommerce",
+      "title": "Judge.me | #1 Product Reviews App for Shopify",
+      "opportunity_gaps": [
+        "Missing Product schema on scanned page",
+        "BreadcrumbList not detected on scanned page"
+      ],
+      "notes": [
+        "Detected CMS: squarespace",
+        "Detected site kind: ecommerce",
+        "Schema types found: ContactPoint, ImageObject, Organization, WebSite"
+      ],
+      "error": null
+    },
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as repeatable schema generation for product and category pages.",
+    "tags": [
+      "reddit",
+      "shopify"
+    ]
+  },
+  {
+    "item_id": "86651bd49af30114",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1smfu8b/central_inventory",
+    "title": "Central inventory",
+    "summary": "Running multiple woocommerce stores (7) with shared inventory all out of one warehouse. 5000+ SKUs on hand. Inventory, restocks, and cost basis has become a pain to keep up. Any suggestions from someone in this same boat and needing to sync inventory and having one place to manage cogs? Trying to not make things complicated…. TLDR: Best priced centralized inventory with stock take functionality. &#32; submitted by &#32; /u/sickskillz123 [link] &#32; [comments]",
+    "published_at": "2026-04-15T19:14:07+00:00",
+    "discovered_at": "2026-04-16T19:16:31.301838+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "d02756a190f919a0",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sm1wsx/what_are_your_best_woocommerce_plugins_that",
+    "title": "What are your best WooCommerce plugins that helped increase sales?",
+    "summary": "From my limited knowledge, I know that too many plugins are never the solution. If you had to suggest a few handpicked plugins that actually helped increase sales in your WooCommerce store, what would they be? I believe all store owners need a few categories of plugins - a solution to control the discount offers - a popup tool to engage with the customers - a shipping plugin to manage the cost based on different conditions And so on. What other must-have tools a WooCommerce store needs for increased sales? &#32; submitted by &#32; /u/Reddy200wyz [link] &#32; [comments]",
+    "published_at": "2026-04-15T10:17:33+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302223+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "7bc9c9e62ed61a3a",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sllsxb/multiwarehouse_and_order_routing",
+    "title": "Multi-warehouse and order routing",
+    "summary": "I need to implement multi-warehouse and order routing. I want US orders to go to a US 3PL provider and RoW to go to a 3PL in Hong Kong. I want our WooCommerce system to remain as the source of truth for customers (so i need order statuses to flow back to WooCommerce). How have people done this in the past? &#32; submitted by &#32; /u/davetenhave [link] &#32; [comments]",
+    "published_at": "2026-04-14T21:14:51+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302326+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "65e432ae66062a6a",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sjg2bo/why_do_woocommerce_review_plugins_need_so_much",
+    "title": "Why do WooCommerce review plugins need so much customer data to do such a simple job?",
+    "summary": "I've been thinking about this for a while and am genuinely curious how others have handled it. Every review plugin I've tested follows the same pattern, it wants customer names, email addresses, and sometimes browsing history, all flowing to third-party servers. and then, it asks you to add a consent checkbox at checkout so customers can &quot;opt in&quot; to receive a review request. That checkout checkbox is the part that kills me. You're adding friction at the most sensitive point in the purchase flow because the plugin legally needs consent to hold personal data. Some stores see measurable drop-off from it. And after all that, response rates on review requests are still terrible for most setups I've seen. The weird thing is that a review plugin doesn't actually need to know who your customer is. It just needs to know that they bought the product. An order number is enough to verify a real purchase. Nothing else is necessary. So I'm curious - how are you all actually handling review collection right now? Are you using one of the big tools (Yotpo, Stamped, Judge.me)? Rolling with WooCommerce's built-in system? Ignoring it entirely because the setup headache isn't worth it? And has GDPR / data privacy actually changed how you think about which plugins you install on client stores? &#32; submitted by &#32; /u/Critical-Fall-8212 [link] &#32; [comments]",
+    "published_at": "2026-04-12T14:30:12+00:00",
+    "discovered_at": "2026-04-16T19:16:31.302959+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "c5dc4ce94b671281",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sja0hb/can_anyone_explain_like_im_five_that_whenever_i",
+    "title": "Can anyone explain like I'm five that whenever I get an actual paying customer from my WooCommerce website, the payment always fails?",
+    "summary": "Whenever I receive a paid purchase on my website, the order always fails and I have no reason given as to why, and the customer is always lost. It's been like this for years, so I have to collect the payment from an outside website and then send them a code to download on my website because Woocommerce doesn't want to transfer the money from the customer to my account for some reason. &#32; submitted by &#32; /u/DannyFlood [link] &#32; [comments]",
+    "published_at": "2026-04-12T09:35:50+00:00",
+    "discovered_at": "2026-04-16T19:16:31.303050+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce"
+    ]
+  },
+  {
+    "item_id": "e4cddb8bf50cd41d",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1sjmerb/multilingual_website_for_tour_packages",
+    "title": "Multilingual website for tour packages",
+    "summary": "I’m managing a travel agency website, now it’s only English and would add Spanish, french and Chinese…. I have a max of 100 pages. And the English live version (.com) is in main site folder and well ranked with continuous engaging traffic/leads. what is the best structure to put that in a Wordpress site? A plugin to recommend and/or create separate sites (don’t like it) Help please ! &#32; submitted by &#32; /u/Greenzone51 [link] &#32; [comments]",
+    "published_at": "2026-04-12T18:29:44+00:00",
+    "discovered_at": "2026-04-16T19:16:31.817796+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "platforms": [
+          "wordpress"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "wordpress"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "techseo"
+    ]
+  },
+  {
+    "item_id": "7e042beccd2bd5a1",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/have-this-issue-in-error_log",
+    "title": "Have this issue in error_log",
+    "summary": "Started by: dmzw",
+    "published_at": null,
+    "discovered_at": "2026-04-16T19:16:33.064692+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "issue",
+          "error"
+        ]
+      },
+      "freshness": 0,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "issue",
+      "error"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support"
+    ]
+  },
+  {
+    "item_id": "2e352e6d0af7e302",
+    "source": "Google Search Central Community - Structured Data",
+    "source_id": "google-search-central-structured-data",
+    "source_type": "forum",
+    "source_url": "https://support.google.com/webmasters/thread/237795154/how-to-fix-the-problem-of-video-outside-of-viewport-before-they-were-not-when-i-published-them?hl=en",
+    "title": "How to fix the problem of 'video outside of viewport' (before they were not when I published them)?",
+    "summary": "",
+    "published_at": null,
+    "discovered_at": "2026-04-16T19:16:33.981178+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "problem",
+          "fix"
+        ]
+      },
+      "freshness": 0,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "problem",
+      "fix"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "google",
+      "search-central",
+      "structured-data"
+    ]
+  },
+  {
+    "item_id": "8ec096ee1bb92f07",
+    "source": "Google Search Central Community - Structured Data",
+    "source_id": "google-search-central-structured-data",
+    "source_type": "forum",
+    "source_url": "https://support.google.com/webmasters/thread/237872362/excluded-by-%E2%80%98noindex%E2%80%99-tag-how-to-fix-this-error?hl=en",
+    "title": "Excluded by ‘noindex’ tag, how to fix this error?",
+    "summary": "",
+    "published_at": null,
+    "discovered_at": "2026-04-16T19:16:33.981716+00:00",
+    "stage": "watch",
+    "score": 4,
+    "score_breakdown": {
+      "matches": {
+        "intent": [
+          "fix",
+          "error"
+        ]
+      },
+      "freshness": 0,
+      "negative_hits": []
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "fix",
+      "error"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "google",
+      "search-central",
+      "structured-data"
+    ]
+  }
+]
