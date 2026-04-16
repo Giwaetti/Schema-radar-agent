@@ -1,4 +1,4 @@
-ources:
+sources:
   - id: reddit-seo
     name: Reddit /r/SEO
     kind: rss
@@ -13,7 +13,23 @@ ources:
     enabled: true
     url: https://www.reddit.com/r/TechSEO/new.rss
     source_type: forum
-    tags: [reddit, techseo]
+    tags: [reddit, techseo, broad]
+
+  - id: reddit-shopify
+    name: Reddit /r/shopify
+    kind: rss
+    enabled: true
+    url: https://www.reddit.com/r/shopify/new.rss
+    source_type: forum
+    tags: [reddit, shopify, broad]
+
+  - id: reddit-woocommerce
+    name: Reddit /r/woocommerce
+    kind: rss
+    enabled: true
+    url: https://www.reddit.com/r/woocommerce/new.rss
+    source_type: forum
+    tags: [reddit, woocommerce, broad]
 
   - id: shopify-seo-forum
     name: Shopify Community SEO Forum
@@ -22,10 +38,9 @@ ources:
     url: https://community.shopify.com/c/seo/288
     base_url: https://community.shopify.com
     source_type: forum
-    tags: [shopify, community, seo]
+    tags: [shopify, community, seo, broad]
     include_patterns:
       - /t/
-      - schema|structured data|rich result|rich results|json-ld|merchant|google|snippet
     exclude_patterns:
       - /c/seo/288
       - /latest
@@ -34,11 +49,6 @@ ources:
       - /faq
       - /privacy
       - /terms
-      - canonical
-      - hreflang
-      - page speed
-      - indexing
-      - sitemap
     max_items: 40
 
   - id: wordpress-schema-support
@@ -67,7 +77,7 @@ ources:
     tags: [google, search-central, structured-data, schema-centric]
     include_patterns:
       - /thread/
-      - Structured Data|schema|rich result|structured data|merchant
+      - Structured Data
     exclude_patterns:
       - /community-guide/
     max_items: 40
@@ -83,7 +93,17 @@ ources:
     parent_text_must_include:
       - Posted
     include_patterns:
-      - schema|structured data|json-ld|rich results|merchant listings|product schema|local business schema|shopify|wordpress|woocommerce|wix|webflow
+      - Schema Markup
+      - schema
+      - structured data
+      - json-ld
+      - rich results
+      - merchant listings
+      - Shopify
+      - WordPress
+      - WooCommerce
+      - Wix
+      - Webflow
     exclude_patterns:
       - /services/
       - /hire/
