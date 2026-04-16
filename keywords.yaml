@@ -1,41 +1,72 @@
 positive_groups:
-  schema:
+  schema_core:
     - schema markup
     - structured data
     - json-ld
     - ld+json
+    - schema.org
     - rich results
     - rich result
     - merchant listing
     - merchant listings
     - product snippet
-    - search console
-    - invalid item
-    - missing field
-    - breadcrumblist
+    - product snippets
+    - Search Console structured data
+    - structured data report
+  schema_types:
+    - product schema
+    - product structured data
     - localbusiness
+    - local business schema
+    - service schema
     - faq schema
+    - breadcrumb schema
+    - breadcrumblist
+    - aggregate rating
     - review snippet
-  intent:
+    - review schema
+    - organization schema
+    - article schema
+  schema_errors:
+    - missing field
+    - missing fields
+    - invalid item
+    - invalid items
+    - not eligible for rich results
+    - rich results not showing
+    - rich result not showing
+    - not showing in google
+    - missing schema
+    - no schema
+    - duplicate schema
+    - conflicting schema
+    - markup error
+    - validation error
+    - mainentity
+  commercial_intent:
     - need help
     - can someone help
-    - anyone know
-    - issue
-    - problem
-    - broken
+    - looking for
+    - looking to hire
+    - freelancer
+    - consultant
+    - expert
+    - agency
+    - developer
+    - implement for me
+    - who can do this
+    - quote
+  implementation_intent:
     - fix
     - fixing
-    - not showing
-    - disappeared
-    - error
-    - missing
-    - invalid
+    - implement
+    - implementation
+    - add to my site
+    - add this markup
+    - validate
+    - audit
+    - troubleshoot
     - support
-    - looking for
-    - hire
-    - freelancer
-    - expert
-    - urgent
   platforms:
     - shopify
     - woocommerce
@@ -43,20 +74,32 @@ positive_groups:
     - wix
     - webflow
     - squarespace
-    - ecommerce
-    - e-commerce
     - product page
     - collection page
-    - local business
-    - service area
-    - seo plugin
+    - service page
+    - ecommerce
+    - e-commerce
 negative_phrases:
-  - course
-  - tutorial only
-  - student project
-  - certification
-  - webinar replay
-  - hiring manager
+  - backlink
+  - backlinks
+  - link building
+  - keyword research
+  - title tags
+  - meta description
+  - meta descriptions
+  - canonical
+  - hreflang
+  - page speed
+  - core web vitals
+  - sitemap
+  - robots.txt
+  - indexing issue
+  - traffic drop
+  - google ads
+  - ppc
+  - facebook ads
+  - social media
+  - email marketing
 platform_aliases:
   shopify:
     - shopify
@@ -64,10 +107,12 @@ platform_aliases:
   woocommerce:
     - woocommerce
     - woo commerce
+    - woo
   wordpress:
     - wordpress
     - wp plugin
     - yoast
+    - rank math
   wix:
     - wix
   webflow:
@@ -79,31 +124,54 @@ issue_aliases:
     - no schema
     - missing schema
     - missing field
+    - missing fields
     - invalid item
-    - not showing
+    - invalid items
+    - validation error
   product_schema:
     - product schema
+    - product structured data
     - merchant listings
-    - price availability
+    - merchant listing
     - product snippet
+    - aggregate rating
+    - review snippet
   local_schema:
     - localbusiness
-    - local business
+    - local business schema
     - service schema
+    - organization schema
   faq_schema:
     - faq schema
     - mainentity
   breadcrumbs:
-    - breadcrumb
+    - breadcrumb schema
     - breadcrumblist
+schema_gate:
+  required_any_of_groups:
+    - schema_core
+    - schema_types
+    - schema_errors
+  allow_if_source_tags_include:
+    - schema-centric
+source_boost_tags:
+  schema-centric: 2
+  jobs: 1
+group_caps:
+  commercial_intent: 4
+  implementation_intent: 4
+  platforms: 2
 weights:
-  schema: 3
-  intent: 2
+  schema_core: 4
+  schema_types: 3
+  schema_errors: 3
+  commercial_intent: 2
+  implementation_intent: 2
   platforms: 1
   freshness_under_7_days: 3
   freshness_under_30_days: 2
   freshness_under_90_days: 1
 thresholds:
-  hot: 11
-  warm: 7
-  watch: 4
+  hot: 12
+  warm: 8
+  watch: 5
