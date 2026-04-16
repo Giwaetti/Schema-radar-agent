@@ -11,13 +11,12 @@ positive_groups:
     - merchant listings
     - product snippet
     - product snippets
-    - Search Console structured data
-    - structured data report
+    - google rich results
   schema_types:
     - product schema
     - product structured data
-    - localbusiness
     - local business schema
+    - localbusiness
     - service schema
     - faq schema
     - breadcrumb schema
@@ -43,6 +42,8 @@ positive_groups:
     - markup error
     - validation error
     - mainentity
+    - structured data issue
+    - structured data error
   commercial_intent:
     - need help
     - can someone help
@@ -53,7 +54,8 @@ positive_groups:
     - expert
     - agency
     - developer
-    - implement for me
+    - do we need a developer
+    - can we do this ourselves
     - who can do this
     - quote
   implementation_intent:
@@ -61,12 +63,17 @@ positive_groups:
     - fixing
     - implement
     - implementation
+    - setup
+    - set up
     - add to my site
     - add this markup
     - validate
     - audit
     - troubleshoot
     - support
+    - error
+    - not showing
+    - missing
   platforms:
     - shopify
     - woocommerce
@@ -93,7 +100,6 @@ negative_phrases:
   - core web vitals
   - sitemap
   - robots.txt
-  - indexing issue
   - traffic drop
   - google ads
   - ppc
@@ -147,17 +153,27 @@ issue_aliases:
   breadcrumbs:
     - breadcrumb schema
     - breadcrumblist
-schema_gate:
-  required_any_of_groups:
+gating:
+  schema_groups:
     - schema_core
     - schema_types
     - schema_errors
-  allow_if_source_tags_include:
+  intent_groups:
+    - commercial_intent
+    - implementation_intent
+  broad_source_tags:
+    - broad
+  schema_centric_tags:
     - schema-centric
+  platform_group_name: platforms
+  require_intent_for_broad: true
 source_boost_tags:
   schema-centric: 2
   jobs: 1
 group_caps:
+  schema_core: 8
+  schema_types: 6
+  schema_errors: 6
   commercial_intent: 4
   implementation_intent: 4
   platforms: 2
