@@ -5,13 +5,34 @@ import json
 import sys
 from pathlib import Path
 
+import yaml
+
 ROOT = Path(__file__).resolve().parent
 SRC = ROOT / "src"
 if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
-from schema_radar.config import load_keywords, load_offers, load_sources
+from schema_radar import config as radar_config
 from schema_radar.pipeline import SchemaRadarPipeline
+
+
+def fallback_load_yaml(path: str | Path) -> dict:
+    with Path(path).open("r", encoding="utf-8") as handle:
+        return yaml.safe_load(handle) or {}
+
+
+def load_sources(path: str | Path):
+    return radar_config.load_sources(path)
+
+
+def load_keywords(path: str | Path):
+    return radar_config.load_keywords(path)
+
+
+def load_offers(path: str | Path):
+    if hasattr(radar_config, "load_offers"):
+        return radar_config.load_offers(path)
+    return fallback_load_yaml(path)
 
 
 def parse_args() -> argparse.Namespace:
@@ -30,6 +51,7 @@ def main() -> int:
     sources = load_sources(ROOT / args.sources)
     keywords = load_keywords(ROOT / args.keywords)
     offers = load_offers(ROOT / args.offers)
+
     pipeline = SchemaRadarPipeline(
         sources=sources,
         keyword_config=keywords,
