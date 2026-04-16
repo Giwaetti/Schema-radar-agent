@@ -1,0 +1,72 @@
+[
+  {
+    "item_id": "18be13f7e1b53abb",
+    "source": "Demo RSS",
+    "source_id": "demo",
+    "source_type": "forum",
+    "source_url": "https://forum.example/thread-1",
+    "title": "Need help with Shopify schema markup",
+    "summary": "My product rich results are not showing. See https://widgets.example",
+    "published_at": "2026-04-16T17:00:00+00:00",
+    "discovered_at": "2026-04-16T18:54:01.565651+00:00",
+    "stage": "hot",
+    "score": 14,
+    "score_breakdown": {
+      "matches": {
+        "schema": [
+          "schema markup",
+          "rich results"
+        ],
+        "intent": [
+          "need help",
+          "not showing"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "freshness": 3,
+      "negative_hits": []
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [
+      "product_schema"
+    ],
+    "intent_flags": [
+      "need help",
+      "not showing"
+    ],
+    "business_name": "Widgets",
+    "business_url": "https://widgets.example/",
+    "audit": {
+      "business_url": "https://widgets.example/",
+      "final_url": "https://widgets.example/",
+      "domain": "widgets.example",
+      "status_code": 200,
+      "ok": true,
+      "has_json_ld": true,
+      "schema_types": [
+        "Product"
+      ],
+      "cms": "shopify",
+      "site_kind": "ecommerce",
+      "title": "Store",
+      "opportunity_gaps": [
+        "BreadcrumbList not detected on scanned page"
+      ],
+      "notes": [
+        "Detected CMS: shopify",
+        "Detected site kind: ecommerce",
+        "Schema types found: Product"
+      ],
+      "error": null
+    },
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Offer a fast product-schema visibility fix or implementation shortcut.",
+    "tags": [
+      "demo"
+    ]
+  }
+]

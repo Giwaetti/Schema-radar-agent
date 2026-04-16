@@ -1,0 +1,109 @@
+positive_groups:
+  schema:
+    - schema markup
+    - structured data
+    - json-ld
+    - ld+json
+    - rich results
+    - rich result
+    - merchant listing
+    - merchant listings
+    - product snippet
+    - search console
+    - invalid item
+    - missing field
+    - breadcrumblist
+    - localbusiness
+    - faq schema
+    - review snippet
+  intent:
+    - need help
+    - can someone help
+    - anyone know
+    - issue
+    - problem
+    - broken
+    - fix
+    - fixing
+    - not showing
+    - disappeared
+    - error
+    - missing
+    - invalid
+    - support
+    - looking for
+    - hire
+    - freelancer
+    - expert
+    - urgent
+  platforms:
+    - shopify
+    - woocommerce
+    - wordpress
+    - wix
+    - webflow
+    - squarespace
+    - ecommerce
+    - e-commerce
+    - product page
+    - collection page
+    - local business
+    - service area
+    - seo plugin
+negative_phrases:
+  - course
+  - tutorial only
+  - student project
+  - certification
+  - webinar replay
+  - hiring manager
+platform_aliases:
+  shopify:
+    - shopify
+    - liquid
+  woocommerce:
+    - woocommerce
+    - woo commerce
+  wordpress:
+    - wordpress
+    - wp plugin
+    - yoast
+  wix:
+    - wix
+  webflow:
+    - webflow
+  squarespace:
+    - squarespace
+issue_aliases:
+  missing_schema:
+    - no schema
+    - missing schema
+    - missing field
+    - invalid item
+    - not showing
+  product_schema:
+    - product schema
+    - merchant listings
+    - price availability
+    - product snippet
+  local_schema:
+    - localbusiness
+    - local business
+    - service schema
+  faq_schema:
+    - faq schema
+    - mainentity
+  breadcrumbs:
+    - breadcrumb
+    - breadcrumblist
+weights:
+  schema: 3
+  intent: 2
+  platforms: 1
+  freshness_under_7_days: 3
+  freshness_under_30_days: 2
+  freshness_under_90_days: 1
+thresholds:
+  hot: 11
+  warm: 7
+  watch: 4

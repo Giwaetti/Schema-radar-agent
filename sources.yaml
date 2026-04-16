@@ -1,0 +1,107 @@
+sources:
+  - id: reddit-seo
+    name: Reddit /r/SEO
+    kind: rss
+    enabled: true
+    url: https://www.reddit.com/r/SEO/new.rss
+    source_type: forum
+    tags: [reddit, seo]
+
+  - id: reddit-shopify
+    name: Reddit /r/shopify
+    kind: rss
+    enabled: true
+    url: https://www.reddit.com/r/shopify/new.rss
+    source_type: forum
+    tags: [reddit, shopify]
+
+  - id: reddit-woocommerce
+    name: Reddit /r/woocommerce
+    kind: rss
+    enabled: true
+    url: https://www.reddit.com/r/woocommerce/new.rss
+    source_type: forum
+    tags: [reddit, woocommerce]
+
+  - id: reddit-techseo
+    name: Reddit /r/TechSEO
+    kind: rss
+    enabled: true
+    url: https://www.reddit.com/r/TechSEO/new.rss
+    source_type: forum
+    tags: [reddit, techseo]
+
+  - id: shopify-seo-forum
+    name: Shopify Community SEO Forum
+    kind: html_links
+    enabled: true
+    url: https://community.shopify.com/c/seo/288
+    base_url: https://community.shopify.com
+    source_type: forum
+    tags: [shopify, community, seo]
+    include_patterns:
+      - /t/
+    exclude_patterns:
+      - /c/seo/288
+      - /latest
+      - /top
+      - /guidelines
+      - /faq
+      - /privacy
+      - /terms
+    max_items: 40
+
+  - id: wordpress-schema-support
+    name: WordPress Support - Schema & Structured Data for WP & AMP
+    kind: html_links
+    enabled: true
+    url: https://wordpress.org/support/plugin/schema-and-structured-data-for-wp/
+    base_url: https://wordpress.org
+    source_type: forum
+    tags: [wordpress, schema, support]
+    include_patterns:
+      - /support/topic/
+    exclude_patterns:
+      - /reviews/
+      - /page/
+      - /plugins/
+    max_items: 50
+
+  - id: google-search-central-structured-data
+    name: Google Search Central Community - Structured Data
+    kind: html_links
+    enabled: true
+    url: https://support.google.com/webmasters/community/thread?hl=en
+    base_url: https://support.google.com
+    source_type: forum
+    tags: [google, search-central, structured-data]
+    include_patterns:
+      - /thread/
+      - Structured Data
+    exclude_patterns:
+      - /community-guide/
+    max_items: 40
+
+  - id: upwork-schema-jobs
+    name: Upwork Schema Markup Jobs
+    kind: html_links
+    enabled: true
+    url: https://www.upwork.com/freelance-jobs/schema-markup/
+    base_url: https://www.upwork.com
+    source_type: jobs
+    tags: [upwork, jobs, schema]
+    parent_text_must_include:
+      - Posted
+    include_patterns:
+      - Schema Markup
+      - SEO
+      - WordPress
+      - Shopify
+      - Wix
+      - Webflow
+    exclude_patterns:
+      - /services/
+      - /hire/
+      - /freelancers/
+      - /agencies/
+    max_items: 40
