@@ -1,21 +1,6 @@
 {
-  "total": 69,
-  "by_stage": {
-    "hot": 5,
-    "warm": 21,
-    "watch": 43
-  },
-  "by_offer": {
-    "Done-for-you / service": 5,
-    "AI Visibility Kit": 28,
-    "AI Generator": 36
-  },
-  "by_source": {
-    "Reddit /r/SEO": 12,
-    "Reddit /r/woocommerce": 19,
-    "Reddit /r/TechSEO": 11,
-    "Reddit /r/shopify": 22,
-    "WordPress Support - Schema & Structured Data for WP & AMP": 3,
-    "Google Search Central Community - Structured Data": 2
-  }
+  "total": 0,
+  "by_stage": {},
+  "by_offer": {},
+  "by_source": {}
 }
