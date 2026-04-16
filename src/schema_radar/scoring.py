@@ -36,11 +36,13 @@ class KeywordScorer:
         self.source_boost_tags = {
             key.lower(): int(value) for key, value in config.get("source_boost_tags", {}).items()
         }
-        schema_gate = config.get("schema_gate", {})
-        self.required_any_of_groups = [entry for entry in schema_gate.get("required_any_of_groups", [])]
-        self.allow_if_source_tags_include = {
-            entry.lower() for entry in schema_gate.get("allow_if_source_tags_include", [])
-        }
+        gating = config.get("gating", {})
+        self.schema_groups = tuple(gating.get("schema_groups", []))
+        self.intent_groups = tuple(gating.get("intent_groups", []))
+        self.broad_source_tags = {entry.lower() for entry in gating.get("broad_source_tags", [])}
+        self.schema_centric_tags = {entry.lower() for entry in gating.get("schema_centric_tags", [])}
+        self.platform_group_name = gating.get("platform_group_name", "platforms")
+        self.require_intent_for_broad = bool(gating.get("require_intent_for_broad", True))
 
     def score_item(self, item: SourceItem) -> ScoreResult:
         haystack = f"{item.title}\n{item.summary}".lower()
@@ -53,6 +55,7 @@ class KeywordScorer:
             "negative_hits": [],
             "source_boost": 0,
             "gated": False,
+            "gate_reason": None,
         }
         intent_flags: list[str] = []
 
@@ -67,7 +70,7 @@ class KeywordScorer:
             breakdown["matches"][group_name] = matches
             breakdown["group_points"][group_name] = points
 
-            if group_name in {"commercial_intent", "implementation_intent", "intent"}:
+            if group_name in self.intent_groups:
                 intent_flags.extend(matches)
 
         negative_hits = [phrase for phrase in self.negative_phrases if phrase in haystack]
@@ -84,8 +87,10 @@ class KeywordScorer:
         score += freshness_points
         breakdown["freshness"] = freshness_points
 
-        if not self._passes_schema_gate(breakdown["matches"], item_tags):
+        passed, reason = self._passes_gate(breakdown["matches"], item_tags)
+        if not passed:
             breakdown["gated"] = True
+            breakdown["gate_reason"] = reason
             return ScoreResult(
                 score=0,
                 stage="noise",
@@ -108,12 +113,38 @@ class KeywordScorer:
             breakdown=breakdown,
         )
 
-    def _passes_schema_gate(self, matches: dict[str, list[str]], item_tags: set[str]) -> bool:
-        if not self.required_any_of_groups and not self.allow_if_source_tags_include:
-            return True
-        if any(group in matches for group in self.required_any_of_groups):
-            return True
-        return any(tag in item_tags for tag in self.allow_if_source_tags_include)
+    def _passes_gate(self, matches: dict[str, list[str]], item_tags: set[str]) -> tuple[bool, str | None]:
+        if not self.schema_groups and not self.intent_groups and not self.broad_source_tags and not self.schema_centric_tags:
+            return True, None
+
+        matched_groups = set(matches)
+        schema_groups = self.schema_groups or tuple(group for group in matched_groups if "schema" in group)
+        has_schema = any(group in matched_groups for group in schema_groups)
+        has_intent = any(group in matched_groups for group in self.intent_groups)
+        has_platform = self.platform_group_name in matched_groups
+        is_schema_centric = bool(self.schema_centric_tags.intersection(item_tags))
+        is_broad = bool(self.broad_source_tags.intersection(item_tags))
+
+        if is_schema_centric:
+            if has_schema:
+                return True, None
+            if has_intent and has_platform:
+                return True, None
+            return False, "schema-centric source without schema signal"
+
+        if is_broad:
+            if not has_schema:
+                return False, "broad source without schema signal"
+            if self.require_intent_for_broad and not (has_intent or has_platform):
+                return False, "broad source missing intent/platform signal"
+            return True, None
+
+        if self.schema_groups:
+            if has_schema:
+                return True, None
+            return False, "no schema signal"
+
+        return True, None
 
     def _detect_platforms(self, haystack: str) -> list[str]:
         found: list[str] = []
