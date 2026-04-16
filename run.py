@@ -10,7 +10,7 @@ SRC = ROOT / "src"
 if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
-from schema_radar.config import load_keywords, load_sources
+from schema_radar.config import load_keywords, load_offers, load_sources
 from schema_radar.pipeline import SchemaRadarPipeline
 
 
@@ -18,6 +18,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run the Schema Radar lead discovery pipeline.")
     parser.add_argument("--sources", default="sources.yaml", help="Path to sources YAML file")
     parser.add_argument("--keywords", default="keywords.yaml", help="Path to keywords YAML file")
+    parser.add_argument("--offers", default="offers.yaml", help="Path to offers YAML file")
     parser.add_argument("--out-dir", default="data", help="Directory for JSON and CSV output")
     parser.add_argument("--docs-dir", default="docs", help="Directory for static dashboard output")
     parser.add_argument("--skip-audit", action="store_true", help="Skip business-site audit requests")
@@ -28,9 +29,11 @@ def main() -> int:
     args = parse_args()
     sources = load_sources(ROOT / args.sources)
     keywords = load_keywords(ROOT / args.keywords)
+    offers = load_offers(ROOT / args.offers)
     pipeline = SchemaRadarPipeline(
         sources=sources,
         keyword_config=keywords,
+        offer_config=offers,
         out_dir=ROOT / args.out_dir,
         docs_dir=ROOT / args.docs_dir,
         audit_sites=not args.skip_audit,

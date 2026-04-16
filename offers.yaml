@@ -1,0 +1,32 @@
+contact_email: schemaagent@gmail.com
+offers:
+  ai_visibility_kit:
+    display_name: AI Visibility Kit
+    gumroad_url: https://schemaagent.gumroad.com/l/rfces
+    cta_label: Get the AI Visibility Kit
+    audience:
+      - diy site owners
+      - local businesses
+      - single-store operators
+    angle: no-code schema templates with quick implementation
+  ai_generator:
+    display_name: AI Generator
+    gumroad_url: https://schemaagent.gumroad.com/l/wikuuu
+    cta_label: Open the AI Generator
+    audience:
+      - agencies
+      - freelancers
+      - multi-page operators
+    angle: faster repeatable JSON-LD generation
+  direct_service:
+    display_name: Done-for-you / service
+    gumroad_url: null
+    cta_label: Email for direct help
+    audience:
+      - complex implementations
+      - custom troubleshooting
+    angle: hands-on schema troubleshooting and implementation support
+aliases:
+  AI Visibility Kit: ai_visibility_kit
+  AI Generator: ai_generator
+  Done-for-you / service: direct_service
