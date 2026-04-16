@@ -15,7 +15,7 @@ HTML_TEMPLATE = """<!doctype html>
   <title>Schema Radar</title>
   <style>
     body {{ font-family: Inter, Arial, sans-serif; margin: 0; background: #0b1020; color: #ecf1ff; }}
-    .wrap {{ max-width: 1200px; margin: 0 auto; padding: 24px; }}
+    .wrap {{ max-width: 1320px; margin: 0 auto; padding: 24px; }}
     h1 {{ margin: 0 0 8px; }}
     .muted {{ color: #adc0ff; }}
     .cards {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 20px 0 24px; }}
@@ -32,8 +32,10 @@ HTML_TEMPLATE = """<!doctype html>
     .warm {{ background: #4c3513; color: #ffd9a1; }}
     .watch {{ background: #173955; color: #b6e2ff; }}
     .noise {{ background: #29314d; color: #cfd8ff; }}
-    .small {{ font-size: 13px; color: #b8c7f7; }}
-    .stack > div {{ margin-bottom: 4px; }}
+    .small {{ font-size: 13px; color: #b8c7f7; line-height: 1.45; }}
+    .stack > div {{ margin-bottom: 6px; }}
+    .cta {{ display: inline-block; padding: 8px 12px; border-radius: 10px; background: #21305f; color: #fff; text-decoration: none; font-size: 13px; font-weight: 700; margin-bottom: 8px; }}
+    .codeish {{ white-space: pre-wrap; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; color: #c7d5ff; background: #0f1630; border: 1px solid #22315f; border-radius: 10px; padding: 10px; }}
   </style>
 </head>
 <body>
@@ -53,7 +55,8 @@ HTML_TEMPLATE = """<!doctype html>
           <th>Source</th>
           <th>Stage</th>
           <th>Offer fit</th>
-          <th>Audit</th>
+          <th>CTA + route</th>
+          <th>Draft</th>
         </tr>
       </thead>
       <tbody>
@@ -80,16 +83,20 @@ def generate_dashboard(leads: list[dict[str, Any]], output_path: str | Path) -> 
     Path(output_path).write_text(rendered, encoding="utf-8")
 
 
+
 def build_summary(leads: list[dict[str, Any]]) -> dict[str, Any]:
     counter = Counter(lead["stage"] for lead in leads)
     offer_counter = Counter(lead["offer_fit"] for lead in leads)
     source_counter = Counter(lead["source"] for lead in leads)
+    route_counter = Counter(lead.get("sales_route") for lead in leads)
     return {
         "total": len(leads),
         "by_stage": dict(counter),
         "by_offer": dict(offer_counter),
         "by_source": dict(source_counter),
+        "by_route": dict(route_counter),
     }
+
 
 
 def _row_html(lead: dict[str, Any]) -> str:
@@ -100,20 +107,25 @@ def _row_html(lead: dict[str, Any]) -> str:
     offer = html.escape(lead["offer_fit"])
     action = html.escape(lead["action_hint"])
     stage = html.escape(lead["stage"])
-    business_url = lead.get("business_url")
+    route = html.escape(lead.get("sales_route") or "—")
+    cta_label = html.escape(lead.get("cta_label") or "Open CTA")
+    cta_destination = lead.get("cta_destination")
+    contact_email = html.escape(lead.get("contact_email") or "")
     audit = lead.get("audit") or {}
     audit_bits = []
-    if business_url:
-        audit_bits.append(f'<div><a href="{html.escape(business_url)}" target="_blank">Business site</a></div>')
+    if lead.get("business_url"):
+        audit_bits.append(f'<div><a href="{html.escape(lead["business_url"])}" target="_blank">Business site</a></div>')
     if audit.get("cms"):
         audit_bits.append(f'<div>CMS: {html.escape(str(audit["cms"]))}</div>')
     if audit.get("site_kind"):
         audit_bits.append(f'<div>Site: {html.escape(str(audit["site_kind"]))}</div>')
-    gaps = audit.get("opportunity_gaps") or []
-    if gaps:
-        audit_bits.append(f'<div>Gap: {html.escape(str(gaps[0]))}</div>')
     platforms = ", ".join(lead.get("platforms") or []) or "—"
     issue_types = ", ".join(lead.get("issue_types") or []) or "—"
+    cta_html = "—"
+    if cta_destination:
+        cta_html = f'<a class="cta" href="{html.escape(cta_destination)}" target="_blank">{cta_label}</a>'
+    draft = html.escape((lead.get("reply_draft") or "")[:380])
+    follow_up = html.escape((lead.get("follow_up_draft") or "")[:220])
     return f"""
     <tr>
       <td>
@@ -122,6 +134,7 @@ def _row_html(lead: dict[str, Any]) -> str:
           <div class=\"small\">{summary}</div>
           <div class=\"small\">Platforms: {html.escape(platforms)}</div>
           <div class=\"small\">Issues: {html.escape(issue_types)}</div>
+          <div class=\"small\">{''.join(audit_bits) or ''}</div>
         </div>
       </td>
       <td><a href=\"{source_url}\" target=\"_blank\">{source}</a></td>
@@ -132,6 +145,18 @@ def _row_html(lead: dict[str, Any]) -> str:
           <div class=\"small\">{action}</div>
         </div>
       </td>
-      <td><div class=\"stack\">{''.join(audit_bits) or '—'}</div></td>
+      <td>
+        <div class=\"stack\">
+          <div>{cta_html}</div>
+          <div class=\"small\">Route: {route}</div>
+          <div class=\"small\">Contact: {contact_email or '—'}</div>
+        </div>
+      </td>
+      <td>
+        <div class=\"stack\">
+          <div class=\"codeish\">{draft or '—'}</div>
+          <div class=\"small\">Follow-up: {follow_up or '—'}</div>
+        </div>
+      </td>
     </tr>
     """
