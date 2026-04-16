@@ -32,30 +32,68 @@ class KeywordScorer:
         }
         self.weights = config.get("weights", {})
         self.thresholds = config.get("thresholds", {})
+        self.group_caps = {key: int(value) for key, value in config.get("group_caps", {}).items()}
+        self.source_boost_tags = {
+            key.lower(): int(value) for key, value in config.get("source_boost_tags", {}).items()
+        }
+        schema_gate = config.get("schema_gate", {})
+        self.required_any_of_groups = [entry for entry in schema_gate.get("required_any_of_groups", [])]
+        self.allow_if_source_tags_include = {
+            entry.lower() for entry in schema_gate.get("allow_if_source_tags_include", [])
+        }
 
     def score_item(self, item: SourceItem) -> ScoreResult:
         haystack = f"{item.title}\n{item.summary}".lower()
+        item_tags = {tag.lower() for tag in item.tags}
         score = 0
-        breakdown: dict[str, Any] = {"matches": {}, "freshness": 0, "negative_hits": []}
+        breakdown: dict[str, Any] = {
+            "matches": {},
+            "group_points": {},
+            "freshness": 0,
+            "negative_hits": [],
+            "source_boost": 0,
+            "gated": False,
+        }
         intent_flags: list[str] = []
 
         for group_name, phrases in self.positive_groups.items():
             matches = [phrase for phrase in phrases if phrase.lower() in haystack]
-            if matches:
-                weight = int(self.weights.get(group_name, 1))
-                score += len(matches) * weight
-                breakdown["matches"][group_name] = matches
-                if group_name == "intent":
-                    intent_flags.extend(matches)
+            if not matches:
+                continue
+
+            raw_points = len(matches) * int(self.weights.get(group_name, 1))
+            points = min(raw_points, self.group_caps.get(group_name, raw_points))
+            score += points
+            breakdown["matches"][group_name] = matches
+            breakdown["group_points"][group_name] = points
+
+            if group_name in {"commercial_intent", "implementation_intent", "intent"}:
+                intent_flags.extend(matches)
 
         negative_hits = [phrase for phrase in self.negative_phrases if phrase in haystack]
         if negative_hits:
             score -= len(negative_hits)
             breakdown["negative_hits"] = negative_hits
 
+        source_boost = sum(points for tag, points in self.source_boost_tags.items() if tag in item_tags)
+        if source_boost:
+            score += source_boost
+            breakdown["source_boost"] = source_boost
+
         freshness_points = self._freshness_points(item.published_at)
         score += freshness_points
         breakdown["freshness"] = freshness_points
+
+        if not self._passes_schema_gate(breakdown["matches"], item_tags):
+            breakdown["gated"] = True
+            return ScoreResult(
+                score=0,
+                stage="noise",
+                platforms=[],
+                issue_types=[],
+                intent_flags=[],
+                breakdown=breakdown,
+            )
 
         platforms = self._detect_platforms(haystack)
         issue_types = self._detect_issue_types(haystack)
@@ -69,6 +107,13 @@ class KeywordScorer:
             intent_flags=list(dict.fromkeys(intent_flags)),
             breakdown=breakdown,
         )
+
+    def _passes_schema_gate(self, matches: dict[str, list[str]], item_tags: set[str]) -> bool:
+        if not self.required_any_of_groups and not self.allow_if_source_tags_include:
+            return True
+        if any(group in matches for group in self.required_any_of_groups):
+            return True
+        return any(tag in item_tags for tag in self.allow_if_source_tags_include)
 
     def _detect_platforms(self, haystack: str) -> list[str]:
         found: list[str] = []
