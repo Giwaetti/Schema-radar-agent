@@ -16,5 +16,9 @@
     "WordPress Support - Schema & Structured Data for WP & AMP": 6,
     "Reddit /r/woocommerce": 1,
     "Google Search Central Community - Structured Data": 1
+  },
+  "by_route": {
+    "email_contact": 3,
+    "forum_reply": 7
   }
 }
