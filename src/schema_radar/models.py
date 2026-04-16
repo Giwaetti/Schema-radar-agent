@@ -67,8 +67,16 @@ class LeadRecord:
     business_name: str | None
     business_url: str | None
     audit: dict[str, Any] | None
+    offer_key: str
     offer_fit: str
     action_hint: str
+    sales_route: str
+    cta_label: str | None
+    cta_destination: str | None
+    contact_email: str | None
+    reply_subject: str | None
+    reply_draft: str | None
+    follow_up_draft: str | None
     tags: list[str]
 
     def to_dict(self) -> dict[str, Any]:
