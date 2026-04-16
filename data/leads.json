@@ -1,1 +1,499 @@
-[]
+[
+  {
+    "item_id": "6e9974641d3df0f0",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1smwgfs/can_we_implement_shopify_schema_ourselves_or_do",
+    "title": "Can we implement Shopify schema ourselves or do we need a developer?",
+    "summary": "I’m currently managing SEO for a client’s Shopify store and looking into improving their structured data (schema) setup for better rich results and overall search visibility. For those who’ve worked with Shopify schema before, is this something that can be realistically handled in-house (through theme edits or apps), or is it usually safer to bring in a Shopify developer for proper implementation? &#32; submitted by &#32; /u/tj42511 [link] &#32; [comments]",
+    "published_at": "2026-04-16T07:23:58+00:00",
+    "discovered_at": "2026-04-16T21:23:37.909812+00:00",
+    "stage": "hot",
+    "score": 20,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data",
+          "rich results",
+          "rich result"
+        ],
+        "commercial_intent": [
+          "developer",
+          "do we need a developer"
+        ],
+        "implementation_intent": [
+          "implement",
+          "implementation",
+          "setup"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "group_points": {
+        "schema_core": 8,
+        "commercial_intent": 4,
+        "implementation_intent": 4,
+        "platforms": 1
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "developer",
+      "do we need a developer",
+      "implement",
+      "implementation",
+      "setup"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Respond as hands-on implementation help for an active schema problem.",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
+    "item_id": "bc4afd8df78d8ac2",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1sn6zkj/structured_data_test_validate_jsonld_microdata",
+    "title": "Structured Data Test Validate JSON-LD, Microdata, RDFa, Open Graph & Twitter Cards.",
+    "summary": "&#32; submitted by &#32; /u/anish2good [link] &#32; [comments]",
+    "published_at": "2026-04-16T15:32:39+00:00",
+    "discovered_at": "2026-04-16T21:23:38.494665+00:00",
+    "stage": "hot",
+    "score": 13,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data",
+          "json-ld"
+        ],
+        "implementation_intent": [
+          "validate"
+        ]
+      },
+      "group_points": {
+        "schema_core": 8,
+        "implementation_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "validate"
+    ],
+    "business_name": "8Gwifi",
+    "business_url": "https://8gwifi.org/seo/structured-data.jsp",
+    "audit": {
+      "business_url": "https://8gwifi.org/seo/structured-data.jsp",
+      "final_url": "https://8gwifi.org/seo/structured-data.jsp",
+      "domain": "8gwifi.org",
+      "status_code": 403,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTP 403"
+    },
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "tags": [
+      "reddit",
+      "techseo",
+      "broad"
+    ]
+  },
+  {
+    "item_id": "7cad77e02dd47c6d",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/missing-field-mainentity-in-faq-schema",
+    "title": "Missing field ‘mainEntity’ in FAQ schema",
+    "summary": "Started by: webrightnow",
+    "published_at": null,
+    "discovered_at": "2026-04-16T21:23:40.528070+00:00",
+    "stage": "hot",
+    "score": 13,
+    "score_breakdown": {
+      "matches": {
+        "schema_types": [
+          "faq schema"
+        ],
+        "schema_errors": [
+          "missing field",
+          "mainentity"
+        ],
+        "implementation_intent": [
+          "missing"
+        ]
+      },
+      "group_points": {
+        "schema_types": 3,
+        "schema_errors": 6,
+        "implementation_intent": 2
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 2,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "missing_schema",
+      "faq_schema"
+    ],
+    "intent_flags": [
+      "missing"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support",
+      "schema-centric"
+    ]
+  },
+  {
+    "item_id": "9855791d01ea1633",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/json-ld-product-schema-syntax-issues-data-types-case-sensitivity",
+    "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
+    "summary": "Started by: ventio",
+    "published_at": null,
+    "discovered_at": "2026-04-16T21:23:40.530580+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "json-ld"
+        ],
+        "schema_types": [
+          "product schema"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "schema_types": 3
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 2,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "product_schema"
+    ],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support",
+      "schema-centric"
+    ]
+  },
+  {
+    "item_id": "085ac3b966adc06f",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1slysin/zero_brand_llms_visibility_after_trying",
+    "title": "Zero brand LLMs visibility after trying everything for SEO",
+    "summary": "I run a Woocommerce store and spent the last 8 months doing all the SEO basics including, optimized product pages, built backlinks, improved site speed, added structured data, started a blog. Google traffic is up 30% but here's the problem- when I test ChatGPT or Claude asking 'best x products' or 'top solutions for x', my brand never gets mentioned. These AI tools keep recommending the big brands while completely ignoring smaller players like mine, even though we have 4.8 star reviews and good products. It's frustrating because I know customers are now asking ai for recommendations. Anyone else seeing this gap between traditional SEO success and ai visibility? &#32; submitted by &#32; /u/Snaddyxd [link] &#32; [comments]",
+    "published_at": "2026-04-15T07:13:51+00:00",
+    "discovered_at": "2026-04-16T21:23:39.293943+00:00",
+    "stage": "watch",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "platforms": [
+          "woocommerce",
+          "product page"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "platforms": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "backlink",
+        "backlinks"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "tags": [
+      "reddit",
+      "woocommerce",
+      "broad"
+    ]
+  },
+  {
+    "item_id": "edc10e191b0d9746",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/how-can-i-pull-ldjson-from-one-post-to-another",
+    "title": "How can I pull ld+json from one post to another?",
+    "summary": "Started by: Roma",
+    "published_at": null,
+    "discovered_at": "2026-04-16T21:23:40.527866+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "ld+json"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 2,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support",
+      "schema-centric"
+    ]
+  },
+  {
+    "item_id": "02801cb48733b6cb",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/how-plugin-load-schema-markup-in-theme",
+    "title": "How plugin load schema markup in theme?",
+    "summary": "Started by: FARAZFRANK",
+    "published_at": null,
+    "discovered_at": "2026-04-16T21:23:40.532246+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "schema markup"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 2,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support",
+      "schema-centric"
+    ]
+  },
+  {
+    "item_id": "14b111b851cc8fe5",
+    "source": "Google Search Central Community - Structured Data",
+    "source_id": "google-search-central-structured-data",
+    "source_type": "forum",
+    "source_url": "https://support.google.com/webmasters/thread/237836804/not-able-to-preview-the-structured-data?hl=en",
+    "title": "Not able to preview the structured data",
+    "summary": "",
+    "published_at": null,
+    "discovered_at": "2026-04-16T21:23:41.257022+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 2,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "google",
+      "search-central",
+      "structured-data",
+      "schema-centric"
+    ]
+  },
+  {
+    "item_id": "a548be9dc82b178a",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/faq-schema-disappeard-from-every-post",
+    "title": "FAQ schema disappeard from every post",
+    "summary": "Started by: strictlydata",
+    "published_at": null,
+    "discovered_at": "2026-04-16T21:23:40.532712+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "schema_types": [
+          "faq schema"
+        ]
+      },
+      "group_points": {
+        "schema_types": 3
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 2,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "faq_schema"
+    ],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support",
+      "schema-centric"
+    ]
+  },
+  {
+    "item_id": "9fa8f8485aee7a46",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/problem-with-organization-schema-on-reviews",
+    "title": "Problem with Organization Schema on Reviews",
+    "summary": "Started by: defdas2",
+    "published_at": null,
+    "discovered_at": "2026-04-16T21:23:40.534327+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "schema_types": [
+          "organization schema"
+        ]
+      },
+      "group_points": {
+        "schema_types": 3
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 2,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "local_schema"
+    ],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support",
+      "schema-centric"
+    ]
+  }
+]
