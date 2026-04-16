@@ -18,3 +18,7 @@ def load_sources(path: str | Path) -> list[dict[str, Any]]:
 
 def load_keywords(path: str | Path) -> dict[str, Any]:
     return load_yaml(path)
+
+
+def load_offers(path: str | Path) -> dict[str, Any]:
+    return load_yaml(path)
