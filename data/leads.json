@@ -8,7 +8,7 @@
     "title": "Can we implement Shopify schema ourselves or do we need a developer?",
     "summary": "I’m currently managing SEO for a client’s Shopify store and looking into improving their structured data (schema) setup for better rich results and overall search visibility. For those who’ve worked with Shopify schema before, is this something that can be realistically handled in-house (through theme edits or apps), or is it usually safer to bring in a Shopify developer for proper implementation? &#32; submitted by &#32; /u/tj42511 [link] &#32; [comments]",
     "published_at": "2026-04-16T07:23:58+00:00",
-    "discovered_at": "2026-04-17T03:45:55.362377+00:00",
+    "discovered_at": "2026-04-17T09:48:09.092506+00:00",
     "stage": "hot",
     "score": 20,
     "score_breakdown": {
@@ -82,7 +82,7 @@
     "title": "Structured Data Test Validate JSON-LD, Microdata, RDFa, Open Graph & Twitter Cards.",
     "summary": "&#32; submitted by &#32; /u/anish2good [link] &#32; [comments]",
     "published_at": "2026-04-16T15:32:39+00:00",
-    "discovered_at": "2026-04-17T03:45:56.085727+00:00",
+    "discovered_at": "2026-04-17T09:48:09.741855+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -152,7 +152,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-04-17T03:45:58.188524+00:00",
+    "discovered_at": "2026-04-17T09:48:12.484305+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -216,7 +216,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-04-17T03:45:58.191851+00:00",
+    "discovered_at": "2026-04-17T09:48:12.487558+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -272,7 +272,7 @@
     "title": "Zero brand LLMs visibility after trying everything for SEO",
     "summary": "I run a Woocommerce store and spent the last 8 months doing all the SEO basics including, optimized product pages, built backlinks, improved site speed, added structured data, started a blog. Google traffic is up 30% but here's the problem- when I test ChatGPT or Claude asking 'best x products' or 'top solutions for x', my brand never gets mentioned. These AI tools keep recommending the big brands while completely ignoring smaller players like mine, even though we have 4.8 star reviews and good products. It's frustrating because I know customers are now asking ai for recommendations. Anyone else seeing this gap between traditional SEO success and ai visibility? &#32; submitted by &#32; /u/Snaddyxd [link] &#32; [comments]",
     "published_at": "2026-04-15T07:13:51+00:00",
-    "discovered_at": "2026-04-17T03:45:57.005511+00:00",
+    "discovered_at": "2026-04-17T09:48:10.882143+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -331,7 +331,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-04-17T03:45:58.188236+00:00",
+    "discovered_at": "2026-04-17T09:48:12.484067+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -381,7 +381,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-04-17T03:45:58.194062+00:00",
+    "discovered_at": "2026-04-17T09:48:12.489771+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -431,7 +431,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-04-17T03:45:58.844762+00:00",
+    "discovered_at": "2026-04-17T09:48:13.232837+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -481,7 +481,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-04-17T03:45:58.194672+00:00",
+    "discovered_at": "2026-04-17T09:48:12.490385+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
@@ -533,7 +533,7 @@
     "title": "Problem with Organization Schema on Reviews",
     "summary": "Started by: defdas2",
     "published_at": null,
-    "discovered_at": "2026-04-17T03:45:58.196713+00:00",
+    "discovered_at": "2026-04-17T09:48:12.492490+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
