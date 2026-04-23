@@ -8,7 +8,7 @@
     "title": "Bing Icons",
     "summary": "Have launched a few websites, and never been able to get my icons to appear on bing/yahoo. They appear fine on Google, DDG (heavily relies on Bing), and all browsers. I have thorough (but not excessive) Metadata/schema/webmanifest, with multiple formats (ico, png, web and jpeg) and sizes (16x16, 32x32, 48x48, 180x180, 192x192, 512x512, 1200x630, etc). I do not link icons in my sitemap. I have bing webmasters set up (with actual search performance) + IndexNow, with verified rich results, and I have full menus in search (whatever it's called when your main page + 5 other pages show in one section). Bing displays one of my logo files below that. Fwiw, most of my projects are SvelteKit+Vite based. I notice that other top result sites on bing also don't have icons. Anybody else experience this? Anyone know a fix? &#32; submitted by &#32; /u/lesbiyond [link] &#32; [comments]",
     "published_at": "2026-04-18T00:27:40+00:00",
-    "discovered_at": "2026-04-23T03:47:30.149282+00:00",
+    "discovered_at": "2026-04-23T09:57:36.333284+00:00",
     "stage": "hot",
     "score": 14,
     "score_breakdown": {
@@ -68,7 +68,7 @@
     "title": "Fix for Duplicate FAQs error due to Yotpo in Shopify",
     "summary": "I was getting multiple errors on product pages saying &quot;Main Entity Missing&quot; and error field was generating dynamic ID yotpo .com/id/#FAQs. I tried disabling the addon and changed the settings but nothing worked so I added following code in themes.liquid and it fixed it immediately. &lt;script src=&quot;//instant.page/...&quot;&gt;&lt;/script&gt; &lt;script&gt; (function() { function removeYotpoFAQ() { document.querySelectorAll('script[type=&quot;application/ld+json&quot;]').forEach(function(el) { if (el.innerHTML.includes('yotpo.com/go') &amp;&amp; el.innerHTML.includes('FAQPage')) { el.remove(); } }); } document.addEventListener(&quot;DOMContentLoaded&quot;, removeYotpoFAQ); setTimeout(removeYotpoFAQ, 1000); setTimeout(removeYotpoFAQ, 2000); })(); &lt;/script&gt; &lt;/body&gt; &lt;/html&gt; sharing this for everyone facing similar problems. &#32; submitted by &#32; /u/shaitanmunda [link] &#32; [comments]",
     "published_at": "2026-04-17T13:29:35+00:00",
-    "discovered_at": "2026-04-23T03:47:30.149352+00:00",
+    "discovered_at": "2026-04-23T09:57:36.333348+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -134,7 +134,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-04-23T03:47:32.145467+00:00",
+    "discovered_at": "2026-04-23T09:57:38.686565+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -198,7 +198,7 @@
     "title": "Do you need a Google Review Feed for star ratings in SERPs?",
     "summary": "Noticed something weird while doing competitor research in the jewelry niche. About 80% of my competitors have zero star ratings showing in Google SERPs, including my own shop. Most of us are running Shopify with Judge me as the review widget, which supposedly supports structured data out of the box. But a handful of competitors DO have stars showing. And from what I can tell, the main difference seems to be that they're pulling in a Google Review Feed rather than (or in addition to) on-site reviews. So my question: Is Google now requiring a native Google review feed to display stars in SERPs for certain niches or product categories? Or is this just a structured data implementation issue? &#32; submitted by &#32; /u/iamwazor [link] &#32; [comments]",
     "published_at": "2026-04-20T22:07:48+00:00",
-    "discovered_at": "2026-04-23T03:47:30.148775+00:00",
+    "discovered_at": "2026-04-23T09:57:36.332787+00:00",
     "stage": "hot",
     "score": 12,
     "score_breakdown": {
@@ -263,7 +263,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-04-23T03:47:32.148844+00:00",
+    "discovered_at": "2026-04-23T09:57:38.689885+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -319,7 +319,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-04-23T03:47:32.145185+00:00",
+    "discovered_at": "2026-04-23T09:57:38.686321+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -369,7 +369,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-04-23T03:47:32.151133+00:00",
+    "discovered_at": "2026-04-23T09:57:38.692177+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -419,7 +419,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-04-23T03:47:32.965587+00:00",
+    "discovered_at": "2026-04-23T09:57:39.663470+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -469,7 +469,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-04-23T03:47:32.151768+00:00",
+    "discovered_at": "2026-04-23T09:57:38.692782+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
@@ -521,7 +521,7 @@
     "title": "Problem with Organization Schema on Reviews",
     "summary": "Started by: defdas2",
     "published_at": null,
-    "discovered_at": "2026-04-23T03:47:32.153866+00:00",
+    "discovered_at": "2026-04-23T09:57:38.694822+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
