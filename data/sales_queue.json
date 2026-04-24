@@ -80,6 +80,26 @@
     "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com."
   },
   {
+    "item_id": "a6af228c4d600e8d",
+    "stage": "warm",
+    "score": 11,
+    "source": "Reddit /r/woocommerce",
+    "source_type": "forum",
+    "title": "Feels like WooCommerce is quietly becoming the infrastructure for AI agents",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1sugrbp/feels_like_woocommerce_is_quietly_becoming_the",
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "contact_email": "schemaagent@gmail.com",
+    "business_name": null,
+    "business_url": null,
+    "reply_subject": "Best fit for: Feels like WooCommerce is quietly becoming the infrastructur",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on woocommerce. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu"
+  },
+  {
     "item_id": "9855791d01ea1633",
     "stage": "warm",
     "score": 9,
