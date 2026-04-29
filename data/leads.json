@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-04-28T17:56:28.912831+00:00",
+    "discovered_at": "2026-04-29T04:03:23.889302+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,9 +72,9 @@
     "title": "Do you need a Google Review Feed for star ratings in SERPs?",
     "summary": "Noticed something weird while doing competitor research in the jewelry niche. About 80% of my competitors have zero star ratings showing in Google SERPs, including my own shop. Most of us are running Shopify with Judge me as the review widget, which supposedly supports structured data out of the box. But a handful of competitors DO have stars showing. And from what I can tell, the main difference seems to be that they're pulling in a Google Review Feed rather than (or in addition to) on-site reviews. So my question: Is Google now requiring a native Google review feed to display stars in SERPs for certain niches or product categories? Or is this just a structured data implementation issue? &#32; submitted by &#32; /u/iamwazor [link] &#32; [comments]",
     "published_at": "2026-04-20T22:07:48+00:00",
-    "discovered_at": "2026-04-28T17:56:26.822024+00:00",
-    "stage": "hot",
-    "score": 12,
+    "discovered_at": "2026-04-29T04:03:21.948307+00:00",
+    "stage": "warm",
+    "score": 11,
     "score_breakdown": {
       "matches": {
         "schema_core": [
@@ -94,7 +94,7 @@
         "implementation_intent": 4,
         "platforms": 1
       },
-      "freshness": 3,
+      "freshness": 2,
       "negative_hits": [],
       "source_boost": 0,
       "gated": false,
@@ -112,16 +112,16 @@
     "business_name": null,
     "business_url": null,
     "audit": null,
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Respond as hands-on implementation help for an active schema problem.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
     "contact_email": "schemaagent@gmail.com",
     "reply_subject": "Best fit for: Do you need a Google Review Feed for star ratings in SERPs?",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nRespond as hands-on implementation help for an active schema problem.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
     "tags": [
       "reddit",
       "techseo",
@@ -137,7 +137,7 @@
     "title": "Feels like WooCommerce is quietly becoming the infrastructure for AI agents",
     "summary": "Was just listening to the recent Do the Woo episode with Automattic's AI lead (James LePage) and took some notes. Really interesting stuff—instead of just shoving a generic chatbot into the dashboard, it sounds like they're actually building foundational infrastructure so we can hook into whatever AI tools we want. Here's what caught my attention: Woo MCP is actually live: You can connect a store to Claude or ChatGPT right now to query store data conversationally. They're pushing a major usability upgrade for it soon. WP 7.0 + WP AI Client: This drops the missing piece. Combined with the Abilities API (coming in 6.9), devs finally get a unified native toolkit so we don't have to keep rolling our own model integrations from scratch. Host-level AI: Hosting companies will be able to register as AI providers via the AI Client. Meaning a plugin can just inherit the host's AI engine with zero config. &quot;Woo hosting with AI&quot; is going to be a big marketing push soon. A native Woo AI plugin: Automattic is building their own extension (keeping it out of core, thankfully). Sounds like it'll handle proactive analytics, bulk catalog edits, and act as a store sidekick. Agentic commerce protocols: They're integrating ACP (Stripe/OpenAI) and UCP (Google). Basically standardizing how AI agents can actually buy things from Woo stores on behalf of users. For extension devs: The Abilities API is the big one to watch. Hook your plugin into it once, and it instantly works with MCP, the Woo AI agent, and third-party tools. You don't need to write protocol-specific code for every new LLM that comes out. For store owners: Structured data is the only thing that matters right now. If a catalog is messy, AI agents literally can't find or recommend the products. Pointing an AI at a product page to see what it's missing is probably the best use of time right now. What this really means is Woo isn't trying to be the &quot;smartest&quot; AI platform out of the box—they just want to be the default backend that all these new AI agents plug into and buy from. Anyone here started messing with the Abilities API or MCP on their stores yet, or are we all just waiting for 7.0? &#32; submitted by &#32; /u/code_with_monu [link] &#32; [comments]",
     "published_at": "2026-04-24T14:06:26+00:00",
-    "discovered_at": "2026-04-28T17:56:27.594737+00:00",
+    "discovered_at": "2026-04-29T04:03:22.814860+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -199,7 +199,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-04-28T17:56:28.916190+00:00",
+    "discovered_at": "2026-04-29T04:03:23.892563+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -255,7 +255,7 @@
     "title": "Can technical SEO actually be automated?",
     "summary": "A lot of websites look like they’re performing well on the surface content is live, rankings are moving, and traffic is coming in but underneath, technical SEO issues can silently block real growth. Problems like poor crawlability, weak internal linking, slow page speed, indexing errors, duplicate content, missing schema, or messy site structure often prevent search engines from fully understanding and ranking your pages properly. Most teams focus heavily on content and backlinks, but ignore the technical SEO foundation that actually decides how well that content gets discovered and ranked. So question is: Can we automate technical SEO end-to-end, or is human intervention still essential to keep websites truly search-ready? &#32; submitted by &#32; /u/SERPArchitect [link] &#32; [comments]",
     "published_at": "2026-04-27T12:54:42+00:00",
-    "discovered_at": "2026-04-28T17:56:26.820803+00:00",
+    "discovered_at": "2026-04-29T04:03:21.947110+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -316,9 +316,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/liquid-schema-help-mapping-custom-shipping-return-metafields-to-googles-structured-data/576464",
     "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
-    "summary": "customizations , troubleshooting 7 201 April 27, 2026",
+    "summary": "customizations , troubleshooting 7 204 April 27, 2026",
     "published_at": null,
-    "discovered_at": "2026-04-28T17:56:27.938140+00:00",
+    "discovered_at": "2026-04-29T04:03:23.199965+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -376,7 +376,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-04-28T17:56:28.912591+00:00",
+    "discovered_at": "2026-04-29T04:03:23.889076+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -426,7 +426,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-04-28T17:56:28.918471+00:00",
+    "discovered_at": "2026-04-29T04:03:23.894799+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -476,7 +476,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-04-28T17:56:29.737122+00:00",
+    "discovered_at": "2026-04-29T04:03:24.786746+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -526,7 +526,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-04-28T17:56:28.919105+00:00",
+    "discovered_at": "2026-04-29T04:03:23.895409+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {

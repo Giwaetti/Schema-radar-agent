@@ -1,13 +1,13 @@
 {
   "total": 10,
   "by_stage": {
-    "hot": 2,
-    "warm": 2,
+    "hot": 1,
+    "warm": 3,
     "watch": 6
   },
   "by_offer": {
-    "Done-for-you / service": 2,
-    "AI Generator": 2,
+    "Done-for-you / service": 1,
+    "AI Generator": 3,
     "AI Visibility Kit": 6
   },
   "by_source": {
@@ -18,7 +18,7 @@
     "Google Search Central Community - Structured Data": 1
   },
   "by_route": {
-    "email_contact": 2,
-    "forum_reply": 8
+    "email_contact": 1,
+    "forum_reply": 9
   }
 }
