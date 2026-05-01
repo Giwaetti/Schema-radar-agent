@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-04-30T17:45:28.176037+00:00",
+    "discovered_at": "2026-05-01T04:18:09.630250+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-04-30T17:45:28.179284+00:00",
+    "discovered_at": "2026-05-01T04:18:09.633535+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -128,7 +128,7 @@
     "title": "Can technical SEO actually be automated?",
     "summary": "A lot of websites look like they’re performing well on the surface content is live, rankings are moving, and traffic is coming in but underneath, technical SEO issues can silently block real growth. Problems like poor crawlability, weak internal linking, slow page speed, indexing errors, duplicate content, missing schema, or messy site structure often prevent search engines from fully understanding and ranking your pages properly. Most teams focus heavily on content and backlinks, but ignore the technical SEO foundation that actually decides how well that content gets discovered and ranked. So question is: Can we automate technical SEO end-to-end, or is human intervention still essential to keep websites truly search-ready? &#32; submitted by &#32; /u/SERPArchitect [link] &#32; [comments]",
     "published_at": "2026-04-27T12:54:42+00:00",
-    "discovered_at": "2026-04-30T17:45:26.584034+00:00",
+    "discovered_at": "2026-05-01T04:18:07.511862+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -183,6 +183,64 @@
     ]
   },
   {
+    "item_id": "9b154d919a8f1b77",
+    "source": "Shopify Community SEO Forum",
+    "source_id": "shopify-seo-forum",
+    "source_type": "forum",
+    "source_url": "https://community.shopify.com/t/liquid-schema-help-mapping-custom-shipping-return-metafields-to-googles-structured-data/576464",
+    "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
+    "summary": "customizations , troubleshooting 7 214 April 27, 2026",
+    "published_at": null,
+    "discovered_at": "2026-05-01T04:18:08.667511+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "implementation_intent": [
+          "troubleshoot"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "troubleshoot"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Liquid/Schema Help: Mapping Custom Shipping/Return Metafield",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
+    "tags": [
+      "shopify",
+      "community",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "edc10e191b0d9746",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -191,7 +249,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-04-30T17:45:28.175808+00:00",
+    "discovered_at": "2026-05-01T04:18:09.630024+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -241,7 +299,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-04-30T17:45:28.181561+00:00",
+    "discovered_at": "2026-05-01T04:18:09.635791+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -291,7 +349,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-04-30T17:45:29.106369+00:00",
+    "discovered_at": "2026-05-01T04:18:10.259331+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -341,7 +399,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-04-30T17:45:28.182166+00:00",
+    "discovered_at": "2026-05-01T04:18:09.636412+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
