@@ -1,5 +1,25 @@
 [
   {
+    "item_id": "8d8090150d08feaf",
+    "stage": "hot",
+    "score": 13,
+    "source": "Reddit /r/SEO",
+    "source_type": "forum",
+    "title": "What does SEO look like day to day inside an agency (beyond the usual breakdowns)",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1t0ramz/what_does_seo_look_like_day_to_day_inside_an",
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "business_name": null,
+    "business_url": null,
+    "reply_subject": "Best fit for: What does SEO look like day to day inside an agency (beyond ",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com."
+  },
+  {
     "item_id": "7cad77e02dd47c6d",
     "stage": "hot",
     "score": 13,
@@ -58,26 +78,6 @@
     "reply_subject": "Best fit for: Can technical SEO actually be automated?",
     "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for missing_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
     "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces"
-  },
-  {
-    "item_id": "9b154d919a8f1b77",
-    "stage": "watch",
-    "score": 6,
-    "source": "Shopify Community SEO Forum",
-    "source_type": "forum",
-    "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
-    "source_url": "https://community.shopify.com/t/liquid-schema-help-mapping-custom-shipping-return-metafields-to-googles-structured-data/576464",
-    "offer_key": "ai_generator",
-    "offer_fit": "AI Generator",
-    "sales_route": "forum_reply",
-    "cta_label": "Open the AI Generator",
-    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
-    "contact_email": "schemaagent@gmail.com",
-    "business_name": null,
-    "business_url": null,
-    "reply_subject": "Best fit for: Liquid/Schema Help: Mapping Custom Shipping/Return Metafield",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu"
   },
   {
     "item_id": "edc10e191b0d9746",
