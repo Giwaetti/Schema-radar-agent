@@ -1,67 +1,5 @@
 [
   {
-    "item_id": "8d8090150d08feaf",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1t0ramz/what_does_seo_look_like_day_to_day_inside_an",
-    "title": "What does SEO look like day to day inside an agency (beyond the usual breakdowns)",
-    "summary": "Trying to understand how SEO work is actually handled end to end in agencies (beyond just the high-level stuff you see online). Most content breaks things into audits, content, technical, etc., but I’m more curious about how this plays out in real workflows. For those working in agencies or managing clients: 1)How is the work typically split across the team? (who handles strategy vs execution vs technical pieces) 2)What parts of the process tend to take the most time or become bottlenecks? 3)How often do you revisit/optimize things like structured data or technical SEO elements? 4)Are there specific tools or workflows you rely on for managing this at scale? Also curious how this is evolving with newer areas like GEO (Generative Engine Optimization), if at all. Would love to hear how this works in real setups. So I can prepare myself better. &#32; submitted by &#32; /u/ban3naf1sh [link] &#32; [comments]",
-    "published_at": "2026-05-01T11:55:45+00:00",
-    "discovered_at": "2026-05-03T09:39:59.777832+00:00",
-    "stage": "hot",
-    "score": 13,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "commercial_intent": [
-          "agency"
-        ],
-        "implementation_intent": [
-          "setup",
-          "audit"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "commercial_intent": 2,
-        "implementation_intent": 4
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "agency",
-      "setup",
-      "audit"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Treat this as a direct service lead first.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: What does SEO look like day to day inside an agency (beyond ",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "2f94276c94ca23ea",
     "source": "Reddit /r/shopify",
     "source_id": "reddit-shopify",
@@ -70,7 +8,7 @@
     "title": "Shopify launched a free Agentic Commerce Readiness scanner",
     "summary": "I recently came across a new Shopify tool that scans a storefront and evaluates how “readable” it is for AI shopping agents. You just input a store URL, and it returns a score along with a breakdown of different areas like AI discoverability, structured data, and trust signals. After digging into it a bit, what stood out is how different the evaluation is compared to traditional SEO. A store can look perfectly fine to a human, but still score lower because AI systems rely heavily on structured data. For example, things like product reviews or shipping policies might exist on the page, but if they’re not in a structured format, they’re basically invisible to AI. The tool checks for things like proper product schema, FAQ structure, breadcrumb data, and even whether key information is machine-readable instead of just written as plain text. One interesting point is that most default setups don’t include enough structured product details, which could limit how confidently AI systems understand or recommend a product. What makes this tricky is that none of these issues are obvious when you’re just browsing your own store. Everything looks normal on the surface, but the underlying data might not be as complete as it needs to be for AI-based discovery. Might be worth running it on your own store just to see what comes up, especially before your competitors start paying attention to it. &#32; submitted by &#32; /u/taufiqul_dev [link] &#32; [comments]",
     "published_at": "2026-05-02T15:58:20+00:00",
-    "discovered_at": "2026-05-03T09:40:00.646637+00:00",
+    "discovered_at": "2026-05-03T17:08:35.606282+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -137,7 +75,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-03T09:40:02.207118+00:00",
+    "discovered_at": "2026-05-03T17:08:37.661858+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -201,7 +139,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-03T09:40:02.210424+00:00",
+    "discovered_at": "2026-05-03T17:08:37.665163+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -257,7 +195,7 @@
     "title": "Can technical SEO actually be automated?",
     "summary": "A lot of websites look like they’re performing well on the surface content is live, rankings are moving, and traffic is coming in but underneath, technical SEO issues can silently block real growth. Problems like poor crawlability, weak internal linking, slow page speed, indexing errors, duplicate content, missing schema, or messy site structure often prevent search engines from fully understanding and ranking your pages properly. Most teams focus heavily on content and backlinks, but ignore the technical SEO foundation that actually decides how well that content gets discovered and ranked. So question is: Can we automate technical SEO end-to-end, or is human intervention still essential to keep websites truly search-ready? &#32; submitted by &#32; /u/SERPArchitect [link] &#32; [comments]",
     "published_at": "2026-04-27T12:54:42+00:00",
-    "discovered_at": "2026-05-03T09:40:00.312638+00:00",
+    "discovered_at": "2026-05-03T17:08:35.093973+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -318,9 +256,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/liquid-schema-help-mapping-custom-shipping-return-metafields-to-googles-structured-data/576464",
     "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
-    "summary": "customizations , troubleshooting 7 215 April 27, 2026",
+    "summary": "customizations , troubleshooting 7 216 April 27, 2026",
     "published_at": null,
-    "discovered_at": "2026-05-03T09:40:01.369803+00:00",
+    "discovered_at": "2026-05-03T17:08:36.542793+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -378,7 +316,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-03T09:40:02.206893+00:00",
+    "discovered_at": "2026-05-03T17:08:37.661608+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -428,7 +366,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-03T09:40:02.212698+00:00",
+    "discovered_at": "2026-05-03T17:08:37.667459+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -478,7 +416,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-03T09:40:02.618863+00:00",
+    "discovered_at": "2026-05-03T17:08:38.520145+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -528,7 +466,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-03T09:40:02.213314+00:00",
+    "discovered_at": "2026-05-03T17:08:37.668086+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
