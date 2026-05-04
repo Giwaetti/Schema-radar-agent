@@ -8,7 +8,7 @@
     "title": "Shopify launched a free Agentic Commerce Readiness scanner",
     "summary": "I recently came across a new Shopify tool that scans a storefront and evaluates how “readable” it is for AI shopping agents. You just input a store URL, and it returns a score along with a breakdown of different areas like AI discoverability, structured data, and trust signals. After digging into it a bit, what stood out is how different the evaluation is compared to traditional SEO. A store can look perfectly fine to a human, but still score lower because AI systems rely heavily on structured data. For example, things like product reviews or shipping policies might exist on the page, but if they’re not in a structured format, they’re basically invisible to AI. The tool checks for things like proper product schema, FAQ structure, breadcrumb data, and even whether key information is machine-readable instead of just written as plain text. One interesting point is that most default setups don’t include enough structured product details, which could limit how confidently AI systems understand or recommend a product. What makes this tricky is that none of these issues are obvious when you’re just browsing your own store. Everything looks normal on the surface, but the underlying data might not be as complete as it needs to be for AI-based discovery. Might be worth running it on your own store just to see what comes up, especially before your competitors start paying attention to it. &#32; submitted by &#32; /u/taufiqul_dev [link] &#32; [comments]",
     "published_at": "2026-05-02T15:58:20+00:00",
-    "discovered_at": "2026-05-03T17:08:35.606282+00:00",
+    "discovered_at": "2026-05-04T04:09:31.337308+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -75,7 +75,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-03T17:08:37.661858+00:00",
+    "discovered_at": "2026-05-04T04:09:32.764113+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -139,7 +139,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-03T17:08:37.665163+00:00",
+    "discovered_at": "2026-05-04T04:09:32.767388+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -195,7 +195,7 @@
     "title": "Can technical SEO actually be automated?",
     "summary": "A lot of websites look like they’re performing well on the surface content is live, rankings are moving, and traffic is coming in but underneath, technical SEO issues can silently block real growth. Problems like poor crawlability, weak internal linking, slow page speed, indexing errors, duplicate content, missing schema, or messy site structure often prevent search engines from fully understanding and ranking your pages properly. Most teams focus heavily on content and backlinks, but ignore the technical SEO foundation that actually decides how well that content gets discovered and ranked. So question is: Can we automate technical SEO end-to-end, or is human intervention still essential to keep websites truly search-ready? &#32; submitted by &#32; /u/SERPArchitect [link] &#32; [comments]",
     "published_at": "2026-04-27T12:54:42+00:00",
-    "discovered_at": "2026-05-03T17:08:35.093973+00:00",
+    "discovered_at": "2026-05-04T04:09:31.033077+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -256,9 +256,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/liquid-schema-help-mapping-custom-shipping-return-metafields-to-googles-structured-data/576464",
     "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
-    "summary": "customizations , troubleshooting 7 216 April 27, 2026",
+    "summary": "customizations , troubleshooting 7 217 April 27, 2026",
     "published_at": null,
-    "discovered_at": "2026-05-03T17:08:36.542793+00:00",
+    "discovered_at": "2026-05-04T04:09:32.020949+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -316,7 +316,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-03T17:08:37.661608+00:00",
+    "discovered_at": "2026-05-04T04:09:32.763856+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -366,7 +366,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-03T17:08:37.667459+00:00",
+    "discovered_at": "2026-05-04T04:09:32.769616+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -416,7 +416,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-03T17:08:38.520145+00:00",
+    "discovered_at": "2026-05-04T04:09:33.431833+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -466,7 +466,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-03T17:08:37.668086+00:00",
+    "discovered_at": "2026-05-04T04:09:32.770232+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
