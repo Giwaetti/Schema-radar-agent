@@ -40,6 +40,26 @@
     "follow_up_draft": "Just following up in case you still want hands-on schema help for Preview. You can reach me at schemaagent@gmail.com."
   },
   {
+    "item_id": "98f68c72f84014a1",
+    "stage": "hot",
+    "score": 13,
+    "source": "Reddit /r/TechSEO",
+    "source_type": "forum",
+    "title": "Schema is a requirement for most SERP features",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1t4zfli/schema_is_a_requirement_for_most_serp_features",
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "business_name": null,
+    "business_url": null,
+    "reply_subject": "Best fit for: Schema is a requirement for most SERP features",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com."
+  },
+  {
     "item_id": "7cad77e02dd47c6d",
     "stage": "hot",
     "score": 13,
@@ -77,26 +97,6 @@
     "business_url": null,
     "reply_subject": "Best fit for: JSON-LD Product Schema syntax issues (Data Types & Case Sens",
     "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for product_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces"
-  },
-  {
-    "item_id": "aef5b42ed1dac0fd",
-    "stage": "watch",
-    "score": 6,
-    "source": "Reddit /r/TechSEO",
-    "source_type": "forum",
-    "title": "Can technical SEO actually be automated?",
-    "source_url": "https://www.reddit.com/r/TechSEO/comments/1sx2u3a/can_technical_seo_actually_be_automated",
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "business_name": null,
-    "business_url": null,
-    "reply_subject": "Best fit for: Can technical SEO actually be automated?",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for missing_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
     "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces"
   },
   {
