@@ -8,7 +8,7 @@
     "title": "[PSA] Please stop parroting that you need Schema for SERP Features",
     "summary": "I'm not trying to reduce workload for Web Devs/Agencies/Freelancers. I just want to bring honestly and reality to SEO. You do not need schema to get SERP features, you do not need schema for most things in SEO. For flights, ecommerce, and jobs you absolutely need Schema - that is a publishing requirements for how those views in Google search were built. They are not additive - they are not an &quot;optimization&quot; - they are a requirement. And getting Job schema wrong can and will result in a Manual Action. But that is not &quot;SEO&quot; If you're just perpetuating it - just pause for thought. The FAQ Schema document on Google lists this: Feature availability FAQ rich results are only available for well-known, authoritative websites that are government-focused or health-focused. The feature is available on desktop and mobile devices in all countries and languages where Google Search is available. The above is free and publicly available. Source: https://developers.google.com/search/docs/appearance/structured-data/faqpage If you're parroting SEO advice that isn't true - just ask yourself why you're doing it - because I have no idea... If you feel compelled to get into a debate about reality - do - but please dont feel free to start calling people names just because you only like confirmation bias. &#32; submitted by &#32; /u/WebLinkr [link] &#32; [comments]",
     "published_at": "2026-05-05T15:51:37+00:00",
-    "discovered_at": "2026-05-06T17:52:57.877211+00:00",
+    "discovered_at": "2026-05-07T04:05:42.146152+00:00",
     "stage": "hot",
     "score": 19,
     "score_breakdown": {
@@ -90,7 +90,7 @@
     "title": "Schema is a requirement for most SERP features",
     "summary": "This post is to counter WebLinkrs post titled “PSA stop parroting schema is needed for SERP features”. He deleted that post after I presented him with Google’s documentation on Rich Results (the most common type of SERP feature): “Google uses structured data to understand the content on the page and show that content in a richer appearance in search results, which is called a rich result . To make your site eligible for appearance as one of these rich results, follow the guide to learn how to implement structured data on your site. If you're just getting started, visit Understand how structured data works.” From a technical perspective he had no idea that schema is a requirement for Rich Results. So anyway, it is a fact that schema is a requirement for Rich Results, and in the future I’d be weary of taking SEO advice from someone that doesn’t have basic technical knowledge. &#32; submitted by &#32; /u/arejayismyname [link] &#32; [comments]",
     "published_at": "2026-05-06T02:00:08+00:00",
-    "discovered_at": "2026-05-06T17:52:57.876946+00:00",
+    "discovered_at": "2026-05-07T04:05:42.145911+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -147,7 +147,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-06T17:53:00.656478+00:00",
+    "discovered_at": "2026-05-07T04:05:44.202231+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -211,7 +211,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-06T17:53:00.659756+00:00",
+    "discovered_at": "2026-05-07T04:05:44.204641+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -267,7 +267,7 @@
     "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
     "summary": "customizations , troubleshooting 7 219 April 27, 2026",
     "published_at": null,
-    "discovered_at": "2026-05-06T17:52:59.160605+00:00",
+    "discovered_at": "2026-05-07T04:05:43.386121+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -325,7 +325,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-06T17:53:00.656243+00:00",
+    "discovered_at": "2026-05-07T04:05:44.202052+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -375,7 +375,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-06T17:53:00.662130+00:00",
+    "discovered_at": "2026-05-07T04:05:44.206325+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -425,7 +425,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-06T17:53:01.195946+00:00",
+    "discovered_at": "2026-05-07T04:05:44.816371+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -475,7 +475,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-06T17:53:00.662876+00:00",
+    "discovered_at": "2026-05-07T04:05:44.206881+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
