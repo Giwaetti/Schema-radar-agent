@@ -8,7 +8,7 @@
     "title": "Google: FAQ rich results are no longer appearing in Google Search Result Appearances [Official]",
     "summary": "From u/lilray on X (via GlennGabe) - thanks for sharing As of May 7, 2026, FAQ rich results are no longer appearing in Google Search. We will be dropping the FAQ search appearance, rich result report, and support in the Rich results test in June 2026. To allow time for adjusting your API calls, support for the FAQ rich result in the Search Console API will be removed in August 2026. As this sub and many of our related experts that we share, like u/jakehundley - Mod of r/agency - a great sister sub to r/SEO and r/SEO_Digital_Marketing - this isn't surprising. As we said - Google doesnt actually read FAQ Schema anyway - because less than 0.001% of site qualify &#32; submitted by &#32; /u/WebLinkr [link] &#32; [comments]",
     "published_at": "2026-05-08T16:48:29+00:00",
-    "discovered_at": "2026-05-09T09:43:37.107427+00:00",
+    "discovered_at": "2026-05-09T17:12:53.961867+00:00",
     "stage": "hot",
     "score": 20,
     "score_breakdown": {
@@ -91,7 +91,7 @@
     "title": "Indexing issues, Please Help!",
     "summary": "I’m facing a weird indexing issue with 2 pages on a client website and wanted some opinions from experienced SEOs here. When I got this project, the website was in a very poor SEO state. There were almost no internal links, barely any backlinks, no proper technical optimization, no schema, weak content structure, etc. The previous agency had apparently already been trying to get these pages indexed, but they never succeeded. After I took over the project, I completely reworked both pages: - Rewrote and restructured the content - Added FAQs - Implemented schema markup - Improved on-page SEO - Added internal linking - Worked on technical SEO improvements - Optimized metadata and page structure Basically, I did almost everything that would normally help with crawling and indexing. But even after all this, those 2 pages are still not getting indexed in Google. What’s confusing is that other pages on the website are indexing normally. It’s only these two pages that seem stuck. So I wanted to ask: - What are the possible hidden reasons for this? - Could it be because Google had already devalued or ignored these URLs before? - Could crawl quality/history of the site affect indexing this much? - Has anyone faced a similar situation where everything looked technically correct but pages still refused to index? Would really appreciate any advanced insights or troubleshooting ideas. &#32; submitted by &#32; /u/NightRaven_77 [link] &#32; [comments]",
     "published_at": "2026-05-08T03:41:37+00:00",
-    "discovered_at": "2026-05-09T09:43:37.108431+00:00",
+    "discovered_at": "2026-05-09T17:12:53.962891+00:00",
     "stage": "hot",
     "score": 14,
     "score_breakdown": {
@@ -154,63 +154,6 @@
     ]
   },
   {
-    "item_id": "98f68c72f84014a1",
-    "source": "Reddit /r/TechSEO",
-    "source_id": "reddit-techseo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/TechSEO/comments/1t4zfli/schema_is_a_requirement_for_most_serp_features",
-    "title": "Schema is a requirement for most SERP features",
-    "summary": "This post is to counter WebLinkrs post titled “PSA stop parroting schema is needed for SERP features”. He deleted that post after I presented him with Google’s documentation on Rich Results (the most common type of SERP feature): “Google uses structured data to understand the content on the page and show that content in a richer appearance in search results, which is called a rich result . To make your site eligible for appearance as one of these rich results, follow the guide to learn how to implement structured data on your site. If you're just getting started, visit Understand how structured data works.” From a technical perspective he had no idea that schema is a requirement for Rich Results. So anyway, it is a fact that schema is a requirement for Rich Results, and in the future I’d be weary of taking SEO advice from someone that doesn’t have basic technical knowledge. &#32; submitted by &#32; /u/arejayismyname [link] &#32; [comments]",
-    "published_at": "2026-05-06T02:00:08+00:00",
-    "discovered_at": "2026-05-09T09:43:37.571441+00:00",
-    "stage": "hot",
-    "score": 13,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data",
-          "rich results",
-          "rich result"
-        ],
-        "implementation_intent": [
-          "implement"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "implementation_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "implement"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Treat this as a direct service lead first.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Schema is a requirement for most SERP features",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "techseo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -219,7 +162,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-09T09:43:39.379926+00:00",
+    "discovered_at": "2026-05-09T17:12:57.301975+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -275,6 +218,71 @@
     ]
   },
   {
+    "item_id": "cbc0ae8ef41bfcfe",
+    "source": "Shopify Community SEO Forum",
+    "source_id": "shopify-seo-forum",
+    "source_type": "forum",
+    "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
+    "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
+    "summary": "troubleshooting 6 50 May 9, 2026",
+    "published_at": null,
+    "discovered_at": "2026-05-09T17:12:56.129394+00:00",
+    "stage": "warm",
+    "score": 11,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "product snippet",
+          "product snippets"
+        ],
+        "implementation_intent": [
+          "troubleshoot"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "group_points": {
+        "schema_core": 8,
+        "implementation_intent": 2,
+        "platforms": 1
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [
+      "product_schema"
+    ],
+    "intent_flags": [
+      "troubleshoot"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Shopify Markets caused collapse in Google product snippets &",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
+    "tags": [
+      "shopify",
+      "community",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -283,7 +291,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-09T09:43:39.382455+00:00",
+    "discovered_at": "2026-05-09T17:12:57.305298+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -331,6 +339,64 @@
     ]
   },
   {
+    "item_id": "9b154d919a8f1b77",
+    "source": "Shopify Community SEO Forum",
+    "source_id": "shopify-seo-forum",
+    "source_type": "forum",
+    "source_url": "https://community.shopify.com/t/liquid-schema-help-mapping-custom-shipping-return-metafields-to-googles-structured-data/576464",
+    "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
+    "summary": "customizations , troubleshooting 7 222 April 27, 2026",
+    "published_at": null,
+    "discovered_at": "2026-05-09T17:12:56.134555+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "implementation_intent": [
+          "troubleshoot"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "troubleshoot"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Liquid/Schema Help: Mapping Custom Shipping/Return Metafield",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
+    "tags": [
+      "shopify",
+      "community",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "edc10e191b0d9746",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -339,7 +405,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-09T09:43:39.379742+00:00",
+    "discovered_at": "2026-05-09T17:12:57.301746+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -389,7 +455,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-09T09:43:39.384166+00:00",
+    "discovered_at": "2026-05-09T17:12:57.307558+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -439,7 +505,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-09T09:43:40.064474+00:00",
+    "discovered_at": "2026-05-09T17:12:58.507016+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -489,7 +555,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-09T09:43:39.384626+00:00",
+    "discovered_at": "2026-05-09T17:12:57.308160+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
