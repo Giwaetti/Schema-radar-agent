@@ -8,7 +8,7 @@
     "title": "Google: FAQ rich results are no longer appearing in Google Search Result Appearances [Official]",
     "summary": "From u/lilray on X (via GlennGabe) - thanks for sharing As of May 7, 2026, FAQ rich results are no longer appearing in Google Search. We will be dropping the FAQ search appearance, rich result report, and support in the Rich results test in June 2026. To allow time for adjusting your API calls, support for the FAQ rich result in the Search Console API will be removed in August 2026. As this sub and many of our related experts that we share, like u/jakehundley - Mod of r/agency - a great sister sub to r/SEO and r/SEO_Digital_Marketing - this isn't surprising. As we said - Google doesnt actually read FAQ Schema anyway - because less than 0.001% of site qualify &#32; submitted by &#32; /u/WebLinkr [link] &#32; [comments]",
     "published_at": "2026-05-08T16:48:29+00:00",
-    "discovered_at": "2026-05-09T17:12:53.961867+00:00",
+    "discovered_at": "2026-05-10T04:15:36.800625+00:00",
     "stage": "hot",
     "score": 20,
     "score_breakdown": {
@@ -91,7 +91,7 @@
     "title": "Indexing issues, Please Help!",
     "summary": "I’m facing a weird indexing issue with 2 pages on a client website and wanted some opinions from experienced SEOs here. When I got this project, the website was in a very poor SEO state. There were almost no internal links, barely any backlinks, no proper technical optimization, no schema, weak content structure, etc. The previous agency had apparently already been trying to get these pages indexed, but they never succeeded. After I took over the project, I completely reworked both pages: - Rewrote and restructured the content - Added FAQs - Implemented schema markup - Improved on-page SEO - Added internal linking - Worked on technical SEO improvements - Optimized metadata and page structure Basically, I did almost everything that would normally help with crawling and indexing. But even after all this, those 2 pages are still not getting indexed in Google. What’s confusing is that other pages on the website are indexing normally. It’s only these two pages that seem stuck. So I wanted to ask: - What are the possible hidden reasons for this? - Could it be because Google had already devalued or ignored these URLs before? - Could crawl quality/history of the site affect indexing this much? - Has anyone faced a similar situation where everything looked technically correct but pages still refused to index? Would really appreciate any advanced insights or troubleshooting ideas. &#32; submitted by &#32; /u/NightRaven_77 [link] &#32; [comments]",
     "published_at": "2026-05-08T03:41:37+00:00",
-    "discovered_at": "2026-05-09T17:12:53.962891+00:00",
+    "discovered_at": "2026-05-10T04:15:36.801575+00:00",
     "stage": "hot",
     "score": 14,
     "score_breakdown": {
@@ -162,7 +162,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-09T17:12:57.301975+00:00",
+    "discovered_at": "2026-05-10T04:15:39.972003+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -224,9 +224,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
     "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
-    "summary": "troubleshooting 6 50 May 9, 2026",
+    "summary": "troubleshooting 9 60 May 10, 2026",
     "published_at": null,
-    "discovered_at": "2026-05-09T17:12:56.129394+00:00",
+    "discovered_at": "2026-05-10T04:15:38.917398+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -291,7 +291,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-09T17:12:57.305298+00:00",
+    "discovered_at": "2026-05-10T04:15:39.975240+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -347,7 +347,7 @@
     "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
     "summary": "customizations , troubleshooting 7 222 April 27, 2026",
     "published_at": null,
-    "discovered_at": "2026-05-09T17:12:56.134555+00:00",
+    "discovered_at": "2026-05-10T04:15:38.922359+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -405,7 +405,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-09T17:12:57.301746+00:00",
+    "discovered_at": "2026-05-10T04:15:39.971776+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -455,7 +455,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-09T17:12:57.307558+00:00",
+    "discovered_at": "2026-05-10T04:15:39.977490+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -505,7 +505,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-09T17:12:58.507016+00:00",
+    "discovered_at": "2026-05-10T04:15:41.180884+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -555,7 +555,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-09T17:12:57.308160+00:00",
+    "discovered_at": "2026-05-10T04:15:39.978082+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
