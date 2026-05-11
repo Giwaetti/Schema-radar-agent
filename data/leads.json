@@ -8,7 +8,7 @@
     "title": "Google: FAQ rich results are no longer appearing in Google Search Result Appearances [Official]",
     "summary": "From u/lilray on X (via GlennGabe) - thanks for sharing As of May 7, 2026, FAQ rich results are no longer appearing in Google Search. We will be dropping the FAQ search appearance, rich result report, and support in the Rich results test in June 2026. To allow time for adjusting your API calls, support for the FAQ rich result in the Search Console API will be removed in August 2026. As this sub and many of our related experts that we share, like u/jakehundley - Mod of r/agency - a great sister sub to r/SEO and r/SEO_Digital_Marketing - this isn't surprising. As we said - Google doesnt actually read FAQ Schema anyway - because less than 0.001% of site qualify &#32; submitted by &#32; /u/WebLinkr [link] &#32; [comments]",
     "published_at": "2026-05-08T16:48:29+00:00",
-    "discovered_at": "2026-05-11T11:36:55.157511+00:00",
+    "discovered_at": "2026-05-11T18:05:15.402014+00:00",
     "stage": "hot",
     "score": 20,
     "score_breakdown": {
@@ -83,6 +83,77 @@
     ]
   },
   {
+    "item_id": "0b8dc5755b864e29",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1ta1inq/mismatch_google_search_result_shows_2026_but",
+    "title": "Mismatch: Google Search Result shows 2026, but Sitemap Lastmod is stuck in 2019. How much does this hurt?",
+    "summary": "I’m managing a Custom-built Static HTML site (no CMS) and I’ve run into a strange technical discrepancy that I suspect is causing a traffic drop. The Setup: I recently updated our high-traffic &quot;China Visa Guide&quot; page with fresh content for 2026 . The Issues: The Date Mismatch: Google has crawled the page, and the search snippet actually shows the updated date: &quot;27 Apr 2026&quot; . However, the sitemap.xml was never manually updated and still shows &lt;lastmod&gt;2019-08-03&lt;/lastmod&gt; for this URL. Critical GSC Errors: Google Search Console is showing 8 Invalid Items under Review Snippets. The error is &quot;Multiple aggregate ratings detected&quot; (devs hardcoded conflicting ratings from FB and Trustpilot into the schema). The Performance: Our rankings for this keyword have started to slide, and organic traffic is on a steady decline. My Questions: Does having a 7-year-old lastmod date in the sitemap negatively affect the 'Crawl Priority' or 'Trust Score', even if Google can see the on-page content is new? Could the Multiple Aggregate Ratings error be triggering a quality penalty that overrides the fact that the content is updated and human-written? On a static site, is it absolutely necessary to keep the sitemap and schema perfectly synced with the on-page date to maintain rankings in 2026? I’m trying to prioritize our dev backlog and want to know if these are &quot;Critical Fixes&quot; or just &quot;Minor UI bugs&quot; in Google's eyes. Any insights or official Google documentation on this would be appreciated! &#32; submitted by &#32; /u/Global-Adventures [link] &#32; [comments]",
+    "published_at": "2026-05-11T12:14:52+00:00",
+    "discovered_at": "2026-05-11T18:05:15.400429+00:00",
+    "stage": "hot",
+    "score": 17,
+    "score_breakdown": {
+      "matches": {
+        "schema_types": [
+          "aggregate rating",
+          "review snippet"
+        ],
+        "schema_errors": [
+          "invalid item",
+          "invalid items"
+        ],
+        "implementation_intent": [
+          "fix",
+          "setup",
+          "error"
+        ]
+      },
+      "group_points": {
+        "schema_types": 6,
+        "schema_errors": 6,
+        "implementation_intent": 4
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "sitemap",
+        "traffic drop"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "missing_schema",
+      "product_schema"
+    ],
+    "intent_flags": [
+      "fix",
+      "setup",
+      "error"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Mismatch: Google Search Result shows 2026, but Sitemap Lastm",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with missing_schema, product_schema, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -91,7 +162,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-11T11:36:57.445350+00:00",
+    "discovered_at": "2026-05-11T18:05:17.822110+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -147,6 +218,71 @@
     ]
   },
   {
+    "item_id": "cbc0ae8ef41bfcfe",
+    "source": "Shopify Community SEO Forum",
+    "source_id": "shopify-seo-forum",
+    "source_type": "forum",
+    "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
+    "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
+    "summary": "troubleshooting 10 78 May 10, 2026",
+    "published_at": null,
+    "discovered_at": "2026-05-11T18:05:16.896708+00:00",
+    "stage": "warm",
+    "score": 11,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "product snippet",
+          "product snippets"
+        ],
+        "implementation_intent": [
+          "troubleshoot"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "group_points": {
+        "schema_core": 8,
+        "implementation_intent": 2,
+        "platforms": 1
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [
+      "product_schema"
+    ],
+    "intent_flags": [
+      "troubleshoot"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Shopify Markets caused collapse in Google product snippets &",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
+    "tags": [
+      "shopify",
+      "community",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -155,7 +291,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-11T11:36:57.447819+00:00",
+    "discovered_at": "2026-05-11T18:05:17.824507+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -203,6 +339,64 @@
     ]
   },
   {
+    "item_id": "9b154d919a8f1b77",
+    "source": "Shopify Community SEO Forum",
+    "source_id": "shopify-seo-forum",
+    "source_type": "forum",
+    "source_url": "https://community.shopify.com/t/liquid-schema-help-mapping-custom-shipping-return-metafields-to-googles-structured-data/576464",
+    "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
+    "summary": "customizations , troubleshooting 7 224 April 27, 2026",
+    "published_at": null,
+    "discovered_at": "2026-05-11T18:05:16.899802+00:00",
+    "stage": "watch",
+    "score": 6,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "implementation_intent": [
+          "troubleshoot"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "troubleshoot"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Liquid/Schema Help: Mapping Custom Shipping/Return Metafield",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
+    "tags": [
+      "shopify",
+      "community",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "edc10e191b0d9746",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -211,7 +405,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-11T11:36:57.445161+00:00",
+    "discovered_at": "2026-05-11T18:05:17.821935+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -261,7 +455,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-11T11:36:57.449615+00:00",
+    "discovered_at": "2026-05-11T18:05:17.826144+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -311,7 +505,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-11T11:36:57.863524+00:00",
+    "discovered_at": "2026-05-11T18:05:18.624523+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -361,7 +555,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-11T11:36:57.450095+00:00",
+    "discovered_at": "2026-05-11T18:05:17.826598+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
