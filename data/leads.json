@@ -8,7 +8,7 @@
     "title": "Google: FAQ rich results are no longer appearing in Google Search Result Appearances [Official]",
     "summary": "From u/lilray on X (via GlennGabe) - thanks for sharing As of May 7, 2026, FAQ rich results are no longer appearing in Google Search. We will be dropping the FAQ search appearance, rich result report, and support in the Rich results test in June 2026. To allow time for adjusting your API calls, support for the FAQ rich result in the Search Console API will be removed in August 2026. As this sub and many of our related experts that we share, like u/jakehundley - Mod of r/agency - a great sister sub to r/SEO and r/SEO_Digital_Marketing - this isn't surprising. As we said - Google doesnt actually read FAQ Schema anyway - because less than 0.001% of site qualify &#32; submitted by &#32; /u/WebLinkr [link] &#32; [comments]",
     "published_at": "2026-05-08T16:48:29+00:00",
-    "discovered_at": "2026-05-11T04:36:49.957781+00:00",
+    "discovered_at": "2026-05-11T11:36:55.157511+00:00",
     "stage": "hot",
     "score": 20,
     "score_breakdown": {
@@ -91,7 +91,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-11T04:36:52.332179+00:00",
+    "discovered_at": "2026-05-11T11:36:57.445350+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -147,71 +147,6 @@
     ]
   },
   {
-    "item_id": "cbc0ae8ef41bfcfe",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
-    "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
-    "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
-    "summary": "troubleshooting 10 72 May 10, 2026",
-    "published_at": null,
-    "discovered_at": "2026-05-11T04:36:51.430404+00:00",
-    "stage": "warm",
-    "score": 11,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "product snippet",
-          "product snippets"
-        ],
-        "implementation_intent": [
-          "troubleshoot"
-        ],
-        "platforms": [
-          "shopify"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "implementation_intent": 2,
-        "platforms": 1
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "shopify"
-    ],
-    "issue_types": [
-      "product_schema"
-    ],
-    "intent_flags": [
-      "troubleshoot"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_generator",
-    "offer_fit": "AI Generator",
-    "action_hint": "Position it as faster schema output for recurring implementation work.",
-    "sales_route": "forum_reply",
-    "cta_label": "Open the AI Generator",
-    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Shopify Markets caused collapse in Google product snippets &",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
-    "tags": [
-      "shopify",
-      "community",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -220,7 +155,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-11T04:36:52.335395+00:00",
+    "discovered_at": "2026-05-11T11:36:57.447819+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -268,64 +203,6 @@
     ]
   },
   {
-    "item_id": "9b154d919a8f1b77",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
-    "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/liquid-schema-help-mapping-custom-shipping-return-metafields-to-googles-structured-data/576464",
-    "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
-    "summary": "customizations , troubleshooting 7 223 April 27, 2026",
-    "published_at": null,
-    "discovered_at": "2026-05-11T04:36:51.435448+00:00",
-    "stage": "watch",
-    "score": 6,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "implementation_intent": [
-          "troubleshoot"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 2
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "shopify"
-    ],
-    "issue_types": [],
-    "intent_flags": [
-      "troubleshoot"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_generator",
-    "offer_fit": "AI Generator",
-    "action_hint": "Position it as faster schema output for recurring implementation work.",
-    "sales_route": "forum_reply",
-    "cta_label": "Open the AI Generator",
-    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Liquid/Schema Help: Mapping Custom Shipping/Return Metafield",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
-    "tags": [
-      "shopify",
-      "community",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "edc10e191b0d9746",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -334,7 +211,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-11T04:36:52.331954+00:00",
+    "discovered_at": "2026-05-11T11:36:57.445161+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -384,7 +261,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-11T04:36:52.337652+00:00",
+    "discovered_at": "2026-05-11T11:36:57.449615+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -434,7 +311,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-11T04:36:53.065051+00:00",
+    "discovered_at": "2026-05-11T11:36:57.863524+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -484,7 +361,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-11T04:36:52.338269+00:00",
+    "discovered_at": "2026-05-11T11:36:57.450095+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
