@@ -1,11 +1,11 @@
 item_id,stage,score,source,source_type,title,source_url,offer_key,offer_fit,sales_route,cta_label,cta_destination,contact_email,business_name,business_url,reply_subject,reply_draft,follow_up_draft
-01fb268be496b261,hot,20,Reddit /r/SEO,forum,Google: FAQ rich results are no longer appearing in Google Search Result Appearances [Official],https://www.reddit.com/r/SEO/comments/1t7di79/google_faq_rich_results_are_no_longer_appearing,direct_service,Done-for-you / service,email_contact,Email for direct help,mailto:schemaagent@gmail.com,schemaagent@gmail.com,External Preview,https://external-preview.redd.it/r5_thhLfwKLW5XtLcuEjH9dxFZH2_8YngxD5fZ5srqQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a8544c6d04689d9a56ea06166c0dc0504bfe6c1,Schema help for External Preview,"Here’s the fastest route I’d take.
+ee6fda47f2ec515e,hot,21,Reddit /r/shopify,forum,"This Week's Top E-commerce News Stories 💥 May 11th, 2026",https://www.reddit.com/r/shopify/comments/1taf1we/this_weeks_top_ecommerce_news_stories_may_11th,direct_service,Done-for-you / service,email_contact,Email for direct help,mailto:schemaagent@gmail.com,schemaagent@gmail.com,,,"Best fit for: This Week's Top E-commerce News Stories 💥 May 11th, 2026","Here’s the fastest route I’d take.
 
-This looks more hands-on than a template-only fix. If you want direct help with faq_schema, email schemaagent@gmail.com.
+This looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.
 
-Treat this as a direct service lead first.
+Respond as hands-on implementation help for an active schema problem.
 
-Best next step: email schemaagent@gmail.com with the page URL and the exact issue.",Just following up in case you still want hands-on schema help for External Preview. You can reach me at schemaagent@gmail.com.
+Best next step: email schemaagent@gmail.com with the page URL and the exact issue.",Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.
 0b8dc5755b864e29,hot,17,Reddit /r/SEO,forum,"Mismatch: Google Search Result shows 2026, but Sitemap Lastmod is stuck in 2019. How much does this hurt?",https://www.reddit.com/r/SEO/comments/1ta1inq/mismatch_google_search_result_shows_2026_but,direct_service,Done-for-you / service,email_contact,Email for direct help,mailto:schemaagent@gmail.com,schemaagent@gmail.com,,,"Best fit for: Mismatch: Google Search Result shows 2026, but Sitemap Lastm","Here’s the fastest route I’d take.
 
 This looks more hands-on than a template-only fix. If you want direct help with missing_schema, product_schema, email schemaagent@gmail.com.
@@ -20,6 +20,13 @@ This looks more hands-on than a template-only fix. If you want direct help with 
 Treat this as a direct service lead first.
 
 Best next step: email schemaagent@gmail.com with the page URL and the exact issue.",Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.
+383efeb874f94217,warm,11,Reddit /r/SEO,forum,Built a CLI that tells me if GPTBot/ClaudeBot/Perplexity can actually reach my site (and where the block is),https://www.reddit.com/r/SEO/comments/1tabkgw/built_a_cli_that_tells_me_if,ai_visibility_kit,AI Visibility Kit,forum_reply,Get the AI Visibility Kit,https://schemaagent.gumroad.com/l/rfces,schemaagent@gmail.com,My Site,https://my-site.com/,Schema help for My Site,"You can solve this without overcomplicating the build.
+
+It looks like the fastest fix here is a simple schema implementation path for My Site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.
+
+Lead with a lightweight, lower-friction offer.
+
+Best next step: https://schemaagent.gumroad.com/l/rfces",Following up in case you still want the quickest route to get this live for My Site. Best fit: https://schemaagent.gumroad.com/l/rfces
 cbc0ae8ef41bfcfe,warm,11,Shopify Community SEO Forum,forum,Shopify Markets caused collapse in Google product snippets & organic impressions,https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588,ai_generator,AI Generator,forum_reply,Open the AI Generator,https://schemaagent.gumroad.com/l/wikuuu,schemaagent@gmail.com,,,Best fit for: Shopify Markets caused collapse in Google product snippets &,"You can solve this without overcomplicating the build.
 
 This looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.
