@@ -8,7 +8,7 @@
     "title": "This Week's Top E-commerce News Stories 💥 May 11th, 2026",
     "summary": "Hi r/Shopify - I'm Paul and I follow the e-commerce industry closely for my Shopifreaks E-commerce Newsletter, which I've published weekly since 2021. I was invited by the Mods of this subreddit to share my weekly e-commerce news recaps (ie: shorter versions of my full editions) to r/Shopify . Although my news recaps aren't strictly about Shopify (some weeks Shopify is covered more than others), I hope they bring value to your business no matter what platform you're on. Let's dive into this week's top stories... STAT OF THE WEEK: Anthropic's new Mythos AI model helped Firefox ship 423 bug fixes in April 2026, compared to just 31 fixes a year earlier. Mozilla researchers said the model is finding sandbox vulnerabilities at a higher rate than human researchers, with Mythos uncovering some bugs that had been dormant in the code for over a decade. Last month I reported that the World Trade Organization's 28-year global moratorium on e-commerce tariffs expired without renewal at the organization's 14th ministerial conference in Yaoundé, Cameroon, after Brazil and Turkey blocked an extension. The WTO General Council met in Geneva to try and break the deadlock, but Brazil held firm in its opposition to a four-year extension, though Turkey finally dropped its objection. Brazil's argument is essentially: why should developing countries subsidize U.S. tech while taxing their own homegrown solutions? Although I'm an American, I tend to agree with them. With full consensus still not reached, 19 countries including the U.S., Japan, South Korea, Singapore, Australia, Norway, and Argentina launched a plurilateral pact among themselves not to impose duties on electronic transmissions for an unspecified period, which took effect May 8. The agreement invited other countries to join the pact. Amazon launched Amazon Supply Chain Services, a new service that opens its full portfolio of freight, distribution, fulfillment, and parcel shipping capabilities to all businesses, regardless of whether they sell on Amazon Marketplace. The move to tie together all of its supply-chain services in one place puts Amazon in direct competition with international transportation and warehousing giants like DSV, DHL Group, and Kuehne + Nagel International, and positions the company to take a chunk of the $1.3 trillion global market for third-party logistics services. Amazon is seeking to attract industries far beyond retail into its logistics ecosystem such as healthcare, automotive, and manufacturing. For example, Procter &amp; Gamble is using Amazon's freight network to ship raw materials to production facilities, and 3M is moving products from manufacturing sites to distribution centers worldwide. The markets reacted to the news with UPS and FedEx share prices dropping 10% and 9% respectively, plus double-digit declines for GXO Logistics and Forward Air. OpenAI expanded its ChatGPT ads platform with a new new Ads Manager allows businesses to register as advertisers, set budgets, bids, and pacing, launch and manage campaigns, and view performance in the portal. Previously, advertisers had to work directly with OpenAI's sales team or go through agency partners like Dentsu, Omnicom, Publicis, or WPP to buy and manage ChatGPT ads, with limited reporting or insights available to advertisers. Additionally, OpenAI added CPC bidding to its offering, whereas the company previously only offered ads on a CPM basis during the pilot. Two days after the Ads Manager and CPC news, OpenAI announced that it would expand its ChatGPT ads pilot to the UK, Mexico, Brazil, Japan, and South Korea in the coming weeks. Entonces, prepárate para anuncios en español pronto. Y también… konnichiwa! Shopify launched new ChatGPT and Claude connector apps that let merchants manage their entire store from within either AI assistant, including the ability to do things like look up orders, update product prices, and ask how new collections are selling. The launch follows last month's release of the Shopify AI Toolkit, which lets developers manage a store through agents like Claude Code and Cursor, while these new connectors are designed for merchants working in ChatGPT or Claude on their phones. Through the connector apps, merchants can perform tasks like uploading a product photo and asking the AI assistants to add the product to their store, requesting custom reporting on demand, or quickly applying discounts across a particular collection. Really cool stuff, but I'm personally hesitant to connect either AI assistant to my live Shopify store yet. I'll be testing the waters on a development store to begin with, which you should probably do too. Don't say I didn't warn you! Shopify has also has begun quietly rolling out native llms.txt files to stores without an official announcement yet, as spotted by Anton Ekström. The file, which is accessible at yourstore-com/llms.txt, includes store metadata like currency and contact details, direct links to product listings and search, agent instructions via dedicated endpoints, and UCP support and MCP endpoints for programmatic commerce. Funny enough, the file also contains a direct advertisement for Shopify and a call to action to create your own store! LOL, who are they advertising that to? The LLMs? Meta is building a consumer version of the AI agent OpenClaw and a new agentic shopping tool, according to The Information sources. Meta tried to acquire OpenClaw earlier this year, but its creator, Peter Steinberger, ended up being acqui-hired by OpenAI instead, so this is apparently the company's response. The goal of the OpenClaw-inspired agent, which the company is internally calling “Hatch,” is to be able to perform a range of tasks for users such as ordering food on DoorDash, buying gifts on Etsy, scrolling Reddit, finding restaurants on Yelp, or managing e-mail in Outlook. Meta has already built a “sandboxed” web environment where the agent can be tested on simulations of real websites, with the goal of doing live internal testing by the end of June. Th company also plans to integrate the agentic shopping tool into Instagram and is targeting a launch before Q4 this year, according to sources. A kind of funny detail about this news story is that Hatch is currently being powered by Anthropic's Claude Opus 4.6 and Claude Sonnet 4.6 models, instead of a Meta AI model, but the company plans to power the agent with Meta's Muse Spark when it actually launches. Google released a wave of AI-driven updates to Search, Shopping, and Ads last week ahead of its Marketing Live event on May 20, where the company is expected to announce even more. Recent updates include: 1) Five changes to AI Mode and AI Overviews to make links more visible and clickable to users. 2) Three updates to AI Max that lets Google generate ad copy from GMC feed attributes and run ads in AI Overviews and AI Mode, as well as a feature that lets advertisers describe campaign preferences in natural language. 3) A new GMC feature that lets advertisers populate product listings by running a one-time AI scan of their website, bypassing the need to prepare a structured product feed before launching Shopping campaigns. 4) Three new AI-powered bidding and budgeting innovations including a smart bidding exploration expansion that's designed to help Pmax and Shopping campaigns capture more &quot;long tail&quot; queries. More witnesses have taken the stand in the Elon Musk vs Sam Altman trial , which has revealed shocking new information about OpenAI including: 1) President Greg Brockman confirmed the company is exploring an IPO, and his stake will be worth near $30B despite not having made a financial investment in the company. 2) OpenAI expects to burn $50B in computing power before the end of the year. 3) Sam Altman lied about the safety standards for a new AI model, falsely telling his former CTO that OpenAI's legal team had determined it did not need to go through the company's deployment safety board. 5) Microsoft did not actually want to invest in OpenAI, but feared they would go to Amazon instead and &quot;shit-talk us.&quot; Ooo Weee this case is getting juicy! Stay tuned for more. CEOs across retail, restaurants, and packaged goods have stepped out of their ivory towers to affirmatively declare that consumers are “running out of money” and cutting back on discretionary spending, as gas prices hit $4.56/gal on average, the highest levels since July 2022. Kraft Heinz CEO Steve Cahillane said consumers are “literally running out of money at the end of the month,” with negative cash flows in lower-income brackets where shoppers are dipping into savings. McDonald's CEO Chris Kempczinski took a break from consuming his product to say that confidence among shoppers is worsening, citing “heightened anxiety” and gas prices that disproportionately impact low-income households. Planet Fitness CEO Colleen Keating forgot to wipe down her machine before saying, “the consumer and economic backdrop have shifted,” noting that the gym paused the national rollout of a price increase to its top-tier membership. Bloomberg reports that the average American's savings rate dropped in March to the lowest in three years, and that low-income consumers have already cut back on gasoline consumption and discretionary spending. A crowdfunding effort to buy and revive Spirit Airlines is picking up steam, with more than 371k travelers pledging more than $337M to acquire the now-defunct airline. Hunter Peterson, a content creator who started the letsbuyspiritair-com website, said that “this started as a joke and this is rapidly going out of control in the best possible way,” and is now seeking developers, public relations professionals, aviation lawyers, and airline executives to help advance the plan. The effort is unlikely to succeed because Spirit is already going through formal liquidation and its assets will be allocated by the bankruptcy court, but as an avid traveler, I support the campaign entirely and made a pledge myself. Though it probably won't lead to the purchase of Spirit, perhaps the campaign will kickstart the launch of a new homegrown traveler-led airline. Let's start with one plane and one route and see where it goes! btw, despite the rumors, Elon Musk is NOT swooping in to buy the airline and change its name to SpiritX. Klaviyo expanded its integration with Anthropic to bring new agentic marketing workflows to Claude's products, allowing marketers to ask Claude to generate performance summaries, identify customer segments, analyze marketing flows, or propose new campaigns using natural language without having to export data or rebuild dashboards. The updated Klaviyo MCP Connector lets marketers describe an outcome in Claude Cowork like “audit my flows,” “build weekly reports,” or “draft re-engagement campaigns,” with Claude pulling Klaviyo data, generating copy, and saving formatted files to the right folders in a single session. Klaviyo co-founder and co-CEO Andrew Bialecki said that “marketing teams are drowning in reporting and repetitive production work” and that the integration turns Claude into “an agentic surface for Klaviyo.” AWS launched Amazon Bedrock AgentCore payments in preview, a new set of features that lets AI agents instantly access and pay for what they use, including web content, APIs, MCP servers, and other agents. For example, an AI agent could pay for paywalled articles while doing research, buy access to a tool it needs to complete a coding task, or book a flight or hotel on behalf of a user. The capabilities were built in partnership with Coinbase and Stripe, who provide the wallet infrastructure and payment rails, with developers able to choose between a Coinbase wallet or a Stripe Privy wallet. The first use case enabled in preview is micropayments using the x402 protocol, an open HTTP-native payment standard for instant stablecoin transactions, with end users able to fund wallets using a debit card and set spending limits per session. DoorDash launched a new set of AI tools that speeds up the onboarding process for new merchants by automatically pulling photos, store hours, and menu items from their website, as well as a feature that lets merchants spin up a website based on existing DoorDash content. The platform also added photo-editing tools including AI Retouch, which replaces backgrounds, sharpens images, and optimizes lighting, and AI Replate, which manipulates dish photos to look professionally plated. Lastly, DoorDash revamped its video library, now letting merchants tag dishes in videos so that customers can order them directly. Amazon Business is bringing same-day delivery of fresh, perishable groceries to business customers in more than 2,300 U.S. cities and towns, allowing organizations to add items like fresh produce, dairy, meat and seafood, baked goods, frozen foods, and pantry staples to their existing Amazon Business orders. If you thought that staff stealing office supplies was costly, wait until they can purchase their household groceries on your dime! LOL. Business Prime members get free same-day delivery on grocery orders over $25 in most areas, with a $2.99 fee for orders below the minimum, while customers without a Prime membership pay a $12.99 fee regardless of order size, and orders are delivered within set delivery windows businesses choose at checkout. The move puts Amazon Business in more direct competition with Costco, Walmart, and Instacart, which all already offer B2B grocery delivery. Etsy launched a beta version of a shopping app in ChatGPT that allows users to search and compare products on its marketplace within the chatbot and then complete purchases on Etsy. For example, a user can write, “@Etsy help me find a Mother's Day gift under $200 for a Jewish mom with red hair and glasses who loves to write stories,” and the Etsy app will provide relevant listings that the user can browse from within the chat or click into to go to Etsy and learn more. The launch follows Etsy's previous integration with ChatGPT's Instant Checkout feature, which launched in September 2025 with Etsy as the first partner, but was later shut down in March 2026 because OpenAI didn't know the first thing about e-commerce. Etsy is also beta testing a conversational Gifting Assistant on its own website, powered by OpenAI, which offers a guided, conversational way to discover items on its platform. Prime Video launched Clips, a scrollable TikTok-esque short-form video feed that lets users browse snippets of movies and shows within the app. The feature first launched with NBA highlights during the 2025-26 season and has now expanded to include moments from movies and series across the platform, with users able to click over to watch, rent, or buy the full title, save it to a watchlist, or share the clip with friends. Meh, I already get enough spoilers for The Boys on TikTok. If I'm on Prime Video, I'll just watch the full episode. Prime Video joins Netflix, Disney+, Peacock, and Tubi in adding a vertical video feed to their streaming apps, with Netflix's feature also called “Clips.” Google will no longer support FAQ rich results as of May 7, 2026, and users will no longer see them within search results moving forward. Additionally, Google Search Console will no longer report on FAQ structured data starting in June. Google provided no reason for the change, but noted that webmasters are welcome to leave their current FAQ structured data on their websites, as other search engines may still use it. However, my guess is that 1) people started abusing the schema type so much after it was introduced in 2019 that it became worthless, and 2) Google is moving away from displaying your word-for-word answers to questions in favor of regurgitating your answers with its AI. Most AI Overview answers now contain answers that consolidate information from multiple sources, making the rich snippet an archaic form of answering questions. Qualcomm CEO Cristiano Amon told Fortune that the company is working with “pretty much all” of the major AI companies, including OpenAI and Meta, on top-secret hardware devices designed to replace the smartphone. Amon described future devices as “things you wear” like glasses, jewelry, pins, and pendants, all designed to center digital life around an autonomous AI agent rather than a phone, calling this concept the “ecosystem of you.” Oh man, the makers of the Humane pin are going to be so pissed! Seriously though, for the foreseeable future, all these devices are going to do is complement your smartphone, not replace it. Any conversation about “replacing your smartphone” that happens in the next 5-10 years is strictly from hype men pushing their next “game changing” device. Smartphones sold themselves because they're amazing and genuinely useful — no hype needed. As a general rule of thumb, if it needs to be hyped, it's not a smartphone killer. A group of Democratic senators led by Elizabeth Warren and Richard Blumenthal are probing Experian, Equifax, and TransUnion about how they incorporate data from BNPL loans into consumer credit reports. The senators asked the agencies to detail how they treat BNPL loans versus longer-term installment products, how they handle purchases involving returns, and their standards for reporting multiple loans with the same lender. Many BNPL companies have resisted reporting to the bureaus, claiming the information would be harmful to consumer credit scores. However, a recent study by FICO of loans issued by Affirm showed that the opposite was true. The senators wrote in their letter that “the credit reporting industry has been very secretive about its scoring models, which presents major, potential consumer protection issues.” Next they should look into how the cost of BNPL is being subsidized by the rest of us non-BNPL using consumers, which is contributing to the rising cost of goods! Canada just got its first CAD-backed stablecoin issued by a regulated financial institution and approved by the Alberta Treasury Board and Finance. The new CADD stablecoin, which was launched by Tetra Trust Company, is live on Base, Ethereum, and Tempo and is backed by Shopify, Wealthsimple, Urbana, which holds a majority stake, and several other major institutions and fintechs. Tetra positioned CADD for institutional use cases including 24/7 cross-border settlement, real-time corporate treasury transfers, programmable marketplace payouts, and direct fintech-to-fintech settlement without the delays of moving money across legacy rails dependent on batch infrastructure first deployed in the 1980s. So rather than update those “legacy” rails, Canada has officially hopped on the stablecoin bandwagon, which is one of the dumbest bandwagons to hit the financial system since NFTs. Bless their Canadian hearts. A U.S.-flagged ship called the Alliance Fairfax, operated by a Maersk subsidiary, transited the Strait of Hormuz last Monday under U.S. military protection, with U.S. forces shooting down cruise missiles and drones and destroying six Iranian speedboats that threatened the vessel. The ship became one of only several hundred to have crossed the strait during the past month since the U.S. began its blockade, which is about how many used to cross the strait daily before the war. There are currently more than 1,600 ships stranded with roughly 20,000 seafarers on board, with most ships unwilling to pass due to the risks of making an attempt. So is this what winning looks like? Google rebranded its Fitbit app as Google Health and launched a new AI health coach as a subscription service, which uses Gemini AI to serve as a combination fitness coach, sleep expert, and health and wellness advisor. Alongside the rebrand, the company launched the Fitbit Air, a new screenless tracker bracelet that offers up to a week of battery life and includes 24/7 heart rate tracking, heart rhythm monitoring with AFib alerts, sleep tracking, and automatic workout detection. The device is available for pre-order starting at $99.99 and includes a three-month trial of Google Health Premium. The Google Health app will be globally available on May 19 as part of a Google Health Premium subscription (previously Fitbit Premium), costing $9.99 per month or $99 per year, with the coach accessible to select Fitbit and Pixel Watch users first, while Google AI Pro and Ultra subscribers will have access to Google Health Premium at no extra cost. In lawsuits this week… An award-winning Canadian fiddler named Ashley MacIsaac filed a civil claim against Google seeking $1.5M in damages after its AI Overview falsely identified him as a convicted sex offender, which resulted in one of his concerts being canceled by a promoter. I guess Google's AI confused “fiddler” with “diddler.” The suit argues that “Google should not have lesser liability because the defamatory statements were published by software that Google created and controls.” Elon Musk agreed to pay a $1.5M civil penalty to settle a U.S. Securities and Exchange Commission lawsuit accusing him of failing to properly disclose stock he was amassing in Twitter ahead of his $44B acquisition of the company in 2022 — a penalty he probably audibly laughed at behind closed doors. The SEC sued Musk in January 2025, alleging that his undisclosed stock purchases cost other Twitter shareholders at least $150M because they sold shares at lower prices without knowing Musk was amassing shares in the company. Perplexity is pushing federal appellate judges to reverse an order banning its AI browser, Comet, from accessing Amazon. The ban was handed down by a judge in March, who ruled that Amazon provided “strong evidence” that Perplexity was accessing users' password-protected accounts without Amazon's permission, claims that Perplexity says are “fundamentally misfit” for the federal anti-hacking law Amazon is accusing it of violating. For more details on the case, read my previous coverage of Amazon's lawsuit filing in November, its temporary federal injunction win in March, and the subsequent suspension of that order. Meta asked a Los Angeles judge to throw out a jury's $4.2M verdict that found the company liable for a woman's depression in a landmark trial over whether Meta and Google's platforms harmed young users with their addictive design. In its filing, Meta argued that Section 230 of the Communications Decency Act shields it from the claims and that evidence presented at trial tied the plaintiff's mental health challenges to the content she viewed rather than to design features like autoplay and infinite scroll. Google said it also plans to appeal, and has asked the court to either set aside the $1.8M verdict against it or order a new trial. Trivago , a German-based online travel platform majority-owned by Expedia Group that lets users compare prices across hundreds of booking sites, filed an antitrust lawsuit against Google for allegedly engaging in anticompetitive conduct for more than a decade by unfairly promoting its own hotel metasearch offering. The company is seeking financial compensation covering the period from Jan 2014 through December 2025, as well as asking the court to order the disclosure of traffic and revenue data that it says is controlled by Google and relevant to the case, plus a declaratory judgment that would establish Google's liability for potential damages beginning in January 2026 and thereafter. In layoffs (and not layoffs) this week… Shopify laid off at least 30 people in April as part of a reorganization of its operations team, affecting staff in Canada and the U.S. working in operations and customer support, according to multiple sources who spoke to The Logic. One former employee, Amélie Sirois, claimed in a blog post that they were told “technological advancements” were partly behind the cuts, having previously written that she spent 90% of her work day using AI. Meanwhile, Affirm CEO Max Levchin told analysts on the company's most recent earnings call that the BNPL firm is “not planning AI-related layoffs, full stop,” even though it was regularly using the technology for software engineering. Does reporting on a company NOT making AI-related layoffs mean that the new norm has become the opposite, and going against the norm is newsworthy? In corporate shakeups this week… OpenAI lost two more senior staffers last week including its head of private equity, Paul Zimmerman, who was hired by Google to lead its efforts to sell AI to private equity firms, and James Dyett, the company's head of sales, who is leaving to work for Thrive Capital, a major OpenAI backer. The Trade Desk Chief Strategy Officer Samantha Jacobson is leaving the company to join OpenAI as VP of partnerships (Monetization), where she'll lead OpenAI's advertising, distribution, and platform partnerships, the latest in a series of high-profile exits at The Trade Desk. Chewy named Yunyan Wang, a 12-year Amazon veteran who most recently served as VP of Commerce &amp; Supply Chain Services, as its new CTO. XRP Evernorth , the Ripple-backed treasury company prepping a Nasdaq listing, named OpenAI Foundation CFO Robert Kaiden and Antalpha COO Derar Islim as independent directors, giving the company a mix of AI finance leadership and crypto infrastructure expertise ahead of its public market debut. Fast Simon , a platform-agnostic e-commerce search and discovery provider, named Shaun Lin as director of partnerships, tasking him with expanding the company's agency and technology partner network across the U.S. and Australia. Amazon is officially allowing all corporate employees to use Claude Code and OpenAI Codex in addition to its in-house Kiro tool, following internal complaints over the company's previous restriction on external coding tools. Both tools will run on Amazon Bedrock and be managed through AWS, which keeps usage within its own cloud environment and maintains tighter control over data security and compliance, according to a note to staff viewed by Business Insider. An Amazon spokesperson said that 83% of internal teams are still primarily using Kiro, but hey, give them time to adapt their workflow to Claude and I'm sure that'll change. Snap's $400M deal with Perplexity to integrate the company's AI search engine directly into Snapchat is dead, with the two companies having “amicably” ended the relationship in Q1, according to Snap's latest earnings report. The partnership was first announced last November, with Snap expecting to start seeing revenue in early 2026. However, the feature never made it past early testing because the two sides had “yet to mutually agree on a path to a broader roll out.” Remember back when Perplexity news was exciting and an “alternative AI search” was novel? Flash forward a few years since its launch, and I predict that Perplexity will be the first heavily-funded AI firm to fall in the near future, or at best get acquired for a fraction of its all-time high valuation. Google shut down Project Mariner, an experimental agent first revealed in December 2024 that was designed to perform tasks across the web on a user's behalf. The Project Mariner landing page now states that the project was shut down on May 4, 2026 and “its technology voyaged to other Google products,” including Gemini Agent, which can archive emails or book hotels, and AI Mode, Google's AI-powered search feature. Earlier this year, Google also launched an “auto-browse” feature in Chrome that can perform multi-step tasks like researching flight costs, a response to agentic web browsing tools offered by OpenAI, Perplexity, and OpenClaw. OpenAI was found by the Privacy Commissioner of Canada to be “not compliant with” Canadian federal and provincial privacy laws in the training of its AI models. The investigation identified multiple issues including that OpenAI “gathered vast amounts of personal information without adequate safeguards,” failed to acquire consent to collect and use that information, and did not give ChatGPT users a way to access, correct, or delete data that was used in training. The company has agreed to make multiple changes to comply with Canadian privacy laws, including retiring earlier non-compliant models, deploying a filtering tool to detect and mask personal information in training datasets, and adding new notices to the signed-out version of ChatGPT within the next three to six months. Wow, what a penalty! Revolut , the UK-based fintech with more than 1M customers in Australia, shut down its PayTo service in Australia following an “unexplained incident,” according to a report from PayDay News, with regulators and Revolut's banking partners all declining to say what happened. PayTo, which lets Australian users authorize and manage recurring payments like subscriptions and bill payments in real time, had only been live on Revolut for about two months before getting shut down. The move follows a $187,800 AUD fine from AUSTRAC in September 2025 for late anti-money laundering reporting, and broader fraud concerns at Revolut, which topped UK fraud complaints in 2023 with nearly 10,000 reports. Amazon launched the UK's first retailer drone delivery service in Darlington, County Durham, with the MK30 drone delivering packages under 5 lbs within a 7.5-mile radius of Amazon's fulfillment center. The service can carry out a maximum of ten flights an hour or up to 100 deliveries a day on weekdays, with eligible customers needing a garden or yard to receive deliveries dropped from a height of 12 feet. Current UK delivery time is two hours, compared to a 36-minute average in the US, where Amazon already operates drone deliveries in five states. Darlington was chosen because it has a mix of residential areas, major roads, and an airport all close to each other, according to the company. 🏆 This week's most ridiculous story… Christian Smalls, the former Amazon warehouse worker who in 2022 led a successful effort to unionize a warehouse on Staten Island, was arrested at the Met Gala after jumping a police barricade carrying a protest sign that called out Amazon for refusing to negotiate with its Staten Island warehouse union and accused the company of “investing in genocide” in Israel. Smalls said in a phone interview that he had hoped to “shine a bright light on Jeff Bezos,” one of the event's sponsors, and on Amazon's unethical business practices. He then spent 24 hours in custody before accepting an offer from prosecutors to consider dismissing the charges if he is not arrested again for six months. Is there a Kalshi or Polymarket bet on whether he is arrested again during the next six months? If so, I'd put money on “yes.” That man is going to end up in prison while Jeff Bezos flies around in a spaceship. The Amazon Labor Union, which Smalls once led but left in 2024 amid internal divisions, disavowed his actions, saying that it doesn’t condone “lone-wolf direct actions which aim to center one individual as the focus of what must be a collective struggle.” Plus 13 seed rounds, IPOs, and acquisitions of interest including ReFiBuy raising $13.6M in an oversubscribed seed round. I hope you found this recap helpful. See you next week! PAUL PS: If I missed any big news this week, please share in the comments. &#32; submitted by &#32; /u/adventurepaul [link] &#32; [comments]",
     "published_at": "2026-05-11T20:15:24+00:00",
-    "discovered_at": "2026-05-12T04:05:54.945982+00:00",
+    "discovered_at": "2026-05-12T10:41:56.931188+00:00",
     "stage": "hot",
     "score": 21,
     "score_breakdown": {
@@ -88,7 +88,7 @@
     "title": "Mismatch: Google Search Result shows 2026, but Sitemap Lastmod is stuck in 2019. How much does this hurt?",
     "summary": "I’m managing a Custom-built Static HTML site (no CMS) and I’ve run into a strange technical discrepancy that I suspect is causing a traffic drop. The Setup: I recently updated our high-traffic &quot;China Visa Guide&quot; page with fresh content for 2026 . The Issues: The Date Mismatch: Google has crawled the page, and the search snippet actually shows the updated date: &quot;27 Apr 2026&quot; . However, the sitemap.xml was never manually updated and still shows &lt;lastmod&gt;2019-08-03&lt;/lastmod&gt; for this URL. Critical GSC Errors: Google Search Console is showing 8 Invalid Items under Review Snippets. The error is &quot;Multiple aggregate ratings detected&quot; (devs hardcoded conflicting ratings from FB and Trustpilot into the schema). The Performance: Our rankings for this keyword have started to slide, and organic traffic is on a steady decline. My Questions: Does having a 7-year-old lastmod date in the sitemap negatively affect the 'Crawl Priority' or 'Trust Score', even if Google can see the on-page content is new? Could the Multiple Aggregate Ratings error be triggering a quality penalty that overrides the fact that the content is updated and human-written? On a static site, is it absolutely necessary to keep the sitemap and schema perfectly synced with the on-page date to maintain rankings in 2026? I’m trying to prioritize our dev backlog and want to know if these are &quot;Critical Fixes&quot; or just &quot;Minor UI bugs&quot; in Google's eyes. Any insights or official Google documentation on this would be appreciated! &#32; submitted by &#32; /u/Global-Adventures [link] &#32; [comments]",
     "published_at": "2026-05-11T12:14:52+00:00",
-    "discovered_at": "2026-05-12T04:05:54.082027+00:00",
+    "discovered_at": "2026-05-12T10:41:55.303629+00:00",
     "stage": "hot",
     "score": 17,
     "score_breakdown": {
@@ -159,7 +159,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-12T04:05:56.640326+00:00",
+    "discovered_at": "2026-05-12T10:41:59.026650+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -223,7 +223,7 @@
     "title": "Built a CLI that tells me if GPTBot/ClaudeBot/Perplexity can actually reach my site (and where the block is)",
     "summary": "I kept getting &quot;your AI visibility is low&quot; reports from various tools that wouldn't tell me *why* . Was the block in robots.txt? At the CDN? At origin? Different fixes, different teams. I guess this sits somewhere in the &quot;generative engine optimization&quot; bucket, but I wanted the tool to stay very concrete: can these crawlers reach the site, and if not, where are they being blocked? So I wrote a small Node CLI that just answers that question deterministically: ``` npx u/geosuite/ai-crawler-bots robots https://my-site.com ``` What it actually does: - Parses robots.txt with line-level provenance — when a bot is Disallow'd it tells me *which line in which group* . - For each tracked bot (24 right now: GPTBot, ChatGPT-User, OAI-SearchBot, ClaudeBot, PerplexityBot, Perplexity-User, Bytespider, etc.), reports the verdict. - Detects Cloudflare's &quot;Managed Content&quot; markers (`# BEGIN Cloudflare Managed content` … `# END`) and tells me whether my own rules would've allowed the bot. - Also has a `check &lt;url&gt;` mode that does an actual HTTP probe with each bot's UA, and distinguishes edge blocks (CDN fingerprints) from origin blocks. Different remediation. Zero runtime dependencies, MIT, Node 20+. Source: github.com/TryGeoSuite/ai-crawler-bots There are three companion tools in the same scope: - `@geosuite/schema-templates` — 23 schema.org JSON-LD templates + offline validator. - `@geosuite/llms-txt-generator` — sitemap.xml → llms.txt. - `@geosuite/sitemap-builder` — crawl + valid sitemap.xml for custom sites without one. Honest disclaimer: I also build a hosted SaaS (trygeosuite.it) on top of similar logic, but the four CLIs are MIT and stand alone. I open-sourced them because I find it dishonest to sell a black box that does things any dev can verify. Curious what other people are using to debug AI bot reachability — especially anyone running through Cloudflare, Akamai, or Vercel. The &quot;managed content&quot; injection broke my mental model the first time I hit it. &#32; submitted by &#32; /u/Perix97 [link] &#32; [comments]",
     "published_at": "2026-05-11T18:15:33+00:00",
-    "discovered_at": "2026-05-12T04:05:54.081681+00:00",
+    "discovered_at": "2026-05-12T10:41:55.303262+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -297,71 +297,6 @@
     ]
   },
   {
-    "item_id": "cbc0ae8ef41bfcfe",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
-    "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
-    "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
-    "summary": "troubleshooting 10 78 May 10, 2026",
-    "published_at": null,
-    "discovered_at": "2026-05-12T04:05:55.649650+00:00",
-    "stage": "warm",
-    "score": 11,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "product snippet",
-          "product snippets"
-        ],
-        "implementation_intent": [
-          "troubleshoot"
-        ],
-        "platforms": [
-          "shopify"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "implementation_intent": 2,
-        "platforms": 1
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "shopify"
-    ],
-    "issue_types": [
-      "product_schema"
-    ],
-    "intent_flags": [
-      "troubleshoot"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_generator",
-    "offer_fit": "AI Generator",
-    "action_hint": "Position it as faster schema output for recurring implementation work.",
-    "sales_route": "forum_reply",
-    "cta_label": "Open the AI Generator",
-    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Shopify Markets caused collapse in Google product snippets &",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
-    "tags": [
-      "shopify",
-      "community",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -370,7 +305,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-12T04:05:56.643165+00:00",
+    "discovered_at": "2026-05-12T10:41:59.029939+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -418,64 +353,6 @@
     ]
   },
   {
-    "item_id": "9b154d919a8f1b77",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
-    "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/liquid-schema-help-mapping-custom-shipping-return-metafields-to-googles-structured-data/576464",
-    "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
-    "summary": "customizations , troubleshooting 7 225 April 27, 2026",
-    "published_at": null,
-    "discovered_at": "2026-05-12T04:05:55.653061+00:00",
-    "stage": "watch",
-    "score": 6,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "implementation_intent": [
-          "troubleshoot"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 2
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "shopify"
-    ],
-    "issue_types": [],
-    "intent_flags": [
-      "troubleshoot"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_generator",
-    "offer_fit": "AI Generator",
-    "action_hint": "Position it as faster schema output for recurring implementation work.",
-    "sales_route": "forum_reply",
-    "cta_label": "Open the AI Generator",
-    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Liquid/Schema Help: Mapping Custom Shipping/Return Metafield",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
-    "tags": [
-      "shopify",
-      "community",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "edc10e191b0d9746",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -484,7 +361,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-12T04:05:56.640126+00:00",
+    "discovered_at": "2026-05-12T10:41:59.026421+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -534,7 +411,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-12T04:05:56.645160+00:00",
+    "discovered_at": "2026-05-12T10:41:59.032253+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -584,7 +461,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-12T04:05:57.609781+00:00",
+    "discovered_at": "2026-05-12T10:41:59.838697+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -634,7 +511,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-12T04:05:56.645707+00:00",
+    "discovered_at": "2026-05-12T10:41:59.032858+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
