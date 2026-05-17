@@ -20,26 +20,6 @@
     "follow_up_draft": "Just following up in case you still want hands-on schema help for External Preview. You can reach me at schemaagent@gmail.com."
   },
   {
-    "item_id": "3910960540ef0cf2",
-    "stage": "hot",
-    "score": 13,
-    "source": "Reddit /r/SEO",
-    "source_type": "forum",
-    "title": "Here are a few things you can ignore for AEO/GEO (Source: Google)",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1te11kk/here_are_a_few_things_you_can_ignore_for_aeogeo",
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "business_name": "Developers",
-    "business_url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
-    "reply_subject": "Schema help for Developers",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Developers. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nOffer a fast product-schema visibility fix or implementation shortcut.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Developers. Best fit: https://schemaagent.gumroad.com/l/rfces"
-  },
-  {
     "item_id": "e4ad9dcd216d463e",
     "stage": "hot",
     "score": 13,
@@ -118,6 +98,26 @@
     "reply_subject": "Best fit for: JSON-LD Product Schema syntax issues (Data Types & Case Sens",
     "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for product_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
     "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces"
+  },
+  {
+    "item_id": "51d9e8b2df6555b2",
+    "stage": "watch",
+    "score": 7,
+    "source": "Reddit /r/woocommerce",
+    "source_type": "forum",
+    "title": "Problems with Rank Math - No Product Image for Google's",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1tfuagb/problems_with_rank_math_no_product_image_for",
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "contact_email": "schemaagent@gmail.com",
+    "business_name": "Woodworksforgaming",
+    "business_url": "https://www.woodworksforgaming.com/",
+    "reply_subject": "Schema help for Woodworksforgaming",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on woocommerce, wordpress. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Woodworksforgaming. Best fit: https://schemaagent.gumroad.com/l/wikuuu"
   },
   {
     "item_id": "9b154d919a8f1b77",
