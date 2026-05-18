@@ -1,77 +1,5 @@
 [
   {
-    "item_id": "94411606938bc2b0",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1te4t71/googles_guide_to_optimizing_for_generative_ai",
-    "title": "Google's Guide to Optimizing for Generative AI Features on Google Search",
-    "summary": "Google Have released the first, official AI SEO Guide and the ONLY guide for AI SEO, GEO, AEO of any of the LLM/AI Vendors. Critically important - as Google is the main search engine for RAG/QFO and Gemini is the 2nd biggest and fastest growing AI/LLM in the public domain. Some important myths are ommitted here that GEO folks should take notice of: No mention of LLMS.txt No mention of Special writing No mention of Chunking No mention of EEAT Mythbusting generative AI search: what you don't need to do As generative AI search evolves, so have the theories and practices—and sometimes, the misconceptions—surrounding it. While terms like Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO) are common online, many suggested &quot;hacks&quot; aren't effective or supported by how Google Search actually works. To help you focus on what matters for your website's visibility, we've collected some of the most prominent topics circulating the internet around generative AI and Google Search. Here are a few things you can ignore for Google Search: LLMS.txt files and other &quot;special&quot; markup : You don't need to create new machine readable files, AI text files, markup, or Markdown to appear in generative AI search. Note that Google may discover, crawl, and index many kinds of files in addition to HTML on a website: this doesn't mean that the file is treated in a special way. &quot;Chunking&quot; content: There's no requirement to break your content into tiny pieces for AI to better understand it. Google systems are able to understand the nuance of multiple topics on a page and show the relevant piece to users. However, sometimes shorter (or longer!) pages can work well depending on your audience and subject matter. There's no ideal page length, and in the end, make pages for your audience, not just for generative AI search. Rewriting content just for AI systems: You don't need to write in a specific way just for generative AI search. AI systems can understand synonyms and general meanings of what someone is seeking, in order to connect them with content that might not use the same precise words. This means you don't have to worry that you don't have enough &quot;long-tail&quot; keywords or haven't captured every variation of how someone might seek content like yours. Seeking inauthentic &quot;mentions&quot;: Just like the rest of Google Search, our generative AI features can show what's being said about products and services across the web, including in blogs, videos, and forum discussions. However, seeking inauthentic &quot;mentions&quot; across the web isn't as helpful as it might seem. Our core ranking systems focus on high-quality content while other systems block spam ; our generative AI features depend on both. Overfocusing on structured data : Structured data isn't required for generative AI search, and there's no special schema.org markup you need to add. However, it's a good idea to continue using it as part of your overall SEO strategy, as it helps with being eligible for rich results on Google Search. &#32; submitted by &#32; /u/WebLinkr [link] &#32; [comments]",
-    "published_at": "2026-05-15T18:27:12+00:00",
-    "discovered_at": "2026-05-18T04:41:49.626316+00:00",
-    "stage": "hot",
-    "score": 13,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data",
-          "schema.org",
-          "rich results",
-          "rich result"
-        ],
-        "implementation_intent": [
-          "support"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "implementation_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "support"
-    ],
-    "business_name": "External Preview",
-    "business_url": "https://external-preview.redd.it/r5_thhLfwKLW5XtLcuEjH9dxFZH2_8YngxD5fZ5srqQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a8544c6d04689d9a56ea06166c0dc0504bfe6c1",
-    "audit": {
-      "business_url": "https://external-preview.redd.it/r5_thhLfwKLW5XtLcuEjH9dxFZH2_8YngxD5fZ5srqQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a8544c6d04689d9a56ea06166c0dc0504bfe6c1",
-      "final_url": "https://external-preview.redd.it/r5_thhLfwKLW5XtLcuEjH9dxFZH2_8YngxD5fZ5srqQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a8544c6d04689d9a56ea06166c0dc0504bfe6c1",
-      "domain": "external-preview.redd.it",
-      "status_code": 403,
-      "ok": false,
-      "has_json_ld": false,
-      "schema_types": [],
-      "cms": null,
-      "site_kind": null,
-      "title": null,
-      "opportunity_gaps": [],
-      "notes": [],
-      "error": "HTTP 403"
-    },
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Treat this as a direct service lead first.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Schema help for External Preview",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for External Preview. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "e4ad9dcd216d463e",
     "source": "Reddit /r/TechSEO",
     "source_id": "reddit-techseo",
@@ -80,7 +8,7 @@
     "title": "Google releases the Official AI SEO/GEO Guide",
     "summary": "Critical document as Google not only forms the main basis for RAG/QFO or grounding searches for most of the LLMs but Gemini is the fastest growing and possibly second largest LLM globally. The Document lists what you should do and also has super interesting Myth Busting Guide! This is copied verbatim from the Google Guide: Myth busting generative AI search: what you don't need to do As generative AI search evolves, so have the theories and practices—and sometimes, the misconceptions—surrounding it. While terms like Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO) are common online, many suggested &quot;hacks&quot; aren't effective or supported by how Google Search actually works. To help you focus on what matters for your website's visibility, we've collected some of the most prominent topics circulating the internet around generative AI and Google Search. Here are a few things you can ignore for Google Search: LLMS.txt files and other &quot;special&quot; markup : You don't need to create new machine readable files, AI text files, markup, or Markdown to appear in generative AI search. Note that Google may discover, crawl, and index many kinds of files in addition to HTML on a website: this doesn't mean that the file is treated in a special way. &quot;Chunking&quot; content: There's no requirement to break your content into tiny pieces for AI to better understand it. Google systems are able to understand the nuance of multiple topics on a page and show the relevant piece to users. However, sometimes shorter (or longer!) pages can work well depending on your audience and subject matter. There's no ideal page length, and in the end, make pages for your audience, not just for generative AI search. Rewriting content just for AI systems: You don't need to write in a specific way just for generative AI search. AI systems can understand synonyms and general meanings of what someone is seeking, in order to connect them with content that might not use the same precise words. This means you don't have to worry that you don't have enough &quot;long-tail&quot; keywords or haven't captured every variation of how someone might seek content like yours. Seeking inauthentic &quot;mentions&quot;: Just like the rest of Google Search, our generative AI features can show what's being said about products and services across the web, including in blogs, videos, and forum discussions. However, seeking inauthentic &quot;mentions&quot; across the web isn't as helpful as it might seem. Our core ranking systems focus on high-quality content while other systems block spam ; our generative AI features depend on both. Overfocusing on structured data : Structured data isn't required for generative AI search, and there's no special schema.org markup you need to add. However, it's a good idea to continue using it as part of your overall SEO strategy, as it helps with being eligible for rich results on Google Search. &#32; submitted by &#32; /u/WebLinkr [link] &#32; [comments]",
     "published_at": "2026-05-15T18:31:50+00:00",
-    "discovered_at": "2026-05-18T04:41:50.149979+00:00",
+    "discovered_at": "2026-05-18T11:53:50.392056+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -152,7 +80,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-18T04:41:51.937117+00:00",
+    "discovered_at": "2026-05-18T11:53:52.175919+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -214,9 +142,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
     "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
-    "summary": "troubleshooting 12 105 May 17, 2026",
+    "summary": "troubleshooting 12 106 May 17, 2026",
     "published_at": null,
-    "discovered_at": "2026-05-18T04:41:51.243740+00:00",
+    "discovered_at": "2026-05-18T11:53:51.408951+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -281,7 +209,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-18T04:41:51.940472+00:00",
+    "discovered_at": "2026-05-18T11:53:52.178320+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -337,7 +265,7 @@
     "title": "Problems with Rank Math - No Product Image for Google's",
     "summary": "Hello everyone! I'm having an issue I can't seem to solve. I have a WooCommerce product (Falcon Pro Gaming Lapdesk) with a product image set in WooCommerce. I'm using Rank Math SEO (free version) and it's generating a Product schema on my homepage, but the schema does NOT include the image field — so Google Merchant Center is flagging it as invalid. I've been trying to get Claude's help, but keep being told to add an html snippet in the webpage of just the product image, but that ends up generating two different schemas and the one is still coming up as invalid. Any insight is very much appreciated! Website: https://www.woodworksforgaming.com &#32; submitted by &#32; /u/Virgman [link] &#32; [comments]",
     "published_at": "2026-05-17T16:28:00+00:00",
-    "discovered_at": "2026-05-18T04:41:50.940136+00:00",
+    "discovered_at": "2026-05-18T11:53:51.121181+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -409,7 +337,7 @@
     "title": "Liquid/Schema Help: Mapping Custom Shipping/Return Metafields to Google's Structured Data",
     "summary": "customizations , troubleshooting 7 232 April 27, 2026",
     "published_at": null,
-    "discovered_at": "2026-05-18T04:41:51.250935+00:00",
+    "discovered_at": "2026-05-18T11:53:51.414489+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -467,7 +395,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-18T04:41:51.936885+00:00",
+    "discovered_at": "2026-05-18T11:53:52.175736+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -517,7 +445,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-18T04:41:51.942839+00:00",
+    "discovered_at": "2026-05-18T11:53:52.180080+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -567,7 +495,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-18T04:41:52.708706+00:00",
+    "discovered_at": "2026-05-18T11:53:52.949355+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -617,7 +545,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-18T04:41:51.943478+00:00",
+    "discovered_at": "2026-05-18T11:53:52.180533+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
