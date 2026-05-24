@@ -1,25 +1,5 @@
 [
   {
-    "item_id": "e4ad9dcd216d463e",
-    "stage": "hot",
-    "score": 13,
-    "source": "Reddit /r/TechSEO",
-    "source_type": "forum",
-    "title": "Google releases the Official AI SEO/GEO Guide",
-    "source_url": "https://www.reddit.com/r/TechSEO/comments/1te4xtn/google_releases_the_official_ai_seogeo_guide",
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "business_name": "External Preview",
-    "business_url": "https://external-preview.redd.it/r5_thhLfwKLW5XtLcuEjH9dxFZH2_8YngxD5fZ5srqQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a8544c6d04689d9a56ea06166c0dc0504bfe6c1",
-    "reply_subject": "Schema help for External Preview",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for External Preview. You can reach me at schemaagent@gmail.com."
-  },
-  {
     "item_id": "7cad77e02dd47c6d",
     "stage": "hot",
     "score": 13,
@@ -38,6 +18,26 @@
     "reply_subject": "Best fit for: Missing field ‘mainEntity’ in FAQ schema",
     "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with missing_schema, faq_schema, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
     "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com."
+  },
+  {
+    "item_id": "e4ad9dcd216d463e",
+    "stage": "hot",
+    "score": 12,
+    "source": "Reddit /r/TechSEO",
+    "source_type": "forum",
+    "title": "Google releases the Official AI SEO/GEO Guide",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1te4xtn/google_releases_the_official_ai_seogeo_guide",
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "business_name": "External Preview",
+    "business_url": "https://external-preview.redd.it/r5_thhLfwKLW5XtLcuEjH9dxFZH2_8YngxD5fZ5srqQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a8544c6d04689d9a56ea06166c0dc0504bfe6c1",
+    "reply_subject": "Schema help for External Preview",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for External Preview. You can reach me at schemaagent@gmail.com."
   },
   {
     "item_id": "cbc0ae8ef41bfcfe",
