@@ -1,24 +1,25 @@
 {
-  "total": 10,
+  "total": 11,
   "by_stage": {
-    "hot": 3,
-    "warm": 2,
+    "hot": 2,
+    "warm": 4,
     "watch": 5
   },
   "by_offer": {
-    "Done-for-you / service": 3,
+    "Done-for-you / service": 2,
     "AI Generator": 2,
-    "AI Visibility Kit": 5
+    "AI Visibility Kit": 7
   },
   "by_source": {
-    "Reddit /r/SEO": 2,
     "WordPress Support - Schema & Structured Data for WP & AMP": 5,
     "Reddit /r/TechSEO": 1,
     "Shopify Community SEO Forum": 1,
+    "Reddit /r/SEO": 2,
+    "Reddit /r/woocommerce": 1,
     "Google Search Central Community - Structured Data": 1
   },
   "by_route": {
-    "email_contact": 3,
-    "forum_reply": 7
+    "email_contact": 2,
+    "forum_reply": 9
   }
 }

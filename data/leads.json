@@ -1,72 +1,5 @@
 [
   {
-    "item_id": "5526367c48369604",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1tm7qa4/not_experienced_but_want_to_be_hired",
-    "title": "not experienced but want to be hired",
-    "summary": "hi everyone, i've been working in software development for a while now, and i'm quite comfortable with html, css, js, and modern web frameworks. while building my own projects, i've dabbled in technical seo (robots.txt, meta tags, fixing crawl errors), but i've never held a professional &quot;seo specialist&quot; title. i just found a great job listing with very competitive pay and benefits, but the requirement is &quot;at least 1 year of experience in seo/geo.&quot; here are the main requirements of the role: developing strategies for search engines (google, chatgpt/ai-based search engines). technical seo, structured data (schema markup), and content optimization. proficiency in tools like ahrefs, semrush, and search console. vision for geo (generative engine optimization). here is my situation: i know i'm technically stronger (html, performance, schema) than the average seo specialist because i write the code myself. i have my own projects that show up on google when you search for them by name, but i lack &quot;organic traffic/ranking&quot; experience. even if i start working on seo today, i won't have a &quot;traffic report&quot; or a massive success story to show by the time i walk into an interview. i'd like to ask the experienced folks here: how do i break through this &quot;1 year experience&quot; barrier in an interview? should i admit i lack experience, or is there a way to frame it as an advantage? what are some technical/geo &quot;trump cards&quot; i can play as a developer to stand out against traditional seo candidates who don't know code? since i don't have significant traffic/click data yet, what can i present as &quot;proof&quot; or a portfolio in the interview? i really need this job and i'm confident i can adapt to the team environment. i would appreciate any advice you have on how you would handle this if you were in my shoes. thanks in advance. &#32; submitted by &#32; /u/sergeiproko [link] &#32; [comments]",
-    "published_at": "2026-05-24T09:46:51+00:00",
-    "discovered_at": "2026-05-25T17:57:58.471708+00:00",
-    "stage": "hot",
-    "score": 16,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "schema markup",
-          "structured data"
-        ],
-        "commercial_intent": [
-          "developer"
-        ],
-        "implementation_intent": [
-          "fix",
-          "fixing",
-          "error"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "commercial_intent": 2,
-        "implementation_intent": 4
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "robots.txt"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "developer",
-      "fix",
-      "fixing",
-      "error"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Treat this as a direct service lead first.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: not experienced but want to be hired",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -75,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-25T17:58:01.758054+00:00",
+    "discovered_at": "2026-05-26T04:34:22.270344+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -139,7 +72,7 @@
     "title": "Google releases the Official AI SEO/GEO Guide",
     "summary": "Critical document as Google not only forms the main basis for RAG/QFO or grounding searches for most of the LLMs but Gemini is the fastest growing and possibly second largest LLM globally. The Document lists what you should do and also has super interesting Myth Busting Guide! This is copied verbatim from the Google Guide: Myth busting generative AI search: what you don't need to do As generative AI search evolves, so have the theories and practices—and sometimes, the misconceptions—surrounding it. While terms like Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO) are common online, many suggested &quot;hacks&quot; aren't effective or supported by how Google Search actually works. To help you focus on what matters for your website's visibility, we've collected some of the most prominent topics circulating the internet around generative AI and Google Search. Here are a few things you can ignore for Google Search: LLMS.txt files and other &quot;special&quot; markup : You don't need to create new machine readable files, AI text files, markup, or Markdown to appear in generative AI search. Note that Google may discover, crawl, and index many kinds of files in addition to HTML on a website: this doesn't mean that the file is treated in a special way. &quot;Chunking&quot; content: There's no requirement to break your content into tiny pieces for AI to better understand it. Google systems are able to understand the nuance of multiple topics on a page and show the relevant piece to users. However, sometimes shorter (or longer!) pages can work well depending on your audience and subject matter. There's no ideal page length, and in the end, make pages for your audience, not just for generative AI search. Rewriting content just for AI systems: You don't need to write in a specific way just for generative AI search. AI systems can understand synonyms and general meanings of what someone is seeking, in order to connect them with content that might not use the same precise words. This means you don't have to worry that you don't have enough &quot;long-tail&quot; keywords or haven't captured every variation of how someone might seek content like yours. Seeking inauthentic &quot;mentions&quot;: Just like the rest of Google Search, our generative AI features can show what's being said about products and services across the web, including in blogs, videos, and forum discussions. However, seeking inauthentic &quot;mentions&quot; across the web isn't as helpful as it might seem. Our core ranking systems focus on high-quality content while other systems block spam ; our generative AI features depend on both. Overfocusing on structured data : Structured data isn't required for generative AI search, and there's no special schema.org markup you need to add. However, it's a good idea to continue using it as part of your overall SEO strategy, as it helps with being eligible for rich results on Google Search. &#32; submitted by &#32; /u/WebLinkr [link] &#32; [comments]",
     "published_at": "2026-05-15T18:31:50+00:00",
-    "discovered_at": "2026-05-25T17:57:59.084770+00:00",
+    "discovered_at": "2026-05-26T04:34:19.836246+00:00",
     "stage": "hot",
     "score": 12,
     "score_breakdown": {
@@ -209,9 +142,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
     "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
-    "summary": "troubleshooting 12 131 May 17, 2026",
+    "summary": "troubleshooting 12 132 May 17, 2026",
     "published_at": null,
-    "discovered_at": "2026-05-25T17:58:00.339667+00:00",
+    "discovered_at": "2026-05-26T04:34:21.029867+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -268,6 +201,114 @@
     ]
   },
   {
+    "item_id": "2c6509ed6af1e336",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1tnnfto/schemaorg_product_test",
+    "title": "Schema.org Product test",
+    "summary": "Hi all. Question for those who test e-commerce product pages: what do you miss when you test for schema.org? From my experience most of e-commerce product pages lack one or few properties and/or have wrong values (price, currency, ...) &#32; submitted by &#32; /u/hrastov_list [link] &#32; [comments]",
+    "published_at": "2026-05-25T22:05:19+00:00",
+    "discovered_at": "2026-05-26T04:34:19.260920+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "schema.org"
+        ],
+        "platforms": [
+          "product page",
+          "e-commerce"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "platforms": 2
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Schema.org Product test",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
+    "item_id": "35b61a66f6211b95",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1tno312/schemaorg_product_test",
+    "title": "Schema.org Product test",
+    "summary": "Hi all. Question for those who test e-commerce product pages: what do you miss when you test for schema.org? From my experience most of e-commerce product pages lack one or few properties and/or have wrong values (price, currency, ...) &#32; submitted by &#32; /u/hrastov_list [link] &#32; [comments]",
+    "published_at": "2026-05-25T22:31:38+00:00",
+    "discovered_at": "2026-05-26T04:34:20.585958+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "schema.org"
+        ],
+        "platforms": [
+          "product page",
+          "e-commerce"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "platforms": 2
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Schema.org Product test",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "woocommerce",
+      "broad"
+    ]
+  },
+  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -276,7 +317,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-25T17:58:01.761308+00:00",
+    "discovered_at": "2026-05-26T04:34:22.273550+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -332,7 +373,7 @@
     "title": "Google Data: How People are using AI Mode in Google Search",
     "summary": "Thank you u/aleydas who share this post in LinkedIn : 📊 Google just shared a new report on how people are using AI Mode in the US. 👇 Useful directional insights, yes. Complete market picture, no: The keyword data comes from sampled Google Trends data for AI Mode. With that in mind, a few patterns worth paying attention to: 🔎 Searches are longer and more conversational. The average AI Mode query is 3x the length of a traditional Search query. Keyword research now needs to be complemented with prompt, task, constraint and scenario research. 💬 Follow-up behavior matters. Follow-up queries grew 40%+ on average per month. Brand visibility can't be analyzed only at the first prompt anymore: a brand might be mentioned, dropped, compared, misrepresented or never cited across the journey. This means the unit of analysis is the journey, not the query. 🛍️ AI Mode is being used to decide, not only to discover. * Which&quot; queries grew 40% faster than AI Mode queries overall in the past six months. * The top retail attributes people look for: price, location, color, brand, availability, size, material, style, type, quality. This means Ecommerce AI Search optimization shouldn't be only about &quot;more product content&quot;: it's accurate, complete, fresh and consistent product data across pages, structured data, feeds, variants, reviews and attributes. 📍 Local and availability intent is very visible. Follow-up store queries include &quot;near me&quot;, &quot;in stock&quot;, &quot;replacement parts&quot;, &quot;car dealerships with financing&quot;. AI systems need to understand location, inventory, services and constraints to satisfy these. 🧭 AI Mode is becoming a task layer, not only an answer layer. Planning queries grew 80% faster than AI Mode queries overall. The opportunity is to be included in plans, shortlists, comparisons and workflows, not only ranked for individual queries. 👀 My takeaway: Don't confuse Google's usage narrative with independent performance data. There's a behavioral shift and Google has every incentive to frame it favorably for its own ecosystem. For SEOs and marketers, the practical next step isn't to replace SEO fundamentals. It's to expand how we research, optimize and measure: ✅ From keywords to prompts, tasks and constraints ✅ From rankings to presence, citations and representation accuracy ✅ From single queries to follow-up journeys ✅ From content-only optimization to entity, product, local and feed-level readiness ✅ From observed traffic to a more nuanced view of visibility and influence AI Mode makes it increasingly risky to measure search visibility only through traditional rankings and clicks. &#32; submitted by &#32; /u/WebLinkr [link] &#32; [comments]",
     "published_at": "2026-05-24T15:58:50+00:00",
-    "discovered_at": "2026-05-25T17:57:58.471402+00:00",
+    "discovered_at": "2026-05-26T04:34:19.262287+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -378,7 +419,7 @@
       ],
       "cms": null,
       "site_kind": "ecommerce",
-      "title": "📊 Google just shared a new report on how people are using AI Mode in the US. 👇 \n\nUseful directional insights, yes. Complete market picture, no: The keyword data comes from sampled Google Trends… | Aleyda Solís | 22 comments",
+      "title": "📊 Google just shared a new report on how people are using AI Mode in the US. 👇 \n\nUseful directional insights, yes. Complete market picture, no: The keyword data comes from sampled Google Trends… | Aleyda Solís | 24 comments",
       "opportunity_gaps": [
         "Missing Product schema on scanned page",
         "BreadcrumbList not detected on scanned page"
@@ -414,7 +455,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-25T17:58:01.757829+00:00",
+    "discovered_at": "2026-05-26T04:34:22.270095+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -464,7 +505,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-25T17:58:01.763643+00:00",
+    "discovered_at": "2026-05-26T04:34:22.275846+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -514,7 +555,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-25T17:58:02.744262+00:00",
+    "discovered_at": "2026-05-26T04:34:23.288316+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -564,7 +605,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-25T17:58:01.764269+00:00",
+    "discovered_at": "2026-05-26T04:34:22.276466+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
