@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-27T11:49:13.000531+00:00",
+    "discovered_at": "2026-05-27T18:33:58.065413+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,71 +64,6 @@
     ]
   },
   {
-    "item_id": "cbc0ae8ef41bfcfe",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
-    "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
-    "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
-    "summary": "troubleshooting 12 135 May 17, 2026",
-    "published_at": null,
-    "discovered_at": "2026-05-27T11:49:12.125810+00:00",
-    "stage": "warm",
-    "score": 11,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "product snippet",
-          "product snippets"
-        ],
-        "implementation_intent": [
-          "troubleshoot"
-        ],
-        "platforms": [
-          "shopify"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "implementation_intent": 2,
-        "platforms": 1
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "shopify"
-    ],
-    "issue_types": [
-      "product_schema"
-    ],
-    "intent_flags": [
-      "troubleshoot"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_generator",
-    "offer_fit": "AI Generator",
-    "action_hint": "Position it as faster schema output for recurring implementation work.",
-    "sales_route": "forum_reply",
-    "cta_label": "Open the AI Generator",
-    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Shopify Markets caused collapse in Google product snippets &",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
-    "tags": [
-      "shopify",
-      "community",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "2c6509ed6af1e336",
     "source": "Reddit /r/SEO",
     "source_id": "reddit-seo",
@@ -137,7 +72,7 @@
     "title": "Schema.org Product test",
     "summary": "Hi all. Question for those who test e-commerce product pages: what do you miss when you test for schema.org? From my experience most of e-commerce product pages lack one or few properties and/or have wrong values (price, currency, ...) &#32; submitted by &#32; /u/hrastov_list [link] &#32; [comments]",
     "published_at": "2026-05-25T22:05:19+00:00",
-    "discovered_at": "2026-05-27T11:49:10.294737+00:00",
+    "discovered_at": "2026-05-27T18:33:55.859065+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -191,7 +126,7 @@
     "title": "Schema.org Product test",
     "summary": "Hi all. Question for those who test e-commerce product pages: what do you miss when you test for schema.org? From my experience most of e-commerce product pages lack one or few properties and/or have wrong values (price, currency, ...) &#32; submitted by &#32; /u/hrastov_list [link] &#32; [comments]",
     "published_at": "2026-05-25T22:31:38+00:00",
-    "discovered_at": "2026-05-27T11:49:11.786644+00:00",
+    "discovered_at": "2026-05-27T18:33:56.910799+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -245,7 +180,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-27T11:49:13.003929+00:00",
+    "discovered_at": "2026-05-27T18:33:58.067927+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -301,7 +236,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-27T11:49:13.000302+00:00",
+    "discovered_at": "2026-05-27T18:33:58.065213+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -351,7 +286,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-27T11:49:13.006221+00:00",
+    "discovered_at": "2026-05-27T18:33:58.069631+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -401,7 +336,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-27T11:49:14.197299+00:00",
+    "discovered_at": "2026-05-27T18:33:58.874608+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -451,7 +386,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-27T11:49:13.006832+00:00",
+    "discovered_at": "2026-05-27T18:33:58.070086+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
