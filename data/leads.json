@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-28T11:50:27.432268+00:00",
+    "discovered_at": "2026-05-28T18:43:07.742497+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,66 +64,62 @@
     ]
   },
   {
-    "item_id": "cbc0ae8ef41bfcfe",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
+    "item_id": "7f4e9328b065c190",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
     "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
-    "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
-    "summary": "troubleshooting 12 139 May 17, 2026",
-    "published_at": null,
-    "discovered_at": "2026-05-28T11:50:26.459554+00:00",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1tq2oke/law_firm_schema",
+    "title": "Law Firm Schema",
+    "summary": "Hi folks. I am going to implement schemas for these pages like this. How do you like this approach? Please tell me if you see any mistakes or issues and how you would do it. Homepage - LegalService , WebSite , WebPage Areas We Serve (index page) - LegalService , WebPage , BreadcrumbList Individual Location Pages - LegalService , WebPage , BreadcrumbList Service Pages (Personal Injury, Sexual Abuse, etc.) - Service , WebPage , BreadcrumbList Attorney / Personal Profile Pages - Person , WebPage , BreadcrumbList Contact Page - LegalService , WebPage &#32; submitted by &#32; /u/ZurabBatoni [link] &#32; [comments]",
+    "published_at": "2026-05-28T12:51:08+00:00",
+    "discovered_at": "2026-05-28T18:43:04.858914+00:00",
     "stage": "warm",
-    "score": 11,
+    "score": 9,
     "score_breakdown": {
       "matches": {
-        "schema_core": [
-          "product snippet",
-          "product snippets"
+        "schema_types": [
+          "breadcrumblist"
         ],
         "implementation_intent": [
-          "troubleshoot"
+          "implement"
         ],
         "platforms": [
-          "shopify"
+          "service page"
         ]
       },
       "group_points": {
-        "schema_core": 8,
+        "schema_types": 3,
         "implementation_intent": 2,
         "platforms": 1
       },
-      "freshness": 0,
+      "freshness": 3,
       "negative_hits": [],
       "source_boost": 0,
       "gated": false,
       "gate_reason": null
     },
-    "platforms": [
-      "shopify"
-    ],
+    "platforms": [],
     "issue_types": [
-      "product_schema"
+      "breadcrumbs"
     ],
     "intent_flags": [
-      "troubleshoot"
+      "implement"
     ],
     "business_name": null,
     "business_url": null,
     "audit": null,
-    "offer_key": "ai_generator",
-    "offer_fit": "AI Generator",
-    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
     "sales_route": "forum_reply",
-    "cta_label": "Open the AI Generator",
-    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
     "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Shopify Markets caused collapse in Google product snippets &",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
+    "reply_subject": "Best fit for: Law Firm Schema",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for breadcrumbs, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
     "tags": [
-      "shopify",
-      "community",
+      "reddit",
       "seo",
       "broad"
     ]
@@ -137,7 +133,7 @@
     "title": "Schema.org Product test",
     "summary": "Hi all. Question for those who test e-commerce product pages: what do you miss when you test for schema.org? From my experience most of e-commerce product pages lack one or few properties and/or have wrong values (price, currency, ...) &#32; submitted by &#32; /u/hrastov_list [link] &#32; [comments]",
     "published_at": "2026-05-25T22:31:38+00:00",
-    "discovered_at": "2026-05-28T11:50:26.090355+00:00",
+    "discovered_at": "2026-05-28T18:43:06.411527+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -191,7 +187,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-28T11:50:27.435568+00:00",
+    "discovered_at": "2026-05-28T18:43:07.745773+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -247,7 +243,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-28T11:50:27.432035+00:00",
+    "discovered_at": "2026-05-28T18:43:07.742269+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -297,7 +293,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-28T11:50:27.437814+00:00",
+    "discovered_at": "2026-05-28T18:43:07.748044+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -347,7 +343,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-28T11:50:28.517707+00:00",
+    "discovered_at": "2026-05-28T18:43:08.554078+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -397,7 +393,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-28T11:50:27.438441+00:00",
+    "discovered_at": "2026-05-28T18:43:07.748663+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
