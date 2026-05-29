@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-28T18:43:07.742497+00:00",
+    "discovered_at": "2026-05-29T04:42:53.934393+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Law Firm Schema",
     "summary": "Hi folks. I am going to implement schemas for these pages like this. How do you like this approach? Please tell me if you see any mistakes or issues and how you would do it. Homepage - LegalService , WebSite , WebPage Areas We Serve (index page) - LegalService , WebPage , BreadcrumbList Individual Location Pages - LegalService , WebPage , BreadcrumbList Service Pages (Personal Injury, Sexual Abuse, etc.) - Service , WebPage , BreadcrumbList Attorney / Personal Profile Pages - Person , WebPage , BreadcrumbList Contact Page - LegalService , WebPage &#32; submitted by &#32; /u/ZurabBatoni [link] &#32; [comments]",
     "published_at": "2026-05-28T12:51:08+00:00",
-    "discovered_at": "2026-05-28T18:43:04.858914+00:00",
+    "discovered_at": "2026-05-29T04:42:51.899935+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -133,7 +133,7 @@
     "title": "Schema.org Product test",
     "summary": "Hi all. Question for those who test e-commerce product pages: what do you miss when you test for schema.org? From my experience most of e-commerce product pages lack one or few properties and/or have wrong values (price, currency, ...) &#32; submitted by &#32; /u/hrastov_list [link] &#32; [comments]",
     "published_at": "2026-05-25T22:31:38+00:00",
-    "discovered_at": "2026-05-28T18:43:06.411527+00:00",
+    "discovered_at": "2026-05-29T04:42:53.098257+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -187,7 +187,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-28T18:43:07.745773+00:00",
+    "discovered_at": "2026-05-29T04:42:53.937707+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -243,7 +243,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-28T18:43:07.742269+00:00",
+    "discovered_at": "2026-05-29T04:42:53.934164+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -293,7 +293,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-28T18:43:07.748044+00:00",
+    "discovered_at": "2026-05-29T04:42:53.939979+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -343,7 +343,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-28T18:43:08.554078+00:00",
+    "discovered_at": "2026-05-29T04:42:54.808080+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -393,7 +393,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-28T18:43:07.748663+00:00",
+    "discovered_at": "2026-05-29T04:42:53.940611+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
