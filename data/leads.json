@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-05-30T04:17:38.097628+00:00",
+    "discovered_at": "2026-05-30T10:17:22.138871+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Website is freefalling in search rankings, and I'm going crazy!",
     "summary": "Hey guys, Thanks for taking the time out to help me. Here's the situation: I run a corporate video production agency in Cardiff. For a long time, the site ran on an old, heavily bloated Envato template. Despite the poor code optimisation and slow speeds, the site performed relatively well — I was sitting comfortably at #3 for my main money keyword (&quot;video production cardiff&quot;). About a year ago, I decided to do things right. I completely gutted the bloated Envato theme and rebuilt the site from scratch using Kadence. The code is now pristine, speeds are fast, and health scores are great. However, I feel like around the time of the rollout (and bleeding through the recent March and May Core Updates), those high rankings stopped. I could be wrong. I slid down to the high 20s, then back to around 10, and have been gradually slipping down in rankings since. At one point, I realised that Google was pulling through every page snippets from the footer instead of rankmath, and altered the code so each page received its own snippet. We shot back up to 6. The Core Question: I have a hunch that I might have accidentally dropped something valuable during the rebuild that Google liked, but I can't prove it. On the flip side, it could just be a brutal coincidence, and Google's local algorithm may have simply pivoted away from technical on-page factor weight entirely. The Competitors (The frustrating part): I am losing to competitors who have next to no reviews and minimal text on their websites compared to us. Competitor 1: Thin site (150 words of text, Instagram widget), but they run a local video podcast generating heavy direct brand searches, and they have 25 reviews to my 14. Competitor 2: Ancient 10-year-old domain with legacy bias and only 6 reviews from a decade ago. Lots of blogs and services on the website Competitor 3: A recent ranking competitor with not much website content at all. For a lot of the competitors currently outranking us, most don’t have any significant digital presence (some none at all), and google reviews are low and over a year ago. Perhaps only one or two have good social media activity. The Migration &amp; GSC Data: During the transition to Kadence, I focused heavily on clean hosting, HTTPS stability, and URL structure normalization. The Redirects: I cleaned up trailing slashes across the site (e.g., ensuring /video 301 redirects to /video/), which resulted in 22 pages with active redirects. The Indexing Issue: In Google Search Console, I have 49 pages sitting in &quot;Crawled - currently not indexed.&quot; When I look closely at the list, these seem to be entirely old, deleted, or redirected legacy URLs from the old Envato theme (e.g., trailing slash variations or old portfolio structures). Is it safe to assume Google is just slowly cleaning out the &quot;ghosts&quot; of the old site and this isn't harming my current rank? What I've audited &amp; fixed recently (Everything looks clean): Because the drop happened around the theme switch, I've spent months hunting for a migration leak or a technical penalty. Here is everything I have done: Content &amp; Keywords: Updated all of my pages to have higher SEO scores (high 60s and 70s, with home page at 85) and relevant keywords. I also added extra pages with better search intent (blogs, specific service pages, etc.). Page structure: Made sure that all pages follow H1, H2 etc. Schema Upgrades: I noticed my video pages were marked as Article schema, so I completely rebuilt and improved the schema to correctly identify them as Video. Also my home page was an article schema, which I removed and set at none. Speed &amp; Accessibility: Moved all my video embeds from Vimeo to Bunny because the load speeds were unbearable. Focused heavily on Google Lighthouse to ensure the homepage is perfectly optimized for speed, SEO, and accessibility. URLs &amp; Redirects: Kept the core URL structures identical between the old Envato theme and the new Kadence theme. Sitemaps &amp; Spam: Rebuilt standard XML and video sitemaps cleanly. I also got hit by a wave of random automated spam links recently and successfully disavowed them (Google Search Console looks clear). Local SEO Efforts: Updated my Google Business Profile (GBP) to pull through images better, and actively requested Google reviews (though I've only managed to get one recently). Final thoughts: I feel like I’m taking crazy pills with all of this. I’m trying everything I can think of with the limited experience of SEO that I have to improve my local ranking, but I’m getting nowhere. I’m not deleting any content as I know google doesn’t like radical change, so I’m adapting or editing content where needed to improve relevance or user intent. I would absolutely love an extra pair of eyes on this, if possible, and help me figure out what the hell is happening. Any thoughts would be massively appreciated. P.S. AI was used for formatting since I just brain dump info. Apologies. &#32; submitted by &#32; /u/Klexal [link] &#32; [comments]",
     "published_at": "2026-05-29T09:52:31+00:00",
-    "discovered_at": "2026-05-30T04:17:35.606426+00:00",
+    "discovered_at": "2026-05-30T10:17:19.858526+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -133,63 +133,152 @@
     ]
   },
   {
-    "item_id": "7f4e9328b065c190",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
+    "item_id": "cbc0ae8ef41bfcfe",
+    "source": "Shopify Community SEO Forum",
+    "source_id": "shopify-seo-forum",
     "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1tq2oke/law_firm_schema",
-    "title": "Law Firm Schema",
-    "summary": "Hi folks. I am going to implement schemas for these pages like this. How do you like this approach? Please tell me if you see any mistakes or issues and how you would do it. Homepage - LegalService , WebSite , WebPage Areas We Serve (index page) - LegalService , WebPage , BreadcrumbList Individual Location Pages - LegalService , WebPage , BreadcrumbList Service Pages (Personal Injury, Sexual Abuse, etc.) - Service , WebPage , BreadcrumbList Attorney / Personal Profile Pages - Person , WebPage , BreadcrumbList Contact Page - LegalService , WebPage &#32; submitted by &#32; /u/ZurabBatoni [link] &#32; [comments]",
-    "published_at": "2026-05-28T12:51:08+00:00",
-    "discovered_at": "2026-05-30T04:17:35.607472+00:00",
+    "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
+    "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
+    "summary": "troubleshooting 12 143 May 17, 2026",
+    "published_at": null,
+    "discovered_at": "2026-05-30T10:17:21.446726+00:00",
     "stage": "warm",
-    "score": 9,
+    "score": 11,
     "score_breakdown": {
       "matches": {
-        "schema_types": [
-          "breadcrumblist"
+        "schema_core": [
+          "product snippet",
+          "product snippets"
         ],
         "implementation_intent": [
-          "implement"
+          "troubleshoot"
         ],
         "platforms": [
-          "service page"
+          "shopify"
         ]
       },
       "group_points": {
-        "schema_types": 3,
+        "schema_core": 8,
         "implementation_intent": 2,
         "platforms": 1
       },
-      "freshness": 3,
+      "freshness": 0,
       "negative_hits": [],
       "source_boost": 0,
       "gated": false,
       "gate_reason": null
     },
-    "platforms": [],
+    "platforms": [
+      "shopify"
+    ],
     "issue_types": [
-      "breadcrumbs"
+      "product_schema"
     ],
     "intent_flags": [
-      "implement"
+      "troubleshoot"
     ],
     "business_name": null,
     "business_url": null,
     "audit": null,
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Shopify Markets caused collapse in Google product snippets &",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
+    "tags": [
+      "shopify",
+      "community",
+      "seo",
+      "broad"
+    ]
+  },
+  {
+    "item_id": "d67bdaf8e81525df",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1trtnhu/i_converted_googles_ai_search_guidelines_into_a",
+    "title": "I converted Google’s AI search guidelines into a Claude skill goog-geo",
+    "summary": "Google recently published official guidance on how to optimize pages for AI-powered search features like AI Overviews and AI Mode - https://developers.google.com/search/docs/fundamentals/ai-optimization-guide Most of the advice floating around GEO / AI search optimization is still pretty hand-wavy, so I wanted something more concrete. So, I converted Google’s AI search guidance into an open-source Claude Code skill: https://github.com/vishalmdi/goog-geo The skill audits any live URL and turns the guidance into a scored report: Checks whether Googlebot can crawl the page Checks indexability and snippet eligibility Detects noindex, nosnippet, max-snippet, canonicals, robots.txt issues Uses a live browser to inspect rendered DOM and JSON-LD schema Reviews headings, semantic HTML, answer blocks, FAQs, tables, author/date signals Checks whether AI crawlers like GPTBot, PerplexityBot, ClaudeBot, and Bingbot are allowed Produces a 100-point GEO / AI search readiness score Gives a prioritized action plan instead of vague SEO advice The main idea is simple - Google’s AI search features are not a totally separate SEO system. They still depend on crawlability, indexability, snippet eligibility, helpful content, and structured/extractable pages. So instead of guessing what “AI optimization” means, this skill audits against the actual signals Google documented. I also added a “what not to do” section because Google explicitly says some popular AI SEO advice is useless or misunderstood, like treating `llms.txt` as a Google AI ranking lever. Would love feedback from anyone working on SEO, content, SaaS landing pages, docs, or AI search visibility. If you find it useful, a GitHub star would help: Repo Link: https://github.com/vishalmdi/goog-geo &#32; submitted by &#32; /u/vishal_jaiswal [link] &#32; [comments]",
+    "published_at": "2026-05-30T08:00:30+00:00",
+    "discovered_at": "2026-05-30T10:17:20.351141+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "json-ld"
+        ],
+        "commercial_intent": [
+          "developer"
+        ],
+        "implementation_intent": [
+          "audit"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "commercial_intent": 2,
+        "implementation_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "canonical",
+        "robots.txt"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "developer",
+      "audit"
+    ],
+    "business_name": "Developers",
+    "business_url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+    "audit": {
+      "business_url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+      "final_url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+      "domain": "developers.google.com",
+      "status_code": 200,
+      "ok": true,
+      "has_json_ld": true,
+      "schema_types": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "cms": null,
+      "site_kind": "ecommerce",
+      "title": "Google's Guide to Optimizing for Generative AI Features on Google Search | Google Search Central  |  Documentation  |  Google for Developers",
+      "opportunity_gaps": [
+        "Missing Product schema on scanned page"
+      ],
+      "notes": [
+        "Detected site kind: ecommerce",
+        "Schema types found: BreadcrumbList, ListItem"
+      ],
+      "error": null
+    },
     "offer_key": "ai_visibility_kit",
     "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "action_hint": "Offer a fast product-schema visibility fix or implementation shortcut.",
     "sales_route": "forum_reply",
     "cta_label": "Get the AI Visibility Kit",
     "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
     "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Law Firm Schema",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for breadcrumbs, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "reply_subject": "Schema help for Developers",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Developers. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nOffer a fast product-schema visibility fix or implementation shortcut.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Developers. Best fit: https://schemaagent.gumroad.com/l/rfces",
     "tags": [
       "reddit",
-      "seo",
+      "techseo",
       "broad"
     ]
   },
@@ -202,7 +291,7 @@
     "title": "Schema.org Product test",
     "summary": "Hi all. Question for those who test e-commerce product pages: what do you miss when you test for schema.org? From my experience most of e-commerce product pages lack one or few properties and/or have wrong values (price, currency, ...) &#32; submitted by &#32; /u/hrastov_list [link] &#32; [comments]",
     "published_at": "2026-05-25T22:31:38+00:00",
-    "discovered_at": "2026-05-30T04:17:37.073649+00:00",
+    "discovered_at": "2026-05-30T10:17:21.089030+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -256,7 +345,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-05-30T04:17:38.100061+00:00",
+    "discovered_at": "2026-05-30T10:17:22.142260+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -312,7 +401,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-05-30T04:17:38.097351+00:00",
+    "discovered_at": "2026-05-30T10:17:22.138515+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -362,7 +451,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-05-30T04:17:38.101739+00:00",
+    "discovered_at": "2026-05-30T10:17:22.144562+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -412,7 +501,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-05-30T04:17:39.066587+00:00",
+    "discovered_at": "2026-05-30T10:17:22.763634+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -462,7 +551,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-05-30T04:17:38.102186+00:00",
+    "discovered_at": "2026-05-30T10:17:22.145193+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
