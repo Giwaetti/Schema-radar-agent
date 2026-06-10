@@ -8,7 +8,7 @@
     "title": "Just trying out something to see if it helps Share of AI Voice",
     "summary": "I have been going deep on how to make a website genuinely AI-friendly and crawlable for the answer engines (AI Overviews, ChatGPT, Perplexity, and the rest). Sharing what I gathered in case it saves someone time. I am not a guru and I am not going to claim I am getting cited everywhere. This is research plus a hunch, laid out honestly. First, the llms.txt thing Everyone is pushing llms.txt right now. I added it. Honestly, it did nothing I could measure, and no major answer engine has publicly confirmed they even read it yet. It is cheap and harmless to keep, but I would not expect it to move anything on its own. My actual hunch: load up on structured data Here is my reasoning - its a hucnh not a study... I do not have a controlled test proving structured data increases AI citations. What I do believe: Structured data (schema.org / JSON-LD) is what machines already parse. It hands them clean, unambiguous facts instead of making them guess from prose. The most logical next step is to add as much relevant, accurate structured data as you reasonably can, because it makes your content easy for AI to process and lift. It does not hurt. And it definitely helps traditional SEO (rich results) and is the most sensible lever for GEO (generative engine optimization) visibility. So even without proof on the AI-citation side, the risk is basically zero and the upside is real. That is enough for me to do the work. Crawlability first, or none of it matters Before schema, make sure the bots can actually read you: Let the AI crawlers in. A lot of sites block them by default in robots.txt. If you want to be read, allow the ones you care about: GPTBot, OAI-SearchBot, ChatGPT-User, ClaudeBot, PerplexityBot, Google-Extended, Applebot-Extended. Server-render your content AND your schema. This is the one most people miss. If your JSON-LD is injected client-side (for example next/script after hydration), crawlers that do not run JavaScript never see it. Check raw view-source, not devtools. If it is not in the initial HTML, it does not exist to a non-JS bot. List your sitemaps clearly (the index plus each child sitemap). The structured data types worth adding Pick the ones that match real, visible content on the page. Lists and listicles (strong, easy for AI to lift) ItemList with itemListElement + position . Any ranked or ordered set: top 10, best X for Y, your lineup of products or rooms. This is the format engines turn into ordered answer lists. The position field is what makes it ranked, do not omit it. Article / BlogPosting with author , datePublished , dateModified , image , publisher . Who and where you are LocalBusiness with the correct subtype (Restaurant, EntertainmentBusiness, BarOrPub, etc.): name, address, phone, hours, price range. Organization with sameAs (links to your Google, social, Wikidata, Yelp profiles), logo , founder , contactPoint . sameAs is how engines disambiguate you. PostalAddress / GeoCoordinates / OpeningHoursSpecification for the precise NAP and hours. Q&amp;A and quotable answers FAQPage : clean question and answer pairs. The cleanest food for AI answers. QAPage : a page built around one user-asked question. Different from FAQPage, do not mix them. Speakable : marks the 40 to 60 word factual answer that gets lifted verbatim. Underused. Write one tight, quotable answer per page. HowTo (+ HowToStep) : step-by-step procedures. DefinedTermSet / DefinedTerm : glossaries and definitions. Things to do and events TouristAttraction (+ Offer) : the markup behind &quot;things to do in {city}.&quot; A visitable experience with price and a booking link. Event / EventSeries (+ SpecialAnnouncement) : dated or seasonal happenings with startDate , endDate , location , offers . Commerce and pricing Offer / AggregateOffer / PriceSpecification : how much things cost. There is no price-table rich result, but this is what engines read to answer &quot;how much is X.&quot; Include price , priceCurrency , availability , url . Product (+ Review / AggregateRating) : a product entity plus star ratings. GiftCard, OfferCatalog : gift cards and a service or menu catalog. Media VideoObject : name , description , thumbnailUrl , contentUrl , uploadDate , duration . ImageObject : key images you want attributed. Trust and people Person (author or founder) with sameAs , jobTitle , knowsAbout . Ties content to a real, authoritative entity. Structure and navigation BreadcrumbList : page hierarchy. Cheap, put it on every indexable page. WebSite + SearchAction : the sitelinks search box. Declare once. WebPage + @id : binds a page's entities into one graph. Physical-place extras Menu / MenuItem : food or drink menus. amenityFeature / LocationFeatureSpecification : parking, wifi, bar, wheelchair access. accessibilityFeature / accessibilityHazard : accessibility facts (wheelchair access, strobe warnings). Simple priciples to kep in mind.. One real entity, one @id , referenced everywhere. Define your business once and reference it by @id on other pages. Redeclaring it per page makes engines see conflicting duplicates instead of one clean entity. sameAs is your disambiguation lever. Link every authoritative profile you own. The JSON-LD must match what is visible on the page. Marking up content that is not shown is a manual-action risk. Server-render it (covered above, but it is the biggest practical trap). Keep facts consistent across the site. Geo, review counts, prices, and hours should come from one source so pages never disagree. For quotable answers, write tight. A 40 to 60 word factual answer is what gets lifted. Bury it in fluff and there is nothing clean to quote. TL;DR llms.txt: harmless, but I saw nothing from it. My working theory is that the logical, low-risk move is to add as much accurate structured data as you can, because it is easy for AI to parse and lift, it does not hurt, and it clearly helps SEO and GEO. Let the AI crawlers in, server-render your content and JSON-LD so non-JS bots can read it, and mark up what is actually on the page (especially ItemList, FAQPage, and your business/entity markup) with one clean @id graph. No hard proof on the AI-citation side, just reasoning and legwork. If you have measured any of this either way, I would love to hear it. &#32; submitted by &#32; /u/mezm3r [link] &#32; [comments]",
     "published_at": "2026-06-03T18:53:03+00:00",
-    "discovered_at": "2026-06-09T18:20:49.867635+00:00",
+    "discovered_at": "2026-06-10T04:48:49.057047+00:00",
     "stage": "hot",
     "score": 17,
     "score_breakdown": {
@@ -70,6 +70,72 @@
     ]
   },
   {
+    "item_id": "a3b2520085188975",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1u1h69l/question_about_ai_visibility_for_local",
+    "title": "Question about AI visibility for local psychotherapy business",
+    "summary": "Hi, everyone, I’m an SEO newbie, and I have a few questions regarding AI visibility. For context, I am a psychotherapist with one business location. An “AI visibility consultant” cold emailed me today. I realize he is just looking for business and may not be truthful – that’s why I’m here (insert Kenobi gif). He told me that: About 1,475 people are searching for &quot;EMDR Therapy Broomfield CO” every month through ChatGPT, Gemini, etc. A competing therapist comes up about 71% of the time, while I only show up 6%. That it’s easy to influence AI answers now as it’s still early in the game. My questions: Somehow, I highly doubt that 1,475 people are searching for EMDR therapy through AI every month in my town (especially since KWFinder shows 0 monthly searches on Google). Is there a way to check that number? Is there a way for me to verify/check the percentage of AI searches my business is capturing without paying a ton? This competitor’s website is not the best in terms of design, but it’s very focused on one thing (EMDR therapy in Broomfield, CO) and seems well-optimized SEO-wise for that keyword. Mine offers EMDR as one of 6 specialties, and I think that’s why it’s not showing up in AI – I don’t look like I have authority on that specific topic? Is this in the ballpark of being correct? I thought my website was well-optimized for SEO and AEO (as much as can be done now), for example, I have LocalBusiness schema, product schema on my specialty pages, FAQs on the home and specialty pages, Google maps embedded, etc. I only added all that within the last few months – is it still too early to tell if it’s having an effect? Should I just wait and be patient? Is this consultant correct about AI answers being easy to influence? It seems like I have done a ton of work around AI visibility while the competitor has not, yet he shows up more than me (if this consultant is to be believed). I'll be happy to provide mine and his website if that's allowed. Really grateful for any advice – you guys are the best, and I learn a ton from this community! &#32; submitted by &#32; /u/nomnombacon [link] &#32; [comments]",
+    "published_at": "2026-06-09T20:41:03+00:00",
+    "discovered_at": "2026-06-10T04:48:48.525100+00:00",
+    "stage": "hot",
+    "score": 15,
+    "score_breakdown": {
+      "matches": {
+        "schema_types": [
+          "product schema",
+          "localbusiness"
+        ],
+        "commercial_intent": [
+          "looking for",
+          "consultant"
+        ],
+        "implementation_intent": [
+          "not showing"
+        ]
+      },
+      "group_points": {
+        "schema_types": 6,
+        "commercial_intent": 4,
+        "implementation_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "product_schema",
+      "local_schema"
+    ],
+    "intent_flags": [
+      "looking for",
+      "consultant",
+      "not showing"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Question about AI visibility for local psychotherapy busines",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with product_schema, local_schema, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -78,7 +144,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-09T18:20:51.955105+00:00",
+    "discovered_at": "2026-06-10T04:48:50.761712+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -140,9 +206,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
     "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
-    "summary": "troubleshooting 12 180 May 17, 2026",
+    "summary": "troubleshooting 12 181 May 17, 2026",
     "published_at": null,
-    "discovered_at": "2026-06-09T18:20:50.801748+00:00",
+    "discovered_at": "2026-06-10T04:48:50.002039+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -207,7 +273,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-09T18:20:51.957458+00:00",
+    "discovered_at": "2026-06-10T04:48:50.764420+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -261,9 +327,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
     "title": "Json-Ld code for each product page",
-    "summary": "seo , troubleshooting 8 301 June 3, 2026",
+    "summary": "seo , troubleshooting 8 305 June 3, 2026",
     "published_at": null,
-    "discovered_at": "2026-06-09T18:20:50.798249+00:00",
+    "discovered_at": "2026-06-10T04:48:49.998178+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -323,7 +389,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-09T18:20:51.954848+00:00",
+    "discovered_at": "2026-06-10T04:48:50.761317+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -373,7 +439,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-09T18:20:51.959114+00:00",
+    "discovered_at": "2026-06-10T04:48:50.766231+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -423,7 +489,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-09T18:20:54.630564+00:00",
+    "discovered_at": "2026-06-10T04:48:51.428203+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -473,7 +539,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-09T18:20:51.959566+00:00",
+    "discovered_at": "2026-06-10T04:48:50.766671+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
