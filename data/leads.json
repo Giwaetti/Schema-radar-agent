@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-11T19:12:52.616303+00:00",
+    "discovered_at": "2026-06-12T05:03:33.334569+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,71 +64,6 @@
     ]
   },
   {
-    "item_id": "cbc0ae8ef41bfcfe",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
-    "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
-    "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
-    "summary": "troubleshooting 12 185 May 17, 2026",
-    "published_at": null,
-    "discovered_at": "2026-06-11T19:12:51.701079+00:00",
-    "stage": "warm",
-    "score": 11,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "product snippet",
-          "product snippets"
-        ],
-        "implementation_intent": [
-          "troubleshoot"
-        ],
-        "platforms": [
-          "shopify"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "implementation_intent": 2,
-        "platforms": 1
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "shopify"
-    ],
-    "issue_types": [
-      "product_schema"
-    ],
-    "intent_flags": [
-      "troubleshoot"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_generator",
-    "offer_fit": "AI Generator",
-    "action_hint": "Position it as faster schema output for recurring implementation work.",
-    "sales_route": "forum_reply",
-    "cta_label": "Open the AI Generator",
-    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Shopify Markets caused collapse in Google product snippets &",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on shopify. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
-    "tags": [
-      "shopify",
-      "community",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -137,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-11T19:12:52.618709+00:00",
+    "discovered_at": "2026-06-12T05:03:33.336999+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -185,129 +120,6 @@
     ]
   },
   {
-    "item_id": "e78a1a8f561ceb61",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1u1thbj/6_months_into_ecommerce_seo_for_niche",
-    "title": "6 months into e-commerce SEO for niche cultural/ethnic products, schema is solid but category visibility is still dead. What am I missing?",
-    "summary": "I've been working on an e-commerce site selling niche, culturally specific products for about 6 months. The categories have low competition but I still can't get visibility on Google or in LLM-driven results. Here's what's already in place: Product, ProductListingPage, WebPage, FAQ, and BreadcrumbList schema on all relevant pages Category page titles, descriptions, and meta details are all optimized What I can't figure out is whether the problem is authority (young-ish domain, thin backlink profile), demand (these keywords might just have very low search volume globally), or something structural I'm overlooking. For those who've done SEO on genuinely niche or culturally specific product categories, what actually moved the needle for you? Is this a content/topical authority problem, a link problem, or just a patience problem? &#32; submitted by &#32; /u/Numerous_Evening_255 [link] &#32; [comments]",
-    "published_at": "2026-06-10T05:52:00+00:00",
-    "discovered_at": "2026-06-11T19:12:51.227035+00:00",
-    "stage": "warm",
-    "score": 8,
-    "score_breakdown": {
-      "matches": {
-        "schema_types": [
-          "breadcrumblist"
-        ],
-        "implementation_intent": [
-          "missing"
-        ],
-        "platforms": [
-          "e-commerce"
-        ]
-      },
-      "group_points": {
-        "schema_types": 3,
-        "implementation_intent": 2,
-        "platforms": 1
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "backlink"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [
-      "breadcrumbs"
-    ],
-    "intent_flags": [
-      "missing"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: 6 months into e-commerce SEO for niche cultural/ethnic produ",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for breadcrumbs, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
-    "item_id": "8fcbf8232e44f5d1",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
-    "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
-    "title": "Json-Ld code for each product page",
-    "summary": "seo , troubleshooting 8 322 June 3, 2026",
-    "published_at": null,
-    "discovered_at": "2026-06-11T19:12:51.697532+00:00",
-    "stage": "watch",
-    "score": 7,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "json-ld"
-        ],
-        "implementation_intent": [
-          "troubleshoot"
-        ],
-        "platforms": [
-          "product page"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 2,
-        "platforms": 1
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "troubleshoot"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Json-Ld code for each product page",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "shopify",
-      "community",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "edc10e191b0d9746",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -316,7 +128,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-11T19:12:52.616043+00:00",
+    "discovered_at": "2026-06-12T05:03:33.334286+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -366,7 +178,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-11T19:12:52.620491+00:00",
+    "discovered_at": "2026-06-12T05:03:33.338667+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -416,7 +228,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-11T19:12:52.971604+00:00",
+    "discovered_at": "2026-06-12T05:03:33.699039+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -466,7 +278,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-11T19:12:52.620959+00:00",
+    "discovered_at": "2026-06-12T05:03:33.339116+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
