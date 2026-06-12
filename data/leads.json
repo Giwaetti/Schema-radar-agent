@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-12T11:52:50.874725+00:00",
+    "discovered_at": "2026-06-12T18:19:44.245086+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,15 +64,73 @@
     ]
   },
   {
+    "item_id": "2399c3b5afb33fdc",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1u3s96x/how_do_you_check_if_ai_crawlers_chatgpt",
+    "title": "How do you check if AI crawlers (ChatGPT, Perplexity) can even read a site?",
+    "summary": "Been trying to wrap my head around &quot;GEO&quot; / AI search visibility — feels like there's a lot of vague advice but not much on the technical basics. So far the things I've found that seem to matter: robots.txt rules for GPTBot/PerplexityBot, whether key content is server-rendered vs JS-only, and structured data (schema.org) helping LLMs understand what a page actually is. Is that roughly right, or am I missing the bigger levers? Also curious — is anyone actually seeing referral traffic from AI search yet, or is this still mostly theoretical for small sites? &#32; submitted by &#32; /u/ComfortZoneApps [link] &#32; [comments]",
+    "published_at": "2026-06-12T11:09:50+00:00",
+    "discovered_at": "2026-06-12T18:19:42.858815+00:00",
+    "stage": "hot",
+    "score": 12,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data",
+          "schema.org"
+        ],
+        "implementation_intent": [
+          "missing"
+        ]
+      },
+      "group_points": {
+        "schema_core": 8,
+        "implementation_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "robots.txt"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "missing"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: How do you check if AI crawlers (ChatGPT, Perplexity) can ev",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "cbc0ae8ef41bfcfe",
     "source": "Shopify Community SEO Forum",
     "source_id": "shopify-seo-forum",
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/shopify-markets-caused-collapse-in-google-product-snippets-organic-impressions/621588",
     "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
-    "summary": "troubleshooting 12 190 May 17, 2026",
+    "summary": "troubleshooting 12 191 May 17, 2026",
     "published_at": null,
-    "discovered_at": "2026-06-12T11:52:49.835987+00:00",
+    "discovered_at": "2026-06-12T18:19:43.294388+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -137,7 +195,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-12T11:52:50.877135+00:00",
+    "discovered_at": "2026-06-12T18:19:44.247493+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -191,9 +249,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
     "title": "Json-Ld code for each product page",
-    "summary": "seo , troubleshooting 8 329 June 3, 2026",
+    "summary": "seo , troubleshooting 8 331 June 3, 2026",
     "published_at": null,
-    "discovered_at": "2026-06-12T11:52:49.832599+00:00",
+    "discovered_at": "2026-06-12T18:19:43.290842+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -253,7 +311,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-12T11:52:50.874466+00:00",
+    "discovered_at": "2026-06-12T18:19:44.244836+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -303,7 +361,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-12T11:52:50.878849+00:00",
+    "discovered_at": "2026-06-12T18:19:44.249171+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -353,7 +411,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-12T11:52:51.693153+00:00",
+    "discovered_at": "2026-06-12T18:19:44.933213+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -403,7 +461,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-12T11:52:50.879288+00:00",
+    "discovered_at": "2026-06-12T18:19:44.249627+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
