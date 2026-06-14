@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-14T05:07:51.748213+00:00",
+    "discovered_at": "2026-06-14T11:08:33.584850+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Shopify Markets caused collapse in Google product snippets & organic impressions",
     "summary": "troubleshooting 12 193 May 17, 2026",
     "published_at": null,
-    "discovered_at": "2026-06-14T05:07:50.839554+00:00",
+    "discovered_at": "2026-06-14T11:08:32.742479+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -137,7 +137,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-14T05:07:51.750572+00:00",
+    "discovered_at": "2026-06-14T11:08:33.587711+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -193,7 +193,7 @@
     "title": "Json-Ld code for each product page",
     "summary": "seo , troubleshooting 8 340 June 3, 2026",
     "published_at": null,
-    "discovered_at": "2026-06-14T05:07:50.836088+00:00",
+    "discovered_at": "2026-06-14T11:08:32.738821+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -253,7 +253,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-14T05:07:51.747966+00:00",
+    "discovered_at": "2026-06-14T11:08:33.584570+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -303,7 +303,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-14T05:07:51.752228+00:00",
+    "discovered_at": "2026-06-14T11:08:33.589706+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -353,7 +353,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-14T05:07:52.987546+00:00",
+    "discovered_at": "2026-06-14T11:08:33.997176+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -403,7 +403,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-14T05:07:51.752659+00:00",
+    "discovered_at": "2026-06-14T11:08:33.590246+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
