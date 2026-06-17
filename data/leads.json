@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-17T12:30:29.465572+00:00",
+    "discovered_at": "2026-06-17T18:34:43.775354+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-17T12:30:29.468011+00:00",
+    "discovered_at": "2026-06-17T18:34:43.778163+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -128,7 +128,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-17T12:30:29.465306+00:00",
+    "discovered_at": "2026-06-17T18:34:43.775071+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -178,7 +178,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-17T12:30:29.469714+00:00",
+    "discovered_at": "2026-06-17T18:34:43.780128+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -228,7 +228,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-17T12:30:30.238073+00:00",
+    "discovered_at": "2026-06-17T18:34:44.958103+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -278,7 +278,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-17T12:30:29.470201+00:00",
+    "discovered_at": "2026-06-17T18:34:43.780670+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
