@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-20T17:48:06.654169+00:00",
+    "discovered_at": "2026-06-21T05:18:27.083102+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-20T17:48:06.657437+00:00",
+    "discovered_at": "2026-06-21T05:18:27.085461+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -128,7 +128,7 @@
     "title": "Older posts stuck in \"Crawled - Currently Not Indexed\" while newer posts index fine",
     "summary": "Hey everyone, I'm seeing some inconsistent indexing behavior in Google Search Console and wanted to see if anyone else has experienced this. We run a news website and publish all articles using the exact same workflow: Same technical SEO setup Same page template Same structured data Same internal linking strategy Same XML sitemap Following Google's Search Essentials The strange part is that our recent posts (June) are getting indexed without any issues, but many posts published in May are still stuck in &quot;Crawled - Currently Not Indexed.&quot; What's even more confusing is that some URLs that are already indexed and can be found in Google Search are still listed under the &quot;Crawled - Currently Not Indexed&quot; report in Search Console. So I'm trying to understand: Why would newer articles get indexed while older ones don't, even though the same process was followed? Has anyone seen indexed URLs continue to appear in the &quot;Crawled - Currently Not Indexed&quot; report? Is this just a Search Console reporting delay, or does it indicate another indexing/quality issue? There are no obvious technical SEO issues that we can find. Has anyone experienced something similar or found a solution? Thanks! &#32; submitted by &#32; /u/avatar_leo [link] &#32; [comments]",
     "published_at": "2026-06-19T10:06:11+00:00",
-    "discovered_at": "2026-06-20T17:48:05.187637+00:00",
+    "discovered_at": "2026-06-21T05:18:25.770960+00:00",
     "stage": "warm",
     "score": 8,
     "score_breakdown": {
@@ -183,9 +183,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
     "title": "Json-Ld code for each product page",
-    "summary": "seo , troubleshooting 9 385 June 19, 2026",
+    "summary": "seo , troubleshooting 9 394 June 19, 2026",
     "published_at": null,
-    "discovered_at": "2026-06-20T17:48:05.780179+00:00",
+    "discovered_at": "2026-06-21T05:18:26.172452+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -245,7 +245,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-20T17:48:06.651626+00:00",
+    "discovered_at": "2026-06-21T05:18:27.081230+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -303,7 +303,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-20T17:48:06.653853+00:00",
+    "discovered_at": "2026-06-21T05:18:27.082842+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -353,7 +353,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-20T17:48:06.659712+00:00",
+    "discovered_at": "2026-06-21T05:18:27.087188+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -403,7 +403,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-20T17:48:07.486108+00:00",
+    "discovered_at": "2026-06-21T05:18:27.423801+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -453,7 +453,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-20T17:48:06.660345+00:00",
+    "discovered_at": "2026-06-21T05:18:27.087654+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
