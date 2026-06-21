@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-21T11:24:41.820629+00:00",
+    "discovered_at": "2026-06-21T17:52:12.943374+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-21T11:24:41.823887+00:00",
+    "discovered_at": "2026-06-21T17:52:12.946589+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -120,72 +120,15 @@
     ]
   },
   {
-    "item_id": "578510a7f12ea29e",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1u9xy0o/older_posts_stuck_in_crawled_currently_not",
-    "title": "Older posts stuck in \"Crawled - Currently Not Indexed\" while newer posts index fine",
-    "summary": "Hey everyone, I'm seeing some inconsistent indexing behavior in Google Search Console and wanted to see if anyone else has experienced this. We run a news website and publish all articles using the exact same workflow: Same technical SEO setup Same page template Same structured data Same internal linking strategy Same XML sitemap Following Google's Search Essentials The strange part is that our recent posts (June) are getting indexed without any issues, but many posts published in May are still stuck in &quot;Crawled - Currently Not Indexed.&quot; What's even more confusing is that some URLs that are already indexed and can be found in Google Search are still listed under the &quot;Crawled - Currently Not Indexed&quot; report in Search Console. So I'm trying to understand: Why would newer articles get indexed while older ones don't, even though the same process was followed? Has anyone seen indexed URLs continue to appear in the &quot;Crawled - Currently Not Indexed&quot; report? Is this just a Search Console reporting delay, or does it indicate another indexing/quality issue? There are no obvious technical SEO issues that we can find. Has anyone experienced something similar or found a solution? Thanks! &#32; submitted by &#32; /u/avatar_leo [link] &#32; [comments]",
-    "published_at": "2026-06-19T10:06:11+00:00",
-    "discovered_at": "2026-06-21T11:24:40.302537+00:00",
-    "stage": "warm",
-    "score": 8,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "implementation_intent": [
-          "setup"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "sitemap"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "setup"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Older posts stuck in \"Crawled - Currently Not Indexed\" while",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "8fcbf8232e44f5d1",
     "source": "Shopify Community SEO Forum",
     "source_id": "shopify-seo-forum",
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
     "title": "Json-Ld code for each product page",
-    "summary": "seo , troubleshooting 10 398 June 21, 2026",
+    "summary": "seo , troubleshooting 10 400 June 21, 2026",
     "published_at": null,
-    "discovered_at": "2026-06-21T11:24:40.856643+00:00",
+    "discovered_at": "2026-06-21T17:52:12.104667+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -245,7 +188,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-21T11:24:41.818085+00:00",
+    "discovered_at": "2026-06-21T17:52:12.940885+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -303,7 +246,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-21T11:24:41.820284+00:00",
+    "discovered_at": "2026-06-21T17:52:12.943059+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -353,7 +296,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-21T11:24:41.826189+00:00",
+    "discovered_at": "2026-06-21T17:52:12.948855+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -403,7 +346,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-21T11:24:42.776473+00:00",
+    "discovered_at": "2026-06-21T17:52:13.690954+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -453,7 +396,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-21T11:24:41.826815+00:00",
+    "discovered_at": "2026-06-21T17:52:12.949496+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
