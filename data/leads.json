@@ -8,7 +8,7 @@
     "title": "How I check whether ChatGPT / Perplexity actually cite my brand (simple method)",
     "summary": "More buyers now ask an AI assistant instead of Googling, so I started auditing whether my site shows up in those answers. What worked: List 10-15 questions a buyer asks in your category (&quot;best X for Y&quot;). Ask them in ChatGPT, Perplexity and Google's AI overview. Note who gets named. If you're missing, check the boring stuff first: are AI crawlers (GPTBot, PerplexityBot, Google-Extended) allowed in robots.txt? Is there an llms.txt? Article/FAQ schema on key pages? Re-check monthly; it moves. Most &quot;we're invisible in AI&quot; cases came down to blocked crawlers + no structured data, not content quality. Happy to share the checklist. &#32; submitted by &#32; /u/No_Pomegranate_6697 [link] &#32; [comments]",
     "published_at": "2026-06-21T14:32:34+00:00",
-    "discovered_at": "2026-06-23T11:31:15.695147+00:00",
+    "discovered_at": "2026-06-23T18:14:38.373843+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -73,7 +73,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-23T11:31:16.863748+00:00",
+    "discovered_at": "2026-06-23T18:14:39.946510+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -137,7 +137,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-23T11:31:16.866904+00:00",
+    "discovered_at": "2026-06-23T18:14:39.949751+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -193,7 +193,7 @@
     "title": "Json-Ld code for each product page",
     "summary": "seo , troubleshooting 10 407 June 21, 2026",
     "published_at": null,
-    "discovered_at": "2026-06-23T11:31:16.115620+00:00",
+    "discovered_at": "2026-06-23T18:14:38.979463+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -253,7 +253,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-23T11:31:16.861268+00:00",
+    "discovered_at": "2026-06-23T18:14:39.944036+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -311,7 +311,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-23T11:31:16.863417+00:00",
+    "discovered_at": "2026-06-23T18:14:39.946194+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -361,7 +361,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-23T11:31:16.869176+00:00",
+    "discovered_at": "2026-06-23T18:14:39.952023+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -411,7 +411,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-23T11:31:18.194156+00:00",
+    "discovered_at": "2026-06-23T18:14:40.613859+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -461,7 +461,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-23T11:31:16.869838+00:00",
+    "discovered_at": "2026-06-23T18:14:39.952625+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
