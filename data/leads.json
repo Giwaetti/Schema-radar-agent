@@ -8,7 +8,7 @@
     "title": "How I check whether ChatGPT / Perplexity actually cite my brand (simple method)",
     "summary": "More buyers now ask an AI assistant instead of Googling, so I started auditing whether my site shows up in those answers. What worked: List 10-15 questions a buyer asks in your category (&quot;best X for Y&quot;). Ask them in ChatGPT, Perplexity and Google's AI overview. Note who gets named. If you're missing, check the boring stuff first: are AI crawlers (GPTBot, PerplexityBot, Google-Extended) allowed in robots.txt? Is there an llms.txt? Article/FAQ schema on key pages? Re-check monthly; it moves. Most &quot;we're invisible in AI&quot; cases came down to blocked crawlers + no structured data, not content quality. Happy to share the checklist. &#32; submitted by &#32; /u/No_Pomegranate_6697 [link] &#32; [comments]",
     "published_at": "2026-06-21T14:32:34+00:00",
-    "discovered_at": "2026-06-23T04:20:16.126136+00:00",
+    "discovered_at": "2026-06-23T11:31:15.695147+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -73,7 +73,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-23T04:20:17.808140+00:00",
+    "discovered_at": "2026-06-23T11:31:16.863748+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -137,7 +137,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-23T04:20:17.810487+00:00",
+    "discovered_at": "2026-06-23T11:31:16.866904+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -185,6 +185,66 @@
     ]
   },
   {
+    "item_id": "8fcbf8232e44f5d1",
+    "source": "Shopify Community SEO Forum",
+    "source_id": "shopify-seo-forum",
+    "source_type": "forum",
+    "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
+    "title": "Json-Ld code for each product page",
+    "summary": "seo , troubleshooting 10 407 June 21, 2026",
+    "published_at": null,
+    "discovered_at": "2026-06-23T11:31:16.115620+00:00",
+    "stage": "watch",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "json-ld"
+        ],
+        "implementation_intent": [
+          "troubleshoot"
+        ],
+        "platforms": [
+          "product page"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2,
+        "platforms": 1
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "troubleshoot"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Json-Ld code for each product page",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "shopify",
+      "community",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "b7124e93be942b42",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -193,7 +253,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-23T04:20:17.806142+00:00",
+    "discovered_at": "2026-06-23T11:31:16.861268+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -251,7 +311,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-23T04:20:17.807878+00:00",
+    "discovered_at": "2026-06-23T11:31:16.863417+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -301,7 +361,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-23T04:20:17.812176+00:00",
+    "discovered_at": "2026-06-23T11:31:16.869176+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -351,7 +411,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-23T04:20:18.710236+00:00",
+    "discovered_at": "2026-06-23T11:31:18.194156+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -401,7 +461,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-23T04:20:17.812636+00:00",
+    "discovered_at": "2026-06-23T11:31:16.869838+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
