@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-25T11:08:11.456837+00:00",
+    "discovered_at": "2026-06-25T18:25:56.895332+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Breadcrumbs on product pages: collection in URL vs. metafield vs. auto-pick from product.collections. What actually works for SEO?",
     "summary": "Hoping someone who has shipped this on a real store can sanity-check my thinking. My products live in multiple collections, so there's no single &quot;true&quot; hierarchy stored anywhere. My dev suggested two options: Add a metafield per product holding the primary collection, then build the breadcrumb + JSON-LD from that. Downside: someone has to maintain that field across the whole catalog. Slightly modify the product URLs so they always include the current collection, like /collections/karambolage-queues/products/product-name . Then Shopify exposes the collection object on the product page and we build the breadcrumb from that. My concern with option 2: Shopify sets the canonical to the clean /products/... URL no matter which collection you enter from. So on the canonical page the collection object is nil , which means the breadcrumb + BreadcrumbList schema that Google actually indexes would be empty or inconsistent. Feels like it only helps visual nav, not the rich snippet. Am I wrong about that? The third option I'm considering: skip the metafield maintenance entirely and just iterate over product.collections in Liquid, pick the first one that isn't &quot;All&quot;, &quot;Frontpage&quot; or &quot;Sale&quot;, and build the breadcrumb + JSON-LD from that on the canonical URL. Only override with a metafield for the handful of products where the auto-pick is wrong. Questions: For anyone running multi-collection catalogs, did the auto-pick-from- product.collections approach hold up, or did it produce inconsistent paths that caused Search Console enhancement warnings? Is the collection-in-URL approach a dead end for SEO breadcrumbs specifically because of the canonical, or am I misunderstanding how Shopify handles it? Anyone regretting going the app route (Breadcrumbs Uncomplicated, JSON-LD for SEO) vs. native snippet? Store is a niche sports equipment shop, a few thousand products. Thanks. &#32; submitted by &#32; /u/BreakYaNeck99 [link] &#32; [comments]",
     "published_at": "2026-06-25T07:15:15+00:00",
-    "discovered_at": "2026-06-25T11:08:10.290252+00:00",
+    "discovered_at": "2026-06-25T18:25:55.320450+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -136,7 +136,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-25T11:08:11.459197+00:00",
+    "discovered_at": "2026-06-25T18:25:56.897265+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -192,7 +192,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-25T11:08:11.454852+00:00",
+    "discovered_at": "2026-06-25T18:25:56.893711+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -250,7 +250,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-25T11:08:11.456580+00:00",
+    "discovered_at": "2026-06-25T18:25:56.895134+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -300,7 +300,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-25T11:08:11.460866+00:00",
+    "discovered_at": "2026-06-25T18:25:56.898636+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -350,7 +350,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-25T11:08:12.431820+00:00",
+    "discovered_at": "2026-06-25T18:25:58.059114+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -400,7 +400,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-25T11:08:11.461321+00:00",
+    "discovered_at": "2026-06-25T18:25:56.899037+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
