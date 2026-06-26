@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-26T11:14:26.718433+00:00",
+    "discovered_at": "2026-06-26T18:03:16.531637+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Breadcrumbs on product pages: collection in URL vs. metafield vs. auto-pick from product.collections. What actually works for SEO?",
     "summary": "Hoping someone who has shipped this on a real store can sanity-check my thinking. My products live in multiple collections, so there's no single &quot;true&quot; hierarchy stored anywhere. My dev suggested two options: Add a metafield per product holding the primary collection, then build the breadcrumb + JSON-LD from that. Downside: someone has to maintain that field across the whole catalog. Slightly modify the product URLs so they always include the current collection, like /collections/karambolage-queues/products/product-name . Then Shopify exposes the collection object on the product page and we build the breadcrumb from that. My concern with option 2: Shopify sets the canonical to the clean /products/... URL no matter which collection you enter from. So on the canonical page the collection object is nil , which means the breadcrumb + BreadcrumbList schema that Google actually indexes would be empty or inconsistent. Feels like it only helps visual nav, not the rich snippet. Am I wrong about that? The third option I'm considering: skip the metafield maintenance entirely and just iterate over product.collections in Liquid, pick the first one that isn't &quot;All&quot;, &quot;Frontpage&quot; or &quot;Sale&quot;, and build the breadcrumb + JSON-LD from that on the canonical URL. Only override with a metafield for the handful of products where the auto-pick is wrong. Questions: For anyone running multi-collection catalogs, did the auto-pick-from- product.collections approach hold up, or did it produce inconsistent paths that caused Search Console enhancement warnings? Is the collection-in-URL approach a dead end for SEO breadcrumbs specifically because of the canonical, or am I misunderstanding how Shopify handles it? Anyone regretting going the app route (Breadcrumbs Uncomplicated, JSON-LD for SEO) vs. native snippet? Store is a niche sports equipment shop, a few thousand products. Thanks. &#32; submitted by &#32; /u/BreakYaNeck99 [link] &#32; [comments]",
     "published_at": "2026-06-25T07:15:15+00:00",
-    "discovered_at": "2026-06-26T11:14:25.651028+00:00",
+    "discovered_at": "2026-06-26T18:03:15.511048+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -128,6 +128,86 @@
     ]
   },
   {
+    "item_id": "ca439594ee53fd02",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1ug5p9l/is_full_article_in_the_html_but_visually",
+    "title": "Is \"full article in the HTML, but visually truncated\" a cloaking risk? (teaser-to-app setup)",
+    "summary": "I run a companion website for a content app that's on testflight right now, and I want the web article to show only an opening teaser, then push readers into the app for the rest. The tension is ranking: a teaser-only page is thin and won't rank for the body. Here's the actual page I'm testing it on: https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log — the full article is in the HTML, but it's visually capped with a max-height and a fade overlay, so a reader only sees the first chunk before a &quot;read the rest in the app&quot; prompt. What I can't get a straight answer on: Since the full text is in the DOM, will Google index and rank it normally, or does it discount the visually-hidden portion? And is this a cloaking problem, given the user sees less than Googlebot does? Would I be safer shipping only the teaser and accepting I rank for less? Does the paywalled-content structured data ( isAccessibleForFree: false + hasPart / cssSelector ) apply here, even though it's an &quot;app gate&quot; rather than a paywall? If you load the page, does anything look like it'd trip a cloaking or thin-content flag? Genuinely after a teardown. &#32; submitted by &#32; /u/FoShr [link] &#32; [comments]",
+    "published_at": "2026-06-26T12:39:38+00:00",
+    "discovered_at": "2026-06-26T18:03:15.509883+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "implementation_intent": [
+          "setup"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "setup"
+    ],
+    "business_name": "Theuncdaily",
+    "business_url": "https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log",
+    "audit": {
+      "business_url": "https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log",
+      "final_url": "https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log",
+      "domain": "www.theuncdaily.com",
+      "status_code": 200,
+      "ok": true,
+      "has_json_ld": true,
+      "schema_types": [
+        "BreadcrumbList",
+        "ImageObject",
+        "ListItem",
+        "NewsArticle",
+        "Organization",
+        "Person",
+        "WebPage"
+      ],
+      "cms": null,
+      "site_kind": "general",
+      "title": "The Menacing Folklore Of The Digital Log · The Unc Daily",
+      "opportunity_gaps": [],
+      "notes": [
+        "Detected site kind: general",
+        "Schema types found: BreadcrumbList, ImageObject, ListItem, NewsArticle, Organization, Person, WebPage"
+      ],
+      "error": null
+    },
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Schema help for Theuncdaily",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Theuncdaily. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Theuncdaily. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -136,7 +216,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-26T11:14:26.721620+00:00",
+    "discovered_at": "2026-06-26T18:03:16.533992+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -184,63 +264,6 @@
     ]
   },
   {
-    "item_id": "37b614e2d768a95e",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1ug13zk/should_we_submit_old_news_urls_in_gsc_or_let",
-    "title": "Should we submit old news URLs in GSC or let Google index them naturally?",
-    "summary": "Looking for advice from publishers and SEOs who've dealt with Core Updates. Our news site has around 500 published articles . After the recent Core Update, a large number of articles were de-indexed . Over the last few weeks, we've noticed Google has started re-indexing some of them automatically , so it seems like Google is re-evaluating the site. However, about 120 articles are still not indexed . Since these are news articles , they lose relevance over time, so we're unsure whether it's worth manually requesting indexing for them. Our main concern is this: Should we use Google Search Console's Request Indexing feature for those 120 URLs? Or should we simply leave them alone and let Google crawl and decide naturally? Is there any benefit to requesting indexing for older news content that is no longer fresh? Could submitting a large number of old URLs through GSC be unnecessary or even waste crawl resources? There don't seem to be any technical issues. The site has XML sitemaps, structured data, proper internal linking, and follows Google's Search Essentials. Has anyone experienced something similar after a Core Update? Did you manually submit old URLs for news article, or did you just wait for Google to re-crawl and re-index them over time? I'd really appreciate hearing your experiences and recommendations. &#32; submitted by &#32; /u/avatar_leo [link] &#32; [comments]",
-    "published_at": "2026-06-26T08:40:22+00:00",
-    "discovered_at": "2026-06-26T11:14:25.650293+00:00",
-    "stage": "warm",
-    "score": 8,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "commercial_intent": [
-          "looking for"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "commercial_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "sitemap"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "looking for"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Should we submit old news URLs in GSC or let Google index th",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b7124e93be942b42",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -249,7 +272,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-26T11:14:26.715907+00:00",
+    "discovered_at": "2026-06-26T18:03:16.529670+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -307,7 +330,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-26T11:14:26.718091+00:00",
+    "discovered_at": "2026-06-26T18:03:16.531389+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -357,7 +380,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-26T11:14:26.723861+00:00",
+    "discovered_at": "2026-06-26T18:03:16.535650+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -407,7 +430,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-26T11:14:27.448140+00:00",
+    "discovered_at": "2026-06-26T18:03:17.270195+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -457,7 +480,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-26T11:14:26.724484+00:00",
+    "discovered_at": "2026-06-26T18:03:16.536106+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
