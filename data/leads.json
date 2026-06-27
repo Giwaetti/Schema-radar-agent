@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-27T10:23:19.529512+00:00",
+    "discovered_at": "2026-06-27T17:30:50.719987+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Breadcrumbs on product pages: collection in URL vs. metafield vs. auto-pick from product.collections. What actually works for SEO?",
     "summary": "Hoping someone who has shipped this on a real store can sanity-check my thinking. My products live in multiple collections, so there's no single &quot;true&quot; hierarchy stored anywhere. My dev suggested two options: Add a metafield per product holding the primary collection, then build the breadcrumb + JSON-LD from that. Downside: someone has to maintain that field across the whole catalog. Slightly modify the product URLs so they always include the current collection, like /collections/karambolage-queues/products/product-name . Then Shopify exposes the collection object on the product page and we build the breadcrumb from that. My concern with option 2: Shopify sets the canonical to the clean /products/... URL no matter which collection you enter from. So on the canonical page the collection object is nil , which means the breadcrumb + BreadcrumbList schema that Google actually indexes would be empty or inconsistent. Feels like it only helps visual nav, not the rich snippet. Am I wrong about that? The third option I'm considering: skip the metafield maintenance entirely and just iterate over product.collections in Liquid, pick the first one that isn't &quot;All&quot;, &quot;Frontpage&quot; or &quot;Sale&quot;, and build the breadcrumb + JSON-LD from that on the canonical URL. Only override with a metafield for the handful of products where the auto-pick is wrong. Questions: For anyone running multi-collection catalogs, did the auto-pick-from- product.collections approach hold up, or did it produce inconsistent paths that caused Search Console enhancement warnings? Is the collection-in-URL approach a dead end for SEO breadcrumbs specifically because of the canonical, or am I misunderstanding how Shopify handles it? Anyone regretting going the app route (Breadcrumbs Uncomplicated, JSON-LD for SEO) vs. native snippet? Store is a niche sports equipment shop, a few thousand products. Thanks. &#32; submitted by &#32; /u/BreakYaNeck99 [link] &#32; [comments]",
     "published_at": "2026-06-25T07:15:15+00:00",
-    "discovered_at": "2026-06-27T10:23:18.047568+00:00",
+    "discovered_at": "2026-06-27T17:30:49.500137+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -136,7 +136,7 @@
     "title": "Is \"full article in the HTML, but visually truncated\" a cloaking risk? (teaser-to-app setup)",
     "summary": "I run a companion website for a content app that's on testflight right now, and I want the web article to show only an opening teaser, then push readers into the app for the rest. The tension is ranking: a teaser-only page is thin and won't rank for the body. Here's the actual page I'm testing it on: https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log — the full article is in the HTML, but it's visually capped with a max-height and a fade overlay, so a reader only sees the first chunk before a &quot;read the rest in the app&quot; prompt. What I can't get a straight answer on: Since the full text is in the DOM, will Google index and rank it normally, or does it discount the visually-hidden portion? And is this a cloaking problem, given the user sees less than Googlebot does? Would I be safer shipping only the teaser and accepting I rank for less? Does the paywalled-content structured data ( isAccessibleForFree: false + hasPart / cssSelector ) apply here, even though it's an &quot;app gate&quot; rather than a paywall? If you load the page, does anything look like it'd trip a cloaking or thin-content flag? Genuinely after a teardown. &#32; submitted by &#32; /u/FoShr [link] &#32; [comments]",
     "published_at": "2026-06-26T12:39:38+00:00",
-    "discovered_at": "2026-06-27T10:23:18.046676+00:00",
+    "discovered_at": "2026-06-27T17:30:49.499119+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -216,7 +216,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-27T10:23:19.532361+00:00",
+    "discovered_at": "2026-06-27T17:30:50.722321+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -272,7 +272,7 @@
     "title": "Json-Ld code for each product page",
     "summary": "seo , troubleshooting 10 436 June 21, 2026",
     "published_at": null,
-    "discovered_at": "2026-06-27T10:23:18.707648+00:00",
+    "discovered_at": "2026-06-27T17:30:49.889489+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -332,7 +332,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-27T10:23:19.527310+00:00",
+    "discovered_at": "2026-06-27T17:30:50.718113+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -390,7 +390,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-27T10:23:19.529212+00:00",
+    "discovered_at": "2026-06-27T17:30:50.719745+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -440,7 +440,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-27T10:23:19.534361+00:00",
+    "discovered_at": "2026-06-27T17:30:50.723963+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -490,7 +490,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-27T10:23:20.175883+00:00",
+    "discovered_at": "2026-06-27T17:30:51.585790+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -540,7 +540,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-27T10:23:19.534898+00:00",
+    "discovered_at": "2026-06-27T17:30:50.724406+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
