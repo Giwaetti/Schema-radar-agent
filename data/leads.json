@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-26T18:03:16.531637+00:00",
+    "discovered_at": "2026-06-27T04:16:07.030093+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Breadcrumbs on product pages: collection in URL vs. metafield vs. auto-pick from product.collections. What actually works for SEO?",
     "summary": "Hoping someone who has shipped this on a real store can sanity-check my thinking. My products live in multiple collections, so there's no single &quot;true&quot; hierarchy stored anywhere. My dev suggested two options: Add a metafield per product holding the primary collection, then build the breadcrumb + JSON-LD from that. Downside: someone has to maintain that field across the whole catalog. Slightly modify the product URLs so they always include the current collection, like /collections/karambolage-queues/products/product-name . Then Shopify exposes the collection object on the product page and we build the breadcrumb from that. My concern with option 2: Shopify sets the canonical to the clean /products/... URL no matter which collection you enter from. So on the canonical page the collection object is nil , which means the breadcrumb + BreadcrumbList schema that Google actually indexes would be empty or inconsistent. Feels like it only helps visual nav, not the rich snippet. Am I wrong about that? The third option I'm considering: skip the metafield maintenance entirely and just iterate over product.collections in Liquid, pick the first one that isn't &quot;All&quot;, &quot;Frontpage&quot; or &quot;Sale&quot;, and build the breadcrumb + JSON-LD from that on the canonical URL. Only override with a metafield for the handful of products where the auto-pick is wrong. Questions: For anyone running multi-collection catalogs, did the auto-pick-from- product.collections approach hold up, or did it produce inconsistent paths that caused Search Console enhancement warnings? Is the collection-in-URL approach a dead end for SEO breadcrumbs specifically because of the canonical, or am I misunderstanding how Shopify handles it? Anyone regretting going the app route (Breadcrumbs Uncomplicated, JSON-LD for SEO) vs. native snippet? Store is a niche sports equipment shop, a few thousand products. Thanks. &#32; submitted by &#32; /u/BreakYaNeck99 [link] &#32; [comments]",
     "published_at": "2026-06-25T07:15:15+00:00",
-    "discovered_at": "2026-06-26T18:03:15.511048+00:00",
+    "discovered_at": "2026-06-27T04:16:05.331604+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -136,7 +136,7 @@
     "title": "Is \"full article in the HTML, but visually truncated\" a cloaking risk? (teaser-to-app setup)",
     "summary": "I run a companion website for a content app that's on testflight right now, and I want the web article to show only an opening teaser, then push readers into the app for the rest. The tension is ranking: a teaser-only page is thin and won't rank for the body. Here's the actual page I'm testing it on: https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log — the full article is in the HTML, but it's visually capped with a max-height and a fade overlay, so a reader only sees the first chunk before a &quot;read the rest in the app&quot; prompt. What I can't get a straight answer on: Since the full text is in the DOM, will Google index and rank it normally, or does it discount the visually-hidden portion? And is this a cloaking problem, given the user sees less than Googlebot does? Would I be safer shipping only the teaser and accepting I rank for less? Does the paywalled-content structured data ( isAccessibleForFree: false + hasPart / cssSelector ) apply here, even though it's an &quot;app gate&quot; rather than a paywall? If you load the page, does anything look like it'd trip a cloaking or thin-content flag? Genuinely after a teardown. &#32; submitted by &#32; /u/FoShr [link] &#32; [comments]",
     "published_at": "2026-06-26T12:39:38+00:00",
-    "discovered_at": "2026-06-26T18:03:15.509883+00:00",
+    "discovered_at": "2026-06-27T04:16:05.330491+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -176,9 +176,9 @@
         "BreadcrumbList",
         "ImageObject",
         "ListItem",
-        "NewsArticle",
         "Organization",
         "Person",
+        "SatiricalArticle",
         "WebPage"
       ],
       "cms": null,
@@ -187,7 +187,7 @@
       "opportunity_gaps": [],
       "notes": [
         "Detected site kind: general",
-        "Schema types found: BreadcrumbList, ImageObject, ListItem, NewsArticle, Organization, Person, WebPage"
+        "Schema types found: BreadcrumbList, ImageObject, ListItem, Organization, Person, SatiricalArticle, WebPage"
       ],
       "error": null
     },
@@ -216,7 +216,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-26T18:03:16.533992+00:00",
+    "discovered_at": "2026-06-27T04:16:07.033307+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -264,6 +264,66 @@
     ]
   },
   {
+    "item_id": "8fcbf8232e44f5d1",
+    "source": "Shopify Community SEO Forum",
+    "source_id": "shopify-seo-forum",
+    "source_type": "forum",
+    "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
+    "title": "Json-Ld code for each product page",
+    "summary": "seo , troubleshooting 10 435 June 21, 2026",
+    "published_at": null,
+    "discovered_at": "2026-06-27T04:16:05.923636+00:00",
+    "stage": "watch",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "json-ld"
+        ],
+        "implementation_intent": [
+          "troubleshoot"
+        ],
+        "platforms": [
+          "product page"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2,
+        "platforms": 1
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "troubleshoot"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Json-Ld code for each product page",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "shopify",
+      "community",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "b7124e93be942b42",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -272,7 +332,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-26T18:03:16.529670+00:00",
+    "discovered_at": "2026-06-27T04:16:07.027609+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -330,7 +390,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-26T18:03:16.531389+00:00",
+    "discovered_at": "2026-06-27T04:16:07.029779+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -380,7 +440,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-26T18:03:16.535650+00:00",
+    "discovered_at": "2026-06-27T04:16:07.035716+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -430,7 +490,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-26T18:03:17.270195+00:00",
+    "discovered_at": "2026-06-27T04:16:08.268065+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -480,7 +540,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-26T18:03:16.536106+00:00",
+    "discovered_at": "2026-06-27T04:16:07.036334+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
