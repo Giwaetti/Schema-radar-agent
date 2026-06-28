@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-28T04:50:41.535628+00:00",
+    "discovered_at": "2026-06-28T10:34:46.477510+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,73 +64,6 @@
     ]
   },
   {
-    "item_id": "363c5f1a2d50361e",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1uhlo8r/based_on_my_skills_how_much_do_you_think_i_should",
-    "title": "Based on my skills, how much do you think I should be earning as an SEO contractor?",
-    "summary": "Based on my skills, how much do you think I should be earning as an SEO contractor? I'm trying to figure out what my market value is, so I'd appreciate honest opinions. I'm a contractor for a US-based SEO agency with 2 years of experience. I don't communicate with clients, but I handle a wide range of SEO, technical, development, and analytics work. Here's what I do: -Build fully functional websites (the agency charges clients around $5,000 for these projects) -Technical SEO (404s, redirects, crawl/indexation issues, internal linking, schema markup, site health) -Full SEO audits -Keyword research -SEO strategy and content cluster planning -Content briefs -Blog and page implementation -Comfortable working with 10+ CMSs -Daily use of Ahrefs, GA4, GSC, Screaming Frog, Microsoft Clarity, Looker Studio, agency analytics -Conversion rate audits -AI SEO (fan-out queries, AI traffic analysis, schema, etc.) -Basic Python automation and web scraping(reddit) for finding most engaging topics in top subreddits with top post and comments and analyzing them using Ai -Build Looker Studio dashboards combining GA4, GSC, and Google Ads data I work remotely for a US based agency. If you were hiring someone with this skill set: What monthly salary or hourly rate would you offer? &#32; submitted by &#32; /u/United-Importance699 [link] &#32; [comments]",
-    "published_at": "2026-06-28T02:56:14+00:00",
-    "discovered_at": "2026-06-28T04:50:39.799282+00:00",
-    "stage": "warm",
-    "score": 11,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "schema markup"
-        ],
-        "commercial_intent": [
-          "agency"
-        ],
-        "implementation_intent": [
-          "implement",
-          "implementation",
-          "audit"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "commercial_intent": 2,
-        "implementation_intent": 4
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "keyword research",
-        "google ads"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "agency",
-      "implement",
-      "implementation",
-      "audit"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Based on my skills, how much do you think I should be earnin",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "ca439594ee53fd02",
     "source": "Reddit /r/SEO",
     "source_id": "reddit-seo",
@@ -139,7 +72,7 @@
     "title": "Is \"full article in the HTML, but visually truncated\" a cloaking risk? (teaser-to-app setup)",
     "summary": "I run a companion website for a content app that's on testflight right now, and I want the web article to show only an opening teaser, then push readers into the app for the rest. The tension is ranking: a teaser-only page is thin and won't rank for the body. Here's the actual page I'm testing it on: https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log — the full article is in the HTML, but it's visually capped with a max-height and a fade overlay, so a reader only sees the first chunk before a &quot;read the rest in the app&quot; prompt. What I can't get a straight answer on: Since the full text is in the DOM, will Google index and rank it normally, or does it discount the visually-hidden portion? And is this a cloaking problem, given the user sees less than Googlebot does? Would I be safer shipping only the teaser and accepting I rank for less? Does the paywalled-content structured data ( isAccessibleForFree: false + hasPart / cssSelector ) apply here, even though it's an &quot;app gate&quot; rather than a paywall? If you load the page, does anything look like it'd trip a cloaking or thin-content flag? Genuinely after a teardown. &#32; submitted by &#32; /u/FoShr [link] &#32; [comments]",
     "published_at": "2026-06-26T12:39:38+00:00",
-    "discovered_at": "2026-06-28T04:50:39.800589+00:00",
+    "discovered_at": "2026-06-28T10:34:45.383353+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -219,7 +152,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-28T04:50:41.538837+00:00",
+    "discovered_at": "2026-06-28T10:34:46.480816+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -267,66 +200,6 @@
     ]
   },
   {
-    "item_id": "8fcbf8232e44f5d1",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
-    "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
-    "title": "Json-Ld code for each product page",
-    "summary": "seo , troubleshooting 10 438 June 21, 2026",
-    "published_at": null,
-    "discovered_at": "2026-06-28T04:50:40.454458+00:00",
-    "stage": "watch",
-    "score": 7,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "json-ld"
-        ],
-        "implementation_intent": [
-          "troubleshoot"
-        ],
-        "platforms": [
-          "product page"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 2,
-        "platforms": 1
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "troubleshoot"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Json-Ld code for each product page",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "shopify",
-      "community",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b7124e93be942b42",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -335,7 +208,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-28T04:50:41.533154+00:00",
+    "discovered_at": "2026-06-28T10:34:46.474875+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -393,7 +266,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-28T04:50:41.535311+00:00",
+    "discovered_at": "2026-06-28T10:34:46.477180+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -443,7 +316,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-28T04:50:41.541142+00:00",
+    "discovered_at": "2026-06-28T10:34:46.483165+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -493,7 +366,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-28T04:50:42.318186+00:00",
+    "discovered_at": "2026-06-28T10:34:47.315099+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -543,7 +416,7 @@
     "title": "FAQ schema disappeard from every post",
     "summary": "Started by: strictlydata",
     "published_at": null,
-    "discovered_at": "2026-06-28T04:50:41.541740+00:00",
+    "discovered_at": "2026-06-28T10:34:46.483795+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
