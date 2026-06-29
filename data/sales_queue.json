@@ -138,25 +138,5 @@
     "reply_subject": "Best fit for: Not able to preview the structured data",
     "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
     "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces"
-  },
-  {
-    "item_id": "a548be9dc82b178a",
-    "stage": "watch",
-    "score": 5,
-    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
-    "source_type": "forum",
-    "title": "FAQ schema disappeard from every post",
-    "source_url": "https://wordpress.org/support/topic/faq-schema-disappeard-from-every-post",
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "business_name": null,
-    "business_url": null,
-    "reply_subject": "Best fit for: FAQ schema disappeard from every post",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for faq_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces"
   }
 ]

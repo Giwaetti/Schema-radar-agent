@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-29T04:59:44.989524+00:00",
+    "discovered_at": "2026-06-29T12:42:00.395115+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Is \"full article in the HTML, but visually truncated\" a cloaking risk? (teaser-to-app setup)",
     "summary": "I run a companion website for a content app that's on testflight right now, and I want the web article to show only an opening teaser, then push readers into the app for the rest. The tension is ranking: a teaser-only page is thin and won't rank for the body. Here's the actual page I'm testing it on: https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log — the full article is in the HTML, but it's visually capped with a max-height and a fade overlay, so a reader only sees the first chunk before a &quot;read the rest in the app&quot; prompt. What I can't get a straight answer on: Since the full text is in the DOM, will Google index and rank it normally, or does it discount the visually-hidden portion? And is this a cloaking problem, given the user sees less than Googlebot does? Would I be safer shipping only the teaser and accepting I rank for less? Does the paywalled-content structured data ( isAccessibleForFree: false + hasPart / cssSelector ) apply here, even though it's an &quot;app gate&quot; rather than a paywall? If you load the page, does anything look like it'd trip a cloaking or thin-content flag? Genuinely after a teardown. &#32; submitted by &#32; /u/FoShr [link] &#32; [comments]",
     "published_at": "2026-06-26T12:39:38+00:00",
-    "discovered_at": "2026-06-29T04:59:42.575358+00:00",
+    "discovered_at": "2026-06-29T12:41:59.085928+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -109,13 +109,14 @@
       "ok": true,
       "has_json_ld": true,
       "schema_types": [
+        "Article",
         "BreadcrumbList",
         "ImageObject",
         "ListItem",
         "Organization",
         "Person",
-        "SatiricalArticle",
-        "WebPage"
+        "WebPage",
+        "WebSite"
       ],
       "cms": null,
       "site_kind": "general",
@@ -123,7 +124,7 @@
       "opportunity_gaps": [],
       "notes": [
         "Detected site kind: general",
-        "Schema types found: BreadcrumbList, ImageObject, ListItem, Organization, Person, SatiricalArticle, WebPage"
+        "Schema types found: Article, BreadcrumbList, ImageObject, ListItem, Organization, Person, WebPage, WebSite"
       ],
       "error": null
     },
@@ -152,7 +153,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-29T04:59:44.992822+00:00",
+    "discovered_at": "2026-06-29T12:42:00.398381+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -208,7 +209,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-29T04:59:44.986963+00:00",
+    "discovered_at": "2026-06-29T12:42:00.392605+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -266,7 +267,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-29T04:59:44.989203+00:00",
+    "discovered_at": "2026-06-29T12:42:00.394800+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -316,7 +317,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-29T04:59:44.995137+00:00",
+    "discovered_at": "2026-06-29T12:42:00.400641+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -366,7 +367,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-29T04:59:45.770520+00:00",
+    "discovered_at": "2026-06-29T12:42:01.357068+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -404,58 +405,6 @@
       "google",
       "search-central",
       "structured-data",
-      "schema-centric"
-    ]
-  },
-  {
-    "item_id": "a548be9dc82b178a",
-    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
-    "source_id": "wordpress-schema-support",
-    "source_type": "forum",
-    "source_url": "https://wordpress.org/support/topic/faq-schema-disappeard-from-every-post",
-    "title": "FAQ schema disappeard from every post",
-    "summary": "Started by: strictlydata",
-    "published_at": null,
-    "discovered_at": "2026-06-29T04:59:44.995788+00:00",
-    "stage": "watch",
-    "score": 5,
-    "score_breakdown": {
-      "matches": {
-        "schema_types": [
-          "faq schema"
-        ]
-      },
-      "group_points": {
-        "schema_types": 3
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 2,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [
-      "faq_schema"
-    ],
-    "intent_flags": [],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: FAQ schema disappeard from every post",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for faq_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "wordpress",
-      "schema",
-      "support",
       "schema-centric"
     ]
   }
