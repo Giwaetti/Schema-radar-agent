@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-30T04:34:01.657524+00:00",
+    "discovered_at": "2026-06-30T11:21:09.620818+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,94 +64,6 @@
     ]
   },
   {
-    "item_id": "ca439594ee53fd02",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1ug5p9l/is_full_article_in_the_html_but_visually",
-    "title": "Is \"full article in the HTML, but visually truncated\" a cloaking risk? (teaser-to-app setup)",
-    "summary": "I run a companion website for a content app that's on testflight right now, and I want the web article to show only an opening teaser, then push readers into the app for the rest. The tension is ranking: a teaser-only page is thin and won't rank for the body. Here's the actual page I'm testing it on: https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log — the full article is in the HTML, but it's visually capped with a max-height and a fade overlay, so a reader only sees the first chunk before a &quot;read the rest in the app&quot; prompt. What I can't get a straight answer on: Since the full text is in the DOM, will Google index and rank it normally, or does it discount the visually-hidden portion? And is this a cloaking problem, given the user sees less than Googlebot does? Would I be safer shipping only the teaser and accepting I rank for less? Does the paywalled-content structured data ( isAccessibleForFree: false + hasPart / cssSelector ) apply here, even though it's an &quot;app gate&quot; rather than a paywall? If you load the page, does anything look like it'd trip a cloaking or thin-content flag? Genuinely after a teardown. &#32; submitted by &#32; /u/FoShr [link] &#32; [comments]",
-    "published_at": "2026-06-26T12:39:38+00:00",
-    "discovered_at": "2026-06-30T04:34:00.841691+00:00",
-    "stage": "warm",
-    "score": 9,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "implementation_intent": [
-          "setup"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "setup"
-    ],
-    "business_name": "Theuncdaily",
-    "business_url": "https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log",
-    "audit": {
-      "business_url": "https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log",
-      "final_url": "https://www.theuncdaily.com/articles/the-menacing-folklore-of-the-digital-log",
-      "domain": "www.theuncdaily.com",
-      "status_code": 200,
-      "ok": true,
-      "has_json_ld": true,
-      "schema_types": [
-        "Answer",
-        "Article",
-        "BreadcrumbList",
-        "DefinedTerm",
-        "DefinedTermSet",
-        "FAQPage",
-        "ImageObject",
-        "ListItem",
-        "Organization",
-        "Person",
-        "Question",
-        "WebPage",
-        "WebSite"
-      ],
-      "cms": null,
-      "site_kind": "ecommerce",
-      "title": "The Menacing Folklore Of The Digital Log · The Unc Daily",
-      "opportunity_gaps": [
-        "Missing Product schema on scanned page"
-      ],
-      "notes": [
-        "Detected site kind: ecommerce",
-        "Schema types found: Answer, Article, BreadcrumbList, DefinedTerm, DefinedTermSet, FAQPage, ImageObject, ListItem"
-      ],
-      "error": null
-    },
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Offer a fast product-schema visibility fix or implementation shortcut.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Schema help for Theuncdaily",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Theuncdaily. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nOffer a fast product-schema visibility fix or implementation shortcut.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Theuncdaily. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -160,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-30T04:34:01.660778+00:00",
+    "discovered_at": "2026-06-30T11:21:09.623142+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -208,66 +120,6 @@
     ]
   },
   {
-    "item_id": "8fcbf8232e44f5d1",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
-    "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
-    "title": "Json-Ld code for each product page",
-    "summary": "seo , troubleshooting 10 441 June 21, 2026",
-    "published_at": null,
-    "discovered_at": "2026-06-30T04:34:01.192760+00:00",
-    "stage": "watch",
-    "score": 7,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "json-ld"
-        ],
-        "implementation_intent": [
-          "troubleshoot"
-        ],
-        "platforms": [
-          "product page"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 2,
-        "platforms": 1
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "troubleshoot"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Json-Ld code for each product page",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "shopify",
-      "community",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b7124e93be942b42",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -276,7 +128,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-30T04:34:01.655064+00:00",
+    "discovered_at": "2026-06-30T11:21:09.618919+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -334,7 +186,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-30T04:34:01.657212+00:00",
+    "discovered_at": "2026-06-30T11:21:09.620576+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -384,7 +236,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-30T04:34:01.663061+00:00",
+    "discovered_at": "2026-06-30T11:21:09.624796+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -434,7 +286,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-30T04:34:02.374421+00:00",
+    "discovered_at": "2026-06-30T11:21:20.552073+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
