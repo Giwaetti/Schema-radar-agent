@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-06-30T18:14:52.239761+00:00",
+    "discovered_at": "2026-07-01T04:54:04.458587+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-06-30T18:14:52.243010+00:00",
+    "discovered_at": "2026-07-01T04:54:04.460933+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -120,6 +120,66 @@
     ]
   },
   {
+    "item_id": "8fcbf8232e44f5d1",
+    "source": "Shopify Community SEO Forum",
+    "source_id": "shopify-seo-forum",
+    "source_type": "forum",
+    "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
+    "title": "Json-Ld code for each product page",
+    "summary": "seo , troubleshooting 10 442 June 21, 2026",
+    "published_at": null,
+    "discovered_at": "2026-07-01T04:54:04.015607+00:00",
+    "stage": "watch",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "json-ld"
+        ],
+        "implementation_intent": [
+          "troubleshoot"
+        ],
+        "platforms": [
+          "product page"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2,
+        "platforms": 1
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "troubleshoot"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Json-Ld code for each product page",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "shopify",
+      "community",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "b7124e93be942b42",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -128,7 +188,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-06-30T18:14:52.237289+00:00",
+    "discovered_at": "2026-07-01T04:54:04.456705+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -186,7 +246,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-06-30T18:14:52.239450+00:00",
+    "discovered_at": "2026-07-01T04:54:04.458343+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -236,7 +296,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-06-30T18:14:52.245246+00:00",
+    "discovered_at": "2026-07-01T04:54:04.462614+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -286,7 +346,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-06-30T18:14:52.976008+00:00",
+    "discovered_at": "2026-07-01T04:54:05.253581+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
