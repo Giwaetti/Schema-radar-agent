@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-02T18:01:47.323094+00:00",
+    "discovered_at": "2026-07-03T04:08:46.526539+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-02T18:01:47.325865+00:00",
+    "discovered_at": "2026-07-03T04:08:46.529733+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -120,6 +120,71 @@
     ]
   },
   {
+    "item_id": "d28d734d0e9ed704",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1ulu7h5/spent_4200_on_an_aeo_agency_for_a_pool_business",
+    "title": "spent $4200 on an \"AEO\" agency for a pool business and got nothing. what am i missing??",
+    "summary": "i handle marketing for a few pool companys in FL. this year we noticed a chunk of leads were drying up even though rankings held steady. figured out people are asking chatgpt and perplexity stuff like &quot;who should i hire to replaster my pool in tampa&quot; and there getting answers that aren't us. hired an agency in february that said they did AEO. four months later i looked at what they actaully did. backlinks and meta descriptions. thats it. same stuff i could of done myself for free. before that i tried doing structured data and FAQ pages on our own sites. barley moved anything. is the whole AEO category just a rebrand? genuinely asking because i cant tell anymore &#32; submitted by &#32; /u/Patricia_Morgana [link] &#32; [comments]",
+    "published_at": "2026-07-02T20:52:14+00:00",
+    "discovered_at": "2026-07-03T04:08:45.297528+00:00",
+    "stage": "watch",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "commercial_intent": [
+          "agency"
+        ],
+        "implementation_intent": [
+          "missing"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "commercial_intent": 2,
+        "implementation_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "backlink",
+        "backlinks",
+        "meta description",
+        "meta descriptions"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "agency",
+      "missing"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: spent $4200 on an \"AEO\" agency for a pool business and got n",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "b7124e93be942b42",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -128,7 +193,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-02T18:01:47.320963+00:00",
+    "discovered_at": "2026-07-03T04:08:46.524059+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -186,7 +251,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-02T18:01:47.322813+00:00",
+    "discovered_at": "2026-07-03T04:08:46.526227+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -236,7 +301,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-07-02T18:01:47.327825+00:00",
+    "discovered_at": "2026-07-03T04:08:46.531990+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -286,7 +351,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-02T18:01:47.941026+00:00",
+    "discovered_at": "2026-07-03T04:08:47.046853+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
