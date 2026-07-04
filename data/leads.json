@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-03T17:47:26.469557+00:00",
+    "discovered_at": "2026-07-04T04:01:41.279037+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,6 +64,64 @@
     ]
   },
   {
+    "item_id": "87c455866d8268ce",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1umms0c/what_could_possibly_be_going_out_with_my_shopify",
+    "title": "What could possibly be going out with my Shopify site.",
+    "summary": "I have one of the biggest brands in my ecom niche, I sell my product wholesale. When you Google my product, my Google merchant listings don't come up anywhere, but the person I wholesaled my product to, a extremely small boutique shows up first on search results. Wtf is going on... &#32; submitted by &#32; /u/knock_his_block_off [link] &#32; [comments]",
+    "published_at": "2026-07-03T18:50:45+00:00",
+    "discovered_at": "2026-07-04T04:01:39.655899+00:00",
+    "stage": "hot",
+    "score": 12,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "merchant listing",
+          "merchant listings"
+        ],
+        "platforms": [
+          "shopify"
+        ]
+      },
+      "group_points": {
+        "schema_core": 8,
+        "platforms": 1
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "shopify"
+    ],
+    "issue_types": [
+      "product_schema"
+    ],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Respond as hands-on implementation help for an active schema problem.",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: What could possibly be going out with my Shopify site.",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with product_schema, email schemaagent@gmail.com.\n\nRespond as hands-on implementation help for an active schema problem.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -72,7 +130,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-03T17:47:26.472819+00:00",
+    "discovered_at": "2026-07-04T04:01:41.282248+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -128,7 +186,7 @@
     "title": "spent $4200 on an \"AEO\" agency for a pool business and got nothing. what am i missing??",
     "summary": "i handle marketing for a few pool companys in FL. this year we noticed a chunk of leads were drying up even though rankings held steady. figured out people are asking chatgpt and perplexity stuff like &quot;who should i hire to replaster my pool in tampa&quot; and there getting answers that aren't us. hired an agency in february that said they did AEO. four months later i looked at what they actaully did. backlinks and meta descriptions. thats it. same stuff i could of done myself for free. before that i tried doing structured data and FAQ pages on our own sites. barley moved anything. is the whole AEO category just a rebrand? genuinely asking because i cant tell anymore &#32; submitted by &#32; /u/Patricia_Morgana [link] &#32; [comments]",
     "published_at": "2026-07-02T20:52:14+00:00",
-    "discovered_at": "2026-07-03T17:47:25.675528+00:00",
+    "discovered_at": "2026-07-04T04:01:39.656440+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -191,9 +249,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
     "title": "Json-Ld code for each product page",
-    "summary": "seo , troubleshooting 10 452 June 21, 2026",
+    "summary": "seo , troubleshooting 10 453 June 21, 2026",
     "published_at": null,
-    "discovered_at": "2026-07-03T17:47:26.050441+00:00",
+    "discovered_at": "2026-07-04T04:01:40.263763+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -253,7 +311,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-03T17:47:26.467106+00:00",
+    "discovered_at": "2026-07-04T04:01:41.276554+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -311,7 +369,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-03T17:47:26.469251+00:00",
+    "discovered_at": "2026-07-04T04:01:41.278701+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -361,7 +419,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-07-03T17:47:26.475174+00:00",
+    "discovered_at": "2026-07-04T04:01:41.284477+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -411,7 +469,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-03T17:47:27.349308+00:00",
+    "discovered_at": "2026-07-04T04:01:42.171147+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
