@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-04T04:01:41.279037+00:00",
+    "discovered_at": "2026-07-04T10:25:18.324492+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "What could possibly be going out with my Shopify site.",
     "summary": "I have one of the biggest brands in my ecom niche, I sell my product wholesale. When you Google my product, my Google merchant listings don't come up anywhere, but the person I wholesaled my product to, a extremely small boutique shows up first on search results. Wtf is going on... &#32; submitted by &#32; /u/knock_his_block_off [link] &#32; [comments]",
     "published_at": "2026-07-03T18:50:45+00:00",
-    "discovered_at": "2026-07-04T04:01:39.655899+00:00",
+    "discovered_at": "2026-07-04T10:25:17.702647+00:00",
     "stage": "hot",
     "score": 12,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-04T04:01:41.282248+00:00",
+    "discovered_at": "2026-07-04T10:25:18.327698+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -186,7 +186,7 @@
     "title": "spent $4200 on an \"AEO\" agency for a pool business and got nothing. what am i missing??",
     "summary": "i handle marketing for a few pool companys in FL. this year we noticed a chunk of leads were drying up even though rankings held steady. figured out people are asking chatgpt and perplexity stuff like &quot;who should i hire to replaster my pool in tampa&quot; and there getting answers that aren't us. hired an agency in february that said they did AEO. four months later i looked at what they actaully did. backlinks and meta descriptions. thats it. same stuff i could of done myself for free. before that i tried doing structured data and FAQ pages on our own sites. barley moved anything. is the whole AEO category just a rebrand? genuinely asking because i cant tell anymore &#32; submitted by &#32; /u/Patricia_Morgana [link] &#32; [comments]",
     "published_at": "2026-07-02T20:52:14+00:00",
-    "discovered_at": "2026-07-04T04:01:39.656440+00:00",
+    "discovered_at": "2026-07-04T10:25:17.703110+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -243,66 +243,6 @@
     ]
   },
   {
-    "item_id": "8fcbf8232e44f5d1",
-    "source": "Shopify Community SEO Forum",
-    "source_id": "shopify-seo-forum",
-    "source_type": "forum",
-    "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
-    "title": "Json-Ld code for each product page",
-    "summary": "seo , troubleshooting 10 453 June 21, 2026",
-    "published_at": null,
-    "discovered_at": "2026-07-04T04:01:40.263763+00:00",
-    "stage": "watch",
-    "score": 7,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "json-ld"
-        ],
-        "implementation_intent": [
-          "troubleshoot"
-        ],
-        "platforms": [
-          "product page"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 2,
-        "platforms": 1
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "troubleshoot"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Json-Ld code for each product page",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "shopify",
-      "community",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b7124e93be942b42",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -311,7 +251,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-04T04:01:41.276554+00:00",
+    "discovered_at": "2026-07-04T10:25:18.322033+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -369,7 +309,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-04T04:01:41.278701+00:00",
+    "discovered_at": "2026-07-04T10:25:18.324175+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -419,7 +359,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-07-04T04:01:41.284477+00:00",
+    "discovered_at": "2026-07-04T10:25:18.329952+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -469,7 +409,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-04T04:01:42.171147+00:00",
+    "discovered_at": "2026-07-04T10:25:19.027848+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
