@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-06T12:15:25.479303+00:00",
+    "discovered_at": "2026-07-06T18:20:10.996633+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,64 +64,6 @@
     ]
   },
   {
-    "item_id": "87c455866d8268ce",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1umms0c/what_could_possibly_be_going_out_with_my_shopify",
-    "title": "What could possibly be going out with my Shopify site.",
-    "summary": "I have one of the biggest brands in my ecom niche, I sell my product wholesale. When you Google my product, my Google merchant listings don't come up anywhere, but the person I wholesaled my product to, a extremely small boutique shows up first on search results. Wtf is going on... &#32; submitted by &#32; /u/knock_his_block_off [link] &#32; [comments]",
-    "published_at": "2026-07-03T18:50:45+00:00",
-    "discovered_at": "2026-07-06T12:15:24.456939+00:00",
-    "stage": "hot",
-    "score": 12,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "merchant listing",
-          "merchant listings"
-        ],
-        "platforms": [
-          "shopify"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "platforms": 1
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "shopify"
-    ],
-    "issue_types": [
-      "product_schema"
-    ],
-    "intent_flags": [],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Respond as hands-on implementation help for an active schema problem.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: What could possibly be going out with my Shopify site.",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with product_schema, email schemaagent@gmail.com.\n\nRespond as hands-on implementation help for an active schema problem.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -130,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-06T12:15:25.481121+00:00",
+    "discovered_at": "2026-07-06T18:20:10.998985+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -178,6 +120,64 @@
     ]
   },
   {
+    "item_id": "b0bd5293d564b9b5",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/organization-schema-questions-about-postaladdress-and-contactpoint-implementati",
+    "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
+    "summary": "Started by: blacckmamba",
+    "published_at": null,
+    "discovered_at": "2026-07-06T18:20:10.994223+00:00",
+    "stage": "watch",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "schema_types": [
+          "organization schema"
+        ],
+        "implementation_intent": [
+          "implement"
+        ]
+      },
+      "group_points": {
+        "schema_types": 3,
+        "implementation_intent": 2
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 2,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "local_schema"
+    ],
+    "intent_flags": [
+      "implement"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Organization Schema: Questions about PostalAddress and Conta",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for local_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support",
+      "schema-centric"
+    ]
+  },
+  {
     "item_id": "b7124e93be942b42",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -186,7 +186,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-06T12:15:25.477841+00:00",
+    "discovered_at": "2026-07-06T18:20:10.994764+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -244,7 +244,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-06T12:15:25.479113+00:00",
+    "discovered_at": "2026-07-06T18:20:10.996356+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -294,7 +294,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-07-06T12:15:25.482389+00:00",
+    "discovered_at": "2026-07-06T18:20:11.000652+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -344,7 +344,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-06T12:15:26.618397+00:00",
+    "discovered_at": "2026-07-06T18:20:11.946125+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {

@@ -20,26 +20,6 @@
     "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com."
   },
   {
-    "item_id": "87c455866d8268ce",
-    "stage": "hot",
-    "score": 12,
-    "source": "Reddit /r/SEO",
-    "source_type": "forum",
-    "title": "What could possibly be going out with my Shopify site.",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1umms0c/what_could_possibly_be_going_out_with_my_shopify",
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "business_name": null,
-    "business_url": null,
-    "reply_subject": "Best fit for: What could possibly be going out with my Shopify site.",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with product_schema, email schemaagent@gmail.com.\n\nRespond as hands-on implementation help for an active schema problem.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com."
-  },
-  {
     "item_id": "9855791d01ea1633",
     "stage": "warm",
     "score": 9,
@@ -57,6 +37,26 @@
     "business_url": null,
     "reply_subject": "Best fit for: JSON-LD Product Schema syntax issues (Data Types & Case Sens",
     "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for product_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces"
+  },
+  {
+    "item_id": "b0bd5293d564b9b5",
+    "stage": "watch",
+    "score": 7,
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_type": "forum",
+    "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
+    "source_url": "https://wordpress.org/support/topic/organization-schema-questions-about-postaladdress-and-contactpoint-implementati",
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "business_name": null,
+    "business_url": null,
+    "reply_subject": "Best fit for: Organization Schema: Questions about PostalAddress and Conta",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for local_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
     "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces"
   },
   {
