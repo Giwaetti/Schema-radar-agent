@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-05T17:31:49.777097+00:00",
+    "discovered_at": "2026-07-06T04:38:44.055722+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "What could possibly be going out with my Shopify site.",
     "summary": "I have one of the biggest brands in my ecom niche, I sell my product wholesale. When you Google my product, my Google merchant listings don't come up anywhere, but the person I wholesaled my product to, a extremely small boutique shows up first on search results. Wtf is going on... &#32; submitted by &#32; /u/knock_his_block_off [link] &#32; [comments]",
     "published_at": "2026-07-03T18:50:45+00:00",
-    "discovered_at": "2026-07-05T17:31:48.561898+00:00",
+    "discovered_at": "2026-07-06T04:38:43.139023+00:00",
     "stage": "hot",
     "score": 12,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-05T17:31:49.778978+00:00",
+    "discovered_at": "2026-07-06T04:38:44.058140+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -178,41 +178,36 @@
     ]
   },
   {
-    "item_id": "d28d734d0e9ed704",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
+    "item_id": "8fcbf8232e44f5d1",
+    "source": "Shopify Community SEO Forum",
+    "source_id": "shopify-seo-forum",
     "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1ulu7h5/spent_4200_on_an_aeo_agency_for_a_pool_business",
-    "title": "spent $4200 on an \"AEO\" agency for a pool business and got nothing. what am i missing??",
-    "summary": "i handle marketing for a few pool companys in FL. this year we noticed a chunk of leads were drying up even though rankings held steady. figured out people are asking chatgpt and perplexity stuff like &quot;who should i hire to replaster my pool in tampa&quot; and there getting answers that aren't us. hired an agency in february that said they did AEO. four months later i looked at what they actaully did. backlinks and meta descriptions. thats it. same stuff i could of done myself for free. before that i tried doing structured data and FAQ pages on our own sites. barley moved anything. is the whole AEO category just a rebrand? genuinely asking because i cant tell anymore &#32; submitted by &#32; /u/Patricia_Morgana [link] &#32; [comments]",
-    "published_at": "2026-07-02T20:52:14+00:00",
-    "discovered_at": "2026-07-05T17:31:48.562252+00:00",
+    "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
+    "title": "Json-Ld code for each product page",
+    "summary": "seo , troubleshooting 10 459 June 21, 2026",
+    "published_at": null,
+    "discovered_at": "2026-07-06T04:38:43.538275+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
       "matches": {
         "schema_core": [
-          "structured data"
-        ],
-        "commercial_intent": [
-          "agency"
+          "json-ld"
         ],
         "implementation_intent": [
-          "missing"
+          "troubleshoot"
+        ],
+        "platforms": [
+          "product page"
         ]
       },
       "group_points": {
         "schema_core": 4,
-        "commercial_intent": 2,
-        "implementation_intent": 2
+        "implementation_intent": 2,
+        "platforms": 1
       },
-      "freshness": 3,
-      "negative_hits": [
-        "backlink",
-        "backlinks",
-        "meta description",
-        "meta descriptions"
-      ],
+      "freshness": 0,
+      "negative_hits": [],
       "source_boost": 0,
       "gated": false,
       "gate_reason": null
@@ -220,8 +215,7 @@
     "platforms": [],
     "issue_types": [],
     "intent_flags": [
-      "agency",
-      "missing"
+      "troubleshoot"
     ],
     "business_name": null,
     "business_url": null,
@@ -233,11 +227,12 @@
     "cta_label": "Get the AI Visibility Kit",
     "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
     "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: spent $4200 on an \"AEO\" agency for a pool business and got n",
+    "reply_subject": "Best fit for: Json-Ld code for each product page",
     "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
     "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
     "tags": [
-      "reddit",
+      "shopify",
+      "community",
       "seo",
       "broad"
     ]
@@ -251,7 +246,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-05T17:31:49.775642+00:00",
+    "discovered_at": "2026-07-06T04:38:44.053893+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -309,7 +304,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-05T17:31:49.776908+00:00",
+    "discovered_at": "2026-07-06T04:38:44.055483+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -359,7 +354,7 @@
     "title": "How plugin load schema markup in theme?",
     "summary": "Started by: FARAZFRANK",
     "published_at": null,
-    "discovered_at": "2026-07-05T17:31:49.780283+00:00",
+    "discovered_at": "2026-07-06T04:38:44.059812+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -409,7 +404,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-05T17:31:50.662932+00:00",
+    "discovered_at": "2026-07-06T04:38:44.665307+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
