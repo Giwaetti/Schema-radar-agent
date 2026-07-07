@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-07T11:18:43.625791+00:00",
+    "discovered_at": "2026-07-07T18:20:01.198903+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,6 +64,67 @@
     ]
   },
   {
+    "item_id": "6b3a16021ead1762",
+    "source": "Reddit /r/woocommerce",
+    "source_id": "reddit-woocommerce",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/woocommerce/comments/1uj0atn/woocommerce_hpos_created_over_1_million_completed",
+    "title": "WooCommerce HPOS created over 1 million completed Action Scheduler jobs in 48 hours. Here's how I tracked it down.",
+    "summary": "I spent the weekend trying to understand why one of my WooCommerce stores suddenly behaved strangely. Symptoms: Database grew to 1.3 GB PHP error log exploded to 7.9 GB Random database lock errors Deadlocks in Action Scheduler INSERT command denied messages Background processing running almost continuously At first I suspected: Redis WP Rocket a custom JSON-LD plugin I was developing a recent server upgrade None of them were the cause. After digging through the database I found this: wc_run_batch_process status: complete 1,072,113 actions The args field pointed to: Automattic\\WooCommerce\\Internal\\DataStores\\Orders\\DataSynchronizer The interesting part: The store has only 600+ orders. Only 1 pending Action Scheduler job existed at any given time. As soon as one batch completed, the next one was immediately scheduled. So this wasn't a growing queue. It looked like an endless loop: pending ↓ complete ↓ schedule next batch ↓ pending ↓ ... The issue only became obvious after comparing the Action Scheduler tables with the HPOS configuration. I'm still investigating the exact trigger, but if your WooCommerce database suddenly starts growing at an unusual rate, check your Action Scheduler before assuming it's a database or server issue. Sometimes the problem isn't the database. It's the background worker that never stops scheduling itself. Has anyone experienced a similar HPOS / DataSynchronizer loop? &#32; submitted by &#32; /u/Upstairs_Control_611 [link] &#32; [comments]",
+    "published_at": "2026-06-29T18:14:48+00:00",
+    "discovered_at": "2026-07-07T18:20:00.336268+00:00",
+    "stage": "warm",
+    "score": 9,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "json-ld"
+        ],
+        "implementation_intent": [
+          "error"
+        ],
+        "platforms": [
+          "woocommerce"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2,
+        "platforms": 1
+      },
+      "freshness": 2,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "woocommerce"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "error"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: WooCommerce HPOS created over 1 million completed Action Sch",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on woocommerce. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
+    "tags": [
+      "reddit",
+      "woocommerce",
+      "broad"
+    ]
+  },
+  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -72,7 +133,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-07T11:18:43.628992+00:00",
+    "discovered_at": "2026-07-07T18:20:01.201235+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -120,6 +181,70 @@
     ]
   },
   {
+    "item_id": "3ef5262a89af4fbf",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1upus9j/built_a_free_privacyfirst_tools_site_done_the",
+    "title": "Built a free privacy-first tools site, done the on-page SEO, now totally stuck on getting listed anywhere. Which directories still actually matter in 2026?",
+    "summary": "Hey everyone, hoping for some honest advice from people who do this properly. I built a site called Practical Tools. It's a big collection of free online tools, over 170 of them (calculators, converters, image and video tools, that kind of thing). The thing that actually makes it different is that the file tools all run in your browser. Nothing gets uploaded, no account, no sign up. So if you remove a photo background or compress a video, the file never leaves your device. I care a lot about that privacy angle and it's genuinely how the whole thing is built. I've spent a long time on the on-page side. Sitemap, structured data, real content on each tool page, an llms.txt, fast pages, mobile friendly. I think that part is in reasonable shape now. Where I'm completely stuck is off-page. I have basically no backlinks and the site isn't listed anywhere yet. I know directories are part of the answer, but the space feels like a minefield. Half of them look like link farms and I really don't want to hurt my domain by getting listed in junk. So my questions for the people who've actually done this: Which directories are genuinely worth it in 2026? Free or paid, I just want ones that still carry weight and won't hurt me. Are there any that are good specifically for free tools or indie web apps? How do you tell a legit directory from a link farm before you submit? Beyond directories, what actually moved the needle for you on early backlinks when you were starting from nothing? I'm not looking for anyone to link me out of pity. I'd genuinely just appreciate pointers from people who've built this part up before, because I feel like I'm missing something obvious. Happy to drop the link in the comments if it helps for context. I didn't want to lead with it and come across as spammy. Thanks a lot for reading. &#32; submitted by &#32; /u/digital_mopad [link] &#32; [comments]",
+    "published_at": "2026-07-07T13:15:14+00:00",
+    "discovered_at": "2026-07-07T18:19:59.912705+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "commercial_intent": [
+          "looking for"
+        ],
+        "implementation_intent": [
+          "missing"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "commercial_intent": 2,
+        "implementation_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "backlink",
+        "backlinks",
+        "sitemap"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "looking for",
+      "missing"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Built a free privacy-first tools site, done the on-page SEO,",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "8fcbf8232e44f5d1",
     "source": "Shopify Community SEO Forum",
     "source_id": "shopify-seo-forum",
@@ -128,7 +253,7 @@
     "title": "Json-Ld code for each product page",
     "summary": "seo , troubleshooting 10 476 June 21, 2026",
     "published_at": null,
-    "discovered_at": "2026-07-07T11:18:43.132216+00:00",
+    "discovered_at": "2026-07-07T18:20:00.701048+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +313,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-07-07T11:18:43.622753+00:00",
+    "discovered_at": "2026-07-07T18:20:01.196632+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -246,7 +371,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-07T11:18:43.623322+00:00",
+    "discovered_at": "2026-07-07T18:20:01.197077+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -304,7 +429,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-07T11:18:43.625471+00:00",
+    "discovered_at": "2026-07-07T18:20:01.198658+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -354,7 +479,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-07T11:18:44.401373+00:00",
+    "discovered_at": "2026-07-07T18:20:01.855947+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -404,7 +529,7 @@
     "title": "How would you structure a modern first-pass SEO audit in 2026?",
     "summary": "Hey everyone, I’m trying to improve how I approach first-pass SEO audits and would appreciate input from people who regularly work on technical SEO, agency SEO, freelance audits, or in-house site reviews. I’m not talking about a full deep audit with competitor research, log file analysis, stakeholder interviews, content strategy, backlink review, and business context. I mean the first layer of checks you would normally review when looking at a new website before deciding where to dig deeper. For a quick first-pass audit, I’m thinking the core areas should include technical SEO, on-page SEO, meta titles and descriptions, heading structure, indexability, crawlability, robots.txt, XML sitemap, canonical tags, internal linking, broken links, duplicate content signals, keyword cannibalization signals, schema and structured data, HTML validation, Core Web Vitals, page speed, mobile usability, image SEO, link analysis, and general content quality signals. I’m also thinking about whether AI-search-related checks should now be part of the first-pass audit process. More SEO conversations seem to be moving beyond traditional Google rankings, especially with clients asking about answer engines, AI-generated responses, and visibility in generative search experiences. Because of that, I’m considering whether checks like AI crawler access, structured data readiness, entity clarity, AEO signals, and GEO signals should be reviewed early or kept as a separate layer after the traditional SEO audit. My main question is: for a modern first-pass SEO audit, what would you consider essential, and what would you consider nice-to-have? I’m especially interested in how other SEOs separate technical SEO, content, performance, structured data, and AI-search readiness when reviewing a site for the first time. I’m also curious how you would score or prioritize these areas. Would you keep everything under one general SEO score, or would you separate it into categories such as technical health, content quality, crawlability, performance, structured data, and AI-search readiness? I want to avoid focusing on vanity checks that look good in a report but do not actually help decision-making or improve organic performance. For those who run audits regularly, which checks usually reveal the most useful insights early on? Which checks do you think are often overvalued? Would you include AEO and GEO in a first-pass audit in 2026, or would you keep them separate from traditional SEO? I’d appreciate any thoughts from people who have a practical audit process and know what actually helps move from diagnosis to action. &#32; submitted by &#32; /u/Apprehensive-Job3344 [link] &#32; [comments]",
     "published_at": "2026-07-06T23:08:21+00:00",
-    "discovered_at": "2026-07-07T11:18:42.737780+00:00",
+    "discovered_at": "2026-07-07T18:19:59.913641+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
