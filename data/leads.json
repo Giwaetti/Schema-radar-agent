@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-07T04:16:24.086761+00:00",
+    "discovered_at": "2026-07-07T11:18:43.625791+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-07T04:16:24.090038+00:00",
+    "discovered_at": "2026-07-07T11:18:43.628992+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -126,9 +126,9 @@
     "source_type": "forum",
     "source_url": "https://community.shopify.com/t/json-ld-code-for-each-product-page/552034",
     "title": "Json-Ld code for each product page",
-    "summary": "seo , troubleshooting 10 473 June 21, 2026",
+    "summary": "seo , troubleshooting 10 476 June 21, 2026",
     "published_at": null,
-    "discovered_at": "2026-07-07T04:16:23.373782+00:00",
+    "discovered_at": "2026-07-07T11:18:43.132216+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +188,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-07-07T04:16:24.083701+00:00",
+    "discovered_at": "2026-07-07T11:18:43.622753+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -246,7 +246,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-07T04:16:24.084305+00:00",
+    "discovered_at": "2026-07-07T11:18:43.623322+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -304,7 +304,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-07T04:16:24.086441+00:00",
+    "discovered_at": "2026-07-07T11:18:43.625471+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -354,7 +354,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-07T04:16:25.067407+00:00",
+    "discovered_at": "2026-07-07T11:18:44.401373+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -404,7 +404,7 @@
     "title": "How would you structure a modern first-pass SEO audit in 2026?",
     "summary": "Hey everyone, I’m trying to improve how I approach first-pass SEO audits and would appreciate input from people who regularly work on technical SEO, agency SEO, freelance audits, or in-house site reviews. I’m not talking about a full deep audit with competitor research, log file analysis, stakeholder interviews, content strategy, backlink review, and business context. I mean the first layer of checks you would normally review when looking at a new website before deciding where to dig deeper. For a quick first-pass audit, I’m thinking the core areas should include technical SEO, on-page SEO, meta titles and descriptions, heading structure, indexability, crawlability, robots.txt, XML sitemap, canonical tags, internal linking, broken links, duplicate content signals, keyword cannibalization signals, schema and structured data, HTML validation, Core Web Vitals, page speed, mobile usability, image SEO, link analysis, and general content quality signals. I’m also thinking about whether AI-search-related checks should now be part of the first-pass audit process. More SEO conversations seem to be moving beyond traditional Google rankings, especially with clients asking about answer engines, AI-generated responses, and visibility in generative search experiences. Because of that, I’m considering whether checks like AI crawler access, structured data readiness, entity clarity, AEO signals, and GEO signals should be reviewed early or kept as a separate layer after the traditional SEO audit. My main question is: for a modern first-pass SEO audit, what would you consider essential, and what would you consider nice-to-have? I’m especially interested in how other SEOs separate technical SEO, content, performance, structured data, and AI-search readiness when reviewing a site for the first time. I’m also curious how you would score or prioritize these areas. Would you keep everything under one general SEO score, or would you separate it into categories such as technical health, content quality, crawlability, performance, structured data, and AI-search readiness? I want to avoid focusing on vanity checks that look good in a report but do not actually help decision-making or improve organic performance. For those who run audits regularly, which checks usually reveal the most useful insights early on? Which checks do you think are often overvalued? Would you include AEO and GEO in a first-pass audit in 2026, or would you keep them separate from traditional SEO? I’d appreciate any thoughts from people who have a practical audit process and know what actually helps move from diagnosis to action. &#32; submitted by &#32; /u/Apprehensive-Job3344 [link] &#32; [comments]",
     "published_at": "2026-07-06T23:08:21+00:00",
-    "discovered_at": "2026-07-07T04:16:22.807265+00:00",
+    "discovered_at": "2026-07-07T11:18:42.737780+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
