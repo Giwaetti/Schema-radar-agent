@@ -1,21 +1,21 @@
 {
   "total": 9,
   "by_stage": {
-    "hot": 1,
+    "hot": 2,
     "warm": 2,
-    "watch": 6
+    "watch": 5
   },
   "by_offer": {
-    "Done-for-you / service": 1,
-    "AI Visibility Kit": 8
+    "Done-for-you / service": 2,
+    "AI Visibility Kit": 7
   },
   "by_source": {
-    "WordPress Support - Schema & Structured Data for WP & AMP": 5,
     "Reddit /r/SEO": 3,
+    "WordPress Support - Schema & Structured Data for WP & AMP": 5,
     "Google Search Central Community - Structured Data": 1
   },
   "by_route": {
-    "email_contact": 1,
-    "forum_reply": 8
+    "email_contact": 2,
+    "forum_reply": 7
   }
 }
