@@ -8,7 +8,7 @@
     "title": "Tiny site received Manual Action strike",
     "summary": "I’m a complete neophyte looking for some expert opinion or just ranting/commiserating. I’m a full stack software developer, not an SEO expert. Asking this largely out of curiosity, as the impacted site is just a silly side project. A couple weeks ago a friend asked if Mitch McConnell was still alive. There’s an ongoing joke between us that she asks me questions she’s too lazy to look up and I respond with spreadsheets and research links. So as a joke I built a site answering that question with a large YES/NO. In keeping with the joke, the site pulls real-time data from Wikidata API, the US congressional data API, scans Reuters and wire service headlines etc. It shows statistics about data changes, calculations etc. Knocked it out in a few hours. Being a data guy I hooked it up to Search console and Posthog and after a few days saw some organic traffic. It was my first time doing this and it was a fun little dopamine kick. I understand now how exciting it must be for you folks playing this game and I was hooked. Spent about an hour a day for the next two weeks optimizing my site. Built it so everything was static, got my page load speed super fast, serving fonts from my server to avoid additional TLS handshakes, added a blog section (dun dun dun…foreshadowing) to rank for news keywords, pre-cached the dynamic answer for crawlers, structured data, automated site rebuilds, blah blah. When news broke about the Senator’s 911 call transcript I wrote a blog post manually, got it indexed and around 100 clicks from 1000 impressions. Fun! Did the same a few days later around a story relating to his wife traveling to China and got an even bigger pop. An hour a day. The highlight of my morning was looking at Search Console before reporting to the salt mines to do my real job. I had a grand total of 10 blog posts. I wrote the first 8, but then hooked up to my asset generator for the next two. Yes, AI generated but each speaking to a specific news topic. Got hit with a Manual Action for “Major spam problems” 😵‍💫 It mentions scaled content abuse, cloaking, scraping, etc. 10 lousy pages, non spammy, not scraped. Each has a CTA at the top to visit the main site…is that count as a “doorway page”?. It just boggles the mind that a human even bothered to review such a tiny and very intentionally non-partisan site. I don’t plan to appeal. The thrill is gone. More than anything I have newfound empathy for people making (or should I say, trying to make) a living in this business. Google is out there with one hand grabbing all your content for AI answers and with the other holding this sword of Damocles of delisting over your head. I support their efforts to weed out crappy content, but this wasn’t a site with 1000 keyword stuffed pages. Now I’d be nervous even having a blog section on a local small business site. Rant over. Wish you all the best. Gotta ge a rough time out there ❤️ PS: One other thing, it had a feature where you could stick with the neutral design or pick a theme: animated rainbows and unicorns (happy) or dismal (sad) and you could choose which showed up based on his status. It would switch to the other upon his passing. Perhaps in poor taste, but it was done more as a commentary on partisan discourse. I had analytics to see which was more popular. Maybe this ran afoul of something? 🤷‍♂️ &#32; submitted by &#32; /u/plethoradepinata [link] &#32; [comments]",
     "published_at": "2026-07-08T15:03:43+00:00",
-    "discovered_at": "2026-07-09T11:18:55.742944+00:00",
+    "discovered_at": "2026-07-09T18:08:33.563538+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-09T11:18:57.050316+00:00",
+    "discovered_at": "2026-07-09T18:08:34.328942+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -136,7 +136,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-09T11:18:57.052605+00:00",
+    "discovered_at": "2026-07-09T18:08:34.331269+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -192,7 +192,7 @@
     "title": "Built a free privacy-first tools site, done the on-page SEO, now totally stuck on getting listed anywhere. Which directories still actually matter in 2026?",
     "summary": "Hey everyone, hoping for some honest advice from people who do this properly. I built a site called Practical Tools. It's a big collection of free online tools, over 170 of them (calculators, converters, image and video tools, that kind of thing). The thing that actually makes it different is that the file tools all run in your browser. Nothing gets uploaded, no account, no sign up. So if you remove a photo background or compress a video, the file never leaves your device. I care a lot about that privacy angle and it's genuinely how the whole thing is built. I've spent a long time on the on-page side. Sitemap, structured data, real content on each tool page, an llms.txt, fast pages, mobile friendly. I think that part is in reasonable shape now. Where I'm completely stuck is off-page. I have basically no backlinks and the site isn't listed anywhere yet. I know directories are part of the answer, but the space feels like a minefield. Half of them look like link farms and I really don't want to hurt my domain by getting listed in junk. So my questions for the people who've actually done this: Which directories are genuinely worth it in 2026? Free or paid, I just want ones that still carry weight and won't hurt me. Are there any that are good specifically for free tools or indie web apps? How do you tell a legit directory from a link farm before you submit? Beyond directories, what actually moved the needle for you on early backlinks when you were starting from nothing? I'm not looking for anyone to link me out of pity. I'd genuinely just appreciate pointers from people who've built this part up before, because I feel like I'm missing something obvious. Happy to drop the link in the comments if it helps for context. I didn't want to lead with it and come across as spammy. Thanks a lot for reading. &#32; submitted by &#32; /u/digital_mopad [link] &#32; [comments]",
     "published_at": "2026-07-07T13:15:14+00:00",
-    "discovered_at": "2026-07-09T11:18:55.743561+00:00",
+    "discovered_at": "2026-07-09T18:08:33.564368+00:00",
     "stage": "warm",
     "score": 8,
     "score_breakdown": {
@@ -256,7 +256,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-07-09T11:18:57.048158+00:00",
+    "discovered_at": "2026-07-09T18:08:34.326650+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -314,7 +314,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-09T11:18:57.048584+00:00",
+    "discovered_at": "2026-07-09T18:08:34.327098+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -372,7 +372,7 @@
     "title": "Googlebot Crawls 95% Image URLs, Barely Crawls News Articles Automatically – Anyone Else?",
     "summary": "We're a news publisher , publishing around 15 articles every day . We've been trying to understand Google's crawling behavior because our articles are taking far too long to be discovered automatically. Here's what we've verified: XML sitemaps are valid and updated immediately after publishing. Every article is added to the sitemap. robots.txt isn't blocking anything. Canonical tags are correct. Structured data is implemented. We follow Google's SEO guidelines and best practices. If we use URL Inspection → Request Indexing , the articles are usually crawled and indexed successfully. The strange part is that Google Search Console Crawl Stats shows roughly 95% of Googlebot requests are for image URLs , while very few article pages seem to be crawled automatically. So we have a few questions: Is it normal for Googlebot to spend most of its crawl budget on images instead of article pages for a news website? Since Request Indexing works every time, does that suggest there aren't actually any technical issues preventing Google from crawling the articles automatically? If an article is already in Google's normal crawl queue and we manually submit it through Request Indexing , does Google remove it from the normal crawl queue, or is it still scheduled for regular crawling later? Has anyone experienced extremely slow automatic crawling even with a healthy sitemap and no obvious technical problems? Our biggest concern is that news loses its value very quickly . If Google only discovers an article 5–7 days after publication , it's essentially too late from a search perspective. This has been happening for around six months . During that time, our site was deindexed for about 30 days , but Google later began reindexing pages automatically. Even after that recovery, automatic crawling remains very slow. We're also wondering whether this is primarily an authority/trust issue rather than a technical one. At the moment, less than 1% of our published articles receive meaningful search visibility , which has been pretty discouraging for our editorial team. Has anyone gone through something similar? What ultimately fixed it? Was it mainly about building domain authority and backlinks? Did improving author reputation, organization signals, or overall trust make a noticeable difference? Or did Google eventually increase crawl frequency on its own? Any insights from publishers or SEOs who've dealt with this would be greatly appreciated. &#32; submitted by &#32; /u/avatar_leo [link] &#32; [comments]",
     "published_at": "2026-07-08T12:23:31+00:00",
-    "discovered_at": "2026-07-09T11:18:55.743090+00:00",
+    "discovered_at": "2026-07-09T18:08:33.563750+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -435,7 +435,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-09T11:18:57.050086+00:00",
+    "discovered_at": "2026-07-09T18:08:34.328705+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -485,7 +485,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-09T11:18:57.611367+00:00",
+    "discovered_at": "2026-07-09T18:08:35.436036+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
