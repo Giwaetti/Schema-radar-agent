@@ -118,5 +118,25 @@
     "reply_subject": "Best fit for: How can I pull ld+json from one post to another?",
     "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
     "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces"
+  },
+  {
+    "item_id": "14b111b851cc8fe5",
+    "stage": "watch",
+    "score": 6,
+    "source": "Google Search Central Community - Structured Data",
+    "source_type": "forum",
+    "title": "Not able to preview the structured data",
+    "source_url": "https://support.google.com/webmasters/thread/237836804/not-able-to-preview-the-structured-data?hl=en",
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "business_name": null,
+    "business_url": null,
+    "reply_subject": "Best fit for: Not able to preview the structured data",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces"
   }
 ]
