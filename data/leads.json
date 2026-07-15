@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-15T10:15:07.291691+00:00",
+    "discovered_at": "2026-07-15T17:38:42.890064+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,70 +64,6 @@
     ]
   },
   {
-    "item_id": "1a78f9ca98232a2c",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1uv9w5p/uk_vs_us_duplicate_google_chose_different",
-    "title": "UK vs US: Duplicate, Google chose different canonical than user",
-    "summary": "Hi there, I have a website working in different markets, but especially UK and US. Both .co.uk (UK currency £) and .com (US currency $) sites have historically been very similar in terms of pages, structure, layout, content, etc. The news section - which is a massive portion of the site - is completely duplicate, and due to the website set up, we cannot make them different other than the URL and canonicals. Technically, everything is correctly setup - self-referencing canonicals, hreflang across the main service site and news section, different schema markup for UK and US, open graph and metadata. Content wise, English has been American for both sites in the past - now different with local focus for each, on the main service pages. It remains duplicate in the news sections as cannot be de-duplicated. The problem is that since November last year, Google is considering the US site as the canonical version of the UK site - therefore some UK clicks and impressions started being reported in the US account in GSC. Most of the UK pages are moving to the 'Duplicate - Google chose different canonical than user' report, even though they seem to be indexed still (test live URL show them indexed, and running site: too). This suggests to me that Google is not understanding both sites as different entities, and GSC reports differently from what we as users can see in the UK SERPs. This was just a reporting issue initially, but now we are seeing ranking and visibility impact on the UK terms we monitor on other tools. Here is the list of checks and tasks that have been updated since the problem was noticed: - hreflang review: correctly setup for all markets - canonicals: all service pages and news set as self-referencing - internal linking: we updated all internal links as relative, so all links point to the local domain, rather than cross-domain. We reduced the number of links from UK to US domain in 40k+ - local content: main traffic-driving pages had their content optimised for UK and US respectively. News section remains duplicate. - date format: published date in the news had an Amarican format that was updated to neutral - schema markup: this was optimised for both domains separately - UK was prioritised from off-page side of things too I can understand why Google seems to think US as the canonical due to all these issues, mostly on the trust signals via content and internal links. However, after those changes were made, we keep seeing pages getting de-indexed and the US pages showing up in the UK SERPs. Has anyone experienced something like this before? Is there any other action or check that you would recommend? Is this really a content quality issue? Any thoughts on the news duplicate section? Open to anything! Thank you very much in advanced! &#32; submitted by &#32; /u/MammothPaper5057 [link] &#32; [comments]",
-    "published_at": "2026-07-13T12:15:57+00:00",
-    "discovered_at": "2026-07-15T10:15:05.963467+00:00",
-    "stage": "warm",
-    "score": 10,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "schema markup"
-        ],
-        "implementation_intent": [
-          "setup",
-          "set up"
-        ],
-        "platforms": [
-          "service page"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 4,
-        "platforms": 1
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "canonical",
-        "hreflang"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "setup",
-      "set up"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: UK vs US: Duplicate, Google chose different canonical than u",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -136,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-15T10:15:07.294932+00:00",
+    "discovered_at": "2026-07-15T17:38:42.892364+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -192,7 +128,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-07-15T10:15:07.288579+00:00",
+    "discovered_at": "2026-07-15T17:38:42.887832+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -250,7 +186,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-15T10:15:07.289170+00:00",
+    "discovered_at": "2026-07-15T17:38:42.888255+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -308,7 +244,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-15T10:15:07.291335+00:00",
+    "discovered_at": "2026-07-15T17:38:42.889827+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -358,7 +294,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-15T10:15:08.483348+00:00",
+    "discovered_at": "2026-07-15T17:38:43.490300+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
