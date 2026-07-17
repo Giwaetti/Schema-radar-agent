@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-16T17:39:54.295848+00:00",
+    "discovered_at": "2026-07-17T03:36:49.803421+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-16T17:39:54.298183+00:00",
+    "discovered_at": "2026-07-17T03:36:49.806675+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -120,6 +120,63 @@
     ]
   },
   {
+    "item_id": "6f1ac1170e51ba34",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1uyh12m/hit_an_seo_plateau_at_6k_clicks_per_month",
+    "title": "Hit an SEO plateau at 6k clicks per month",
+    "summary": "Hey everyone, I’m looking for some advice from people who’ve managed to break through an SEO plateau. I’ve been building Sportsdle (a daily sports guessing game web app) for a little over 2 years . During that time I’ve focused heavily on SEO: Thousands of indexed pages, Programmatic SEO, Structured data, Internal linking, Fast Core Web Vitals Fresh daily content, Player, team, season, and stat pages, Continuous technical SEO improvements The good news is that it’s working… to a point. For the last few months I’ve been hovering around 6,000 clicks every 28 days in Google Search Console, and I just can’t seem to break past that ceiling. Some weeks are slightly better, some worse, but overall it’s flat. For those of you who’ve gone from ~5-10k clicks/month to 50k+ or even 100k+ , what actually moved the needle? I’m less interested in generic SEO advice and more in hearing what was the one thing (or few things) that genuinely unlocked the next level for your site. Would love to hear real experiences, especially from people running bootstrapped SaaS products, indie apps, or content-heavy websites. Thanks! &#32; submitted by &#32; /u/Melj_own [link] &#32; [comments]",
+    "published_at": "2026-07-16T22:07:58+00:00",
+    "discovered_at": "2026-07-17T03:36:48.454748+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "commercial_intent": [
+          "looking for"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "commercial_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "core web vitals"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "looking for"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Hit an SEO plateau at 6k clicks per month",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -128,7 +185,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-07-16T17:39:54.293567+00:00",
+    "discovered_at": "2026-07-17T03:36:49.800372+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -186,7 +243,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-16T17:39:54.293998+00:00",
+    "discovered_at": "2026-07-17T03:36:49.800954+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -244,7 +301,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-16T17:39:54.295607+00:00",
+    "discovered_at": "2026-07-17T03:36:49.803080+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -294,7 +351,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-16T17:39:55.132747+00:00",
+    "discovered_at": "2026-07-17T03:36:50.762094+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
