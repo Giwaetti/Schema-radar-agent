@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-07-27T11:38:52.205157+00:00",
+    "discovered_at": "2026-07-27T17:55:06.229659+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,72 +64,6 @@
     ]
   },
   {
-    "item_id": "f52b7074632c7def",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1v6mbat/claude_websites_vs_wordpress",
-    "title": "Claude Websites Vs Wordpress",
-    "summary": "There’s such a buzz and trend online with everyone launching Claude code websites and boasting about how they did it in 5 minutes then going and bashing real web developers and designers who are creating custom built sites using traditional page builders and it irks me. I’m by no means anti AI, I think they can be great tools to help with brainstorming and other collaborative tasks but I feel like I’m going crazy with trying to comprehend how anyone could possibly see a fully AI coded site with no backend builder as a solid long term strategy From what I’ve tested, I spent 8-10 hours trying to perfect a Claude code design the way I imagined it as a web designer but could never get things quite right and still wasn’t happy with the results The majority of the time was spent trying to train Claude to stop producing generic Aai slop in both the content and design I decided to time myself building the pages from scratch on elementor and found it took half the amount of time and looked far more custom. I get the flare if saving tons of money and getting instant functional pages from Claude but the idea of having to go and prompt Claude every single time I want to make site updates, add pages, update internal and external linking, schema markups, adjustments to copy and images, alt text and all the other technical components is unfathomable For the every day average joe, it probably feels like a super power to be able to create something so quickly that functions and is perfectly AI designed, but as a professional developer and designer, I can’t help but roll my eyes so hard every time I read these posts of people taunting the AI gold rush 🫠🫠 Am I missing something? &#32; submitted by &#32; /u/Tough-Cow-8708 [link] &#32; [comments]",
-    "published_at": "2026-07-25T22:44:38+00:00",
-    "discovered_at": "2026-07-27T11:38:50.824200+00:00",
-    "stage": "hot",
-    "score": 12,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "schema markup"
-        ],
-        "commercial_intent": [
-          "developer"
-        ],
-        "implementation_intent": [
-          "missing"
-        ],
-        "platforms": [
-          "wordpress"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "commercial_intent": 2,
-        "implementation_intent": 2,
-        "platforms": 1
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "wordpress"
-    ],
-    "issue_types": [],
-    "intent_flags": [
-      "developer",
-      "missing"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Respond as hands-on implementation help for an active schema problem.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Claude Websites Vs Wordpress",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nRespond as hands-on implementation help for an active schema problem.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -138,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-07-27T11:38:52.208293+00:00",
+    "discovered_at": "2026-07-27T17:55:06.232940+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -194,7 +128,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-07-27T11:38:52.202157+00:00",
+    "discovered_at": "2026-07-27T17:55:06.226640+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -252,7 +186,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-07-27T11:38:52.202741+00:00",
+    "discovered_at": "2026-07-27T17:55:06.227252+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -310,7 +244,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-07-27T11:38:52.204831+00:00",
+    "discovered_at": "2026-07-27T17:55:06.229344+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -360,7 +294,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-07-27T11:38:52.741600+00:00",
+    "discovered_at": "2026-07-27T17:55:07.362903+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
