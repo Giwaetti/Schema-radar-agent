@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-01T10:10:18.860516+00:00",
+    "discovered_at": "2026-08-01T17:14:24.261468+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-08-01T10:10:18.863243+00:00",
+    "discovered_at": "2026-08-01T17:14:24.264687+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -128,7 +128,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-01T10:10:18.857930+00:00",
+    "discovered_at": "2026-08-01T17:14:24.258373+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -186,7 +186,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-01T10:10:18.858408+00:00",
+    "discovered_at": "2026-08-01T17:14:24.258943+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -244,7 +244,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-01T10:10:18.860188+00:00",
+    "discovered_at": "2026-08-01T17:14:24.261065+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -294,7 +294,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-08-01T10:10:19.991122+00:00",
+    "discovered_at": "2026-08-01T17:14:25.155767+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
