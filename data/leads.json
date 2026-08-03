@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-03T11:43:37.801869+00:00",
+    "discovered_at": "2026-08-03T18:05:02.138358+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-08-03T11:43:37.804620+00:00",
+    "discovered_at": "2026-08-03T18:05:02.141457+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -128,7 +128,7 @@
     "title": "Local SEO beyond the basics: what actually moves the needle for hospitality businesses?",
     "summary": "I’m working on SEO for a few hospitality businesses (bars/restaurants and a board game bar), and I’m currently rethinking our overall SEO approach. We’ve worked with external SEO agencies in the past, but unfortunately the results never really lived up to expectations. That’s partly why I’m taking a closer look at what we can do differently in-house, and what actually works for businesses like these beyond the usual SEO checklist. The sites are technically solid, mobile performance/Core Web Vitals are good, on-page SEO and structured data are in place, and the businesses already have some relatively strong backlinks. Content isn’t limited to the usual homepage/menu/contact setup either. Depending on the venue, we have things like: individual pages for cocktails/products with their own unique content event and venue-related content a proper blog with supporting articles local and search-intent-based content rather than generic SEO articles internal linking between relevant content We’re also trying to treat the website as an actual content platform rather than relying on PDFs for menus or other important information. At this point, I’m less interested in the standard SEO checklist and more interested in what you’ve found actually moves the needle for local hospitality businesses once the fundamentals are already covered. What would you focus on next? Local signals, Google Business Profile, content strategy, digital PR, citations, entity/schema work, reviews, local backlinks — or something completely different? I’m especially interested in things that are commonly overlooked, or strategies you’ve tried that produced surprisingly good results. And with search changing quite a bit, are you doing anything differently for discovery through AI/LLMs and Google’s AI-driven results, or are the same local/entity/content fundamentals still doing most of the work? &#32; submitted by &#32; /u/ActuaryZestyclose349 [link] &#32; [comments]",
     "published_at": "2026-08-01T16:24:47+00:00",
-    "discovered_at": "2026-08-03T11:43:36.391784+00:00",
+    "discovered_at": "2026-08-03T18:05:00.469548+00:00",
     "stage": "warm",
     "score": 8,
     "score_breakdown": {
@@ -181,6 +181,214 @@
     ]
   },
   {
+    "item_id": "536a9f969bebbc2c",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1vamy4l/gsc_trend_over_3_months_impressions_up_10x_ctr",
+    "title": "GSC trend over 3 months: impressions up ~10x, CTR stable at 0.7%, avg position 7.2. What technical signals would you investigate next?",
+    "summary": "I've been monitoring a website over the last three months and noticed a fairly consistent increase in both impressions and clicks. Current Search Console metrics: 16,842 clicks 2.58M impressions 0.7% CTR Average position: 7.2 The graph tells Google is surfacing significantly more pages over time, but the CTR has remained relatively flat despite the increase in visibility. From a technical SEO perspective, I'm trying to decide where to spend the next round of effort. Some areas I'm considering investigating are: Query-level CTR by average position Pages ranking between positions 5–10 Search intent alignment on high-impression pages Internal linking to URLs that are close to page one Crawl efficiency and index coverage Canonical consistency Structured data coverage Log file analysis to understand Googlebot behaviour Whether SERP features are suppressing organic CTR I'm deliberately leaving out niche and domain details because I'm more interested in discussing the technical analysis process than the website itself. If this landed on your desk tomorrow, what would be the first technical report or dataset you'd review before making changes? Looking forward to hearing different approaches. &#32; submitted by &#32; /u/sushantkarn [link] &#32; [comments]",
+    "published_at": "2026-07-30T07:46:11+00:00",
+    "discovered_at": "2026-08-03T18:05:01.147649+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "commercial_intent": [
+          "looking for"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "commercial_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "canonical"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "looking for"
+    ],
+    "business_name": "Preview",
+    "business_url": "https://preview.redd.it/wdqkvdnjnbgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad1ecd589fdf1271dc4abfe2a1619033f90d9bd2",
+    "audit": {
+      "business_url": "https://preview.redd.it/wdqkvdnjnbgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad1ecd589fdf1271dc4abfe2a1619033f90d9bd2",
+      "final_url": "https://preview.redd.it/wdqkvdnjnbgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad1ecd589fdf1271dc4abfe2a1619033f90d9bd2",
+      "domain": "preview.redd.it",
+      "status_code": 403,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTP 403"
+    },
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Schema help for Preview",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Preview. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Preview. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "techseo",
+      "broad"
+    ]
+  },
+  {
+    "item_id": "cbac7ab7534228ee",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1vdmnwp/i_tested_11_recent_sites_with_four_ai_crawler",
+    "title": "I tested 11 recent sites with four AI crawler user-agents. None were blocked.",
+    "summary": "I wanted to see whether crawler blocking or content delivery was the more common technical problem in a small set of sites people had recently asked to test. I took the latest distinct public scan for 11 sites from July 29 to August 1. I excluded our own domains and example.com. All 11 returned HTTP 200 to OAI-SearchBot, GPTBot, ClaudeBot, and PerplexityBot. None served a block page or fewer raw words to those agents than to a normal request. Content delivery was the more useful check. One browser render failed, so I excluded it from that comparison. Of the remaining 10 sites, two had more than twice as many words after rendering as they had in the raw HTML. Most of the visible copy on those two pages depended on JavaScript. Other checks: llms.txt present: 6/11 valid sitemap present: 11/11 structured data present: 10/11 This is a small, opt-in sample, not a prevalence estimate. It only supports a narrower conclusion: on these sites, robots.txt was not the first place to look. Comparing the actual response body by user-agent, then comparing raw HTML with the rendered page, found more useful differences. You can repeat the first check on your own homepage: for ua in &quot;OAI-SearchBot&quot; &quot;GPTBot&quot; &quot;ClaudeBot&quot; &quot;PerplexityBot&quot;; do curl -L -sS -A &quot;$ua&quot; -o /tmp/&quot;$ua&quot;.html \\ -w &quot;$ua status=%{http_code} bytes=%{size_download}\\n&quot; \\ https://your-site.example/ done If one status or byte count differs, diff that saved body before changing robots.txt. Disclosure: these were public Crawlable scans, and I operate it. &#32; submitted by &#32; /u/Aggravating-Key6628 [link] &#32; [comments]",
+    "published_at": "2026-08-02T16:35:00+00:00",
+    "discovered_at": "2026-08-03T18:05:01.146388+00:00",
+    "stage": "watch",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "implementation_intent": [
+          "support"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "sitemap",
+        "robots.txt"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "support"
+    ],
+    "business_name": "Your Site",
+    "business_url": "https://your-site.example/",
+    "audit": {
+      "business_url": "https://your-site.example/",
+      "final_url": null,
+      "domain": "your-site.example",
+      "status_code": null,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTPSConnectionPool(host='your-site.example', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='your-site.example', port=443): Failed to resolve 'your-site.example' ([Errno -2] Name or service not known)\"))"
+    },
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Schema help for Your Site",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Your Site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Your Site. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "techseo",
+      "broad"
+    ]
+  },
+  {
+    "item_id": "4cf65f32e0ccad80",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1vbllft/what_postmigration_audits_would_you_recommend",
+    "title": "What post-migration audits would you recommend after moving a Wix blog to Ghost?",
+    "summary": "I've migrated my Wix blog to a Ghost staging site and want to make sure the migration is solid before going live. Beyond checking redirects, broken links, metadata, structured data, canonicals, sitemap, and page speed, what else would you audit? Any lessons from your own migrations? &#32; submitted by &#32; /u/tonypaul009 [link] &#32; [comments]",
+    "published_at": "2026-07-31T09:03:33+00:00",
+    "discovered_at": "2026-08-03T18:05:01.147004+00:00",
+    "stage": "watch",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "implementation_intent": [
+          "audit"
+        ],
+        "platforms": [
+          "wix"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2,
+        "platforms": 1
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "canonical",
+        "page speed",
+        "sitemap"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "wix"
+    ],
+    "issue_types": [],
+    "intent_flags": [
+      "audit"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: What post-migration audits would you recommend after moving ",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "techseo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -189,7 +397,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-03T11:43:37.799196+00:00",
+    "discovered_at": "2026-08-03T18:05:02.135390+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -247,7 +455,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-03T11:43:37.799706+00:00",
+    "discovered_at": "2026-08-03T18:05:02.135977+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -305,7 +513,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-03T11:43:37.801523+00:00",
+    "discovered_at": "2026-08-03T18:05:02.138055+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -355,7 +563,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-08-03T11:43:38.710659+00:00",
+    "discovered_at": "2026-08-03T18:05:02.973703+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -393,6 +601,56 @@
       "google",
       "search-central",
       "structured-data",
+      "schema-centric"
+    ]
+  },
+  {
+    "item_id": "034c991a4ad9f528",
+    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
+    "source_id": "wordpress-schema-support",
+    "source_type": "forum",
+    "source_url": "https://wordpress.org/support/topic/articlebody-cannot-be-modified-for-techarticle-schema-type",
+    "title": "articleBody cannot be modified for TechArticle schema type",
+    "summary": "Started by: Max",
+    "published_at": null,
+    "discovered_at": "2026-08-03T18:05:02.133575+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "schema_types": [
+          "article schema"
+        ]
+      },
+      "group_points": {
+        "schema_types": 3
+      },
+      "freshness": 0,
+      "negative_hits": [],
+      "source_boost": 2,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: articleBody cannot be modified for TechArticle schema type",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "wordpress",
+      "schema",
+      "support",
       "schema-centric"
     ]
   }
