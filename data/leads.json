@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-02T17:15:19.994978+00:00",
+    "discovered_at": "2026-08-03T03:54:30.688215+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-08-02T17:15:19.996872+00:00",
+    "discovered_at": "2026-08-03T03:54:30.691436+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -128,7 +128,7 @@
     "title": "Local SEO beyond the basics: what actually moves the needle for hospitality businesses?",
     "summary": "I’m working on SEO for a few hospitality businesses (bars/restaurants and a board game bar), and I’m currently rethinking our overall SEO approach. We’ve worked with external SEO agencies in the past, but unfortunately the results never really lived up to expectations. That’s partly why I’m taking a closer look at what we can do differently in-house, and what actually works for businesses like these beyond the usual SEO checklist. The sites are technically solid, mobile performance/Core Web Vitals are good, on-page SEO and structured data are in place, and the businesses already have some relatively strong backlinks. Content isn’t limited to the usual homepage/menu/contact setup either. Depending on the venue, we have things like: individual pages for cocktails/products with their own unique content event and venue-related content a proper blog with supporting articles local and search-intent-based content rather than generic SEO articles internal linking between relevant content We’re also trying to treat the website as an actual content platform rather than relying on PDFs for menus or other important information. At this point, I’m less interested in the standard SEO checklist and more interested in what you’ve found actually moves the needle for local hospitality businesses once the fundamentals are already covered. What would you focus on next? Local signals, Google Business Profile, content strategy, digital PR, citations, entity/schema work, reviews, local backlinks — or something completely different? I’m especially interested in things that are commonly overlooked, or strategies you’ve tried that produced surprisingly good results. And with search changing quite a bit, are you doing anything differently for discovery through AI/LLMs and Google’s AI-driven results, or are the same local/entity/content fundamentals still doing most of the work? &#32; submitted by &#32; /u/ActuaryZestyclose349 [link] &#32; [comments]",
     "published_at": "2026-08-01T16:24:47+00:00",
-    "discovered_at": "2026-08-02T17:15:18.950304+00:00",
+    "discovered_at": "2026-08-03T03:54:29.824153+00:00",
     "stage": "warm",
     "score": 8,
     "score_breakdown": {
@@ -189,7 +189,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-02T17:15:19.993122+00:00",
+    "discovered_at": "2026-08-03T03:54:30.685082+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -247,7 +247,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-02T17:15:19.993468+00:00",
+    "discovered_at": "2026-08-03T03:54:30.685685+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -305,7 +305,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-02T17:15:19.994714+00:00",
+    "discovered_at": "2026-08-03T03:54:30.687828+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -355,7 +355,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-08-02T17:15:20.737116+00:00",
+    "discovered_at": "2026-08-03T03:54:31.591871+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
