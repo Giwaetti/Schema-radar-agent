@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-05T03:32:18.808411+00:00",
+    "discovered_at": "2026-08-05T10:46:15.352293+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-08-05T03:32:18.811643+00:00",
+    "discovered_at": "2026-08-05T10:46:15.354584+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -128,7 +128,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-05T03:32:18.805131+00:00",
+    "discovered_at": "2026-08-05T10:46:15.350085+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -186,7 +186,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-05T03:32:18.805733+00:00",
+    "discovered_at": "2026-08-05T10:46:15.350497+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -244,7 +244,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-05T03:32:18.808065+00:00",
+    "discovered_at": "2026-08-05T10:46:15.352066+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -294,7 +294,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-08-05T03:32:19.665998+00:00",
+    "discovered_at": "2026-08-05T10:46:16.147784+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -344,7 +344,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-08-05T03:32:18.803323+00:00",
+    "discovered_at": "2026-08-05T10:46:15.348699+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
