@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-10T17:08:13.446258+00:00",
+    "discovered_at": "2026-08-11T02:27:30.214111+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,68 +64,6 @@
     ]
   },
   {
-    "item_id": "30f36b52e4daddba",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1vjuncn/can_i_add_manually_collected_product_reviews_to",
-    "title": "Can I add manually collected product reviews to Product structured data?",
-    "summary": "I run a small Shopify store that’s still in its first year, currently at 50+ orders. I tried a few popular Shopify review apps/free trials, but honestly found most of them pretty heavy and clunky for what I need right now. So I ended up building a very lightweight review system myself, where I manually add genuine customer reviews to the relevant product pages. Did this with metaobjects and few lines of custom liquid - super simple and lightweight My question is about Google / SEO: Can I also include these reviews in the product’s structured data using Review / AggregateRating schema? Does Google care how the reviews were collected or what system/app they came through, as long as they are real customer reviews and visible on the product page? Or do reviews need to come through some specific third-party/approved review platform before Google will accept the structured data or potentially show review stars in search? If a third-party system is effectively required, what would you recommend as the most lightweight Shopify solution for a small store with relatively low review volume? I’m mainly trying to avoid installing a large app just to handle a handful of genuine product reviews. &#32; submitted by &#32; /u/BasedTavastia [link] &#32; [comments]",
-    "published_at": "2026-08-09T16:43:30+00:00",
-    "discovered_at": "2026-08-10T17:08:12.167731+00:00",
-    "stage": "hot",
-    "score": 12,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "schema_types": [
-          "product structured data"
-        ],
-        "platforms": [
-          "shopify",
-          "product page"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "schema_types": 3,
-        "platforms": 2
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "shopify"
-    ],
-    "issue_types": [
-      "product_schema"
-    ],
-    "intent_flags": [],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Respond as hands-on implementation help for an active schema problem.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Can I add manually collected product reviews to Product stru",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with product_schema, email schemaagent@gmail.com.\n\nRespond as hands-on implementation help for an active schema problem.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -134,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-08-10T17:08:13.447826+00:00",
+    "discovered_at": "2026-08-11T02:27:30.216584+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -190,7 +128,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-10T17:08:13.444827+00:00",
+    "discovered_at": "2026-08-11T02:27:30.211870+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -248,7 +186,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-10T17:08:13.445093+00:00",
+    "discovered_at": "2026-08-11T02:27:30.212304+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -306,7 +244,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-10T17:08:13.446110+00:00",
+    "discovered_at": "2026-08-11T02:27:30.213867+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -348,56 +286,6 @@
     ]
   },
   {
-    "item_id": "14b111b851cc8fe5",
-    "source": "Google Search Central Community - Structured Data",
-    "source_id": "google-search-central-structured-data",
-    "source_type": "forum",
-    "source_url": "https://support.google.com/webmasters/thread/237836804/not-able-to-preview-the-structured-data?hl=en",
-    "title": "Not able to preview the structured data",
-    "summary": "",
-    "published_at": null,
-    "discovered_at": "2026-08-10T17:08:14.306742+00:00",
-    "stage": "watch",
-    "score": 6,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 2,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Not able to preview the structured data",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "google",
-      "search-central",
-      "structured-data",
-      "schema-centric"
-    ]
-  },
-  {
     "item_id": "034c991a4ad9f528",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -406,7 +294,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-08-10T17:08:13.443965+00:00",
+    "discovered_at": "2026-08-11T02:27:30.210391+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
