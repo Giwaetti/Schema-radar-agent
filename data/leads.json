@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-16T08:46:28.613927+00:00",
+    "discovered_at": "2026-08-16T16:42:11.135805+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Help with a YMYL site.",
     "summary": "Hey everyone, I’m hitting a wall with a hard money lender website and could use a fresh pair of eyes or suggestions from anyone who has worked in high-scrutiny YMYL niches recently. The Situation Niche: Hard money / asset-based real estate lending (B2B/investor focus). Search Console Data: GSC shows solid impressions and an average position hovering between 15 and 20 for relevant commercial intent keywords over the last 60–90 days. Manual Search Reality: When performing manual SERP checks (incognito, cache cleared, localized search via geo-spoofing / GS Location Changer / VPN to the exact service area), the site doesn't appear anywhere in the top 50–100 results. What We’ve Already Done (YMYL &amp; E-E-A-T Focus) Because hard money falls squarely under Your Money or Your Life (YMYL), we went heavy on trust and transparency from day one: Entity &amp; Transparency: Full business registration, physical office addresses, phone numbers, state licensing/disclosures clearly displayed in footer and dedicated legal pages. Author &amp; Team Bios: Complete profiles for loan officers/principals with verifiable LinkedIn profiles, industry experience, and direct contact details. Schema Markup: Implemented robust ⁠FinancialService⁠, ⁠PostalAddress⁠, ⁠Person⁠, and ⁠FAQPage⁠ structured data with clean entity validation. Content: No AI fluff. Comprehensive loan program pages (rates, LTVs, terms, application steps, requirements, fees) and practical investor guides written from an industry practitioner perspective. Technical Health: Core Web Vitals are sorted, clean indexation (no canonical/noindex conflicts), HTTPS, and mobile-friendly. What I’m Trying to Rule Out: GSC Skew: Could GSC be logging impressions for non-standard features (image packs, universal snippets, or ultra-long-tail localized variations) that inflate the average position? Geo-Targeting Mismatch: Are impressions coming from outside our service area, skewing the reported position while local results suppress the domain? Algorithmic YMYL Filter / &quot;Sandbox&quot;: Is Google testing the site in lower SERPs intermittently without committing to stable organic placement? Intent Misalignment: Is the algorithm heavily favoring local map packs or major financial aggregators over independent lender domains? Questions for the Community: Have you seen this specific disconnect (GSC Page 2 average vs. complete absence in manual checks) in competitive YMYL spaces recently? What specific filters or diagnostic steps would you run in GSC / third-party tools to isolate where these reported impressions are actually rendering? Any specific off-page or brand entity signals that helped push your private lending/finance sites over the hump into visible SERPs? ⁠It’s an .Io domain. Do you think that could be an issue? Appreciate any constructive thoughts or teardown ideas! &#32; submitted by &#32; /u/The_Absorber [link] &#32; [comments]",
     "published_at": "2026-08-15T12:21:11+00:00",
-    "discovered_at": "2026-08-16T08:46:27.722963+00:00",
+    "discovered_at": "2026-08-16T16:42:10.079455+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -131,7 +131,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-08-16T08:46:28.616269+00:00",
+    "discovered_at": "2026-08-16T16:42:11.138302+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -187,7 +187,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-16T08:46:28.610807+00:00",
+    "discovered_at": "2026-08-16T16:42:11.134036+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -245,7 +245,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-16T08:46:28.611229+00:00",
+    "discovered_at": "2026-08-16T16:42:11.134382+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -303,7 +303,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-16T08:46:28.613686+00:00",
+    "discovered_at": "2026-08-16T16:42:11.135622+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -353,7 +353,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-08-16T08:46:29.371102+00:00",
+    "discovered_at": "2026-08-16T16:42:11.836222+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -403,7 +403,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-08-16T08:46:28.609378+00:00",
+    "discovered_at": "2026-08-16T16:42:11.132951+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
