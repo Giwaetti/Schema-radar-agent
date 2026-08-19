@@ -1,5 +1,83 @@
 [
   {
+    "item_id": "d0f3102cc4fa41d4",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1vruw7w/3_months_of_gsc_data_for_my_solo_b2b_consulting",
+    "title": "3 months of GSC data for my solo B2B consulting site",
+    "summary": "I run a solo B2B consulting practice (Berlin, DACH market) helping agencies and small B2B service providers build organic visibility as experts instead of relying on cold calling. I mainly do outbound and getting Traffic from there but I want to gain leads trough my site. Search Console only has ~3 months of data so far. The numbers - 27 clicks / 3,006 impressions total, average CTR 0.9%, average position ~45 - Germany accounts for basically all clicks (24 of 27) despite only ~85% of impressions — rest of the world looks like noise - Device split: ~82% of impressions on desktop, matching CTR (~0.9% on both desktop and mobile) — fits B2B decision-makers researching at work - Brand terms dominate the click total: &quot;outreach studio&quot; (10 clicks/51 impressions, avg position 1.7), &quot;outreach studios&quot; (3/8), &quot;outreachstudio&quot; (1/7) — roughly half the clicks are just people typing the brand name The part I actually want feedback on: non-brand keywords with high impressions and near-zero clicks - &quot;b2b content strategy&quot; (DE: *b2b content strategie*) — 295 impressions, 0 clicks, avg position 49 - &quot;content strategy b2b&quot; (DE: *content strategie b2b*) — 125 impressions, 0 clicks, avg position 45 - &quot;positioning agency&quot; (DE: *agentur für positionierung*) — 118 impressions, **0 clicks at avg position 19** - &quot;positioning consulting&quot; (DE: *positionierungsberatung*) — 86 impressions, **0 clicks at avg position 10.9** - &quot;building expert status&quot; (DE: *expertenstatus aufbauen*) — 63 impressions, 0 clicks, avg position 13.2 Ranking on page 1–2 with real impression volume but literally zero clicks reads less like a ranking problem to me and more like something else on that results page (a snippet, PAA box, AI Overview) is eating the click even though we're positioned decently. Technical Side On the technical side , every new page runs through a fixed checklist before publishing: JSON-LD structured data (BlogPosting/Article on all content, FAQPage markup on every visible FAQ accordion, BreadcrumbList on non-root pages), mandatory metadata (title, description, canonical URL, OpenGraph tags, dedicated OG image per route), single-H1 pages with entity-bearing H2s (no generic “Overview”/“Conclusion” headers), full sitemap coverage for new routes, next/image with descriptive alt text throughout, clean lowercase-hyphen slugs, redirect hygiene (no chains), and a keyword-cannibalization check against existing pages before anything new goes live. Internal linking follows a pillar-spoke model — every service page links from the hub, links out to at least two sibling pages, one blog post and one case study, and gets at least one contextual in-body link back from a blog article. None of this seems to be the bottleneck given the zero-click-at-position-10 pattern, but flagging it in case someone spots a gap. Other things going on - Top page by far is the homepage (24 clicks/140 impressions at avg position 3.4 on the bare domain) — - Blog posts and pillar pages are picking up meaningful impressions (100–478 each) but essentially no clicks yet — probably just typical for a young site still building topical authority and backlinks. - A handful of queries in the data are oddly conversational/long-tail, e.g. something close to *&quot;I've been Head of Marketing at a B2B software company for four months and need to build organic as a lead channel... which agencies in Germany would be the right partner? please research current providers and give me concrete names&quot;* — appearing 3x with slight rewording, 0 clicks, avg position ~47–72. These read like queries surfaced via an AI Mode/AI Overview type interface rather than someone typing directly into the search box, which is relevant since part of our content strategy is explicitly built for LLM/answer-engine retrievability (structured headings, self-contained paragraphs, no &quot;as mentioned above&quot; back-references, etc.). Competitive picture Two demand patterns dominate the non-brand query list: (1) generic category terms like &quot;b2b content strategy,&quot; &quot;content marketing b2b&quot; (DE: *content marketing b2b*), &quot;positioning agency&quot; (DE: *positionierung agentur*) that go up against large agencies and content-marketing generalists, and (2) a narrower &quot;alternative to cold calling&quot; intent (DE: *kaltakquise alternative*, *seo statt kaltakquise* — &quot;SEO instead of cold calling&quot;) that's more of a niche/blue-ocean angle specific to my positioning. Right now the site ranks better and pulls more impression volume on the harder generic terms than on the more specific alternative-to-cold-calling terms, which feels backwards for a 3-month-old site with basically no authority yet. What I'd love input on: Is 0 clicks at position 10–19 on commercial terms really a title/meta-description problem, or is it more likely an intent mismatch — i.e. the SERP is dominated by informational features (People Also Ask, AI Overview) that soak up the click regardless of what my snippet says? Anyone have experience deliberately prioritizing a narrower &quot;alternative to X&quot; long-tail cluster over a bigger generic category cluster when the site has very little authority yet? Trying to figure out if I should pull resources away from the generic terms even though they currently have more impression volume. General sentiment on the Site - i have no clue if the things are Doing good okay or bad? &#32; submitted by &#32; /u/OutreachStudio [link] &#32; [comments]",
+    "published_at": "2026-08-18T16:52:46+00:00",
+    "discovered_at": "2026-08-19T01:52:38.250758+00:00",
+    "stage": "hot",
+    "score": 17,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data",
+          "json-ld"
+        ],
+        "schema_types": [
+          "breadcrumblist"
+        ],
+        "commercial_intent": [
+          "expert",
+          "agency"
+        ],
+        "implementation_intent": [
+          "fix"
+        ],
+        "platforms": [
+          "service page"
+        ]
+      },
+      "group_points": {
+        "schema_core": 8,
+        "schema_types": 3,
+        "commercial_intent": 4,
+        "implementation_intent": 2,
+        "platforms": 1
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "backlink",
+        "backlinks",
+        "canonical",
+        "sitemap"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "breadcrumbs"
+    ],
+    "intent_flags": [
+      "expert",
+      "agency",
+      "fix"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: 3 months of GSC data for my solo B2B consulting site",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with breadcrumbs, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -8,7 +86,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-18T16:48:27.102139+00:00",
+    "discovered_at": "2026-08-19T01:52:39.129007+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +150,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-08-18T16:48:27.104533+00:00",
+    "discovered_at": "2026-08-19T01:52:39.132230+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -128,7 +206,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-18T16:48:27.099042+00:00",
+    "discovered_at": "2026-08-19T01:52:39.125188+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -186,7 +264,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-18T16:48:27.099498+00:00",
+    "discovered_at": "2026-08-19T01:52:39.125816+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -244,7 +322,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-18T16:48:27.101894+00:00",
+    "discovered_at": "2026-08-19T01:52:39.128688+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -294,7 +372,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-08-18T16:48:28.175491+00:00",
+    "discovered_at": "2026-08-19T01:52:39.434280+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -344,7 +422,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-08-18T16:48:27.097637+00:00",
+    "discovered_at": "2026-08-19T01:52:39.123304+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
