@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-23T01:59:40.017335+00:00",
+    "discovered_at": "2026-08-23T08:48:16.937359+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Built Multiple Sites - Need SEO Suggestions",
     "summary": "Hey everyone, I started working on SEO for the past two years. Since then, I have created niche websites, maybe more than 10, just to understand SEO and see if I can really overcome my failures. I messed up on one site with content, somewhere I only submitted 100 URLs, somewhere it was more than 20K. Hyperlocal intent, topical authority, TOFU, BOFU, MOFU, what not... LD+JSON, etc. Now, I am confident about what I am doing and am even getting clicks on one of my specific sites. But you know what? We are still in quite an early stage, with little to zero savings left to take it forward. We are in a waiting game now, where I have specifically started building URLs and content in phases. In my last website, I submitted 500+ URLs, and within a week, 160+ got indexed. The index count is increasing too once the reports are updated. I'm just learning and implementing the same things on my own sites, with zero earnings so far. And now, I'd like to know: how much time should I wait? I don't want to wait 6-10 months just because SEO can take that long. At the same time, I don't want to give up too early if the site is actually moving in the right direction. I have kind of run out of ideas for what to do during this waiting period while I try to get clients and keep things moving. What would you do at this stage, and how long would you realistically wait before making a decision? &#32; submitted by &#32; /u/Effective_Bother7088 [link] &#32; [comments]",
     "published_at": "2026-08-21T17:52:39+00:00",
-    "discovered_at": "2026-08-23T01:59:38.741228+00:00",
+    "discovered_at": "2026-08-23T08:48:15.645205+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -127,7 +127,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-08-23T01:59:40.020561+00:00",
+    "discovered_at": "2026-08-23T08:48:16.940622+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -183,7 +183,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-23T01:59:40.013564+00:00",
+    "discovered_at": "2026-08-23T08:48:16.933620+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -241,7 +241,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-23T01:59:40.014131+00:00",
+    "discovered_at": "2026-08-23T08:48:16.934197+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -299,7 +299,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-23T01:59:40.016998+00:00",
+    "discovered_at": "2026-08-23T08:48:16.937041+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -349,7 +349,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-08-23T01:59:40.851628+00:00",
+    "discovered_at": "2026-08-23T08:48:17.686551+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -399,7 +399,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-08-23T01:59:40.011710+00:00",
+    "discovered_at": "2026-08-23T08:48:16.931769+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
