@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-23T16:43:06.109939+00:00",
+    "discovered_at": "2026-08-24T01:57:21.766858+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,61 +64,6 @@
     ]
   },
   {
-    "item_id": "dee1c880f315960f",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1vunh45/built_multiple_sites_need_seo_suggestions",
-    "title": "Built Multiple Sites - Need SEO Suggestions",
-    "summary": "Hey everyone, I started working on SEO for the past two years. Since then, I have created niche websites, maybe more than 10, just to understand SEO and see if I can really overcome my failures. I messed up on one site with content, somewhere I only submitted 100 URLs, somewhere it was more than 20K. Hyperlocal intent, topical authority, TOFU, BOFU, MOFU, what not... LD+JSON, etc. Now, I am confident about what I am doing and am even getting clicks on one of my specific sites. But you know what? We are still in quite an early stage, with little to zero savings left to take it forward. We are in a waiting game now, where I have specifically started building URLs and content in phases. In my last website, I submitted 500+ URLs, and within a week, 160+ got indexed. The index count is increasing too once the reports are updated. I'm just learning and implementing the same things on my own sites, with zero earnings so far. And now, I'd like to know: how much time should I wait? I don't want to wait 6-10 months just because SEO can take that long. At the same time, I don't want to give up too early if the site is actually moving in the right direction. I have kind of run out of ideas for what to do during this waiting period while I try to get clients and keep things moving. What would you do at this stage, and how long would you realistically wait before making a decision? &#32; submitted by &#32; /u/Effective_Bother7088 [link] &#32; [comments]",
-    "published_at": "2026-08-21T17:52:39+00:00",
-    "discovered_at": "2026-08-23T16:43:04.695584+00:00",
-    "stage": "warm",
-    "score": 9,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "ld+json"
-        ],
-        "implementation_intent": [
-          "implement"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "implement"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Built Multiple Sites - Need SEO Suggestions",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "9855791d01ea1633",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -127,7 +72,7 @@
     "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
     "summary": "Started by: ventio",
     "published_at": null,
-    "discovered_at": "2026-08-23T16:43:06.113254+00:00",
+    "discovered_at": "2026-08-24T01:57:21.769288+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -183,7 +128,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-23T16:43:06.105752+00:00",
+    "discovered_at": "2026-08-24T01:57:21.764508+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -241,7 +186,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-23T16:43:06.106330+00:00",
+    "discovered_at": "2026-08-24T01:57:21.765016+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -299,7 +244,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-23T16:43:06.109614+00:00",
+    "discovered_at": "2026-08-24T01:57:21.766585+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -349,7 +294,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-08-23T16:43:06.893331+00:00",
+    "discovered_at": "2026-08-24T01:57:22.147433+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -399,7 +344,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-08-23T16:43:06.103846+00:00",
+    "discovered_at": "2026-08-24T01:57:21.763055+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
