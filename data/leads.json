@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-25T08:59:49.303363+00:00",
+    "discovered_at": "2026-08-25T16:55:06.312833+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,62 +64,6 @@
     ]
   },
   {
-    "item_id": "9855791d01ea1633",
-    "source": "WordPress Support - Schema & Structured Data for WP & AMP",
-    "source_id": "wordpress-schema-support",
-    "source_type": "forum",
-    "source_url": "https://wordpress.org/support/topic/json-ld-product-schema-syntax-issues-data-types-case-sensitivity",
-    "title": "JSON-LD Product Schema syntax issues (Data Types & Case Sensitivity",
-    "summary": "Started by: ventio",
-    "published_at": null,
-    "discovered_at": "2026-08-25T08:59:49.306154+00:00",
-    "stage": "warm",
-    "score": 9,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "json-ld"
-        ],
-        "schema_types": [
-          "product schema"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "schema_types": 3
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 2,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [
-      "product_schema"
-    ],
-    "intent_flags": [],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: JSON-LD Product Schema syntax issues (Data Types & Case Sens",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for product_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "wordpress",
-      "schema",
-      "support",
-      "schema-centric"
-    ]
-  },
-  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -128,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-25T08:59:49.300569+00:00",
+    "discovered_at": "2026-08-25T16:55:06.310566+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -186,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-25T08:59:49.301077+00:00",
+    "discovered_at": "2026-08-25T16:55:06.311001+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -244,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-25T08:59:49.303077+00:00",
+    "discovered_at": "2026-08-25T16:55:06.312586+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -294,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-08-25T08:59:50.258264+00:00",
+    "discovered_at": "2026-08-25T16:55:07.169737+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -344,7 +288,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-08-25T08:59:49.298944+00:00",
+    "discovered_at": "2026-08-25T16:55:06.309201+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
