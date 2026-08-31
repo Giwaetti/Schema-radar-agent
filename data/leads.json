@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-08-31T16:09:28.569103+00:00",
+    "discovered_at": "2026-08-31T21:28:14.872477+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-08-31T16:09:28.566049+00:00",
+    "discovered_at": "2026-08-31T21:28:14.869456+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-08-31T16:09:28.566652+00:00",
+    "discovered_at": "2026-08-31T21:28:14.870044+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-08-31T16:09:28.568790+00:00",
+    "discovered_at": "2026-08-31T21:28:14.872154+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -230,56 +230,6 @@
     ]
   },
   {
-    "item_id": "14b111b851cc8fe5",
-    "source": "Google Search Central Community - Structured Data",
-    "source_id": "google-search-central-structured-data",
-    "source_type": "forum",
-    "source_url": "https://support.google.com/webmasters/thread/237836804/not-able-to-preview-the-structured-data?hl=en",
-    "title": "Not able to preview the structured data",
-    "summary": "",
-    "published_at": null,
-    "discovered_at": "2026-08-31T16:09:29.434880+00:00",
-    "stage": "watch",
-    "score": 6,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4
-      },
-      "freshness": 0,
-      "negative_hits": [],
-      "source_boost": 2,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Not able to preview the structured data",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "google",
-      "search-central",
-      "structured-data",
-      "schema-centric"
-    ]
-  },
-  {
     "item_id": "034c991a4ad9f528",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -288,7 +238,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-08-31T16:09:28.564202+00:00",
+    "discovered_at": "2026-08-31T21:28:14.867621+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
