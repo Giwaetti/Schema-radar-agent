@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-03T19:17:41.060225+00:00",
+    "discovered_at": "2026-09-04T04:33:47.128422+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Site title in search results",
     "summary": "My site's title is my URL instead of my site name. It has been like this for a long time and I can't seem to change it even with WebSite in JSON-LD. Any ideas how to get this fixed? Site is hosted on Wix if that matters. &#32; submitted by &#32; /u/bucky494 [link] &#32; [comments]",
     "published_at": "2026-09-03T18:14:26+00:00",
-    "discovered_at": "2026-09-03T19:17:40.022286+00:00",
+    "discovered_at": "2026-09-04T04:33:46.323729+00:00",
     "stage": "warm",
     "score": 10,
     "score_breakdown": {
@@ -133,7 +133,7 @@
     "title": "How do you handle E-E-A-T when your authors can't be publicly identified?",
     "summary": "In-house SEO here, on a heavily regulated YMYL vertical. Our subject matter experts can't have their names, photos or LinkedIn profiles attached to our content. It's a security decision made above me and I can't override it. Every E-E-A-T guide says the same thing. Named author, photo, bio, LinkedIn, Person schema. Google's quality rater guidelines do acknowledge that some sites have legitimate reasons for anonymity, but every practitioner article I've read says generic bylines underperform, especially on YMYL. So: Does a named collective entity carry real weight, or do Google and the LLMs only reward Person entities? Organization as `author` in Article schema, does that work in practice or does it get quietly ignored? &#32; submitted by &#32; /u/cosmicguuurl [link] &#32; [comments]",
     "published_at": "2026-09-03T09:57:09+00:00",
-    "discovered_at": "2026-09-03T19:17:40.023245+00:00",
+    "discovered_at": "2026-09-04T04:33:46.324628+00:00",
     "stage": "warm",
     "score": 8,
     "score_breakdown": {
@@ -188,7 +188,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-03T19:17:41.057992+00:00",
+    "discovered_at": "2026-09-04T04:33:47.126195+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -246,7 +246,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-03T19:17:41.058409+00:00",
+    "discovered_at": "2026-09-04T04:33:47.126627+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -304,7 +304,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-03T19:17:41.059980+00:00",
+    "discovered_at": "2026-09-04T04:33:47.128165+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -354,7 +354,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-03T19:17:41.693047+00:00",
+    "discovered_at": "2026-09-04T04:33:47.996178+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -404,7 +404,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-03T19:17:41.056660+00:00",
+    "discovered_at": "2026-09-04T04:33:47.124872+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
