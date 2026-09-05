@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-05T11:50:06.780986+00:00",
+    "discovered_at": "2026-09-05T18:18:28.762840+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-05T11:50:06.777898+00:00",
+    "discovered_at": "2026-09-05T18:18:28.759778+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-05T11:50:06.778481+00:00",
+    "discovered_at": "2026-09-05T18:18:28.760387+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-05T11:50:06.780669+00:00",
+    "discovered_at": "2026-09-05T18:18:28.762528+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -238,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-05T11:50:07.867869+00:00",
+    "discovered_at": "2026-09-05T18:18:29.596536+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -280,6 +280,63 @@
     ]
   },
   {
+    "item_id": "f31be2ab967976ab",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1w816fr/would_you_prioritise_backlinks_or_internal",
+    "title": "Would you prioritise backlinks or internal linking for a site with 3,000+ programmatic pages?",
+    "summary": "I’m working on a relatively new travel website that now has 3,000+ programmatically generated pages targeting countries and individual products. Google has discovered most of the URLs, but indexing and rankings are still fairly inconsistent. The technical/on-page side is in decent shape: unique metadata, structured data, sitemaps, breadcrumbs, internal linking between destination and product pages, etc. The domain itself is still relatively low authority. If you had limited time/budget at this stage, where would you focus? Building quality backlinks to the homepage/domain Building links directly to destination/category pages Improving internal linking and consolidating weaker pages Creating informational content specifically to attract links My instinct is that domain authority/backlinks are now the biggest constraint, but I'm interested in what people who've scaled large programmatic SEO sites have actually seen work. &#32; submitted by &#32; /u/mathewbowyer [link] &#32; [comments]",
+    "published_at": "2026-09-05T13:45:06+00:00",
+    "discovered_at": "2026-09-05T18:18:27.832397+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "platforms": [
+          "product page"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "platforms": 1
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "backlink",
+        "backlinks",
+        "sitemap"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Would you prioritise backlinks or internal linking for a sit",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "034c991a4ad9f528",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -288,7 +345,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-05T11:50:06.776088+00:00",
+    "discovered_at": "2026-09-05T18:18:28.757933+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
