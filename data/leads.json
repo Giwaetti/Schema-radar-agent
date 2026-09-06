@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-05T18:18:28.762840+00:00",
+    "discovered_at": "2026-09-06T04:39:29.034083+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-05T18:18:28.759778+00:00",
+    "discovered_at": "2026-09-06T04:39:29.032193+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-05T18:18:28.760387+00:00",
+    "discovered_at": "2026-09-06T04:39:29.032553+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-05T18:18:28.762528+00:00",
+    "discovered_at": "2026-09-06T04:39:29.033885+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -238,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-05T18:18:29.596536+00:00",
+    "discovered_at": "2026-09-06T04:39:29.825147+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -288,7 +288,7 @@
     "title": "Would you prioritise backlinks or internal linking for a site with 3,000+ programmatic pages?",
     "summary": "I’m working on a relatively new travel website that now has 3,000+ programmatically generated pages targeting countries and individual products. Google has discovered most of the URLs, but indexing and rankings are still fairly inconsistent. The technical/on-page side is in decent shape: unique metadata, structured data, sitemaps, breadcrumbs, internal linking between destination and product pages, etc. The domain itself is still relatively low authority. If you had limited time/budget at this stage, where would you focus? Building quality backlinks to the homepage/domain Building links directly to destination/category pages Improving internal linking and consolidating weaker pages Creating informational content specifically to attract links My instinct is that domain authority/backlinks are now the biggest constraint, but I'm interested in what people who've scaled large programmatic SEO sites have actually seen work. &#32; submitted by &#32; /u/mathewbowyer [link] &#32; [comments]",
     "published_at": "2026-09-05T13:45:06+00:00",
-    "discovered_at": "2026-09-05T18:18:27.832397+00:00",
+    "discovered_at": "2026-09-06T04:39:27.932572+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
@@ -345,7 +345,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-05T18:18:28.757933+00:00",
+    "discovered_at": "2026-09-06T04:39:29.031043+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
