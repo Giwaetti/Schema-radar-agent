@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-13T13:18:27.319076+00:00",
+    "discovered_at": "2026-09-13T18:47:13.879518+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,6 +64,74 @@
     ]
   },
   {
+    "item_id": "99aafe2be1303c3c",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1wekjxh/is_using_chatgpt_for_seo_a_good_idea_in_2026",
+    "title": "Is using ChatGPT for SEO a good idea in 2026?",
+    "summary": "Total noob here. I know nothing about SEO. On a tight budget, want to be smart about how I spend my money. tl;dr: A web designer is building my website. They just told me they won't handle the SEO and Google Search Console side of things. I've spent most of my budget on the web designer. With INR 3000 remaining, how do I get SEO and Search Console work done, and done well? Is using OpenSEO a good idea? Time limitation: Need to get this done in 3-4 days. What AI tells me: Pre-launch, here's what's important: ✅ Technical SEO audit ✅ Page titles &amp; meta descriptions ✅ H1/H2 structure ✅ Clean URLs ✅ Canonical URLs ✅ Internal linking ✅ Image filenames + alt text ✅ XML sitemap creation ✅ Correct robots.txt ✅ Make sure development/noindex settings won’t block Google at launch ✅ Organization Schema / JSON-LD ✅ alternateName ✅ Appropriate sameAs links ✅ Appropriate structured data ✅ Mobile/basic technical checks ✅ Make sure the site architecture clearly connects the main org → products &#32; submitted by &#32; /u/Glum-Relief6164 [link] &#32; [comments]",
+    "published_at": "2026-09-12T18:42:18+00:00",
+    "discovered_at": "2026-09-13T18:47:12.523081+00:00",
+    "stage": "warm",
+    "score": 11,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data",
+          "json-ld"
+        ],
+        "schema_types": [
+          "organization schema"
+        ],
+        "implementation_intent": [
+          "audit"
+        ]
+      },
+      "group_points": {
+        "schema_core": 8,
+        "schema_types": 3,
+        "implementation_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "meta description",
+        "meta descriptions",
+        "canonical",
+        "sitemap",
+        "robots.txt"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "local_schema"
+    ],
+    "intent_flags": [
+      "audit"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Is using ChatGPT for SEO a good idea in 2026?",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for local_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -72,7 +140,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-13T13:18:27.315999+00:00",
+    "discovered_at": "2026-09-13T18:47:13.876424+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -130,7 +198,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-13T13:18:27.316573+00:00",
+    "discovered_at": "2026-09-13T18:47:13.877026+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +256,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-13T13:18:27.318732+00:00",
+    "discovered_at": "2026-09-13T18:47:13.879202+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -238,7 +306,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-13T13:18:28.044426+00:00",
+    "discovered_at": "2026-09-13T18:47:14.967727+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -288,7 +356,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-13T13:18:27.314158+00:00",
+    "discovered_at": "2026-09-13T18:47:13.874584+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
