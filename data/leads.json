@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-14T15:00:59.115136+00:00",
+    "discovered_at": "2026-09-14T20:18:25.378186+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "How do you improve Google rankings when most valuable content is behind a paywall?",
     "summary": "I’m working with a website where most of the useful/high value content is behind a paywall, so obviously Google doesnt have that much public content to work with. Has anyone here worked with a similar setup? What actually helped in your case? Did you use free previews/excerpts, seperate landing pages, more public articles, structured data for paywalled content etc? I’m mainly trying to figure out how much content you need to make public for SEO without basically giving away the thing people are supposed to pay for. Would be really interested in hearing from people who worked with subscription sites, research platforms, databases or publishers. What worked for you and what didnt? I also welcome PM's if that is an easier way to answer and discuss your experience. &#32; submitted by &#32; /u/Istanbuliette [link] &#32; [comments]",
     "published_at": "2026-09-14T10:52:30+00:00",
-    "discovered_at": "2026-09-14T15:00:57.842827+00:00",
+    "discovered_at": "2026-09-14T20:18:24.392991+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -127,7 +127,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-14T15:00:59.112858+00:00",
+    "discovered_at": "2026-09-14T20:18:25.375979+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -185,7 +185,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-14T15:00:59.113287+00:00",
+    "discovered_at": "2026-09-14T20:18:25.376407+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -243,7 +243,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-14T15:00:59.114889+00:00",
+    "discovered_at": "2026-09-14T20:18:25.377952+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -293,7 +293,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-14T15:00:59.896978+00:00",
+    "discovered_at": "2026-09-14T20:18:26.119444+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -343,7 +343,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-14T15:00:59.111475+00:00",
+    "discovered_at": "2026-09-14T20:18:25.374617+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
