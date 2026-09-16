@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-16T13:30:06.329150+00:00",
+    "discovered_at": "2026-09-16T19:33:39.079920+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Brand query disappeared overnight in most countries, still #1 in quotes or with any extra word. Anyone recovered from this?",
     "summary": "Small local photography business, domain about 5 weeks old. The brand query (a 2-word personal name + &quot;photography&quot;) ranked #1 on Google until Sept 9, then on Sept 10 the site vanished from the organic results for that exact query in France, US, UK, Germany and Spain. Directory listings and social profiles (Instagram, Pages Jaunes, Mappy) now show instead. What still works: - Same query in quotes: #1 - Same query + any extra word (e.g. a service name): #1 - Same query in Turkey with Turkish UI: #1 - Google Images for the same query: mostly my site - Bing and DuckDuckGo: #1 What I checked: homepage indexed, Google-selected canonical is the homepage itself, recrawled Sept 13, no manual action, no security issues, server logs show Googlebot getting full 200 responses, total traffic and non-brand queries are stable. What changed right before the drop (Sept 4-8): new Wikidata item, sameAs links added to schema, new directory listings (Pages Jaunes etc.), new LinkedIn/Behance profiles, and about 20 new pricing pages across 4 languages. One thing I found and fixed on Sept 14: the Person node and the Organization node in my JSON-LD had identical sameAs lists, so the Person was declaring the business's Wikidata item and Google Maps place as its own. Removed those from the Person node. No change in results yet. Questions: 1. Has anyone seen a brand query drop only in its short form like this, and did it come back on its own or after a fix? 2. Could a Person/Organization sameAs conflict realistically cause this, or is it more likely a new-site re-evaluation? 3. How long would you wait before trying another single change? &#32; submitted by &#32; /u/enesdoganv [link] &#32; [comments]",
     "published_at": "2026-09-14T19:10:13+00:00",
-    "discovered_at": "2026-09-16T13:30:05.407470+00:00",
+    "discovered_at": "2026-09-16T19:33:38.149414+00:00",
     "stage": "warm",
     "score": 10,
     "score_breakdown": {
@@ -134,7 +134,7 @@
     "title": "How do you improve Google rankings when most valuable content is behind a paywall?",
     "summary": "I’m working with a website where most of the useful/high value content is behind a paywall, so obviously Google doesnt have that much public content to work with. Has anyone here worked with a similar setup? What actually helped in your case? Did you use free previews/excerpts, seperate landing pages, more public articles, structured data for paywalled content etc? I’m mainly trying to figure out how much content you need to make public for SEO without basically giving away the thing people are supposed to pay for. Would be really interested in hearing from people who worked with subscription sites, research platforms, databases or publishers. What worked for you and what didnt? I also welcome PM's if that is an easier way to answer and discuss your experience. &#32; submitted by &#32; /u/Istanbuliette [link] &#32; [comments]",
     "published_at": "2026-09-14T10:52:30+00:00",
-    "discovered_at": "2026-09-16T13:30:05.407962+00:00",
+    "discovered_at": "2026-09-16T19:33:38.149926+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -189,7 +189,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-16T13:30:06.326016+00:00",
+    "discovered_at": "2026-09-16T19:33:39.076899+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -247,7 +247,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-16T13:30:06.326606+00:00",
+    "discovered_at": "2026-09-16T19:33:39.077466+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -305,7 +305,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-16T13:30:06.328834+00:00",
+    "discovered_at": "2026-09-16T19:33:39.079580+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -355,7 +355,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-16T13:30:07.050704+00:00",
+    "discovered_at": "2026-09-16T19:33:43.741593+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -405,7 +405,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-16T13:30:06.324203+00:00",
+    "discovered_at": "2026-09-16T19:33:39.075062+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
