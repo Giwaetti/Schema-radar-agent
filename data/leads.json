@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-17T13:27:54.909629+00:00",
+    "discovered_at": "2026-09-17T19:43:37.957745+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,68 +64,6 @@
     ]
   },
   {
-    "item_id": "ae722f1b592b30f4",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1wgcwpr/brand_query_disappeared_overnight_in_most",
-    "title": "Brand query disappeared overnight in most countries, still #1 in quotes or with any extra word. Anyone recovered from this?",
-    "summary": "Small local photography business, domain about 5 weeks old. The brand query (a 2-word personal name + &quot;photography&quot;) ranked #1 on Google until Sept 9, then on Sept 10 the site vanished from the organic results for that exact query in France, US, UK, Germany and Spain. Directory listings and social profiles (Instagram, Pages Jaunes, Mappy) now show instead. What still works: - Same query in quotes: #1 - Same query + any extra word (e.g. a service name): #1 - Same query in Turkey with Turkish UI: #1 - Google Images for the same query: mostly my site - Bing and DuckDuckGo: #1 What I checked: homepage indexed, Google-selected canonical is the homepage itself, recrawled Sept 13, no manual action, no security issues, server logs show Googlebot getting full 200 responses, total traffic and non-brand queries are stable. What changed right before the drop (Sept 4-8): new Wikidata item, sameAs links added to schema, new directory listings (Pages Jaunes etc.), new LinkedIn/Behance profiles, and about 20 new pricing pages across 4 languages. One thing I found and fixed on Sept 14: the Person node and the Organization node in my JSON-LD had identical sameAs lists, so the Person was declaring the business's Wikidata item and Google Maps place as its own. Removed those from the Person node. No change in results yet. Questions: 1. Has anyone seen a brand query drop only in its short form like this, and did it come back on its own or after a fix? 2. Could a Person/Organization sameAs conflict realistically cause this, or is it more likely a new-site re-evaluation? 3. How long would you wait before trying another single change? &#32; submitted by &#32; /u/enesdoganv [link] &#32; [comments]",
-    "published_at": "2026-09-14T19:10:13+00:00",
-    "discovered_at": "2026-09-17T13:27:53.847826+00:00",
-    "stage": "warm",
-    "score": 10,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "json-ld"
-        ],
-        "commercial_intent": [
-          "quote"
-        ],
-        "implementation_intent": [
-          "fix"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "commercial_intent": 2,
-        "implementation_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "canonical"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "quote",
-      "fix"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Brand query disappeared overnight in most countries, still #",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -134,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-17T13:27:54.906636+00:00",
+    "discovered_at": "2026-09-17T19:43:37.955068+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -192,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-17T13:27:54.907217+00:00",
+    "discovered_at": "2026-09-17T19:43:37.955618+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -250,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-17T13:27:54.909315+00:00",
+    "discovered_at": "2026-09-17T19:43:37.957464+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -300,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-17T13:27:56.012048+00:00",
+    "discovered_at": "2026-09-17T19:43:38.990294+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -350,7 +288,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-17T13:27:54.904835+00:00",
+    "discovered_at": "2026-09-17T19:43:37.953488+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
