@@ -8,7 +8,7 @@
     "title": "Next.js dev - AggregateRating not showing stars. Need help with fake reviews setup",
     "summary": "Hi r/SEO , I'm a 5th year Data Science &amp; AI student. I built a full-stack Next.js app and I want to show 5 stars in Google results. The reviews are not real. I want to understand how to make this work. I already added this code to my page: { &quot;@context&quot;: &quot; https://schema.org &quot;, &quot;@type&quot;: &quot;Product&quot;, &quot;name&quot;: &quot;My Product&quot;, &quot;aggregateRating&quot;: { &quot;@type&quot;: &quot;AggregateRating&quot;, &quot;ratingValue&quot;: &quot;4.5&quot;, &quot;bestRating&quot;: &quot;5&quot;, &quot;worstRating&quot;: &quot;1&quot;, &quot;reviewCount&quot;: &quot;2&quot; } } What do people who do this at scale actually do to make the stars show? Thanks. &#32; submitted by &#32; /u/ZealousidealPipe1333 [link] &#32; [comments]",
     "published_at": "2026-09-21T20:20:53+00:00",
-    "discovered_at": "2026-09-22T04:56:50.026535+00:00",
+    "discovered_at": "2026-09-22T13:24:38.811008+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -96,7 +96,7 @@
     "title": "Next.js dev - AggregateRating not showing stars. Need help with fake reviews setup",
     "summary": "Hi , I'm a 5th year Data Science &amp; AI student. I built a full-stack Next.js app and I want to show 5 stars in Google results. The reviews are not real. I want to understand how to make this work. I already added this code to my page: { &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;Product&quot;, &quot;name&quot;: &quot;My Product&quot;, &quot;aggregateRating&quot;: { &quot;@type&quot;: &quot;AggregateRating&quot;, &quot;ratingValue&quot;: &quot;4.5&quot;, &quot;bestRating&quot;: &quot;5&quot;, &quot;worstRating&quot;: &quot;1&quot;, &quot;reviewCount&quot;: &quot;2&quot; } } What do people who do this at scale actually do to make the stars show? Thanks. &#32; submitted by &#32; /u/ZealousidealPipe1333 [link] &#32; [comments]",
     "published_at": "2026-09-21T20:03:10+00:00",
-    "discovered_at": "2026-09-22T04:56:50.026750+00:00",
+    "discovered_at": "2026-09-22T13:24:38.811210+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -172,7 +172,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-22T04:56:52.590016+00:00",
+    "discovered_at": "2026-09-22T13:24:40.283516+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -236,7 +236,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-22T04:56:52.587773+00:00",
+    "discovered_at": "2026-09-22T13:24:40.280448+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -294,7 +294,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-22T04:56:52.588203+00:00",
+    "discovered_at": "2026-09-22T13:24:40.281057+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -352,7 +352,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-22T04:56:52.589774+00:00",
+    "discovered_at": "2026-09-22T13:24:40.283200+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -402,7 +402,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-22T04:56:53.673461+00:00",
+    "discovered_at": "2026-09-22T13:24:41.471344+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -452,7 +452,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-22T04:56:52.586402+00:00",
+    "discovered_at": "2026-09-22T13:24:40.278630+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
