@@ -1,5 +1,169 @@
 [
   {
+    "item_id": "ce37475c23260a15",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1wmo7r1/nextjs_dev_aggregaterating_not_showing_stars_need",
+    "title": "Next.js dev - AggregateRating not showing stars. Need help with fake reviews setup",
+    "summary": "Hi r/SEO , I'm a 5th year Data Science &amp; AI student. I built a full-stack Next.js app and I want to show 5 stars in Google results. The reviews are not real. I want to understand how to make this work. I already added this code to my page: { &quot;@context&quot;: &quot; https://schema.org &quot;, &quot;@type&quot;: &quot;Product&quot;, &quot;name&quot;: &quot;My Product&quot;, &quot;aggregateRating&quot;: { &quot;@type&quot;: &quot;AggregateRating&quot;, &quot;ratingValue&quot;: &quot;4.5&quot;, &quot;bestRating&quot;: &quot;5&quot;, &quot;worstRating&quot;: &quot;1&quot;, &quot;reviewCount&quot;: &quot;2&quot; } } What do people who do this at scale actually do to make the stars show? Thanks. &#32; submitted by &#32; /u/ZealousidealPipe1333 [link] &#32; [comments]",
+    "published_at": "2026-09-21T20:20:53+00:00",
+    "discovered_at": "2026-09-22T04:56:50.026535+00:00",
+    "stage": "hot",
+    "score": 13,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "schema.org"
+        ],
+        "commercial_intent": [
+          "need help"
+        ],
+        "implementation_intent": [
+          "setup",
+          "not showing"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "commercial_intent": 2,
+        "implementation_intent": 4
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "need help",
+      "setup",
+      "not showing"
+    ],
+    "business_name": "Schema",
+    "business_url": "https://schema.org/",
+    "audit": {
+      "business_url": "https://schema.org/",
+      "final_url": "https://schema.org/",
+      "domain": "schema.org",
+      "status_code": 200,
+      "ok": true,
+      "has_json_ld": true,
+      "schema_types": [
+        "Corporation",
+        "EntryPoint",
+        "Organization",
+        "Project",
+        "SearchAction",
+        "WebSite"
+      ],
+      "cms": null,
+      "site_kind": "general",
+      "title": "Schema.org - Schema.org",
+      "opportunity_gaps": [
+        "BreadcrumbList not detected on scanned page"
+      ],
+      "notes": [
+        "Detected site kind: general",
+        "Schema types found: Corporation, EntryPoint, Organization, Project, SearchAction, WebSite"
+      ],
+      "error": null
+    },
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Schema help for Schema",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for Schema. You can reach me at schemaagent@gmail.com.",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
+    "item_id": "c450b902c83f82cd",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1wmnqc0/nextjs_dev_aggregaterating_not_showing_stars_need",
+    "title": "Next.js dev - AggregateRating not showing stars. Need help with fake reviews setup",
+    "summary": "Hi , I'm a 5th year Data Science &amp; AI student. I built a full-stack Next.js app and I want to show 5 stars in Google results. The reviews are not real. I want to understand how to make this work. I already added this code to my page: { &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;Product&quot;, &quot;name&quot;: &quot;My Product&quot;, &quot;aggregateRating&quot;: { &quot;@type&quot;: &quot;AggregateRating&quot;, &quot;ratingValue&quot;: &quot;4.5&quot;, &quot;bestRating&quot;: &quot;5&quot;, &quot;worstRating&quot;: &quot;1&quot;, &quot;reviewCount&quot;: &quot;2&quot; } } What do people who do this at scale actually do to make the stars show? Thanks. &#32; submitted by &#32; /u/ZealousidealPipe1333 [link] &#32; [comments]",
+    "published_at": "2026-09-21T20:03:10+00:00",
+    "discovered_at": "2026-09-22T04:56:50.026750+00:00",
+    "stage": "hot",
+    "score": 13,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "schema.org"
+        ],
+        "commercial_intent": [
+          "need help"
+        ],
+        "implementation_intent": [
+          "setup",
+          "not showing"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "commercial_intent": 2,
+        "implementation_intent": 4
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "need help",
+      "setup",
+      "not showing"
+    ],
+    "business_name": "Schema",
+    "business_url": "https://schema.org&quot;/",
+    "audit": {
+      "business_url": "https://schema.org&quot;/",
+      "final_url": null,
+      "domain": "schema.org&quot;",
+      "status_code": null,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTPSConnectionPool(host='schema.org&quot;', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='schema.org&quot;', port=443): Failed to resolve 'schema.org&quot;' ([Errno -2] Name or service not known)\"))"
+    },
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Schema help for Schema",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for Schema. You can reach me at schemaagent@gmail.com.",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -8,7 +172,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-21T20:25:24.086681+00:00",
+    "discovered_at": "2026-09-22T04:56:52.590016+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +236,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-21T20:25:24.083558+00:00",
+    "discovered_at": "2026-09-22T04:56:52.587773+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -130,7 +294,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-21T20:25:24.084136+00:00",
+    "discovered_at": "2026-09-22T04:56:52.588203+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +352,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-21T20:25:24.086356+00:00",
+    "discovered_at": "2026-09-22T04:56:52.589774+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -238,7 +402,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-21T20:25:24.961482+00:00",
+    "discovered_at": "2026-09-22T04:56:53.673461+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -288,7 +452,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-21T20:25:24.081711+00:00",
+    "discovered_at": "2026-09-22T04:56:52.586402+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
