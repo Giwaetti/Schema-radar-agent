@@ -1,18 +1,4 @@
 item_id,stage,score,source,source_type,title,source_url,offer_key,offer_fit,sales_route,cta_label,cta_destination,contact_email,business_name,business_url,reply_subject,reply_draft,follow_up_draft
-ce37475c23260a15,hot,13,Reddit /r/SEO,forum,Next.js dev - AggregateRating not showing stars. Need help with fake reviews setup,https://www.reddit.com/r/SEO/comments/1wmo7r1/nextjs_dev_aggregaterating_not_showing_stars_need,direct_service,Done-for-you / service,email_contact,Email for direct help,mailto:schemaagent@gmail.com,schemaagent@gmail.com,Schema,https://schema.org/,Schema help for Schema,"Here’s the fastest route I’d take.
-
-This looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.
-
-Treat this as a direct service lead first.
-
-Best next step: email schemaagent@gmail.com with the page URL and the exact issue.",Just following up in case you still want hands-on schema help for Schema. You can reach me at schemaagent@gmail.com.
-c450b902c83f82cd,hot,13,Reddit /r/SEO,forum,Next.js dev - AggregateRating not showing stars. Need help with fake reviews setup,https://www.reddit.com/r/SEO/comments/1wmnqc0/nextjs_dev_aggregaterating_not_showing_stars_need,direct_service,Done-for-you / service,email_contact,Email for direct help,mailto:schemaagent@gmail.com,schemaagent@gmail.com,Schema,https://schema.org&quot;/,Schema help for Schema,"Here’s the fastest route I’d take.
-
-This looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.
-
-Treat this as a direct service lead first.
-
-Best next step: email schemaagent@gmail.com with the page URL and the exact issue.",Just following up in case you still want hands-on schema help for Schema. You can reach me at schemaagent@gmail.com.
 7cad77e02dd47c6d,hot,13,WordPress Support - Schema & Structured Data for WP & AMP,forum,Missing field ‘mainEntity’ in FAQ schema,https://wordpress.org/support/topic/missing-field-mainentity-in-faq-schema,direct_service,Done-for-you / service,email_contact,Email for direct help,mailto:schemaagent@gmail.com,schemaagent@gmail.com,,,Best fit for: Missing field ‘mainEntity’ in FAQ schema,"Here’s the fastest route I’d take.
 
 This looks more hands-on than a template-only fix. If you want direct help with missing_schema, faq_schema, email schemaagent@gmail.com.
@@ -27,6 +13,13 @@ It looks like the fastest fix here is a simple schema implementation path for yo
 Lead with a lightweight, lower-friction offer.
 
 Best next step: https://schemaagent.gumroad.com/l/rfces",Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces
+521ffd7104718904,warm,10,Reddit /r/SEO,forum,How do you handle expired job listings on a Job Board? (404 vs 301 vs 200 with similar jobs + Google for Jobs),https://www.reddit.com/r/SEO/comments/1wp39sv/how_do_you_handle_expired_job_listings_on_a_job,ai_visibility_kit,AI Visibility Kit,forum_reply,Get the AI Visibility Kit,https://schemaagent.gumroad.com/l/rfces,schemaagent@gmail.com,Schema,http://Schema.org/,Schema help for Schema,"You can solve this without overcomplicating the build.
+
+It looks like the fastest fix here is a simple schema implementation path for Schema. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.
+
+Lead with a lightweight, lower-friction offer.
+
+Best next step: https://schemaagent.gumroad.com/l/rfces",Following up in case you still want the quickest route to get this live for Schema. Best fit: https://schemaagent.gumroad.com/l/rfces
 c9349ce62ac0df4d,warm,10,Reddit /r/SEO,forum,Possible SEO spam/schema injection on a Webflow site - Googlebot saw gambling schema and a fake AMP page. Could this be DNS/Cloudflare/hosting related?,https://www.reddit.com/r/SEO/comments/1wn5heq/possible_seo_spamschema_injection_on_a_webflow,ai_visibility_kit,AI Visibility Kit,forum_reply,Get the AI Visibility Kit,https://schemaagent.gumroad.com/l/rfces,schemaagent@gmail.com,Example,https://www.example.com/service-page&quot,Schema help for Example,"You can solve this without overcomplicating the build.
 
 It looks like the fastest fix here is a simple schema implementation path for Example. If you want a no-code shortcut for product_schema, the AI Visibility Kit is the best fit.
