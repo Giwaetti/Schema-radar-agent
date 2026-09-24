@@ -8,7 +8,7 @@
     "title": "Next.js dev - AggregateRating not showing stars. Need help with fake reviews setup",
     "summary": "Hi r/SEO , I'm a 5th year Data Science &amp; AI student. I built a full-stack Next.js app and I want to show 5 stars in Google results. The reviews are not real. I want to understand how to make this work. I already added this code to my page: { &quot;@context&quot;: &quot; https://schema.org &quot;, &quot;@type&quot;: &quot;Product&quot;, &quot;name&quot;: &quot;My Product&quot;, &quot;aggregateRating&quot;: { &quot;@type&quot;: &quot;AggregateRating&quot;, &quot;ratingValue&quot;: &quot;4.5&quot;, &quot;bestRating&quot;: &quot;5&quot;, &quot;worstRating&quot;: &quot;1&quot;, &quot;reviewCount&quot;: &quot;2&quot; } } What do people who do this at scale actually do to make the stars show? Thanks. &#32; submitted by &#32; /u/ZealousidealPipe1333 [link] &#32; [comments]",
     "published_at": "2026-09-21T20:20:53+00:00",
-    "discovered_at": "2026-09-23T19:40:42.458848+00:00",
+    "discovered_at": "2026-09-24T04:51:21.143092+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -96,7 +96,7 @@
     "title": "Next.js dev - AggregateRating not showing stars. Need help with fake reviews setup",
     "summary": "Hi , I'm a 5th year Data Science &amp; AI student. I built a full-stack Next.js app and I want to show 5 stars in Google results. The reviews are not real. I want to understand how to make this work. I already added this code to my page: { &quot;@context&quot;: &quot;https://schema.org&quot;, &quot;@type&quot;: &quot;Product&quot;, &quot;name&quot;: &quot;My Product&quot;, &quot;aggregateRating&quot;: { &quot;@type&quot;: &quot;AggregateRating&quot;, &quot;ratingValue&quot;: &quot;4.5&quot;, &quot;bestRating&quot;: &quot;5&quot;, &quot;worstRating&quot;: &quot;1&quot;, &quot;reviewCount&quot;: &quot;2&quot; } } What do people who do this at scale actually do to make the stars show? Thanks. &#32; submitted by &#32; /u/ZealousidealPipe1333 [link] &#32; [comments]",
     "published_at": "2026-09-21T20:03:10+00:00",
-    "discovered_at": "2026-09-23T19:40:42.459034+00:00",
+    "discovered_at": "2026-09-24T04:51:21.143275+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -172,7 +172,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-23T19:40:44.039321+00:00",
+    "discovered_at": "2026-09-24T04:51:21.991229+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -236,7 +236,7 @@
     "title": "Can we implement Schema via Google tag manager?",
     "summary": "Someone suggested to use GTM tag for implementing schema markup on the website instead of adding it directly to website source code. I'm not sure if its feasible or not but i'm also wondering the long term implication like for example: are there any seo/indexing issue? are there website performance concerns?, what setup I need to take care of? and would you recommend for large website currently? &#32; submitted by &#32; /u/ExoticCharacter8422 [link] &#32; [comments]",
     "published_at": "2026-09-23T06:26:44+00:00",
-    "discovered_at": "2026-09-23T19:40:42.457440+00:00",
+    "discovered_at": "2026-09-24T04:51:21.141680+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -293,7 +293,7 @@
     "title": "Possible SEO spam/schema injection on a Webflow site - Googlebot saw gambling schema and a fake AMP page. Could this be DNS/Cloudflare/hosting related?",
     "summary": "Hi everyone, I’m dealing with a strange SEO/security issue on a Webflow-hosted website and I’m trying to figure out where the problem could have come from. The website belongs to a legitimate service business. Recently, Google Search started showing completely unrelated gambling/spam content for one of our legitimate pages. Google indexed a result with a title similar to: “BIRUTOTO - Tingkatkan Peluang Depo 5K…” This content has absolutely nothing to do with the website. I checked Google Search Console and found something even stranger. For one of our legitimate service URLs, Google’s crawled HTML contained a JSON-LD Product schema like this: { &quot;@type&quot;: &quot;Product&quot;, &quot;url&quot;: &quot;https://www.example.com/service-page&quot;, &quot;name&quot;: &quot;BIRUTOTO&quot;, &quot;sku&quot;: &quot;889154&quot;, &quot;description&quot;: &quot;Banyak yang penasaran soal Depo 5K...&quot;, &quot;brand&quot;: { &quot;name&quot;: &quot;BIRUTOTO&quot; }, &quot;aggregateRating&quot;: { &quot;ratingValue&quot;: &quot;5.0&quot; } } It also referenced unrelated external images from i.pinimg.com . Google Search Console additionally detected an AMP version hosted on a completely different domain similar to: https://example-amps.pages.dev/birutoto.html?id=BIRUTOTO Search Console reports: AMP page domain mismatch We never created this AMP page and do not use that pages.dev domain. Search Console is also showing thousands of impressions for unrelated spam/gambling queries, while the site's legitimate keywords are still showing normally. The confusing part is that when I inspect the current Webflow site, page source, title, meta description and schema , everything looks normal. So I'm trying to understand how Googlebot previously received HTML containing this malicious schema. The site is built and hosted with Webflow , so I initially thought this might be custom-code or account-related, but I’m also wondering whether I should investigate the hosting/domain/DNS side . Could something like this happen because of: a compromised Webflow account Webflow custom code a malicious Code Embed Google Tag Manager / Custom HTML tags a compromised third-party script DNS changes changed nameservers domain registrar compromise unexpected A / AAAA / CNAME records wildcard DNS records Cloudflare proxying Cloudflare Workers Redirect Rules Transform Rules Origin Rules Snippets / Zaraz API tokens or compromised Cloudflare access another CDN or reverse proxy sitting in front of Webflow Googlebot-specific cloaking an external fake AMP page somehow being associated with our legitimate page One thing I’m particularly confused about: Can DNS itself cause something like this? My understanding is that normal DNS only controls where the domain points, so DNS alone shouldn’t inject JSON-LD into HTML. But if traffic is going through Cloudflare, a reverse proxy, Worker, CDN, or compromised DNS destination, could that layer modify the response Google receives before it reaches Googlebot? For example, could a situation like this technically happen? Webflow origin ↓ Correct HTML but Googlebot ↓ Cloudflare / Proxy / Worker ↓ Modified HTML containing spam schema Another thing I’m planning to compare is: Webflow staging domain: example.webflow.io/service-page vs. Custom domain: www.example.com/service-page My thinking is: If both versions are infected → investigate Webflow custom code, GTM, embeds, scripts, etc. If the .webflow.io version is clean but the custom domain is affected → investigate DNS, Cloudflare, reverse proxies, registrar configuration, etc. I’m also comparing: Google Search Console → Crawled Page HTML Google Search Console → Test Live URL → Tested Page HTML Browser → View Source If the current browser source and Google Live Test are clean but the old crawled HTML is infected, could this simply be an older compromised crawl? But if the browser source is clean while Google's Live Test still receives the malicious HTML, would that suggest cloaking or request-dependent injection? I’m also checking for anything like: &lt;link rel=&quot;amphtml&quot; href=&quot;https://example-amps.pages.dev/...&quot;&gt; because I want to understand how Google associated this external AMP page with our legitimate URL in the first place. Main questions 1. Has anyone seen this kind of SEO spam/schema injection on a Webflow site before? 2. What would you investigate first - Webflow, GTM, DNS, registrar, Cloudflare, or another layer? 3. Can Cloudflare Workers/proxy rules or another CDN layer modify what Googlebot receives even if the Webflow source itself is clean? 4. Are there specific DNS records, nameserver changes, redirects, or server/CDN settings I should check? 5. How could an external pages.dev AMP page become associated with one of our legitimate URLs? I have screenshots from Search Console showing: the malicious Product schema Google's crawled HTML the external AMP URL the AMP domain mismatch spam search queries and impressions Any guidance from people experienced with Webflow, technical SEO, hacked SEO spam, DNS, Cloudflare, Search Console or cloaking would be very helpful. &#32; submitted by &#32; /u/rasniperrazz [link] &#32; [comments]",
     "published_at": "2026-09-22T10:14:37+00:00",
-    "discovered_at": "2026-09-23T19:40:42.458325+00:00",
+    "discovered_at": "2026-09-24T04:51:21.142565+00:00",
     "stage": "warm",
     "score": 10,
     "score_breakdown": {
@@ -370,7 +370,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-23T19:40:44.036303+00:00",
+    "discovered_at": "2026-09-24T04:51:21.988215+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -428,7 +428,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-23T19:40:44.036899+00:00",
+    "discovered_at": "2026-09-24T04:51:21.988778+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -486,7 +486,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-23T19:40:44.039004+00:00",
+    "discovered_at": "2026-09-24T04:51:21.990900+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -536,7 +536,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-23T19:40:44.955542+00:00",
+    "discovered_at": "2026-09-24T04:51:22.745636+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -586,7 +586,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-23T19:40:44.034462+00:00",
+    "discovered_at": "2026-09-24T04:51:21.986403+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
