@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-25T13:47:54.801801+00:00",
+    "discovered_at": "2026-09-25T20:01:24.091440+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "How do you handle expired job listings on a Job Board? (404 vs 301 vs 200 with similar jobs + Google for Jobs)",
     "summary": "Hi everyone, I'm currently building job board and would love to get your real-world feedback on handling expired/closed job postings from an SEO and UX perspective. Since job postings have a short lifespan (often 2 to 4 weeks), URL turnover is high. I'm trying to decide on the best long-term strategy to avoid crawl budget waste, prevent Google for Jobs penalties, and retain any SEO equity (long-tail keywords, backlinks). Here are the main options I'm evaluating: Keep HTTP 200 OK + &quot;Job Closed&quot; Banner + Similar Jobs: - Keep the original URL live. - Remove the &quot;Apply&quot; CTA and display a clear notice: &quot;This job is closed / filled&quot;. - Display 3–6 active similar job recommendations (same role/tech stack). - Remove the Schema.org 'JobPosting' structured data (or set validThrough) so Google drops it from the Google for Jobs carousel while keeping the page indexable in standard search. 301 Redirect to the category / search page: - Redirect the expired job to its main category (e.g. /jobs/data-engineer/). - Potential downside: Google often treats large-scale redirects to generic category pages as soft-404s, and UX can be confusing for candidates expecting a specific role. 410 Gone / 404 Not Found: - Immediately remove the page once expired. - Downside: Hundreds/thousands of 404s accumulating, wasting crawl budget and losing whatever link equity was built. Questions for those running job boards or managing programmatic SEO: - Which setup has worked best for you in practice? - For those keeping a 200 OK, how do you manage thousands of thin/closed pages over time without diluting crawl budget? Do you eventually canonicalize, noindex, or 410 them after X months? - How do you handle Google for Jobs compliance when jobs close unexpectedly? As I'm fairly new to building job boards, I'd also love any advice on internal linking best practices and common pitfalls to avoid (taxonomy architecture, breadcrumbs, crawl depth, related jobs linking). Any beginner-friendly SEO tips or mistakes you wish you had avoided early on would be massively appreciated! Thanks! &#32; submitted by &#32; /u/recetteatester [link] &#32; [comments]",
     "published_at": "2026-09-24T14:32:34+00:00",
-    "discovered_at": "2026-09-25T13:47:53.640084+00:00",
+    "discovered_at": "2026-09-25T20:01:22.736871+00:00",
     "stage": "warm",
     "score": 10,
     "score_breakdown": {
@@ -158,7 +158,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-25T13:47:54.800020+00:00",
+    "discovered_at": "2026-09-25T20:01:24.088792+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -216,7 +216,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-25T13:47:54.800358+00:00",
+    "discovered_at": "2026-09-25T20:01:24.089297+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -274,7 +274,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-25T13:47:54.801614+00:00",
+    "discovered_at": "2026-09-25T20:01:24.091162+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -324,7 +324,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-25T13:47:55.826241+00:00",
+    "discovered_at": "2026-09-25T20:01:24.677912+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -374,7 +374,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-25T13:47:54.798955+00:00",
+    "discovered_at": "2026-09-25T20:01:24.087183+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
