@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-25T20:01:24.091440+00:00",
+    "discovered_at": "2026-09-26T04:58:39.547271+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,36 +64,39 @@
     ]
   },
   {
-    "item_id": "521ffd7104718904",
+    "item_id": "f81065682615bbd1",
     "source": "Reddit /r/SEO",
     "source_id": "reddit-seo",
     "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1wp39sv/how_do_you_handle_expired_job_listings_on_a_job",
-    "title": "How do you handle expired job listings on a Job Board? (404 vs 301 vs 200 with similar jobs + Google for Jobs)",
-    "summary": "Hi everyone, I'm currently building job board and would love to get your real-world feedback on handling expired/closed job postings from an SEO and UX perspective. Since job postings have a short lifespan (often 2 to 4 weeks), URL turnover is high. I'm trying to decide on the best long-term strategy to avoid crawl budget waste, prevent Google for Jobs penalties, and retain any SEO equity (long-tail keywords, backlinks). Here are the main options I'm evaluating: Keep HTTP 200 OK + &quot;Job Closed&quot; Banner + Similar Jobs: - Keep the original URL live. - Remove the &quot;Apply&quot; CTA and display a clear notice: &quot;This job is closed / filled&quot;. - Display 3–6 active similar job recommendations (same role/tech stack). - Remove the Schema.org 'JobPosting' structured data (or set validThrough) so Google drops it from the Google for Jobs carousel while keeping the page indexable in standard search. 301 Redirect to the category / search page: - Redirect the expired job to its main category (e.g. /jobs/data-engineer/). - Potential downside: Google often treats large-scale redirects to generic category pages as soft-404s, and UX can be confusing for candidates expecting a specific role. 410 Gone / 404 Not Found: - Immediately remove the page once expired. - Downside: Hundreds/thousands of 404s accumulating, wasting crawl budget and losing whatever link equity was built. Questions for those running job boards or managing programmatic SEO: - Which setup has worked best for you in practice? - For those keeping a 200 OK, how do you manage thousands of thin/closed pages over time without diluting crawl budget? Do you eventually canonicalize, noindex, or 410 them after X months? - How do you handle Google for Jobs compliance when jobs close unexpectedly? As I'm fairly new to building job boards, I'd also love any advice on internal linking best practices and common pitfalls to avoid (taxonomy architecture, breadcrumbs, crawl depth, related jobs linking). Any beginner-friendly SEO tips or mistakes you wish you had avoided early on would be massively appreciated! Thanks! &#32; submitted by &#32; /u/recetteatester [link] &#32; [comments]",
-    "published_at": "2026-09-24T14:32:34+00:00",
-    "discovered_at": "2026-09-25T20:01:22.736871+00:00",
-    "stage": "warm",
-    "score": 10,
+    "source_url": "https://www.reddit.com/r/SEO/comments/1wq2ltb/what_is_actually_neccesery_for_seo",
+    "title": "What is actually neccesery for SEO?",
+    "summary": "I am generaly a fullstack software enginner workin on React apps, BE systems and DBs. I want to start making websites also to promote various things. I want to understand SEO. I have started from reading this docs: https://developers.google.com/search/docs I went through it and some other online blogs. From what I understood is that all the developer has to do is Semantic HTML tags like headings, sections, footer, nav, ... title tags desc tag core web vitals to be good alt tags cannonical tag if needed js and images seo sitemaps robots file All the rest is on the content it self. So content needs to be unique, user-facing, helpfull. Also I guess it is more important to have word of mouth and soical media to promote. Questions: Is there something big I missed? If I want to start a website agency for example. What is there unique to do? How can I compete with big agencies with reviews and that are there for a long time? Structured data: from the docs all I have infered is that it does rich results? No additional benefits? E-E-A-T the docs say that it has no benefit in ranking and then on the E-E-A-T section it says it can be usefull? What is the position on this? 5. What is it exactly that those big SEO consultants do? As I am new in it I understand I probably missed a lot so any additional links, blogs, books,... will be usefull. &#32; submitted by &#32; /u/HistoricalCrab1176 [link] &#32; [comments]",
+    "published_at": "2026-09-25T17:35:24+00:00",
+    "discovered_at": "2026-09-26T04:58:38.180141+00:00",
+    "stage": "hot",
+    "score": 12,
     "score_breakdown": {
       "matches": {
         "schema_core": [
           "structured data",
-          "schema.org"
+          "rich results",
+          "rich result"
         ],
-        "implementation_intent": [
-          "setup"
+        "commercial_intent": [
+          "consultant",
+          "agency",
+          "developer"
         ]
       },
       "group_points": {
         "schema_core": 8,
-        "implementation_intent": 2
+        "commercial_intent": 4
       },
       "freshness": 3,
       "negative_hits": [
-        "backlink",
-        "backlinks",
-        "canonical"
+        "title tags",
+        "core web vitals",
+        "sitemap"
       ],
       "source_boost": 0,
       "gated": false,
@@ -102,47 +105,101 @@
     "platforms": [],
     "issue_types": [],
     "intent_flags": [
-      "setup"
+      "consultant",
+      "agency",
+      "developer"
     ],
-    "business_name": "Schema",
-    "business_url": "http://Schema.org/",
+    "business_name": "Developers",
+    "business_url": "https://developers.google.com/search/docs",
     "audit": {
-      "business_url": "http://Schema.org/",
-      "final_url": "https://schema.org/",
-      "domain": "schema.org",
+      "business_url": "https://developers.google.com/search/docs",
+      "final_url": "https://developers.google.com/search/docs",
+      "domain": "developers.google.com",
       "status_code": 200,
       "ok": true,
       "has_json_ld": true,
       "schema_types": [
-        "Corporation",
-        "EntryPoint",
-        "Organization",
-        "Project",
-        "SearchAction",
-        "WebSite"
+        "BreadcrumbList",
+        "ListItem"
       ],
-      "cms": null,
-      "site_kind": "general",
-      "title": "Schema.org - Schema.org",
+      "cms": "squarespace",
+      "site_kind": "ecommerce",
+      "title": "Documentation to Improve SEO | Google Search Central  |  Google for Developers",
       "opportunity_gaps": [
-        "BreadcrumbList not detected on scanned page"
+        "Missing Product schema on scanned page"
       ],
       "notes": [
-        "Detected site kind: general",
-        "Schema types found: Corporation, EntryPoint, Organization, Project, SearchAction, WebSite"
+        "Detected CMS: squarespace",
+        "Detected site kind: ecommerce",
+        "Schema types found: BreadcrumbList, ListItem"
       ],
       "error": null
     },
     "offer_key": "ai_visibility_kit",
     "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "action_hint": "Offer a fast product-schema visibility fix or implementation shortcut.",
     "sales_route": "forum_reply",
     "cta_label": "Get the AI Visibility Kit",
     "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
     "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Schema help for Schema",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Schema. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Schema. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "reply_subject": "Schema help for Developers",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Developers. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nOffer a fast product-schema visibility fix or implementation shortcut.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Developers. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
+    "item_id": "31e6c2b0b955005f",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1wqfq73/hould_i_delete_hundreds_of_expired_job_internship",
+    "title": "hould I Delete Hundreds of Expired Job & Internship Posts?",
+    "summary": "I run a website that publishes law internships and job opportunities . When I started the website, I didn’t really understand SEO or structured data properly. I published a lot of job/internship posts as normal WordPress posts without using JobPosting schema or properly structuring them. Now I have a large number of old posts that are 3–5+ months old , and most of those opportunities are obviously no longer useful. I’m wondering what would be the best SEO approach: Should I simply delete the expired job/internship posts ? Does having old/expired job posts with no JobPosting schema hurt SEO? If I delete a large number of old posts at once, can that negatively affect the website’s SEO or rankings? Is there a recommended way to handle this for a job/internship website? The site is built on WordPress . - Written by chatgpt (User is quite new in stuff like seo and all) &#32; submitted by &#32; /u/UsedResponsibility41 [link] &#32; [comments]",
+    "published_at": "2026-09-26T03:10:33+00:00",
+    "discovered_at": "2026-09-26T04:58:38.179889+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "platforms": [
+          "wordpress"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "platforms": 1
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [
+      "wordpress"
+    ],
+    "issue_types": [],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_generator",
+    "offer_fit": "AI Generator",
+    "action_hint": "Position it as faster schema output for recurring implementation work.",
+    "sales_route": "forum_reply",
+    "cta_label": "Open the AI Generator",
+    "cta_destination": "https://schemaagent.gumroad.com/l/wikuuu",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: hould I Delete Hundreds of Expired Job & Internship Posts?",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nThis looks like repeatable schema work on wordpress. If you want faster JSON-LD output without filling templates manually, the AI Generator is the better fit.\n\nPosition it as faster schema output for recurring implementation work.\n\nBest next step: https://schemaagent.gumroad.com/l/wikuuu",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/wikuuu",
     "tags": [
       "reddit",
       "seo",
@@ -158,7 +215,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-25T20:01:24.088792+00:00",
+    "discovered_at": "2026-09-26T04:58:39.545558+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -216,7 +273,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-25T20:01:24.089297+00:00",
+    "discovered_at": "2026-09-26T04:58:39.545886+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -274,7 +331,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-25T20:01:24.091162+00:00",
+    "discovered_at": "2026-09-26T04:58:39.547085+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -324,7 +381,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-25T20:01:24.677912+00:00",
+    "discovered_at": "2026-09-26T04:58:40.945794+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -374,7 +431,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-25T20:01:24.087183+00:00",
+    "discovered_at": "2026-09-26T04:58:39.544529+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
