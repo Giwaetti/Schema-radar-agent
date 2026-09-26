@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-26T04:58:39.547271+00:00",
+    "discovered_at": "2026-09-26T13:05:43.465751+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "What is actually neccesery for SEO?",
     "summary": "I am generaly a fullstack software enginner workin on React apps, BE systems and DBs. I want to start making websites also to promote various things. I want to understand SEO. I have started from reading this docs: https://developers.google.com/search/docs I went through it and some other online blogs. From what I understood is that all the developer has to do is Semantic HTML tags like headings, sections, footer, nav, ... title tags desc tag core web vitals to be good alt tags cannonical tag if needed js and images seo sitemaps robots file All the rest is on the content it self. So content needs to be unique, user-facing, helpfull. Also I guess it is more important to have word of mouth and soical media to promote. Questions: Is there something big I missed? If I want to start a website agency for example. What is there unique to do? How can I compete with big agencies with reviews and that are there for a long time? Structured data: from the docs all I have infered is that it does rich results? No additional benefits? E-E-A-T the docs say that it has no benefit in ranking and then on the E-E-A-T section it says it can be usefull? What is the position on this? 5. What is it exactly that those big SEO consultants do? As I am new in it I understand I probably missed a lot so any additional links, blogs, books,... will be usefull. &#32; submitted by &#32; /u/HistoricalCrab1176 [link] &#32; [comments]",
     "published_at": "2026-09-25T17:35:24+00:00",
-    "discovered_at": "2026-09-26T04:58:38.180141+00:00",
+    "discovered_at": "2026-09-26T13:05:42.073932+00:00",
     "stage": "hot",
     "score": 12,
     "score_breakdown": {
@@ -160,7 +160,7 @@
     "title": "hould I Delete Hundreds of Expired Job & Internship Posts?",
     "summary": "I run a website that publishes law internships and job opportunities . When I started the website, I didn’t really understand SEO or structured data properly. I published a lot of job/internship posts as normal WordPress posts without using JobPosting schema or properly structuring them. Now I have a large number of old posts that are 3–5+ months old , and most of those opportunities are obviously no longer useful. I’m wondering what would be the best SEO approach: Should I simply delete the expired job/internship posts ? Does having old/expired job posts with no JobPosting schema hurt SEO? If I delete a large number of old posts at once, can that negatively affect the website’s SEO or rankings? Is there a recommended way to handle this for a job/internship website? The site is built on WordPress . - Written by chatgpt (User is quite new in stuff like seo and all) &#32; submitted by &#32; /u/UsedResponsibility41 [link] &#32; [comments]",
     "published_at": "2026-09-26T03:10:33+00:00",
-    "discovered_at": "2026-09-26T04:58:38.179889+00:00",
+    "discovered_at": "2026-09-26T13:05:42.073611+00:00",
     "stage": "warm",
     "score": 8,
     "score_breakdown": {
@@ -215,7 +215,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-26T04:58:39.545558+00:00",
+    "discovered_at": "2026-09-26T13:05:43.462694+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -273,7 +273,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-26T04:58:39.545886+00:00",
+    "discovered_at": "2026-09-26T13:05:43.463272+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -331,7 +331,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-26T04:58:39.547085+00:00",
+    "discovered_at": "2026-09-26T13:05:43.465410+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -381,7 +381,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-26T04:58:40.945794+00:00",
+    "discovered_at": "2026-09-26T13:05:44.650519+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -431,7 +431,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-26T04:58:39.544529+00:00",
+    "discovered_at": "2026-09-26T13:05:43.460839+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
