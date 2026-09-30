@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-09-30T14:55:48.312450+00:00",
+    "discovered_at": "2026-09-30T20:48:57.388913+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,63 +64,6 @@
     ]
   },
   {
-    "item_id": "058c3748a459f7c1",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1wu26gz/your_website_ranks_on_google_but_does_chatgpt",
-    "title": "Your website ranks on Google. But does ChatGPT even know it exists?",
-    "summary": "Most websites are invisible to AI. Not because the content is bad. Because the structure is wrong. When ChatGPT, Perplexity, or Google AI Overviews look for answers, they skip pages that are missing the signals they need: structured schemas, llms.txt files, Speakable markup, author metadata, breadcrumbs. Pages that look perfect to human eyes get completely ignored by AI engines. This is the gap between traditional SEO and the new era of AI search. And right now, most website owners have no idea where they stand. That is exactly why we built SEO AI Assistant. In one click, it gives you three scores out of 100: Then it shows you a 3-column grid of exactly what passes and what fails. No dashboards to navigate. No waiting for a report. Everything lives inside the same Chrome tab you are already working in. And if you are on Pro, one click next to any failed check generates the exact JSON-LD schema or HTML snippet you need. Ready to paste. No backend. No delay. It is free to install. No account needed to start. If you care about SEO in 2026, you need to care about AEO and GEO too. The web is changing fast, and the tools most people use were not built for this moment. This one was. Try it free on the Chrome Web Store. Your first audit takes under 3 minutes. Search SEO AI ASSISTANT BY EXTCAFE &#32; submitted by &#32; /u/CaffeineIntoCode [link] &#32; [comments]",
-    "published_at": "2026-09-30T11:14:30+00:00",
-    "discovered_at": "2026-09-30T14:55:47.353023+00:00",
-    "stage": "warm",
-    "score": 11,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "json-ld"
-        ],
-        "implementation_intent": [
-          "audit",
-          "missing"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 4
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "audit",
-      "missing"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Your website ranks on Google. But does ChatGPT even know it ",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -129,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-09-30T14:55:48.309380+00:00",
+    "discovered_at": "2026-09-30T20:48:57.385847+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -187,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-09-30T14:55:48.309975+00:00",
+    "discovered_at": "2026-09-30T20:48:57.386417+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -245,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-09-30T14:55:48.312137+00:00",
+    "discovered_at": "2026-09-30T20:48:57.388565+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -295,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-09-30T14:55:49.107359+00:00",
+    "discovered_at": "2026-09-30T20:48:58.250634+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -345,7 +288,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-09-30T14:55:48.307525+00:00",
+    "discovered_at": "2026-09-30T20:48:57.384021+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
