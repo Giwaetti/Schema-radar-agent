@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-03T19:13:55.882481+00:00",
+    "discovered_at": "2026-10-04T05:53:32.533427+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Anyone using GSC’s new multimodal filter on ecommerce yet? Trying to figure out what’s actually actionable",
     "summary": "I’m working on a search baseline for an ecommerce client, and one thing I’ve struggled to separate is: product discovery that starts visually vs normal text search. Google adding Web &gt; Multimodal in Search Console is useful because we can now isolate traffic coming from Lens, Circle to Search, image uploads, etc. My first reaction was basically: cool, another reporting bucket. But for ecommerce I think the more useful question is: Are the same landing pages winning when the search starts with an image? The test I’m planning: export Text-based and Multimodal for the same date range compare which product/category pages show up in each look at device + country differences flag pages that seem to over-index in multimodal check what those users do downstream in GA4 then inspect those pages for image coverage, product context, structured data, Merchant Center data, etc. What I’m not sure about yet: How much data would you want before treating multimodal as a useful baseline? And because GSC doesn’t show me the actual visual input the user started with, how would you diagnose why one page wins disproportionately in multimodal? Has anyone here already found a product/category page behaving very differently between text and multimodal? I’m especially interested in actual GSC observations/tests, not just “optimize your alt text”. &#32; submitted by &#32; /u/Outrageous-State-885 [link] &#32; [comments]",
     "published_at": "2026-10-02T13:11:45+00:00",
-    "discovered_at": "2026-10-03T19:13:54.568224+00:00",
+    "discovered_at": "2026-10-04T05:53:31.012452+00:00",
     "stage": "warm",
     "score": 8,
     "score_breakdown": {
@@ -125,7 +125,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-03T19:13:55.879445+00:00",
+    "discovered_at": "2026-10-04T05:53:32.530292+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -183,7 +183,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-03T19:13:55.880019+00:00",
+    "discovered_at": "2026-10-04T05:53:32.530926+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -241,7 +241,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-03T19:13:55.882157+00:00",
+    "discovered_at": "2026-10-04T05:53:32.533115+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -291,7 +291,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-03T19:13:56.929843+00:00",
+    "discovered_at": "2026-10-04T05:53:33.857335+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -341,7 +341,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-03T19:13:55.877571+00:00",
+    "discovered_at": "2026-10-04T05:53:32.528370+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
