@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-07T21:18:07.203961+00:00",
+    "discovered_at": "2026-10-08T06:04:22.680325+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "The exact GEO framework that got me an international lead from AI search in 3 days",
     "summary": "I recently built a massive education directory portal to connect international students with local colleges and courses. Instead of fighting for traditional SEO backlinks, I decided to experiment entirely with GEO (Generative Engine Optimization). I wouldn't say I completely bypassed traditional Google search and optimized the site directly for LLMs (Perplexity, ChatGPT Search, Gemini). This is just what I did Here is the exact framework I used that got me an international lead in 72 hours: 1. The Data Matrix The portal holds a massive amount of information—dozens of different universities, colleges, their specific courses, and detailed, line-by-line syllabuses. If you just dump this on a page, AI models get confused. 2. The JSON-LD Trap I used Claude to meticulously map out and implement strict structured data across the entire site. I didn't write traditional blog posts; I wrapped every piece of information in exact schema markup ( EducationalOrganization , Course , Tuition , etc.). 3. Semantic Hierarchy I built the site so it reads like a database for a machine. An AI doesn't read like a human; it reads relationships. I mapped the internal architecture as: [University] -&gt; [Offers Course] -&gt; [Has Syllabus] -&gt; [Requires X]. 4. The AI Capture Just 3 days after launching, I got a highly qualified lead from a student in Botswana. When I traced the traffic, they didn't click a blue link on Google. They had asked an AI search engine a complex, multi-variable question about English-medium IT courses abroad. Because my site's vast data was perfectly formatted for RAG (Retrieval-Augmented Generation), the AI engine bypassed older, &quot;high-authority&quot; competitor sites. It could easily read, extract, and synthesize my data, serving my portal as the definitive answer and primary citation. If you are building directories, marketplaces, or massive content hubs right now, structuring your data for LLMs seems to be a massive cheat code. Has anyone else been experimenting with strict schema markup specifically to target RAG models? &#32; submitted by &#32; /u/abhimemes [link] &#32; [comments]",
     "published_at": "2026-10-06T18:47:19+00:00",
-    "discovered_at": "2026-10-07T21:18:05.922181+00:00",
+    "discovered_at": "2026-10-08T06:04:21.513958+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -132,7 +132,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-07T21:18:07.202434+00:00",
+    "discovered_at": "2026-10-08T06:04:22.678018+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -190,7 +190,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-07T21:18:07.202727+00:00",
+    "discovered_at": "2026-10-08T06:04:22.678343+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -248,7 +248,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-07T21:18:07.203795+00:00",
+    "discovered_at": "2026-10-08T06:04:22.679517+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -298,7 +298,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-07T21:18:08.131311+00:00",
+    "discovered_at": "2026-10-08T06:04:23.275409+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -348,7 +348,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-07T21:18:07.201522+00:00",
+    "discovered_at": "2026-10-08T06:04:22.676995+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
