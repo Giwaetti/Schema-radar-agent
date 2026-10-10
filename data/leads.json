@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-10T14:28:09.979899+00:00",
+    "discovered_at": "2026-10-10T20:04:19.427538+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Very Low Google Impressions Despite Technical SEO Fixes — What Should I Check Next?",
     "summary": "Hi everyone, I'm helping manage a small professional portfolio website for a child actor and model based in Istanbul, Türkiye. We've been working on technical SEO, but Google Search Console still shows very limited organic visibility. Our recent 28-day GSC snapshot: Impressions: 62 Clicks: 3 CTR: 4.8% Average position: 14.2 The website is hosted on Cloudflare Pages and maintained through GitHub. We've already worked on canonical URLs, redirects, XML sitemaps, structured data, internal linking, mobile responsiveness, and page titles. Before making more changes, I'd appreciate some specific technical advice: With only 62 impressions and 3 clicks in 28 days, which GSC reports should I examine first to distinguish indexing problems from low keyword demand? After fixing canonical URLs, redirects, structured data, and internal links, how can I verify whether Google is discovering and indexing our important landing pages? Which free tools would help identify remaining technical issues and measure actual website visitors separately from GSC clicks? I'm looking for a clear troubleshooting order and actionable recommendations, not a general website review. I'm not looking for paid services, backlinks, or promotional opportunities. Thanks for your help! &#32; submitted by &#32; /u/DuruMuallaSargut [link] &#32; [comments]",
     "published_at": "2026-10-10T01:23:12+00:00",
-    "discovered_at": "2026-10-10T14:28:09.018081+00:00",
+    "discovered_at": "2026-10-10T20:04:18.280887+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -141,7 +141,7 @@
     "title": "What does it really take to rank on page 1?",
     "summary": "I built a Wordpress website for my niche mortgage business and used Claude to help me with SEO and AEO. I started building and indexing pages with the help of ChatGPT about 7 months ago and then about 3 months ago I connected Claude Code to my webpage and it's been managing my site since then. Mostly just making sure all the plugins are updated and making site wide changes I ask it to. Here are some stats for the last 12 months and seems to be getting worse. Month Impressions Clicks CTR Avg Pos Nov 2025 139 9 6.47% 11.6 Dec 2025 462 3 0.65% 5.4 Jan 2026 376 10 2.66% 7.0 Feb 2026 2,333 14 0.60% 25.0 Mar 2026 5,911 22 0.37% 31.6 Apr 2026 4,951 15 0.30% 32.1 May 2026 3,453 8 0.23% 43.0 Jun 2026 4,218 15 0.36% 44.2 Jul 2026 11,859 19 0.16% 51.0 Aug 2026 11,138 9 0.08% 59.7 Sep 2026 3,488 6 0.17% 49.6 February/March is when I added 31 pages and ran FB ads. June is when I connected Claude Code and got rid of some low performing pages. Here's just the high level stuff Claude has done or helped me do. Full technical audit + cleanup — fixed canonicals, broken links, sitemap, redirects Merged thin/duplicate pages into stronger hub pages (301 + noindex) Rewrote every title/meta; made each location page unique (no templated content) Added server-side schema (FAQ, LocalBusiness, Org/Person, reviews) so Google and AI can actually read it AEO work: entity + E-E-A-T signals, structured FAQs, llms.txt for AI answer engines Local SEO: optimized Google Business Profile, fixed citations/NAP across directories Off-site push: directories, reviews, and digital PR for backlinks Weekly GSC/GA4 tracking, plus monitoring AI-assistant referral traffic I've been getting a solid amount of leads from LLMs which is awesome but I feel like my business would explode if I could start ranking on page 1. So what does it take to rank on page 1? &#32; submitted by &#32; /u/ActionWins [link] &#32; [comments]",
     "published_at": "2026-10-09T10:11:02+00:00",
-    "discovered_at": "2026-10-10T14:28:09.018900+00:00",
+    "discovered_at": "2026-10-10T20:04:18.281275+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -211,7 +211,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-10T14:28:09.976789+00:00",
+    "discovered_at": "2026-10-10T20:04:19.426107+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -269,7 +269,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-10T14:28:09.977367+00:00",
+    "discovered_at": "2026-10-10T20:04:19.426384+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -327,7 +327,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-10T14:28:09.979552+00:00",
+    "discovered_at": "2026-10-10T20:04:19.427378+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -377,7 +377,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-10T14:28:11.178501+00:00",
+    "discovered_at": "2026-10-10T20:04:20.153912+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -427,7 +427,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-10T14:28:09.974973+00:00",
+    "discovered_at": "2026-10-10T20:04:19.425252+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
