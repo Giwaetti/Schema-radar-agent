@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-11T20:16:59.796094+00:00",
+    "discovered_at": "2026-10-12T05:58:37.514107+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Very Low Google Impressions Despite Technical SEO Fixes — What Should I Check Next?",
     "summary": "Hi everyone, I'm helping manage a small professional portfolio website for a child actor and model based in Istanbul, Türkiye. We've been working on technical SEO, but Google Search Console still shows very limited organic visibility. Our recent 28-day GSC snapshot: Impressions: 62 Clicks: 3 CTR: 4.8% Average position: 14.2 The website is hosted on Cloudflare Pages and maintained through GitHub. We've already worked on canonical URLs, redirects, XML sitemaps, structured data, internal linking, mobile responsiveness, and page titles. Before making more changes, I'd appreciate some specific technical advice: With only 62 impressions and 3 clicks in 28 days, which GSC reports should I examine first to distinguish indexing problems from low keyword demand? After fixing canonical URLs, redirects, structured data, and internal links, how can I verify whether Google is discovering and indexing our important landing pages? Which free tools would help identify remaining technical issues and measure actual website visitors separately from GSC clicks? I'm looking for a clear troubleshooting order and actionable recommendations, not a general website review. I'm not looking for paid services, backlinks, or promotional opportunities. Thanks for your help! &#32; submitted by &#32; /u/DuruMuallaSargut [link] &#32; [comments]",
     "published_at": "2026-10-10T01:23:12+00:00",
-    "discovered_at": "2026-10-11T20:16:58.328778+00:00",
+    "discovered_at": "2026-10-12T05:58:35.989144+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -141,7 +141,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-11T20:16:59.793035+00:00",
+    "discovered_at": "2026-10-12T05:58:37.511626+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -199,7 +199,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-11T20:16:59.793635+00:00",
+    "discovered_at": "2026-10-12T05:58:37.512098+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -257,7 +257,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-11T20:16:59.795776+00:00",
+    "discovered_at": "2026-10-12T05:58:37.513848+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -307,7 +307,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-11T20:17:00.568880+00:00",
+    "discovered_at": "2026-10-12T05:58:38.368894+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -357,7 +357,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-11T20:16:59.791135+00:00",
+    "discovered_at": "2026-10-12T05:58:37.510118+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
