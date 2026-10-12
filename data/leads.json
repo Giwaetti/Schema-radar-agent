@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-12T05:58:37.514107+00:00",
+    "discovered_at": "2026-10-12T17:54:24.603216+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,54 +64,53 @@
     ]
   },
   {
-    "item_id": "a1eaa72188da9add",
+    "item_id": "02a8fb61315d6584",
     "source": "Reddit /r/SEO",
     "source_id": "reddit-seo",
     "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1x22l5z/very_low_google_impressions_despite_technical_seo",
-    "title": "Very Low Google Impressions Despite Technical SEO Fixes — What Should I Check Next?",
-    "summary": "Hi everyone, I'm helping manage a small professional portfolio website for a child actor and model based in Istanbul, Türkiye. We've been working on technical SEO, but Google Search Console still shows very limited organic visibility. Our recent 28-day GSC snapshot: Impressions: 62 Clicks: 3 CTR: 4.8% Average position: 14.2 The website is hosted on Cloudflare Pages and maintained through GitHub. We've already worked on canonical URLs, redirects, XML sitemaps, structured data, internal linking, mobile responsiveness, and page titles. Before making more changes, I'd appreciate some specific technical advice: With only 62 impressions and 3 clicks in 28 days, which GSC reports should I examine first to distinguish indexing problems from low keyword demand? After fixing canonical URLs, redirects, structured data, and internal links, how can I verify whether Google is discovering and indexing our important landing pages? Which free tools would help identify remaining technical issues and measure actual website visitors separately from GSC clicks? I'm looking for a clear troubleshooting order and actionable recommendations, not a general website review. I'm not looking for paid services, backlinks, or promotional opportunities. Thanks for your help! &#32; submitted by &#32; /u/DuruMuallaSargut [link] &#32; [comments]",
-    "published_at": "2026-10-10T01:23:12+00:00",
-    "discovered_at": "2026-10-12T05:58:35.989144+00:00",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1x3u0bd/domain_move_left_the_organization_schema_on_the",
+    "title": "Domain move left the Organization schema on the old domain, on a brand with a near identical namesake",
+    "summary": "Started on SEO for a small client last week. One page site, fairly new brand, and before writing a word or picking a keyword I wanted to see what someone looking for them actually gets. So I ran 30 searches the way a buyer would type them, Google US. First surprise was how much of the results page isn't really yours to win anymore. 29 of the 30 had an AI Overview at the top, and Reddit was in the top 10 for about half of them. I knew overviews were common, I didn't expect nearly every one. The second came from searching the category one of their products sits in. Another company with an almost identical name already ranks for it. Not a disaster on its own. Near namesakes happen to loads of small brands and you mostly just work around them. Then I opened the site source, mostly out of habit, and that's where it got annoying. The site had moved domain at some point, and both the canonical and the Organization schema were still pointing at the old one. No GSC property set up either, so nothing was going to flag it. On a normal site I'd put that in the migration cleanup pile ad not lose sleep over it. Canonical's a hint, and if the redirect's in place it carries most of the weight. What changed it for me was putting it next to the name problem. Google's Organization docs say the url property is what helps it uniquely identify the organisation, and that the markup helps disambiguate it in results. So the one field this particular brand actually needed working was pointing at an address it had left, while the redirect and the page itself were saying something else. And with an overview sitting on top of nearly every search, I'm less worried about a couple of lost positions than about the overview describing them as the other company, or some blend of the two. That's the version of the problem I think gets worse from here, because an overview is one sentence about who you are and there's nothing in it to outrank. Haven't caught that happening yet, to be fair. This is me reading the docs and the setup rather than something I've seen in the wild. The schema and canonical fix is with the dev now and GSC is getting set up this week. If you've had an overview blend two similarly named businesses, I'd like to hear what actually fixed it. sameAs, tidying up the profiles everywhere else, or just time. &#32; submitted by &#32; /u/DM-wizard [link] &#32; [comments]",
+    "published_at": "2026-10-12T05:58:25+00:00",
+    "discovered_at": "2026-10-12T17:54:23.537814+00:00",
     "stage": "warm",
-    "score": 9,
+    "score": 11,
     "score_breakdown": {
       "matches": {
-        "schema_core": [
-          "structured data"
+        "schema_types": [
+          "organization schema"
         ],
         "commercial_intent": [
           "looking for"
         ],
         "implementation_intent": [
           "fix",
-          "fixing",
-          "troubleshoot"
+          "setup",
+          "set up"
         ]
       },
       "group_points": {
-        "schema_core": 4,
+        "schema_types": 3,
         "commercial_intent": 2,
         "implementation_intent": 4
       },
       "freshness": 3,
       "negative_hits": [
-        "backlink",
-        "backlinks",
-        "canonical",
-        "sitemap"
+        "canonical"
       ],
       "source_boost": 0,
       "gated": false,
       "gate_reason": null
     },
     "platforms": [],
-    "issue_types": [],
+    "issue_types": [
+      "local_schema"
+    ],
     "intent_flags": [
       "looking for",
       "fix",
-      "fixing",
-      "troubleshoot"
+      "setup",
+      "set up"
     ],
     "business_name": null,
     "business_url": null,
@@ -123,8 +122,8 @@
     "cta_label": "Get the AI Visibility Kit",
     "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
     "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Very Low Google Impressions Despite Technical SEO Fixes — Wh",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "reply_subject": "Best fit for: Domain move left the Organization schema on the old domain, ",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for local_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
     "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
     "tags": [
       "reddit",
@@ -141,7 +140,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-12T05:58:37.511626+00:00",
+    "discovered_at": "2026-10-12T17:54:24.601017+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -199,7 +198,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-12T05:58:37.512098+00:00",
+    "discovered_at": "2026-10-12T17:54:24.601458+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -257,7 +256,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-12T05:58:37.513848+00:00",
+    "discovered_at": "2026-10-12T17:54:24.602977+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -307,7 +306,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-12T05:58:38.368894+00:00",
+    "discovered_at": "2026-10-12T17:54:25.182868+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -357,7 +356,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-12T05:58:37.510118+00:00",
+    "discovered_at": "2026-10-12T17:54:24.599702+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
