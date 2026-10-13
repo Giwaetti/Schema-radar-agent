@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-12T17:54:24.603216+00:00",
+    "discovered_at": "2026-10-13T06:47:23.993231+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Domain move left the Organization schema on the old domain, on a brand with a near identical namesake",
     "summary": "Started on SEO for a small client last week. One page site, fairly new brand, and before writing a word or picking a keyword I wanted to see what someone looking for them actually gets. So I ran 30 searches the way a buyer would type them, Google US. First surprise was how much of the results page isn't really yours to win anymore. 29 of the 30 had an AI Overview at the top, and Reddit was in the top 10 for about half of them. I knew overviews were common, I didn't expect nearly every one. The second came from searching the category one of their products sits in. Another company with an almost identical name already ranks for it. Not a disaster on its own. Near namesakes happen to loads of small brands and you mostly just work around them. Then I opened the site source, mostly out of habit, and that's where it got annoying. The site had moved domain at some point, and both the canonical and the Organization schema were still pointing at the old one. No GSC property set up either, so nothing was going to flag it. On a normal site I'd put that in the migration cleanup pile ad not lose sleep over it. Canonical's a hint, and if the redirect's in place it carries most of the weight. What changed it for me was putting it next to the name problem. Google's Organization docs say the url property is what helps it uniquely identify the organisation, and that the markup helps disambiguate it in results. So the one field this particular brand actually needed working was pointing at an address it had left, while the redirect and the page itself were saying something else. And with an overview sitting on top of nearly every search, I'm less worried about a couple of lost positions than about the overview describing them as the other company, or some blend of the two. That's the version of the problem I think gets worse from here, because an overview is one sentence about who you are and there's nothing in it to outrank. Haven't caught that happening yet, to be fair. This is me reading the docs and the setup rather than something I've seen in the wild. The schema and canonical fix is with the dev now and GSC is getting set up this week. If you've had an overview blend two similarly named businesses, I'd like to hear what actually fixed it. sameAs, tidying up the profiles everywhere else, or just time. &#32; submitted by &#32; /u/DM-wizard [link] &#32; [comments]",
     "published_at": "2026-10-12T05:58:25+00:00",
-    "discovered_at": "2026-10-12T17:54:23.537814+00:00",
+    "discovered_at": "2026-10-13T06:47:22.504602+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -140,7 +140,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-12T17:54:24.601017+00:00",
+    "discovered_at": "2026-10-13T06:47:23.990584+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -198,7 +198,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-12T17:54:24.601458+00:00",
+    "discovered_at": "2026-10-13T06:47:23.991098+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -256,7 +256,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-12T17:54:24.602977+00:00",
+    "discovered_at": "2026-10-13T06:47:23.992948+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -306,7 +306,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-12T17:54:25.182868+00:00",
+    "discovered_at": "2026-10-13T06:47:24.956038+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -356,7 +356,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-12T17:54:24.599702+00:00",
+    "discovered_at": "2026-10-13T06:47:23.988996+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
