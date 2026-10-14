@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-14T13:43:40.906510+00:00",
+    "discovered_at": "2026-10-14T20:12:05.994377+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-14T13:43:40.903521+00:00",
+    "discovered_at": "2026-10-14T20:12:05.991008+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-14T13:43:40.904100+00:00",
+    "discovered_at": "2026-10-14T20:12:05.991615+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-14T13:43:40.906197+00:00",
+    "discovered_at": "2026-10-14T20:12:05.994065+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -238,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-14T13:43:41.765701+00:00",
+    "discovered_at": "2026-10-14T20:12:06.892254+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -288,7 +288,7 @@
     "title": "How would you optimize an e-commerce product page for Google and AI search visibility?",
     "summary": "My goal is to improve the page's visibility on Google and AI search platforms like ChatGPT and Gemini, but I'm not sure which areas I should prioritize first. For those with hands-on experience, how would you approach this from scratch? What would you focus on first: keyword research, on-page SEO, technical SEO, product schema, internal linking, or backlinks? I'd really appreciate practical advice or a step-by-step approach for a beginner. Thanks! &#32; submitted by &#32; /u/Shyama20 [link] &#32; [comments]",
     "published_at": "2026-10-14T12:25:50+00:00",
-    "discovered_at": "2026-10-14T13:43:39.901602+00:00",
+    "discovered_at": "2026-10-14T20:12:04.482173+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
@@ -348,7 +348,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-14T13:43:40.901734+00:00",
+    "discovered_at": "2026-10-14T20:12:05.989174+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
