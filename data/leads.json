@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-14T04:54:08.995417+00:00",
+    "discovered_at": "2026-10-14T13:43:40.906510+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-14T04:54:08.993684+00:00",
+    "discovered_at": "2026-10-14T13:43:40.903521+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-14T04:54:08.994016+00:00",
+    "discovered_at": "2026-10-14T13:43:40.904100+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-14T04:54:08.995232+00:00",
+    "discovered_at": "2026-10-14T13:43:40.906197+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -238,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-14T04:54:10.207707+00:00",
+    "discovered_at": "2026-10-14T13:43:41.765701+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -280,6 +280,66 @@
     ]
   },
   {
+    "item_id": "31e9f2e05fbfe57c",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1x5puub/how_would_you_optimize_an_ecommerce_product_page",
+    "title": "How would you optimize an e-commerce product page for Google and AI search visibility?",
+    "summary": "My goal is to improve the page's visibility on Google and AI search platforms like ChatGPT and Gemini, but I'm not sure which areas I should prioritize first. For those with hands-on experience, how would you approach this from scratch? What would you focus on first: keyword research, on-page SEO, technical SEO, product schema, internal linking, or backlinks? I'd really appreciate practical advice or a step-by-step approach for a beginner. Thanks! &#32; submitted by &#32; /u/Shyama20 [link] &#32; [comments]",
+    "published_at": "2026-10-14T12:25:50+00:00",
+    "discovered_at": "2026-10-14T13:43:39.901602+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "schema_types": [
+          "product schema"
+        ],
+        "platforms": [
+          "product page",
+          "e-commerce"
+        ]
+      },
+      "group_points": {
+        "schema_types": 3,
+        "platforms": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "backlink",
+        "backlinks",
+        "keyword research"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "product_schema"
+    ],
+    "intent_flags": [],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: How would you optimize an e-commerce product page for Google",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for product_schema, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "034c991a4ad9f528",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -288,7 +348,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-14T04:54:08.992682+00:00",
+    "discovered_at": "2026-10-14T13:43:40.901734+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
