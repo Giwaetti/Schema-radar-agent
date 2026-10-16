@@ -8,7 +8,7 @@
     "title": "Merchant listing in organic results shows availability/shipping/returns but never the price. Out of ideas",
     "summary": "Polish e-shop (motorcycle parts, \\~77k products, Merchant Center + third-party CSS). For months my organic results show the merchant line WITHOUT price, e.g.: &quot;In stock · Free delivery · 30-day returns&quot; Competitors in the same SERP get &quot;1,145.99 zł · In stock · Delivery 10.99 zł · 14-day returns&quot;. My page often ranks #1-2. Already checked / changed: \\- GSC: pages valid in Merchant listings and Product snippets, no errors \\- Merchant Center: all approved, no price mismatch, support confirmed no account issues; Shopping carousel shows my price fine \\- One price on page, same in server-side JSON-LD, meta tags, feed and MC; no variants, no strikethrough \\- Removed priceValidUntil, fixed &quot;@type&quot;:&quot;offer&quot; -&gt; &quot;Offer&quot;, added seller, currently testing without shippingDetails \\- Another shop on the same CMS with worse markup (lowercase &quot;offer&quot;, no shipping/returns) DOES get the price shown \\- In August free listings were off for \\~2 weeks after a CSS switch (Producthero -&gt; Channable) until I accepted new MC terms. Free listings work again, price in organic never came back So Google clearly takes availability/shipping/returns from MC but drops the price. Has anyone seen this? Could a CSS switch or the free listings interruption have a lasting effect on price display? What else would you check? &#32; submitted by &#32; /u/That-Editor1704 [link] &#32; [comments]",
     "published_at": "2026-10-15T17:16:00+00:00",
-    "discovered_at": "2026-10-16T13:15:12.647384+00:00",
+    "discovered_at": "2026-10-16T19:32:54.476646+00:00",
     "stage": "hot",
     "score": 15,
     "score_breakdown": {
@@ -73,7 +73,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-16T13:15:13.952899+00:00",
+    "discovered_at": "2026-10-16T19:32:55.575313+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -137,7 +137,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-16T13:15:13.951357+00:00",
+    "discovered_at": "2026-10-16T19:32:55.572172+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -195,7 +195,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-16T13:15:13.951653+00:00",
+    "discovered_at": "2026-10-16T19:32:55.572754+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -253,7 +253,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-16T13:15:13.952733+00:00",
+    "discovered_at": "2026-10-16T19:32:55.574968+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -303,7 +303,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-16T13:15:15.119453+00:00",
+    "discovered_at": "2026-10-16T19:33:14.887767+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -353,7 +353,7 @@
     "title": "How would you optimize an e-commerce product page for Google and AI search visibility?",
     "summary": "My goal is to improve the page's visibility on Google and AI search platforms like ChatGPT and Gemini, but I'm not sure which areas I should prioritize first. For those with hands-on experience, how would you approach this from scratch? What would you focus on first: keyword research, on-page SEO, technical SEO, product schema, internal linking, or backlinks? I'd really appreciate practical advice or a step-by-step approach for a beginner. Thanks! &#32; submitted by &#32; /u/Shyama20 [link] &#32; [comments]",
     "published_at": "2026-10-14T12:25:50+00:00",
-    "discovered_at": "2026-10-16T13:15:12.647861+00:00",
+    "discovered_at": "2026-10-16T19:32:54.477560+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
@@ -413,7 +413,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-16T13:15:13.950434+00:00",
+    "discovered_at": "2026-10-16T19:32:55.570332+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
