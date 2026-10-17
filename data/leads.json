@@ -8,7 +8,7 @@
     "title": "Merchant listing in organic results shows availability/shipping/returns but never the price. Out of ideas",
     "summary": "Polish e-shop (motorcycle parts, \\~77k products, Merchant Center + third-party CSS). For months my organic results show the merchant line WITHOUT price, e.g.: &quot;In stock · Free delivery · 30-day returns&quot; Competitors in the same SERP get &quot;1,145.99 zł · In stock · Delivery 10.99 zł · 14-day returns&quot;. My page often ranks #1-2. Already checked / changed: \\- GSC: pages valid in Merchant listings and Product snippets, no errors \\- Merchant Center: all approved, no price mismatch, support confirmed no account issues; Shopping carousel shows my price fine \\- One price on page, same in server-side JSON-LD, meta tags, feed and MC; no variants, no strikethrough \\- Removed priceValidUntil, fixed &quot;@type&quot;:&quot;offer&quot; -&gt; &quot;Offer&quot;, added seller, currently testing without shippingDetails \\- Another shop on the same CMS with worse markup (lowercase &quot;offer&quot;, no shipping/returns) DOES get the price shown \\- In August free listings were off for \\~2 weeks after a CSS switch (Producthero -&gt; Channable) until I accepted new MC terms. Free listings work again, price in organic never came back So Google clearly takes availability/shipping/returns from MC but drops the price. Has anyone seen this? Could a CSS switch or the free listings interruption have a lasting effect on price display? What else would you check? &#32; submitted by &#32; /u/That-Editor1704 [link] &#32; [comments]",
     "published_at": "2026-10-15T17:16:00+00:00",
-    "discovered_at": "2026-10-17T04:26:25.207700+00:00",
+    "discovered_at": "2026-10-17T12:11:16.392412+00:00",
     "stage": "hot",
     "score": 15,
     "score_breakdown": {
@@ -73,7 +73,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-17T04:26:31.461645+00:00",
+    "discovered_at": "2026-10-17T12:11:17.745947+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -137,7 +137,7 @@
     "title": "I developed a 100% Free SEO Analyzer that fully audits your website in seconds.🚀",
     "summary": "Here is what you get instantly: ✅ Core Web Vitals (LCP, CLS, TBT) &amp; 4 main scores (SEO, Performance, Accessibility, Best Practices). ✅ Live HTML analysis for meta tags, headings, and security. ✅ Advanced on-page checks (Sitemap, Robots.txt, Schema markup &amp; Broken links). ✅ Visual device mockups &amp; Social Media (Open Graph) previews. ✅ Website carbon footprint &amp; domain history. No account or credit card required 🆓, you can run a scan immediately. What makes this especially useful for beginner developers and vibecoders: every issue found comes with a clear explanation of what it is and exactly how to fix it. Super educational while you are building! Test your own website here: https://yourseoanalyzer.com/ &#32; submitted by &#32; /u/r3pstar_ [link] &#32; [comments]",
     "published_at": "2026-10-16T20:32:45+00:00",
-    "discovered_at": "2026-10-17T04:26:25.207050+00:00",
+    "discovered_at": "2026-10-17T12:11:16.391554+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -231,7 +231,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-17T04:26:31.460053+00:00",
+    "discovered_at": "2026-10-17T12:11:17.744127+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -289,7 +289,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-17T04:26:31.460362+00:00",
+    "discovered_at": "2026-10-17T12:11:17.744504+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -347,7 +347,7 @@
     "title": "B2B manufacturing SEO: Rankings are improving, but organic traffic has plateaued. What would you prioritize next?",
     "summary": "I'm working on SEO for a B2B manufacturing website targeting international buyers, mainly in the US, UK and other English-speaking markets. Over the past few months, we've worked on: Technical SEO, indexing, redirects and Core Web Vitals Commercial product and category page optimization Internal linking and supporting informational content Search intent, keyword cannibalization and structured data Google Search Console, GA4 and Semrush monitoring Relevant backlink opportunities and manufacturer credibility signals The website is technically healthier, and several commercial keywords are moving closer to Google's first page. However, we've hit a plateau. Here's what our recent data shows: 28-day organic clicks: 72 vs. 71 previously Impressions: approximately 8,970 vs. 10,200 Average position: improved from 17.7 to 11.7 Domain authority remains relatively low Some commercial keywords rank around positions 4–15 but generate very few clicks The challenge is that ranking improvements aren't translating into meaningful traffic growth or enough qualified B2B inquiries. I'm trying to avoid making unnecessary changes to pages that are already improving. My questions for experienced SEOs: When rankings improve but impressions and clicks stagnate, what do you investigate first? For a B2B manufacturing website, would you prioritize stronger commercial content, topical authority, backlinks or CTR improvements? How do you determine whether low domain authority is actually holding back competitive commercial keywords? What has worked for you when trying to move B2B keywords from positions 4–15 into the top results? How would you prioritize SEO activities for a smaller manufacturer competing internationally against established suppliers? I'm especially interested in practical experiences and evidence-based approaches rather than generic SEO checklists. Would appreciate hearing what's actually worked for others in similar B2B niches. &#32; submitted by &#32; /u/maiq5 [link] &#32; [comments]",
     "published_at": "2026-10-16T18:01:59+00:00",
-    "discovered_at": "2026-10-17T04:26:25.207174+00:00",
+    "discovered_at": "2026-10-17T12:11:16.391724+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -406,7 +406,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-17T04:26:31.461474+00:00",
+    "discovered_at": "2026-10-17T12:11:17.745758+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -456,7 +456,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-17T04:26:32.443939+00:00",
+    "discovered_at": "2026-10-17T12:11:18.995829+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -506,7 +506,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-17T04:26:31.459118+00:00",
+    "discovered_at": "2026-10-17T12:11:17.743011+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
