@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-17T18:30:13.346471+00:00",
+    "discovered_at": "2026-10-18T04:34:08.735538+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "I developed a 100% Free SEO Analyzer that fully audits your website in seconds.🚀",
     "summary": "Here is what you get instantly: ✅ Core Web Vitals (LCP, CLS, TBT) &amp; 4 main scores (SEO, Performance, Accessibility, Best Practices). ✅ Live HTML analysis for meta tags, headings, and security. ✅ Advanced on-page checks (Sitemap, Robots.txt, Schema markup &amp; Broken links). ✅ Visual device mockups &amp; Social Media (Open Graph) previews. ✅ Website carbon footprint &amp; domain history. No account or credit card required 🆓, you can run a scan immediately. What makes this especially useful for beginner developers and vibecoders: every issue found comes with a clear explanation of what it is and exactly how to fix it. Super educational while you are building! Test your own website here: https://yourseoanalyzer.com/ &#32; submitted by &#32; /u/r3pstar_ [link] &#32; [comments]",
     "published_at": "2026-10-16T20:32:45+00:00",
-    "discovered_at": "2026-10-17T18:30:12.309990+00:00",
+    "discovered_at": "2026-10-18T04:34:07.844885+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -166,7 +166,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-17T18:30:13.343171+00:00",
+    "discovered_at": "2026-10-18T04:34:08.732487+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -224,7 +224,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-17T18:30:13.343737+00:00",
+    "discovered_at": "2026-10-18T04:34:08.733094+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -282,7 +282,7 @@
     "title": "B2B manufacturing SEO: Rankings are improving, but organic traffic has plateaued. What would you prioritize next?",
     "summary": "I'm working on SEO for a B2B manufacturing website targeting international buyers, mainly in the US, UK and other English-speaking markets. Over the past few months, we've worked on: Technical SEO, indexing, redirects and Core Web Vitals Commercial product and category page optimization Internal linking and supporting informational content Search intent, keyword cannibalization and structured data Google Search Console, GA4 and Semrush monitoring Relevant backlink opportunities and manufacturer credibility signals The website is technically healthier, and several commercial keywords are moving closer to Google's first page. However, we've hit a plateau. Here's what our recent data shows: 28-day organic clicks: 72 vs. 71 previously Impressions: approximately 8,970 vs. 10,200 Average position: improved from 17.7 to 11.7 Domain authority remains relatively low Some commercial keywords rank around positions 4–15 but generate very few clicks The challenge is that ranking improvements aren't translating into meaningful traffic growth or enough qualified B2B inquiries. I'm trying to avoid making unnecessary changes to pages that are already improving. My questions for experienced SEOs: When rankings improve but impressions and clicks stagnate, what do you investigate first? For a B2B manufacturing website, would you prioritize stronger commercial content, topical authority, backlinks or CTR improvements? How do you determine whether low domain authority is actually holding back competitive commercial keywords? What has worked for you when trying to move B2B keywords from positions 4–15 into the top results? How would you prioritize SEO activities for a smaller manufacturer competing internationally against established suppliers? I'm especially interested in practical experiences and evidence-based approaches rather than generic SEO checklists. Would appreciate hearing what's actually worked for others in similar B2B niches. &#32; submitted by &#32; /u/maiq5 [link] &#32; [comments]",
     "published_at": "2026-10-16T18:01:59+00:00",
-    "discovered_at": "2026-10-17T18:30:12.310201+00:00",
+    "discovered_at": "2026-10-18T04:34:07.845094+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -341,7 +341,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-17T18:30:13.346157+00:00",
+    "discovered_at": "2026-10-18T04:34:08.735226+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -391,7 +391,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-17T18:30:14.230633+00:00",
+    "discovered_at": "2026-10-18T04:34:09.767015+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -441,7 +441,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-17T18:30:13.341355+00:00",
+    "discovered_at": "2026-10-18T04:34:08.730635+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
