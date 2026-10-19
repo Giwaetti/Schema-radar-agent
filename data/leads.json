@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-19T04:40:47.459294+00:00",
+    "discovered_at": "2026-10-19T15:35:59.531623+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,100 +64,6 @@
     ]
   },
   {
-    "item_id": "aba915f4f5826d47",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1x7r7d1/i_developed_a_100_free_seo_analyzer_that_fully",
-    "title": "I developed a 100% Free SEO Analyzer that fully audits your website in seconds.🚀",
-    "summary": "Here is what you get instantly: ✅ Core Web Vitals (LCP, CLS, TBT) &amp; 4 main scores (SEO, Performance, Accessibility, Best Practices). ✅ Live HTML analysis for meta tags, headings, and security. ✅ Advanced on-page checks (Sitemap, Robots.txt, Schema markup &amp; Broken links). ✅ Visual device mockups &amp; Social Media (Open Graph) previews. ✅ Website carbon footprint &amp; domain history. No account or credit card required 🆓, you can run a scan immediately. What makes this especially useful for beginner developers and vibecoders: every issue found comes with a clear explanation of what it is and exactly how to fix it. Super educational while you are building! Test your own website here: https://yourseoanalyzer.com/ &#32; submitted by &#32; /u/r3pstar_ [link] &#32; [comments]",
-    "published_at": "2026-10-16T20:32:45+00:00",
-    "discovered_at": "2026-10-19T04:40:45.995931+00:00",
-    "stage": "warm",
-    "score": 9,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "schema markup"
-        ],
-        "commercial_intent": [
-          "developer"
-        ],
-        "implementation_intent": [
-          "fix",
-          "audit"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "commercial_intent": 2,
-        "implementation_intent": 4
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "core web vitals",
-        "sitemap",
-        "robots.txt",
-        "social media"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "developer",
-      "fix",
-      "audit"
-    ],
-    "business_name": "Yourseoanalyzer",
-    "business_url": "https://yourseoanalyzer.com/",
-    "audit": {
-      "business_url": "https://yourseoanalyzer.com/",
-      "final_url": "https://yourseoanalyzer.com/",
-      "domain": "yourseoanalyzer.com",
-      "status_code": 200,
-      "ok": true,
-      "has_json_ld": true,
-      "schema_types": [
-        "Answer",
-        "FAQPage",
-        "Offer",
-        "Organization",
-        "Question",
-        "SoftwareApplication"
-      ],
-      "cms": null,
-      "site_kind": "ecommerce",
-      "title": "Free SEO Analyzer: Meta Tags, Schema Markup & Core Web Vitals",
-      "opportunity_gaps": [
-        "Missing Product schema on scanned page",
-        "BreadcrumbList not detected on scanned page"
-      ],
-      "notes": [
-        "Detected site kind: ecommerce",
-        "Schema types found: Answer, FAQPage, Offer, Organization, Question, SoftwareApplication"
-      ],
-      "error": null
-    },
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Offer a fast product-schema visibility fix or implementation shortcut.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Schema help for Yourseoanalyzer",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Yourseoanalyzer. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nOffer a fast product-schema visibility fix or implementation shortcut.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Yourseoanalyzer. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -166,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-19T04:40:47.456174+00:00",
+    "discovered_at": "2026-10-19T15:35:59.528410+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -224,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-19T04:40:47.456810+00:00",
+    "discovered_at": "2026-10-19T15:35:59.529104+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -282,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-19T04:40:47.458976+00:00",
+    "discovered_at": "2026-10-19T15:35:59.531292+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -332,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-19T04:40:48.871426+00:00",
+    "discovered_at": "2026-10-19T15:36:00.680750+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -382,7 +288,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-19T04:40:47.454315+00:00",
+    "discovered_at": "2026-10-19T15:35:59.526551+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
