@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-18T18:38:17.251651+00:00",
+    "discovered_at": "2026-10-19T04:40:47.459294+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "I developed a 100% Free SEO Analyzer that fully audits your website in seconds.🚀",
     "summary": "Here is what you get instantly: ✅ Core Web Vitals (LCP, CLS, TBT) &amp; 4 main scores (SEO, Performance, Accessibility, Best Practices). ✅ Live HTML analysis for meta tags, headings, and security. ✅ Advanced on-page checks (Sitemap, Robots.txt, Schema markup &amp; Broken links). ✅ Visual device mockups &amp; Social Media (Open Graph) previews. ✅ Website carbon footprint &amp; domain history. No account or credit card required 🆓, you can run a scan immediately. What makes this especially useful for beginner developers and vibecoders: every issue found comes with a clear explanation of what it is and exactly how to fix it. Super educational while you are building! Test your own website here: https://yourseoanalyzer.com/ &#32; submitted by &#32; /u/r3pstar_ [link] &#32; [comments]",
     "published_at": "2026-10-16T20:32:45+00:00",
-    "discovered_at": "2026-10-18T18:38:15.005233+00:00",
+    "discovered_at": "2026-10-19T04:40:45.995931+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -166,7 +166,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-18T18:38:17.249136+00:00",
+    "discovered_at": "2026-10-19T04:40:47.456174+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -224,7 +224,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-18T18:38:17.249613+00:00",
+    "discovered_at": "2026-10-19T04:40:47.456810+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -274,65 +274,6 @@
     ]
   },
   {
-    "item_id": "4e92e2745717fb85",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1x7nb27/b2b_manufacturing_seo_rankings_are_improving_but",
-    "title": "B2B manufacturing SEO: Rankings are improving, but organic traffic has plateaued. What would you prioritize next?",
-    "summary": "I'm working on SEO for a B2B manufacturing website targeting international buyers, mainly in the US, UK and other English-speaking markets. Over the past few months, we've worked on: Technical SEO, indexing, redirects and Core Web Vitals Commercial product and category page optimization Internal linking and supporting informational content Search intent, keyword cannibalization and structured data Google Search Console, GA4 and Semrush monitoring Relevant backlink opportunities and manufacturer credibility signals The website is technically healthier, and several commercial keywords are moving closer to Google's first page. However, we've hit a plateau. Here's what our recent data shows: 28-day organic clicks: 72 vs. 71 previously Impressions: approximately 8,970 vs. 10,200 Average position: improved from 17.7 to 11.7 Domain authority remains relatively low Some commercial keywords rank around positions 4–15 but generate very few clicks The challenge is that ranking improvements aren't translating into meaningful traffic growth or enough qualified B2B inquiries. I'm trying to avoid making unnecessary changes to pages that are already improving. My questions for experienced SEOs: When rankings improve but impressions and clicks stagnate, what do you investigate first? For a B2B manufacturing website, would you prioritize stronger commercial content, topical authority, backlinks or CTR improvements? How do you determine whether low domain authority is actually holding back competitive commercial keywords? What has worked for you when trying to move B2B keywords from positions 4–15 into the top results? How would you prioritize SEO activities for a smaller manufacturer competing internationally against established suppliers? I'm especially interested in practical experiences and evidence-based approaches rather than generic SEO checklists. Would appreciate hearing what's actually worked for others in similar B2B niches. &#32; submitted by &#32; /u/maiq5 [link] &#32; [comments]",
-    "published_at": "2026-10-16T18:01:59+00:00",
-    "discovered_at": "2026-10-18T18:38:15.005407+00:00",
-    "stage": "watch",
-    "score": 6,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "implementation_intent": [
-          "support"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "implementation_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "backlink",
-        "backlinks",
-        "core web vitals"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "support"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: B2B manufacturing SEO: Rankings are improving, but organic t",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "edc10e191b0d9746",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -341,7 +282,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-18T18:38:17.251387+00:00",
+    "discovered_at": "2026-10-19T04:40:47.458976+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -391,7 +332,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-18T18:38:18.378340+00:00",
+    "discovered_at": "2026-10-19T04:40:48.871426+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -441,7 +382,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-18T18:38:17.247640+00:00",
+    "discovered_at": "2026-10-19T04:40:47.454315+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
