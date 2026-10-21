@@ -1,62 +1,5 @@
 [
   {
-    "item_id": "efaeb85edfa144e3",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1xan7lp/has_adding_schema_markup_made_any_noticeable",
-    "title": "Has adding schema markup made any noticeable difference to your SEO?",
-    "summary": "I've been reading about how schema markup helps search engines better understand website content and can make pages eligible for rich results. But I'm curious how much of a difference it actually makes in practice. For those who have implemented schema markup, have you noticed any changes in search visibility, rich results, or organic traffic? Or has the impact been minimal? &#32; submitted by &#32; /u/Prachitech_9354 [link] &#32; [comments]",
-    "published_at": "2026-10-20T09:08:27+00:00",
-    "discovered_at": "2026-10-21T13:48:19.351055+00:00",
-    "stage": "hot",
-    "score": 13,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "schema markup",
-          "rich results",
-          "rich result"
-        ],
-        "implementation_intent": [
-          "implement"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "implementation_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "implement"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Treat this as a direct service lead first.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Has adding schema markup made any noticeable difference to y",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -65,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-21T13:48:20.318735+00:00",
+    "discovered_at": "2026-10-21T20:09:42.930695+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -129,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-21T13:48:20.315737+00:00",
+    "discovered_at": "2026-10-21T20:09:42.927652+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -187,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-21T13:48:20.316323+00:00",
+    "discovered_at": "2026-10-21T20:09:42.928221+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -245,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-21T13:48:20.318417+00:00",
+    "discovered_at": "2026-10-21T20:09:42.930361+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -295,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-21T13:48:21.065699+00:00",
+    "discovered_at": "2026-10-21T20:09:43.970493+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -345,7 +288,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-21T13:48:20.313982+00:00",
+    "discovered_at": "2026-10-21T20:09:42.925854+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
