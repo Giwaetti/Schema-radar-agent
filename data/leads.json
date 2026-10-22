@@ -1,77 +1,5 @@
 [
   {
-    "item_id": "8de6795e8d190790",
-    "source": "Reddit /r/TechSEO",
-    "source_id": "reddit-techseo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/TechSEO/comments/1xap1t9/search_console_merchant_listings_desktop",
-    "title": "Search Console merchant listings: desktop impressions inflated 3–7x from May 16 to Oct 8, CTR near zero, hard stop on Oct 9",
-    "summary": "Search Console data of several online shops (different companies, sectors, sizes; anonymized, index values only). Search appearance = Merchant listings, by device, April 15 to Oct 18, 2026. Baseline April 15–May 14 = 100. What happened Desktop impressions for merchant listings ramped up over ~5 days from May 16–18 and plateaued by May 20. Window average (May 25–Oct 4): 6.5x, 3.1x and 5.8x the baseline. Shop A by day from May 15: 105 → 210 → 322 → 503 → 583 → 713. Mobile impressions did not rise anywhere. In two shops they fell to about half or two thirds and stayed there. Desktop clicks did not follow: 57–83 % of baseline in the window (autumn drift as in 2025, plus the Sep 15 EEA free-listing removal). Desktop CTR: 3.2 → 0.3 %, 0.8 → 0.2 %, 9.4 → 0.9 %. Hard stop on Oct 9 in every property. Shop A: index 739 (Oct 7) → 349 (Oct 8) → 5 (Oct 9). Since then desktop impressions sit at 4–6 % of the April baseline. One small property skipped the May step, got its own from Sep 28 (5–12x for ten days), same Oct 9 stop. The telling part: CTR Since Oct 9, desktop CTR for merchant listings is 16.8 % (A) and 5.4 % (B), the range of the mobile CTR these properties had in April (14 % and 4 %). Before Oct 9, desktop CTR had been below mobile in every month I have, 0.3 % during the window. A device difference doesn't produce a CTR that jumps from 0.3 % to 16.8 % overnight. I read Oct 9 as a change in what gets counted, not traffic that went away. Where the impressions came from (Sep 1–14, all devices) A: 46 % of impressions from countries with zero clicks, 77 % from countries with fewer than five. Top: Brazil 12 %, Argentina 7 %, Russia 7 %, Bangladesh 6 %. EEA + UK + CH, where the clicks are: about a quarter. B: 42 % from countries with fewer than five clicks (Russia 6 %, Bangladesh 6 %, zero clicks each). C: 63 % from zero-click countries (Netherlands 21 %, Poland 12 %), every click from Germany; since Oct 9 100 % Germany. Russia and Bangladesh appear in every property with zero clicks. Merchant Center cross-check A, Brazil: Merchant Center reports ~9 % of the free-listing impressions Search Console reports for the same two weeks; the ratio differs a lot by country. C: Merchant Center free-listing impressions and clicks flat April to October, no May step, no Oct 9 step, 10x+ the clicks Search Console attributes to merchant listings. Merchant Center counts Shopping tab, Images, Lens; the Search Console appearance is web search only. The inflated part sat on the Search Console side. What it is not Not the documented GSC impressions anomaly (May 13, 2025–Apr 27, 2026): that one undercounted and ends before this starts; nothing on the anomalies page about merchant listings or desktop (checked Oct 20). Not demand: Keyword Planner volumes (DE/AT/CH/UK) moved ±20 % April–September, not 3–7x. Not the DMA removal (Sep 15): that hit EEA clicks, most of the inflated volume sits outside the EEA (it overlaps: B lost 40 % of desktop impressions on Sep 15). Not the &quot;poisoned SERPs&quot; that rank-tracker vendors reported from Sep 13: wrong start date, and that concerns scraped SERPs, not Search Console counts. My read Desktop only, zero-click countries, CTR near zero, hard start, hard stop, same days in unrelated properties, Merchant Center counting something else: looks like automated queries counted as merchant-listing impressions, lower before May, much higher from mid-May, none since Oct 9. Can't prove it from outside. The alternative is a reporting change on Google's side in May and again in October, and I can't rule it out. Why it matters With merchant listings, property-level impressions, CTR and average position for May 16–Oct 8 are inflated. A: position 5.5 / CTR 3.1 % mid-Sep to Oct 8, then 8.1 / 4.6 %, step on Oct 8–9, nothing changed on the site. YoY impression comparisons for that window are not usable; clicks weren't inflated, compare clicks. Filter by search appearance and device before reading a trend. April wasn't &quot;normal&quot; either, already ~20x what Google counts today. Limits: small sample, all European, country data for two weeks only, and I don't know what Google counted. If a property without merchant listings shows the same mid-May or Oct 9 steps, I'd like to hear about it. Edit (Oct 20): Correction on the first &quot;what it is not&quot; point. The documented GSC impressions issue (May 13, 2025 to Apr 27, 2026) over-reported impressions, it didn't undercount them as I wrote. The distinction still holds: it ended three weeks before this starts, and its fix on Apr 27 doesn't show in these merchant-listing series (desktop index 96 before vs 104 after Apr 27 in A, 101 vs 100 in B). The May 16 ramp and the Oct 9 stop are a separate event. &#32; submitted by &#32; /u/DrKJING [link] &#32; [comments]",
-    "published_at": "2026-10-20T10:58:29+00:00",
-    "discovered_at": "2026-10-22T04:46:00.744121+00:00",
-    "stage": "hot",
-    "score": 13,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "merchant listing",
-          "merchant listings"
-        ],
-        "implementation_intent": [
-          "fix"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "implementation_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [
-      "product_schema"
-    ],
-    "intent_flags": [
-      "fix"
-    ],
-    "business_name": "Preview",
-    "business_url": "https://preview.redd.it/f1gs9yz3qlwh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=84645082e73554b1db4d97a62fed7d4a5f2c7225",
-    "audit": {
-      "business_url": "https://preview.redd.it/f1gs9yz3qlwh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=84645082e73554b1db4d97a62fed7d4a5f2c7225",
-      "final_url": "https://preview.redd.it/f1gs9yz3qlwh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=84645082e73554b1db4d97a62fed7d4a5f2c7225",
-      "domain": "preview.redd.it",
-      "status_code": 403,
-      "ok": false,
-      "has_json_ld": false,
-      "schema_types": [],
-      "cms": null,
-      "site_kind": null,
-      "title": null,
-      "opportunity_gaps": [],
-      "notes": [],
-      "error": "HTTP 403"
-    },
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Treat this as a direct service lead first.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Schema help for Preview",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with product_schema, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for Preview. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "techseo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -80,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-22T04:46:01.640253+00:00",
+    "discovered_at": "2026-10-22T13:47:54.704354+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -136,90 +64,6 @@
     ]
   },
   {
-    "item_id": "dab9b4fdb2b4f3dd",
-    "source": "Reddit /r/TechSEO",
-    "source_id": "reddit-techseo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/TechSEO/comments/1xahfcg/i_spent_a_semrush_trial_week_on_a_630page",
-    "title": "I spent a Semrush trial week on a 630-page, 13-language site with Authority Score 15. What I changed, and what turned out to be noise",
-    "summary": "I build BIShare on my own: a free, open-source app for sending files between iPhone, Android, Windows, Mac and Linux, plus a browser version. The website has guides in 13 languages, about 630 URLs, and an Authority Score of 15. The tools I compete with sit between 41 and 57. First, so nobody reads the wrong lesson: the growth happened before the trial. In mid-September I rebuilt about 260 landing pages, and Google clicks went from 25–45 a day to 80–130 a day. App Store first downloads were 533 in the last 30 days against 81 in the 30 days before, much of it after a store listing rewrite I posted about separately. I took the Semrush trial (Pro, 7 days) to decide what to do next, not to explain the past. Here is what I found, in the order it changed what I did. 1. My translated titles were translations, not searches. I had translated the English titles carefully. Wrong goal. Country data showed what people actually type: Japan: &quot;ipad usbメモリ&quot; (iPad USB stick) gets 2,900 searches a month; the phrase I had, &quot;iPad ファイル 転送&quot;, gets 260. Indonesia: people say &quot;dari HP ke laptop&quot; (phone to laptop). My title said &quot;PC&quot;. 3,600 a month against 20. Germany, France, Spain, Russia: the phone-to-computer search is about photos first, files second. I retitled nine localized pages that had almost no clicks. I left alone every title that was already earning clicks. 2. Site Audit: 174 errors down to 15, and the 15 are on purpose. Two causes made almost all of it. A list markup (ItemList) whose entries had no URL, and SoftwareApplication markup sitting in the site layout, so every crawled page reported &quot;aggregateRating missing&quot;. I moved the app markup to the home and download pages only. The 15 that remain are that same rule on those pages. I have no real ratings to put there and I'm not inventing them. 3. Every backlink I have points at the homepage. Semrush's page-level backlink report: the homepage has 20 referring domains. Every guide page has zero. That explains the pattern I kept seeing, guides stalling between positions 11 and 30. The same week I looked at who beats us for &quot;airdrop for windows&quot; (2,400 a month in the US). One result in 6th–8th place is a small site with an Authority Score of 10, lower than mine, and no links to that page either. The difference: their &quot;10 alternatives, tested&quot; list was published seven months earlier and matches what the results page rewards. Our page is a product-style guide rebuilt three weeks ago. So for that query it's format and age, not authority. 4. The &quot;toxic backlinks&quot; list was spam aimed at SEO tools, not at Google. Semrush flagged 83 toxic URLs. Before disavowing anything I fetched a sample with different user agents. As SemrushBot or AhrefsBot, the pages contain a link to my site. As Googlebot or bingbot, the same URLs show a sales page for an &quot;SEO visibility&quot; service with no link at all. The pages also link to bishare.com and bishare.io, which aren't mine. They target the name, and they exist to show up in your backlink tool so you go looking. I didn't disavow. 5. My LCP was being stolen by my own cookie notice. Cloudflare's real-user data had LCP at about 68% good, below the 75% Google wants. Lighthouse showed why. The hero entrance animation started at opacity 0. An element at opacity 0 isn't an LCP candidate, so the headline never counted, and LCP fell to the cookie notice I had deliberately delayed until the browser was idle. On nine other templates the H1 sat inside a JavaScript reveal that stays invisible until hydration. Fix: the entrance now only moves (no fade, no blur), the H1 blocks use a CSS-only wrapper, and one font is preloaded instead of four. I also tried Next.js's experimental inlineCss: the HTML doubled and LCP got worse, so it's off. Before shipping, I snapshotted all 631 URLs (title, meta, headings, visible text, links, structured data) and diffed them: zero changes. 6. New pages from question data, only where the results page had a gap. &quot;How to transfer files to ipad&quot; (2,400 a month) and &quot;transfer files from iphone to pc&quot; (1,600) had no page from us. I read the top 10 first: forum threads, Apple's own guide, and vendor blogs, none of which explains where a file actually lands on an iPad (Files app vs an app's own folder vs Photos). That became the angle. Both pages are new, so no results yet. 7. Bing dropped me to zero and I still don't know why. Bing had been sending 56 impressions a day with a 6% CTR. On 14 September, the week of the big rewrite, it went to zero and has stayed there. It's not a block: everything returns 200, robots.txt is open, IndexNow submissions are accepted. If you've seen Bing drop a small site completely after rewriting most of it, I'd like to hear what brought it back. Things that turned out to be noise Semrush's estimated traffic for my US domain went 303, then 6, then 20 in three weeks, driven by one or two keywords each time. Not visits. My India &quot;traffic&quot; showed 471, while the keyword rows behind it add up to about 1. &quot;Low text-to-HTML ratio&quot; on 79 pages: Next.js puts page data in script tags. &quot;Low word count&quot; on Japanese and Chinese pages: the checker counts words by spaces. What's next. Links to the guide pages instead of the homepage (outreach to pages that still link to the dead Firefox Send is my first batch), and reading Search Console on the 11th, 17th and 31st before I touch anything else. Happy to share the scripts I use to check structured data and locale parity if they're useful to anyone. I'm the developer of the app, so weigh my reading of my own data accordingly. &#32; submitted by &#32; /u/Glittering_Device653 [link] &#32; [comments]",
-    "published_at": "2026-10-20T03:22:42+00:00",
-    "discovered_at": "2026-10-22T04:46:00.744441+00:00",
-    "stage": "warm",
-    "score": 10,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "commercial_intent": [
-          "developer"
-        ],
-        "implementation_intent": [
-          "fix",
-          "audit",
-          "error",
-          "missing"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "commercial_intent": 2,
-        "implementation_intent": 4
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "backlink",
-        "backlinks",
-        "robots.txt"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "developer",
-      "fix",
-      "audit",
-      "error",
-      "missing"
-    ],
-    "business_name": "Preview",
-    "business_url": "https://preview.redd.it/mg86td7ajjwh1.png?width=140&amp;height=60&amp;auto=webp&amp;s=2821cba14b4761981774f3f3c802e883dd7f0b7f",
-    "audit": {
-      "business_url": "https://preview.redd.it/mg86td7ajjwh1.png?width=140&amp;height=60&amp;auto=webp&amp;s=2821cba14b4761981774f3f3c802e883dd7f0b7f",
-      "final_url": "https://preview.redd.it/mg86td7ajjwh1.png?width=140&amp;height=60&amp;auto=webp&amp;s=2821cba14b4761981774f3f3c802e883dd7f0b7f",
-      "domain": "preview.redd.it",
-      "status_code": 403,
-      "ok": false,
-      "has_json_ld": false,
-      "schema_types": [],
-      "cms": null,
-      "site_kind": null,
-      "title": null,
-      "opportunity_gaps": [],
-      "notes": [],
-      "error": "HTTP 403"
-    },
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Schema help for Preview",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Preview. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Preview. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "techseo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -228,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-22T04:46:01.637175+00:00",
+    "discovered_at": "2026-10-22T13:47:54.701224+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -286,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-22T04:46:01.637771+00:00",
+    "discovered_at": "2026-10-22T13:47:54.701873+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -344,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-22T04:46:01.639924+00:00",
+    "discovered_at": "2026-10-22T13:47:54.704038+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -394,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-22T04:46:02.780100+00:00",
+    "discovered_at": "2026-10-22T13:47:55.985488+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -444,7 +288,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-22T04:46:01.635263+00:00",
+    "discovered_at": "2026-10-22T13:47:54.699408+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
