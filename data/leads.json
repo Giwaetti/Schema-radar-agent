@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-24T04:36:53.704647+00:00",
+    "discovered_at": "2026-10-24T12:40:21.906961+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-24T04:36:53.702830+00:00",
+    "discovered_at": "2026-10-24T12:40:21.905212+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-24T04:36:53.703154+00:00",
+    "discovered_at": "2026-10-24T12:40:21.905538+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +188,7 @@
     "title": "What would you say are the main differences between local SEO, B2B SEO (manufacturing, industrial, wholesale, etc.), SaaS SEO, and ecommerce SEO? And is it possible to jump from one type to another?",
     "summary": "I'm interested in understanding how the actual SEO work differs between these specializations. Obviously, the fundamentals overlap, but I'd imagine there are meaningful differences in the strategies, technical challenges, and day-to-day tasks involved. For example, my understanding is that the work might look something like this: Local SEO: Google Business Profile optimization, local landing pages, citation management, review management, local link building, and location-based keyword research. B2B SEO (manufacturing, industrial, wholesale, etc.): Optimizing product and application pages, keyword research around technical products and industry terminology, improving site architecture, technical SEO, and creating content around specific products, materials, specifications, and use cases. SaaS SEO: Programmatic SEO, comparison and alternative pages, feature and use-case pages, content hubs, product-led content, and managing indexation for large numbers of URLs. Ecommerce SEO: Product and category page optimization, faceted navigation, handling duplicate and thin pages, structured data, internal linking, crawl budget management, and large-scale product catalog optimization. For those who have worked across multiple specializations: What are the biggest differences in the actual work you do day to day? Which areas require the most specialized knowledge or have the steepest learning curve? How transferable are the skills between these specializations? For example, how difficult would it be for someone experienced in local or B2B SEO to transition into SaaS or ecommerce SEO? Are there any specializations where experience in another area gives you a significant advantage, or where the learning curve is particularly steep? I'd especially like to hear from people who have worked in two or more of these areas and can compare their experiences firsthand. &#32; submitted by &#32; /u/doorstoinfinity [link] &#32; [comments]",
     "published_at": "2026-10-22T14:22:06+00:00",
-    "discovered_at": "2026-10-24T04:36:52.128751+00:00",
+    "discovered_at": "2026-10-24T12:40:20.318282+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -244,7 +244,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-24T04:36:53.704455+00:00",
+    "discovered_at": "2026-10-24T12:40:21.906762+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -294,7 +294,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-24T04:36:55.186114+00:00",
+    "discovered_at": "2026-10-24T12:40:23.065617+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -344,7 +344,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-24T04:36:53.701799+00:00",
+    "discovered_at": "2026-10-24T12:40:21.904175+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
