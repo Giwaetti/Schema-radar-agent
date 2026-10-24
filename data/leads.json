@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-24T12:40:21.906961+00:00",
+    "discovered_at": "2026-10-24T18:47:25.706885+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-24T12:40:21.905212+00:00",
+    "discovered_at": "2026-10-24T18:47:25.703803+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-24T12:40:21.905538+00:00",
+    "discovered_at": "2026-10-24T18:47:25.704405+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -180,62 +180,6 @@
     ]
   },
   {
-    "item_id": "29a4238c5a14cde3",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1xcjy9e/what_would_you_say_are_the_main_differences",
-    "title": "What would you say are the main differences between local SEO, B2B SEO (manufacturing, industrial, wholesale, etc.), SaaS SEO, and ecommerce SEO? And is it possible to jump from one type to another?",
-    "summary": "I'm interested in understanding how the actual SEO work differs between these specializations. Obviously, the fundamentals overlap, but I'd imagine there are meaningful differences in the strategies, technical challenges, and day-to-day tasks involved. For example, my understanding is that the work might look something like this: Local SEO: Google Business Profile optimization, local landing pages, citation management, review management, local link building, and location-based keyword research. B2B SEO (manufacturing, industrial, wholesale, etc.): Optimizing product and application pages, keyword research around technical products and industry terminology, improving site architecture, technical SEO, and creating content around specific products, materials, specifications, and use cases. SaaS SEO: Programmatic SEO, comparison and alternative pages, feature and use-case pages, content hubs, product-led content, and managing indexation for large numbers of URLs. Ecommerce SEO: Product and category page optimization, faceted navigation, handling duplicate and thin pages, structured data, internal linking, crawl budget management, and large-scale product catalog optimization. For those who have worked across multiple specializations: What are the biggest differences in the actual work you do day to day? Which areas require the most specialized knowledge or have the steepest learning curve? How transferable are the skills between these specializations? For example, how difficult would it be for someone experienced in local or B2B SEO to transition into SaaS or ecommerce SEO? Are there any specializations where experience in another area gives you a significant advantage, or where the learning curve is particularly steep? I'd especially like to hear from people who have worked in two or more of these areas and can compare their experiences firsthand. &#32; submitted by &#32; /u/doorstoinfinity [link] &#32; [comments]",
-    "published_at": "2026-10-22T14:22:06+00:00",
-    "discovered_at": "2026-10-24T12:40:20.318282+00:00",
-    "stage": "watch",
-    "score": 6,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "platforms": [
-          "ecommerce"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "platforms": 1
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "link building",
-        "keyword research"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: What would you say are the main differences between local SE",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "edc10e191b0d9746",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -244,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-24T12:40:21.906762+00:00",
+    "discovered_at": "2026-10-24T18:47:25.706564+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -294,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-24T12:40:23.065617+00:00",
+    "discovered_at": "2026-10-24T18:47:26.135458+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -344,7 +288,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-24T12:40:21.904175+00:00",
+    "discovered_at": "2026-10-24T18:47:25.701954+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
