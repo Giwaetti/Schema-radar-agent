@@ -8,7 +8,7 @@
     "title": "merchant listing clicks died on GSC but the traffic is unaffected",
     "summary": "i noticed that only the merchant listings traffic on my site went off a cliff in mid november. nothing else has been affected GMC shows no disapprovals and i run ads in google shopping without issue. The weird thing is that i use my own analytics tracking and only have google tag on my after purchase page. i have seen no difference at all in the traffic coming to my site from google shopping clicks. i also track ip addresses so i can see that these are people visiting from relevant locations and i can also see how much they scroll/dwell on each page so i have high confidence that this isnt bot traffic. the strangest part is that i am still getting a tiny amount of impressions/clicks according to gsc. so i dont understand how this could be a reporting issue or a problem with my site or eligibility for free listings. sales have as of now been unaffected too. so people are finding and clicking my site same as usual and google is not showing only a large portion of the clicks. this makes no sense to me, any insight? &#32; submitted by &#32; /u/northfaccegucci [link] &#32; [comments]",
     "published_at": "2026-10-29T17:56:20+00:00",
-    "discovered_at": "2026-10-30T15:02:42.184064+00:00",
+    "discovered_at": "2026-10-30T20:47:30.513429+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -66,7 +66,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-10-30T15:02:43.515161+00:00",
+    "discovered_at": "2026-10-30T20:47:31.744636+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-10-30T15:02:43.512614+00:00",
+    "discovered_at": "2026-10-30T20:47:31.742910+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +188,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-10-30T15:02:43.513117+00:00",
+    "discovered_at": "2026-10-30T20:47:31.743244+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -246,7 +246,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-10-30T15:02:43.514878+00:00",
+    "discovered_at": "2026-10-30T20:47:31.744449+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -296,7 +296,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-10-30T15:02:44.514766+00:00",
+    "discovered_at": "2026-10-30T20:47:32.742693+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -346,7 +346,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-10-30T15:02:43.511077+00:00",
+    "discovered_at": "2026-10-30T20:47:31.741853+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
