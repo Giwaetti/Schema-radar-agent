@@ -1,91 +1,5 @@
 [
   {
-    "item_id": "f9ddc6e1e67981e5",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1xkc90q/case_study_how_ai_search_engines",
-    "title": "Case Study: How AI Search Engines (Perplexity/ChatGPT) Scrape Luxury Hotel Websites and Why 80% of 5-Star Properties Are Invisible.",
-    "summary": "Hey everyone, I recently audited 50+ luxury 4-star and 5-star hotel properties across global markets to analyze how generative AI search platforms (ChatGPT, Gemini, and Perplexity) handle direct booking recommendations. ​The Problem: When travelers ask AI tools for &quot;the best luxury resorts in [City] with private villas,&quot; traditional websites fail to show up. Instead, AI defaults to OTAs like Booking.com , costing hotels 15–20% in commissions. ​Key Findings from the Audit: ​Missing Schema Entities: Over 80% of properties lack proper HotelResort and Offer structured data tailored for LLMs. ​Unstructured Metadata: AI models prioritize semantic context over keyword density. ​The Solution: Implementing Generative Engine Optimization (GEO) and AEO schema directly redirects high-intent travelers to direct booking engines. ​I've compiled the full technical checklist and insights on how properties can fix their AI search visibility. ​Happy to share the breakdown or answer any technical questions in the comments! &#32; submitted by &#32; /u/Training_Ganache_652 [link] &#32; [comments]",
-    "published_at": "2026-10-31T14:53:31+00:00",
-    "discovered_at": "2026-11-02T18:21:46.067180+00:00",
-    "stage": "hot",
-    "score": 14,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data"
-        ],
-        "schema_errors": [
-          "missing schema"
-        ],
-        "implementation_intent": [
-          "fix",
-          "implement",
-          "audit",
-          "missing"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "schema_errors": 3,
-        "implementation_intent": 4
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [
-      "missing_schema"
-    ],
-    "intent_flags": [
-      "fix",
-      "implement",
-      "audit",
-      "missing"
-    ],
-    "business_name": "Booking",
-    "business_url": "http://Booking.com/",
-    "audit": {
-      "business_url": "http://Booking.com/",
-      "final_url": "https://www.booking.com/",
-      "domain": "booking.com",
-      "status_code": 202,
-      "ok": true,
-      "has_json_ld": false,
-      "schema_types": [],
-      "cms": null,
-      "site_kind": "general",
-      "title": "",
-      "opportunity_gaps": [
-        "BreadcrumbList not detected on scanned page",
-        "No JSON-LD schema detected on scanned page"
-      ],
-      "notes": [
-        "Detected site kind: general"
-      ],
-      "error": null
-    },
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Treat this as a direct service lead first.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Schema help for Booking",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with missing_schema, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for Booking. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -94,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-02T18:21:47.275609+00:00",
+    "discovered_at": "2026-11-03T06:47:27.245257+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -150,6 +64,71 @@
     ]
   },
   {
+    "item_id": "151667562e59f210",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1xlxlfr/our_content_used_to_show_up_in_google_now_most_of",
+    "title": "Our content used to show up in Google. Now most of it doesn’t, and I’m running out of ideas.",
+    "summary": "I run an independent gaming and tech publication established in 2008. Our reviews, previews, hands-on impressions and editorials used to show up in Google. Now most don’t. Some appear briefly, then disappear, while others show under News but nowhere in All. Then we do get some that appear in All, we don't understand why any of this is happening. We used to get 5,000–6,000 visitors a day. Now we’re hitting 2,000–3,000, if that. This has been happening over the past 12 months, but the biggest drop has been in the last 6–7 months. Other publications still appear for the same searches while we don’t. We’ve already: Fixed robots.txt restrictions and a Cloudflare Worker overriding our intended robots.txt. Checked HTTP responses, redirects, canonicals and noindex directives on sampled articles. Changed reviews from NewsArticle to Article, with separate Review schema identifying the game. Cleaned up overlapping theme/plugin schema. AIOSEO handles Article markup. Validated sampled Article, Review, Breadcrumb, Organization and WebSite schema without errors. Updated author profiles, publisher information and breadcrumbs. Used Search Console URL Inspection and requested indexing. Some pages say “Crawled – currently not indexed.” Others are indexed but still don’t show for relevant searches. Investigated Cloudflare restrictions, though we haven’t confirmed verified Googlebot is being blocked. There are no manual actions or penalties reported in Google Search Console. I’ve also been to Google’s support forums, and that wasn’t helpful at all. I’ve pulled out enough hair over this. We’re actually playing these games, testing hardware and writing our own coverage, but I can’t figure out why content that used to appear has practically vanished. What would you investigate next? I need something concrete beyond “check robots.txt, submit a sitemap and write helpful content.” We’ve been going through this for months. &#32; submitted by &#32; /u/unknownhax [link] &#32; [comments]",
+    "published_at": "2026-11-02T13:46:18+00:00",
+    "discovered_at": "2026-11-03T06:47:25.692707+00:00",
+    "stage": "watch",
+    "score": 7,
+    "score_breakdown": {
+      "matches": {
+        "schema_types": [
+          "review schema"
+        ],
+        "implementation_intent": [
+          "fix",
+          "validate",
+          "support",
+          "error"
+        ]
+      },
+      "group_points": {
+        "schema_types": 3,
+        "implementation_intent": 4
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "canonical",
+        "sitemap",
+        "robots.txt"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "fix",
+      "validate",
+      "support",
+      "error"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Our content used to show up in Google. Now most of it doesn’",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -158,7 +137,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-02T18:21:47.272610+00:00",
+    "discovered_at": "2026-11-03T06:47:27.243529+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -216,7 +195,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-02T18:21:47.273198+00:00",
+    "discovered_at": "2026-11-03T06:47:27.243869+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -274,7 +253,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-02T18:21:47.275301+00:00",
+    "discovered_at": "2026-11-03T06:47:27.245067+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -324,7 +303,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-02T18:21:48.030568+00:00",
+    "discovered_at": "2026-11-03T06:47:28.584805+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -374,7 +353,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-02T18:21:47.270805+00:00",
+    "discovered_at": "2026-11-03T06:47:27.242466+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
