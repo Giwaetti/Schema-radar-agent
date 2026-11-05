@@ -8,7 +8,7 @@
     "title": "GSC impressions suddenly dropped to zero after I requested validation. Could use some SEO advice.",
     "summary": "I'm running a small B2B manufacturing website built with WordPress, WooCommerce, and SureRank. The site has product pages, category pages, and blog posts focused on buying guides. I've run into a few SEO issues lately and could use some advice from people who've dealt with similar problems. 1. What happened GSC impressions suddenly dropped to zero On October 30, I clicked &quot;Validate Fix&quot; for two issues in Google Search Console. Page with redirect: 51 URLs Not found (404): 24 URLs Google emailed me saying the validation process had started. Shortly after that, my impressions and clicks started dropping and eventually hit zero. They've stayed at zero for several days. I checked the homepage in GSC, and it still says it's indexed. I've changed my URL slugs a few times While building the site, I changed some product and category URLs several times. I've already set up 301 redirects from the old URLs and updated my internal links, but GSC still shows quite a few redirected pages. Related posts and products on different pages My product pages have a Related Posts section at the bottom that links to blog articles, showing their titles, images, and alt text. My blog posts also have Related Products and Related Posts sections linking back to products and other articles. I'm wondering if this setup could cause keyword cannibalization, where product pages and blog posts end up competing with each other for rankings and traffic. Product schema issues because I don't display prices I'm using WooCommerce as a product catalog, not an online store. Customers have to request a quote, so I don't display prices or offer checkout. GSC is reporting issues with Product Snippets and Merchant Listings structured data. 2. What I've tried Improved product pages, category pages, blog content, and internal linking. Set up 301 redirects for old URLs. Updated and resubmitted my sitemap. Checked robots.txt and Cloudflare bot settings. Used SureRank to manage SEO and schema. Requested validation for the indexing issues in GSC. 3. What I think might be happening I'm not sure if the sudden drop in impressions has anything to do with the validation requests, Google recrawling old URLs, Cloudflare settings, or just a reporting delay. I'm also wondering if the related content sections are making my product pages and blog posts compete with each other. And I'm not sure whether the missing price fields in my product schema affect anything beyond rich results. 4. My questions 1. Has anyone seen GSC impressions drop to zero after clicking &quot;Validate Fix&quot;? Could requesting validation affect indexing or search visibility? If the homepage is still indexed but the whole site suddenly gets zero impressions, what would you check first? 2. Do I need to do anything else with my old URLs? If the old URLs already have proper 301 redirects and I've updated my internal links and sitemap, is it normal for GSC to keep showing them under &quot;Page with redirect&quot;? 3. Can related posts and products cause keyword cannibalization? If product pages link to blog posts, and blog posts link back to products and other articles, could those internal links cause the pages to compete for keywords, rankings, or organic traffic? Is there a better way to structure these sections on a B2B manufacturing website? 4. Does Product schema without prices hurt regular SEO? For a B2B catalog where customers request quotes instead of buying online, should I still use Product schema? If I'm missing fields like price and offers , does that only affect eligibility for rich results, or could it also affect regular indexing, rankings, and impressions? I'd really appreciate any advice from people who've run into something similar. Thanks! &#32; submitted by &#32; /u/AdmirableTopic2739 [link] &#32; [comments]",
     "published_at": "2026-11-04T10:12:24+00:00",
-    "discovered_at": "2026-11-04T16:18:32.594687+00:00",
+    "discovered_at": "2026-11-05T06:46:16.553815+00:00",
     "stage": "hot",
     "score": 26,
     "score_breakdown": {
@@ -106,7 +106,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-04T16:18:33.987118+00:00",
+    "discovered_at": "2026-11-05T06:46:18.239017+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -162,71 +162,6 @@
     ]
   },
   {
-    "item_id": "151667562e59f210",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1xlxlfr/our_content_used_to_show_up_in_google_now_most_of",
-    "title": "Our content used to show up in Google. Now most of it doesn’t, and I’m running out of ideas.",
-    "summary": "I run an independent gaming and tech publication established in 2008. Our reviews, previews, hands-on impressions and editorials used to show up in Google. Now most don’t. Some appear briefly, then disappear, while others show under News but nowhere in All. Then we do get some that appear in All, we don't understand why any of this is happening. We used to get 5,000–6,000 visitors a day. Now we’re hitting 2,000–3,000, if that. This has been happening over the past 12 months, but the biggest drop has been in the last 6–7 months. Other publications still appear for the same searches while we don’t. We’ve already: Fixed robots.txt restrictions and a Cloudflare Worker overriding our intended robots.txt. Checked HTTP responses, redirects, canonicals and noindex directives on sampled articles. Changed reviews from NewsArticle to Article, with separate Review schema identifying the game. Cleaned up overlapping theme/plugin schema. AIOSEO handles Article markup. Validated sampled Article, Review, Breadcrumb, Organization and WebSite schema without errors. Updated author profiles, publisher information and breadcrumbs. Used Search Console URL Inspection and requested indexing. Some pages say “Crawled – currently not indexed.” Others are indexed but still don’t show for relevant searches. Investigated Cloudflare restrictions, though we haven’t confirmed verified Googlebot is being blocked. There are no manual actions or penalties reported in Google Search Console. I’ve also been to Google’s support forums, and that wasn’t helpful at all. I’ve pulled out enough hair over this. We’re actually playing these games, testing hardware and writing our own coverage, but I can’t figure out why content that used to appear has practically vanished. What would you investigate next? I need something concrete beyond “check robots.txt, submit a sitemap and write helpful content.” We’ve been going through this for months. &#32; submitted by &#32; /u/unknownhax [link] &#32; [comments]",
-    "published_at": "2026-11-02T13:46:18+00:00",
-    "discovered_at": "2026-11-04T16:18:32.596181+00:00",
-    "stage": "watch",
-    "score": 7,
-    "score_breakdown": {
-      "matches": {
-        "schema_types": [
-          "review schema"
-        ],
-        "implementation_intent": [
-          "fix",
-          "validate",
-          "support",
-          "error"
-        ]
-      },
-      "group_points": {
-        "schema_types": 3,
-        "implementation_intent": 4
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "canonical",
-        "sitemap",
-        "robots.txt"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [],
-    "intent_flags": [
-      "fix",
-      "validate",
-      "support",
-      "error"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Our content used to show up in Google. Now most of it doesn’",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -235,7 +170,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-04T16:18:33.984017+00:00",
+    "discovered_at": "2026-11-05T06:46:18.235881+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -293,7 +228,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-04T16:18:33.984597+00:00",
+    "discovered_at": "2026-11-05T06:46:18.236504+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -351,7 +286,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-04T16:18:33.986755+00:00",
+    "discovered_at": "2026-11-05T06:46:18.238666+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -401,7 +336,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-04T16:18:34.895228+00:00",
+    "discovered_at": "2026-11-05T06:46:19.380357+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -451,7 +386,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-04T16:18:33.982143+00:00",
+    "discovered_at": "2026-11-05T06:46:18.233156+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
