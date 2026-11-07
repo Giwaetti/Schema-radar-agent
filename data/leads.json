@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-07T05:58:22.510071+00:00",
+    "discovered_at": "2026-11-07T14:54:03.207046+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,6 +64,72 @@
     ]
   },
   {
+    "item_id": "8002cfe2c7481bd4",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1xpogmi/ill_do_a_aeo_and_seo_for_a_business",
+    "title": "I’ll do a AEO and SEO for a business",
+    "summary": "I’m building my SEO portfolio and I'm looking for one small business website (a local shop or small online store works best) to work on as a practice project. I'll do a full SEO and AEO review: page titles and meta descriptions, headings, internal links, broken links, image alt text, indexing, page speed and structured data, plus how your pages and products show up in Google and AI answers (AI Overviews and similar). You'll get a written report that lists the problems I found, why each one matters and what to fix first. I'm still learning, so I can't promise rankings or traffic, and I'm not selling anything. I only ask for permission to use the audit as an anonymous case study. If you're interested, comment with a short description of your business (no need to post your URL publicly) and I'll reply. &#32; submitted by &#32; /u/Ayaan_noor [link] &#32; [comments]",
+    "published_at": "2026-11-06T21:18:00+00:00",
+    "discovered_at": "2026-11-07T14:54:00.432563+00:00",
+    "stage": "warm",
+    "score": 10,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "commercial_intent": [
+          "looking for"
+        ],
+        "implementation_intent": [
+          "fix",
+          "audit"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "commercial_intent": 2,
+        "implementation_intent": 4
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "meta description",
+        "meta descriptions",
+        "page speed"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "looking for",
+      "fix",
+      "audit"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: I’ll do a AEO and SEO for a business",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "76d975f5b4342b13",
     "source": "Reddit /r/SEO",
     "source_id": "reddit-seo",
@@ -72,7 +138,7 @@
     "title": "Website appears and disappears from Google search results for my brand name – Is this a caching or ranking issue?",
     "summary": "Hi everyone, I run an online jewelry brand called Noufera ( https://noufera.com/ ), based in Pakistan. I'm facing a strange issue with Google Search. When I search for &quot;Noufera&quot; , sometimes my website appears in the search results, but sometimes it completely disappears. However: Searching site:noufera.com consistently shows my website. Google Search Console says my homepage is indexed (&quot;URL is on Google&quot;). For the exact query &quot;noufera&quot;, Search Console recorded 44 clicks and 226 impressions over the last 3 months. Between October 28 and November 4, it recorded 4 clicks and 31 impressions, all from Pakistan. I've also noticed that sometimes, when I search in Incognito mode, my website appears after refreshing Google, but disappears after another refresh. My website uses WordPress, WooCommerce, Rank Math SEO and LiteSpeed Cache. I've recently updated my homepage heading, SEO title, and Organization schema. My questions: Could this be a Google ranking fluctuation or search data-centre issue? Can LiteSpeed Cache or another caching layer cause this behaviour in Google search results? Why does Google show my website for &quot;Noufera Karachi&quot; but inconsistently for just &quot;Noufera&quot;? What should I investigate before making further SEO changes? I'd appreciate advice from experienced SEO professionals or website owners who have faced something similar. Thank you! &#32; submitted by &#32; /u/noufera [link] &#32; [comments]",
     "published_at": "2026-11-05T10:32:56+00:00",
-    "discovered_at": "2026-11-07T05:58:21.469515+00:00",
+    "discovered_at": "2026-11-07T14:54:00.433771+00:00",
     "stage": "warm",
     "score": 8,
     "score_breakdown": {
@@ -161,7 +227,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-07T05:58:22.508386+00:00",
+    "discovered_at": "2026-11-07T14:54:03.203891+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -219,7 +285,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-07T05:58:22.508719+00:00",
+    "discovered_at": "2026-11-07T14:54:03.204463+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -277,7 +343,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-07T05:58:22.509890+00:00",
+    "discovered_at": "2026-11-07T14:54:03.206731+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -327,7 +393,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-07T05:58:22.858920+00:00",
+    "discovered_at": "2026-11-07T14:54:04.323190+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -377,7 +443,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-07T05:58:22.506733+00:00",
+    "discovered_at": "2026-11-07T14:54:03.202058+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
