@@ -1,103 +1,5 @@
 [
   {
-    "item_id": "51dc8479ba9066af",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1xnkl6j/gsc_impressions_suddenly_dropped_to_zero_after_i",
-    "title": "GSC impressions suddenly dropped to zero after I requested validation. Could use some SEO advice.",
-    "summary": "I'm running a small B2B manufacturing website built with WordPress, WooCommerce, and SureRank. The site has product pages, category pages, and blog posts focused on buying guides. I've run into a few SEO issues lately and could use some advice from people who've dealt with similar problems. 1. What happened GSC impressions suddenly dropped to zero On October 30, I clicked &quot;Validate Fix&quot; for two issues in Google Search Console. Page with redirect: 51 URLs Not found (404): 24 URLs Google emailed me saying the validation process had started. Shortly after that, my impressions and clicks started dropping and eventually hit zero. They've stayed at zero for several days. I checked the homepage in GSC, and it still says it's indexed. I've changed my URL slugs a few times While building the site, I changed some product and category URLs several times. I've already set up 301 redirects from the old URLs and updated my internal links, but GSC still shows quite a few redirected pages. Related posts and products on different pages My product pages have a Related Posts section at the bottom that links to blog articles, showing their titles, images, and alt text. My blog posts also have Related Products and Related Posts sections linking back to products and other articles. I'm wondering if this setup could cause keyword cannibalization, where product pages and blog posts end up competing with each other for rankings and traffic. Product schema issues because I don't display prices I'm using WooCommerce as a product catalog, not an online store. Customers have to request a quote, so I don't display prices or offer checkout. GSC is reporting issues with Product Snippets and Merchant Listings structured data. 2. What I've tried Improved product pages, category pages, blog content, and internal linking. Set up 301 redirects for old URLs. Updated and resubmitted my sitemap. Checked robots.txt and Cloudflare bot settings. Used SureRank to manage SEO and schema. Requested validation for the indexing issues in GSC. 3. What I think might be happening I'm not sure if the sudden drop in impressions has anything to do with the validation requests, Google recrawling old URLs, Cloudflare settings, or just a reporting delay. I'm also wondering if the related content sections are making my product pages and blog posts compete with each other. And I'm not sure whether the missing price fields in my product schema affect anything beyond rich results. 4. My questions 1. Has anyone seen GSC impressions drop to zero after clicking &quot;Validate Fix&quot;? Could requesting validation affect indexing or search visibility? If the homepage is still indexed but the whole site suddenly gets zero impressions, what would you check first? 2. Do I need to do anything else with my old URLs? If the old URLs already have proper 301 redirects and I've updated my internal links and sitemap, is it normal for GSC to keep showing them under &quot;Page with redirect&quot;? 3. Can related posts and products cause keyword cannibalization? If product pages link to blog posts, and blog posts link back to products and other articles, could those internal links cause the pages to compete for keywords, rankings, or organic traffic? Is there a better way to structure these sections on a B2B manufacturing website? 4. Does Product schema without prices hurt regular SEO? For a B2B catalog where customers request quotes instead of buying online, should I still use Product schema? If I'm missing fields like price and offers , does that only affect eligibility for rich results, or could it also affect regular indexing, rankings, and impressions? I'd really appreciate any advice from people who've run into something similar. Thanks! &#32; submitted by &#32; /u/AdmirableTopic2739 [link] &#32; [comments]",
-    "published_at": "2026-11-04T10:12:24+00:00",
-    "discovered_at": "2026-11-06T21:29:35.605177+00:00",
-    "stage": "hot",
-    "score": 26,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data",
-          "rich results",
-          "rich result",
-          "merchant listing",
-          "merchant listings",
-          "product snippet",
-          "product snippets"
-        ],
-        "schema_types": [
-          "product schema"
-        ],
-        "schema_errors": [
-          "missing field",
-          "missing fields"
-        ],
-        "commercial_intent": [
-          "quote"
-        ],
-        "implementation_intent": [
-          "fix",
-          "setup",
-          "set up",
-          "validate",
-          "missing"
-        ],
-        "platforms": [
-          "woocommerce",
-          "wordpress",
-          "product page"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "schema_types": 3,
-        "schema_errors": 6,
-        "commercial_intent": 2,
-        "implementation_intent": 4,
-        "platforms": 2
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "sitemap",
-        "robots.txt"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "woocommerce",
-      "wordpress"
-    ],
-    "issue_types": [
-      "missing_schema",
-      "product_schema"
-    ],
-    "intent_flags": [
-      "quote",
-      "fix",
-      "setup",
-      "set up",
-      "validate",
-      "missing"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Respond as hands-on implementation help for an active schema problem.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: GSC impressions suddenly dropped to zero after I requested v",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with missing_schema, product_schema, email schemaagent@gmail.com.\n\nRespond as hands-on implementation help for an active schema problem.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -106,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-06T21:29:36.968207+00:00",
+    "discovered_at": "2026-11-07T05:58:22.510071+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -170,7 +72,7 @@
     "title": "Website appears and disappears from Google search results for my brand name – Is this a caching or ranking issue?",
     "summary": "Hi everyone, I run an online jewelry brand called Noufera ( https://noufera.com/ ), based in Pakistan. I'm facing a strange issue with Google Search. When I search for &quot;Noufera&quot; , sometimes my website appears in the search results, but sometimes it completely disappears. However: Searching site:noufera.com consistently shows my website. Google Search Console says my homepage is indexed (&quot;URL is on Google&quot;). For the exact query &quot;noufera&quot;, Search Console recorded 44 clicks and 226 impressions over the last 3 months. Between October 28 and November 4, it recorded 4 clicks and 31 impressions, all from Pakistan. I've also noticed that sometimes, when I search in Incognito mode, my website appears after refreshing Google, but disappears after another refresh. My website uses WordPress, WooCommerce, Rank Math SEO and LiteSpeed Cache. I've recently updated my homepage heading, SEO title, and Organization schema. My questions: Could this be a Google ranking fluctuation or search data-centre issue? Can LiteSpeed Cache or another caching layer cause this behaviour in Google search results? Why does Google show my website for &quot;Noufera Karachi&quot; but inconsistently for just &quot;Noufera&quot;? What should I investigate before making further SEO changes? I'd appreciate advice from experienced SEO professionals or website owners who have faced something similar. Thank you! &#32; submitted by &#32; /u/noufera [link] &#32; [comments]",
     "published_at": "2026-11-05T10:32:56+00:00",
-    "discovered_at": "2026-11-06T21:29:35.603953+00:00",
+    "discovered_at": "2026-11-07T05:58:21.469515+00:00",
     "stage": "warm",
     "score": 8,
     "score_breakdown": {
@@ -259,7 +161,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-06T21:29:36.965480+00:00",
+    "discovered_at": "2026-11-07T05:58:22.508386+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -317,7 +219,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-06T21:29:36.965978+00:00",
+    "discovered_at": "2026-11-07T05:58:22.508719+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -375,7 +277,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-06T21:29:36.967918+00:00",
+    "discovered_at": "2026-11-07T05:58:22.509890+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -425,7 +327,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-06T21:29:37.940131+00:00",
+    "discovered_at": "2026-11-07T05:58:22.858920+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -475,7 +377,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-06T21:29:36.963011+00:00",
+    "discovered_at": "2026-11-07T05:58:22.506733+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
