@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-08T06:00:54.999744+00:00",
+    "discovered_at": "2026-11-08T15:12:20.944885+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "I’ll do a AEO and SEO for a business",
     "summary": "I’m building my SEO portfolio and I'm looking for one small business website (a local shop or small online store works best) to work on as a practice project. I'll do a full SEO and AEO review: page titles and meta descriptions, headings, internal links, broken links, image alt text, indexing, page speed and structured data, plus how your pages and products show up in Google and AI answers (AI Overviews and similar). You'll get a written report that lists the problems I found, why each one matters and what to fix first. I'm still learning, so I can't promise rankings or traffic, and I'm not selling anything. I only ask for permission to use the audit as an anonymous case study. If you're interested, comment with a short description of your business (no need to post your URL publicly) and I'll reply. &#32; submitted by &#32; /u/Ayaan_noor [link] &#32; [comments]",
     "published_at": "2026-11-06T21:18:00+00:00",
-    "discovered_at": "2026-11-08T06:00:53.792908+00:00",
+    "discovered_at": "2026-11-08T15:12:19.523176+00:00",
     "stage": "warm",
     "score": 10,
     "score_breakdown": {
@@ -130,95 +130,6 @@
     ]
   },
   {
-    "item_id": "76d975f5b4342b13",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1xofdhn/website_appears_and_disappears_from_google_search",
-    "title": "Website appears and disappears from Google search results for my brand name – Is this a caching or ranking issue?",
-    "summary": "Hi everyone, I run an online jewelry brand called Noufera ( https://noufera.com/ ), based in Pakistan. I'm facing a strange issue with Google Search. When I search for &quot;Noufera&quot; , sometimes my website appears in the search results, but sometimes it completely disappears. However: Searching site:noufera.com consistently shows my website. Google Search Console says my homepage is indexed (&quot;URL is on Google&quot;). For the exact query &quot;noufera&quot;, Search Console recorded 44 clicks and 226 impressions over the last 3 months. Between October 28 and November 4, it recorded 4 clicks and 31 impressions, all from Pakistan. I've also noticed that sometimes, when I search in Incognito mode, my website appears after refreshing Google, but disappears after another refresh. My website uses WordPress, WooCommerce, Rank Math SEO and LiteSpeed Cache. I've recently updated my homepage heading, SEO title, and Organization schema. My questions: Could this be a Google ranking fluctuation or search data-centre issue? Can LiteSpeed Cache or another caching layer cause this behaviour in Google search results? Why does Google show my website for &quot;Noufera Karachi&quot; but inconsistently for just &quot;Noufera&quot;? What should I investigate before making further SEO changes? I'd appreciate advice from experienced SEO professionals or website owners who have faced something similar. Thank you! &#32; submitted by &#32; /u/noufera [link] &#32; [comments]",
-    "published_at": "2026-11-05T10:32:56+00:00",
-    "discovered_at": "2026-11-08T06:00:53.793960+00:00",
-    "stage": "warm",
-    "score": 8,
-    "score_breakdown": {
-      "matches": {
-        "schema_types": [
-          "organization schema"
-        ],
-        "platforms": [
-          "woocommerce",
-          "wordpress"
-        ]
-      },
-      "group_points": {
-        "schema_types": 3,
-        "platforms": 2
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [
-      "woocommerce",
-      "wordpress"
-    ],
-    "issue_types": [
-      "local_schema"
-    ],
-    "intent_flags": [],
-    "business_name": "Noufera",
-    "business_url": "https://noufera.com/",
-    "audit": {
-      "business_url": "https://noufera.com/",
-      "final_url": "https://noufera.com/",
-      "domain": "noufera.com",
-      "status_code": 200,
-      "ok": true,
-      "has_json_ld": true,
-      "schema_types": [
-        "ImageObject",
-        "JewelryStore",
-        "Organization",
-        "Place",
-        "PostalAddress",
-        "SearchAction",
-        "WebPage",
-        "WebSite"
-      ],
-      "cms": "wordpress",
-      "site_kind": "ecommerce",
-      "title": "Noufera – 925 Sterling Silver Jewelry In Pakistan",
-      "opportunity_gaps": [
-        "Missing Product schema on scanned page",
-        "BreadcrumbList not detected on scanned page"
-      ],
-      "notes": [
-        "Detected CMS: wordpress",
-        "Detected site kind: ecommerce",
-        "Schema types found: ImageObject, JewelryStore, Organization, Place, PostalAddress, SearchAction, WebPage, WebSite"
-      ],
-      "error": null
-    },
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Offer a fast product-schema visibility fix or implementation shortcut.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Schema help for Noufera",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Noufera. If you want a no-code shortcut for local_schema, the AI Visibility Kit is the best fit.\n\nOffer a fast product-schema visibility fix or implementation shortcut.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Noufera. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -227,7 +138,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-08T06:00:54.996789+00:00",
+    "discovered_at": "2026-11-08T15:12:20.943462+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -285,7 +196,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-08T06:00:54.997360+00:00",
+    "discovered_at": "2026-11-08T15:12:20.943740+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -343,7 +254,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-08T06:00:54.999438+00:00",
+    "discovered_at": "2026-11-08T15:12:20.944734+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -393,7 +304,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-08T06:00:55.473857+00:00",
+    "discovered_at": "2026-11-08T15:12:22.055604+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -443,7 +354,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-08T06:00:54.994997+00:00",
+    "discovered_at": "2026-11-08T15:12:20.942616+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
