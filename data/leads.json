@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-09T06:29:10.948144+00:00",
+    "discovered_at": "2026-11-09T18:48:40.283278+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "I’ll do a AEO and SEO for a business",
     "summary": "I’m building my SEO portfolio and I'm looking for one small business website (a local shop or small online store works best) to work on as a practice project. I'll do a full SEO and AEO review: page titles and meta descriptions, headings, internal links, broken links, image alt text, indexing, page speed and structured data, plus how your pages and products show up in Google and AI answers (AI Overviews and similar). You'll get a written report that lists the problems I found, why each one matters and what to fix first. I'm still learning, so I can't promise rankings or traffic, and I'm not selling anything. I only ask for permission to use the audit as an anonymous case study. If you're interested, comment with a short description of your business (no need to post your URL publicly) and I'll reply. &#32; submitted by &#32; /u/Ayaan_noor [link] &#32; [comments]",
     "published_at": "2026-11-06T21:18:00+00:00",
-    "discovered_at": "2026-11-09T06:29:09.692464+00:00",
+    "discovered_at": "2026-11-09T18:48:38.995580+00:00",
     "stage": "warm",
     "score": 10,
     "score_breakdown": {
@@ -138,7 +138,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-09T06:29:10.946451+00:00",
+    "discovered_at": "2026-11-09T18:48:40.281758+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -196,7 +196,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-09T06:29:10.946769+00:00",
+    "discovered_at": "2026-11-09T18:48:40.282047+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -254,7 +254,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-09T06:29:10.947959+00:00",
+    "discovered_at": "2026-11-09T18:48:40.283108+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -304,7 +304,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-09T06:29:12.440008+00:00",
+    "discovered_at": "2026-11-09T18:48:41.020956+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -354,7 +354,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-09T06:29:10.945444+00:00",
+    "discovered_at": "2026-11-09T18:48:40.280212+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
