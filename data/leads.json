@@ -8,7 +8,7 @@
     "title": "Does FAQ Schema Still Help SEO in 2026, or Is It Mostly a Waste of Time?",
     "summary": "I've been reviewing how FAQ schema fits into modern SEO strategies, especially with Google's changes to FAQ rich results and the growth of AI-powered search. I understand that adding FAQ schema doesn't automatically improve rankings, and Google now limits FAQ rich results to certain authoritative websites. But I'm curious whether other SEO professionals still find it worthwhile. For those actively working on SEO projects: Are you still implementing FAQ schema on service pages? Have you noticed any measurable difference in organic performance after adding or removing it? Do you prioritize structured data like Organization, Service, and BreadcrumbList over FAQPage? Have you found any reliable evidence that FAQ schema improves visibility in AI-generated answers? I'm trying to separate practical SEO value from recommendations that are repeated without much supporting evidence. Would appreciate hearing about actual testing experiences rather than theories. What's your approach in 2026? &#32; submitted by &#32; /u/MillathDigital [link] &#32; [comments]",
     "published_at": "2026-11-09T02:41:10+00:00",
-    "discovered_at": "2026-11-10T07:18:18.954287+00:00",
+    "discovered_at": "2026-11-10T16:24:56.196588+00:00",
     "stage": "hot",
     "score": 22,
     "score_breakdown": {
@@ -79,7 +79,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-10T07:18:20.131215+00:00",
+    "discovered_at": "2026-11-10T16:24:57.864575+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -143,7 +143,7 @@
     "title": "Are these “urgent” AI-search (GEO/LLMO) fixes actually worth it for a single-page SaaS landing page?",
     "summary": "A site checker ran an “AI search readiness” quick scan on our product LP (a single-page B2B SaaS landing page, Japanese market). It flagged 3 items as “urgent”, 13 passed, 1 undetermined: No structural data on the page. No BreadcrumbList or ItemList detected. Reason given: marking up breadcrumbs/lists helps convey the page’s position within the site. (Note: this is the root page. Our subpages already have BreadcrumbList.) Organization not linked to external profiles. No sameAs detected. Reason given: linking official SNS etc. helps engines confirm it’s the same entity. No visible “last updated” date. No update date detected. Reason given: lets readers judge freshness, “especially important for tourism info like opening hours and prices.” We already have JSON-LD for Organization, WebSite, SoftwareApplication, VideoObject and FAQPage, plus a sitemap with lastmod. Questions: Does a single-item BreadcrumbList or an ItemList on a landing page do anything for Google or for AI answer engines (ChatGPT, Perplexity, AI Overviews)? Is dateModified plus a visible “last updated” date on a product LP worth it in 2026? Is sameAs on the Organization meaningful if the company only has a few corporate profiles? Would you treat any of these as urgent, or are they just checklist noise? &#32; submitted by &#32; /u/CodeFactoryWorker [link] &#32; [comments]",
     "published_at": "2026-11-10T02:13:28+00:00",
-    "discovered_at": "2026-11-10T07:18:18.953884+00:00",
+    "discovered_at": "2026-11-10T16:24:56.196121+00:00",
     "stage": "warm",
     "score": 11,
     "score_breakdown": {
@@ -206,7 +206,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-10T07:18:20.128513+00:00",
+    "discovered_at": "2026-11-10T16:24:57.861589+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -264,7 +264,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-10T07:18:20.129011+00:00",
+    "discovered_at": "2026-11-10T16:24:57.862143+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -322,7 +322,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-10T07:18:20.130947+00:00",
+    "discovered_at": "2026-11-10T16:24:57.864226+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -372,7 +372,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-10T07:18:20.935054+00:00",
+    "discovered_at": "2026-11-10T16:24:58.986199+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -422,7 +422,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-10T07:18:20.127042+00:00",
+    "discovered_at": "2026-11-10T16:24:57.859847+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
