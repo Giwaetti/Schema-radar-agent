@@ -1,5 +1,76 @@
 [
   {
+    "item_id": "c81e7b932409f9fe",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1xrga3y/does_faq_schema_still_help_seo_in_2026_or_is_it",
+    "title": "Does FAQ Schema Still Help SEO in 2026, or Is It Mostly a Waste of Time?",
+    "summary": "I've been reviewing how FAQ schema fits into modern SEO strategies, especially with Google's changes to FAQ rich results and the growth of AI-powered search. I understand that adding FAQ schema doesn't automatically improve rankings, and Google now limits FAQ rich results to certain authoritative websites. But I'm curious whether other SEO professionals still find it worthwhile. For those actively working on SEO projects: Are you still implementing FAQ schema on service pages? Have you noticed any measurable difference in organic performance after adding or removing it? Do you prioritize structured data like Organization, Service, and BreadcrumbList over FAQPage? Have you found any reliable evidence that FAQ schema improves visibility in AI-generated answers? I'm trying to separate practical SEO value from recommendations that are repeated without much supporting evidence. Would appreciate hearing about actual testing experiences rather than theories. What's your approach in 2026? &#32; submitted by &#32; /u/MillathDigital [link] &#32; [comments]",
+    "published_at": "2026-11-09T02:41:10+00:00",
+    "discovered_at": "2026-11-10T07:18:18.954287+00:00",
+    "stage": "hot",
+    "score": 22,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data",
+          "rich results",
+          "rich result"
+        ],
+        "schema_types": [
+          "faq schema",
+          "breadcrumblist"
+        ],
+        "implementation_intent": [
+          "implement",
+          "support"
+        ],
+        "platforms": [
+          "service page"
+        ]
+      },
+      "group_points": {
+        "schema_core": 8,
+        "schema_types": 6,
+        "implementation_intent": 4,
+        "platforms": 1
+      },
+      "freshness": 3,
+      "negative_hits": [],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [
+      "faq_schema",
+      "breadcrumbs"
+    ],
+    "intent_flags": [
+      "implement",
+      "support"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: Does FAQ Schema Still Help SEO in 2026, or Is It Mostly a Wa",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with faq_schema, breadcrumbs, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -8,7 +79,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-09T18:48:40.283278+00:00",
+    "discovered_at": "2026-11-10T07:18:20.131215+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -64,51 +135,48 @@
     ]
   },
   {
-    "item_id": "8002cfe2c7481bd4",
+    "item_id": "f7683a58cebb7788",
     "source": "Reddit /r/SEO",
     "source_id": "reddit-seo",
     "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1xpogmi/ill_do_a_aeo_and_seo_for_a_business",
-    "title": "I’ll do a AEO and SEO for a business",
-    "summary": "I’m building my SEO portfolio and I'm looking for one small business website (a local shop or small online store works best) to work on as a practice project. I'll do a full SEO and AEO review: page titles and meta descriptions, headings, internal links, broken links, image alt text, indexing, page speed and structured data, plus how your pages and products show up in Google and AI answers (AI Overviews and similar). You'll get a written report that lists the problems I found, why each one matters and what to fix first. I'm still learning, so I can't promise rankings or traffic, and I'm not selling anything. I only ask for permission to use the audit as an anonymous case study. If you're interested, comment with a short description of your business (no need to post your URL publicly) and I'll reply. &#32; submitted by &#32; /u/Ayaan_noor [link] &#32; [comments]",
-    "published_at": "2026-11-06T21:18:00+00:00",
-    "discovered_at": "2026-11-09T18:48:38.995580+00:00",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1xsaxoi/are_these_urgent_aisearch_geollmo_fixes_actually",
+    "title": "Are these “urgent” AI-search (GEO/LLMO) fixes actually worth it for a single-page SaaS landing page?",
+    "summary": "A site checker ran an “AI search readiness” quick scan on our product LP (a single-page B2B SaaS landing page, Japanese market). It flagged 3 items as “urgent”, 13 passed, 1 undetermined: No structural data on the page. No BreadcrumbList or ItemList detected. Reason given: marking up breadcrumbs/lists helps convey the page’s position within the site. (Note: this is the root page. Our subpages already have BreadcrumbList.) Organization not linked to external profiles. No sameAs detected. Reason given: linking official SNS etc. helps engines confirm it’s the same entity. No visible “last updated” date. No update date detected. Reason given: lets readers judge freshness, “especially important for tourism info like opening hours and prices.” We already have JSON-LD for Organization, WebSite, SoftwareApplication, VideoObject and FAQPage, plus a sitemap with lastmod. Questions: Does a single-item BreadcrumbList or an ItemList on a landing page do anything for Google or for AI answer engines (ChatGPT, Perplexity, AI Overviews)? Is dateModified plus a visible “last updated” date on a product LP worth it in 2026? Is sameAs on the Organization meaningful if the company only has a few corporate profiles? Would you treat any of these as urgent, or are they just checklist noise? &#32; submitted by &#32; /u/CodeFactoryWorker [link] &#32; [comments]",
+    "published_at": "2026-11-10T02:13:28+00:00",
+    "discovered_at": "2026-11-10T07:18:18.953884+00:00",
     "stage": "warm",
-    "score": 10,
+    "score": 11,
     "score_breakdown": {
       "matches": {
         "schema_core": [
-          "structured data"
+          "json-ld"
         ],
-        "commercial_intent": [
-          "looking for"
+        "schema_types": [
+          "breadcrumblist"
         ],
         "implementation_intent": [
-          "fix",
-          "audit"
+          "fix"
         ]
       },
       "group_points": {
         "schema_core": 4,
-        "commercial_intent": 2,
-        "implementation_intent": 4
+        "schema_types": 3,
+        "implementation_intent": 2
       },
       "freshness": 3,
       "negative_hits": [
-        "meta description",
-        "meta descriptions",
-        "page speed"
+        "sitemap"
       ],
       "source_boost": 0,
       "gated": false,
       "gate_reason": null
     },
     "platforms": [],
-    "issue_types": [],
+    "issue_types": [
+      "breadcrumbs"
+    ],
     "intent_flags": [
-      "looking for",
-      "fix",
-      "audit"
+      "fix"
     ],
     "business_name": null,
     "business_url": null,
@@ -120,8 +188,8 @@
     "cta_label": "Get the AI Visibility Kit",
     "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
     "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: I’ll do a AEO and SEO for a business",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "reply_subject": "Best fit for: Are these “urgent” AI-search (GEO/LLMO) fixes actually worth",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for breadcrumbs, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
     "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
     "tags": [
       "reddit",
@@ -138,7 +206,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-09T18:48:40.281758+00:00",
+    "discovered_at": "2026-11-10T07:18:20.128513+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -196,7 +264,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-09T18:48:40.282047+00:00",
+    "discovered_at": "2026-11-10T07:18:20.129011+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -254,7 +322,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-09T18:48:40.283108+00:00",
+    "discovered_at": "2026-11-10T07:18:20.130947+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -304,7 +372,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-09T18:48:41.020956+00:00",
+    "discovered_at": "2026-11-10T07:18:20.935054+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -354,7 +422,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-09T18:48:40.280212+00:00",
+    "discovered_at": "2026-11-10T07:18:20.127042+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
