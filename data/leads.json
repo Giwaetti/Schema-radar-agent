@@ -1,76 +1,5 @@
 [
   {
-    "item_id": "c81e7b932409f9fe",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1xrga3y/does_faq_schema_still_help_seo_in_2026_or_is_it",
-    "title": "Does FAQ Schema Still Help SEO in 2026, or Is It Mostly a Waste of Time?",
-    "summary": "I've been reviewing how FAQ schema fits into modern SEO strategies, especially with Google's changes to FAQ rich results and the growth of AI-powered search. I understand that adding FAQ schema doesn't automatically improve rankings, and Google now limits FAQ rich results to certain authoritative websites. But I'm curious whether other SEO professionals still find it worthwhile. For those actively working on SEO projects: Are you still implementing FAQ schema on service pages? Have you noticed any measurable difference in organic performance after adding or removing it? Do you prioritize structured data like Organization, Service, and BreadcrumbList over FAQPage? Have you found any reliable evidence that FAQ schema improves visibility in AI-generated answers? I'm trying to separate practical SEO value from recommendations that are repeated without much supporting evidence. Would appreciate hearing about actual testing experiences rather than theories. What's your approach in 2026? &#32; submitted by &#32; /u/MillathDigital [link] &#32; [comments]",
-    "published_at": "2026-11-09T02:41:10+00:00",
-    "discovered_at": "2026-11-11T22:41:35.904409+00:00",
-    "stage": "hot",
-    "score": 22,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "structured data",
-          "rich results",
-          "rich result"
-        ],
-        "schema_types": [
-          "faq schema",
-          "breadcrumblist"
-        ],
-        "implementation_intent": [
-          "implement",
-          "support"
-        ],
-        "platforms": [
-          "service page"
-        ]
-      },
-      "group_points": {
-        "schema_core": 8,
-        "schema_types": 6,
-        "implementation_intent": 4,
-        "platforms": 1
-      },
-      "freshness": 3,
-      "negative_hits": [],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [
-      "faq_schema",
-      "breadcrumbs"
-    ],
-    "intent_flags": [
-      "implement",
-      "support"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "direct_service",
-    "offer_fit": "Done-for-you / service",
-    "action_hint": "Treat this as a direct service lead first.",
-    "sales_route": "email_contact",
-    "cta_label": "Email for direct help",
-    "cta_destination": "mailto:schemaagent@gmail.com",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Does FAQ Schema Still Help SEO in 2026, or Is It Mostly a Wa",
-    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with faq_schema, breadcrumbs, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
-    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -79,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-11T22:41:37.665826+00:00",
+    "discovered_at": "2026-11-12T07:10:20.779563+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -135,69 +64,6 @@
     ]
   },
   {
-    "item_id": "f7683a58cebb7788",
-    "source": "Reddit /r/SEO",
-    "source_id": "reddit-seo",
-    "source_type": "forum",
-    "source_url": "https://www.reddit.com/r/SEO/comments/1xsaxoi/are_these_urgent_aisearch_geollmo_fixes_actually",
-    "title": "Are these “urgent” AI-search (GEO/LLMO) fixes actually worth it for a single-page SaaS landing page?",
-    "summary": "A site checker ran an “AI search readiness” quick scan on our product LP (a single-page B2B SaaS landing page, Japanese market). It flagged 3 items as “urgent”, 13 passed, 1 undetermined: No structural data on the page. No BreadcrumbList or ItemList detected. Reason given: marking up breadcrumbs/lists helps convey the page’s position within the site. (Note: this is the root page. Our subpages already have BreadcrumbList.) Organization not linked to external profiles. No sameAs detected. Reason given: linking official SNS etc. helps engines confirm it’s the same entity. No visible “last updated” date. No update date detected. Reason given: lets readers judge freshness, “especially important for tourism info like opening hours and prices.” We already have JSON-LD for Organization, WebSite, SoftwareApplication, VideoObject and FAQPage, plus a sitemap with lastmod. Questions: Does a single-item BreadcrumbList or an ItemList on a landing page do anything for Google or for AI answer engines (ChatGPT, Perplexity, AI Overviews)? Is dateModified plus a visible “last updated” date on a product LP worth it in 2026? Is sameAs on the Organization meaningful if the company only has a few corporate profiles? Would you treat any of these as urgent, or are they just checklist noise? &#32; submitted by &#32; /u/CodeFactoryWorker [link] &#32; [comments]",
-    "published_at": "2026-11-10T02:13:28+00:00",
-    "discovered_at": "2026-11-11T22:41:35.903991+00:00",
-    "stage": "warm",
-    "score": 11,
-    "score_breakdown": {
-      "matches": {
-        "schema_core": [
-          "json-ld"
-        ],
-        "schema_types": [
-          "breadcrumblist"
-        ],
-        "implementation_intent": [
-          "fix"
-        ]
-      },
-      "group_points": {
-        "schema_core": 4,
-        "schema_types": 3,
-        "implementation_intent": 2
-      },
-      "freshness": 3,
-      "negative_hits": [
-        "sitemap"
-      ],
-      "source_boost": 0,
-      "gated": false,
-      "gate_reason": null
-    },
-    "platforms": [],
-    "issue_types": [
-      "breadcrumbs"
-    ],
-    "intent_flags": [
-      "fix"
-    ],
-    "business_name": null,
-    "business_url": null,
-    "audit": null,
-    "offer_key": "ai_visibility_kit",
-    "offer_fit": "AI Visibility Kit",
-    "action_hint": "Lead with a lightweight, lower-friction offer.",
-    "sales_route": "forum_reply",
-    "cta_label": "Get the AI Visibility Kit",
-    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
-    "contact_email": "schemaagent@gmail.com",
-    "reply_subject": "Best fit for: Are these “urgent” AI-search (GEO/LLMO) fixes actually worth",
-    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for your site. If you want a no-code shortcut for breadcrumbs, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
-    "follow_up_draft": "Following up in case you still want the quickest route to get this live for your setup. Best fit: https://schemaagent.gumroad.com/l/rfces",
-    "tags": [
-      "reddit",
-      "seo",
-      "broad"
-    ]
-  },
-  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -206,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-11T22:41:37.662916+00:00",
+    "discovered_at": "2026-11-12T07:10:20.777900+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -264,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-11T22:41:37.663493+00:00",
+    "discovered_at": "2026-11-12T07:10:20.778228+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -322,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-11T22:41:37.665521+00:00",
+    "discovered_at": "2026-11-12T07:10:20.779385+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -372,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-11T22:41:38.293149+00:00",
+    "discovered_at": "2026-11-12T07:10:21.753889+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -422,7 +288,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-11T22:41:37.661177+00:00",
+    "discovered_at": "2026-11-12T07:10:20.776820+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
