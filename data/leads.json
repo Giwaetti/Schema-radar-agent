@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-13T06:45:50.053004+00:00",
+    "discovered_at": "2026-11-13T16:23:39.947042+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -70,9 +70,9 @@
     "source_type": "forum",
     "source_url": "https://www.reddit.com/r/SEO/comments/1xujk0g/how_do_i_approach_seo_for_several_large_sites",
     "title": "How do I approach SEO for several large sites with AI-generated summaries?",
-    "summary": "I’m a physician and PhD student in cardiology. I’ve built a site for cardiologists. It takes newly published cardiology studies and turns each one into a structured summary: population, comparison, primary result and visual plots, with a reference to the original article. On top of that there’s a weekly overview. The summaries are entirely composed by AI from the published abstracts, and checked automatically against them. I’ve tried to be very transparent about how everything is made on the site. Before launching I built an archive going back almost four years, so the site started with 10,000+ pages. Since then I’ve made a few sister sites for other specialties, and the plan is 20+ in total. Same setup, each with its own archive and its own domain. I get very good feedback from the physicians who use it. But I know how “20 AI-generated sites with 10,000 pages each” sounds, and I get that Google might flag that. That’s fair and understandable. I’ve read a lot in the SEO subreddits and tried to cover the basics: sitemaps, canonical tags, structured data and a clear robots file. But I really don’t know what I’m actually doing. So my questions: How do I approach SEO best with such a big platform with so many AI-generated pages? Is there anything I should do, or stop doing, to avoid the sites being treated as spam? Is that even possible with so many pages and everything generated with AI? Some studies belong to two specialties, so the same summary shows up on two sites. Is that a problem? In hindsight, should I have used one domain instead of spreading it out on several domains (each with 10,000+ pages)? I’ve chosen separate domains, as physicians are often tied to one specialty and will only use one site. (Probably won’t change it, just interested in your opinion) Anything else? I’m a doctor, not a web developer, so I’m happy to be told what I’ve done wrong. I’m proud of what I’ve made with the technical skills I have, but I’d like to improve it and reach more people. &#32; submitted by &#32; /u/Cedde_con [link] &#32; [comments]",
+    "summary": "I’m a physician and PhD student in cardiology. I’ve built a site for cardiologists. It takes newly published cardiology studies and turns each one into a structured summary: population, comparison, primary result and visual plots, with a reference to the original article. On top of that there’s a weekly overview. The summaries are entirely composed by AI from the published abstracts, and checked automatically against them. I’ve tried to be very transparent about how everything is made on the site. Before launching I built an archive going back almost four years, so the site started with 10,000+ pages. Since then I’ve made a few sister sites for other specialties, and the plan is 20+ in total. Same setup, each with its own archive and its own domain. I get very good feedback from the physicians who use it. But I know how “20 AI-generated sites with 10,000 pages each” sounds, and I get that Google might flag that. That’s fair and understandable. I’ve read a lot in the SEO subreddits and tried to cover the basics: sitemaps, canonical tags, structured data and a clear robots file. But I really don’t know what I’m actually doing. So my questions: How do I approach SEO best with such a big platform with so many AI-generated pages? Is there anything I should do, or stop doing, to avoid the sites being treated as spam? Is that even possible with so many pages and everything generated with AI? Some studies belong to two specialties, so the same summary shows up on two sites. Is that a problem? In hindsight, should I have used one domain instead of spreading it out on several domains (each with 10,000+ pages)? I’ve chosen separate domains, as physicians are often tied to one specialty and will only use one site. (Probably won’t change it, just interested in your opinion) Anything else? I’m a doctor, not a web developer, so I’m happy to be told what I’ve done wrong. I’m proud of what I’ve made with the technical skills I have, but I’d like to improve it and reach more people. EDIT: I just wanted to say thanks! It’s amazing how fast you can get so much valuable feedback. I really appreciate it! &#32; submitted by &#32; /u/Cedde_con [link] &#32; [comments]",
     "published_at": "2026-11-12T17:52:11+00:00",
-    "discovered_at": "2026-11-13T06:45:48.514682+00:00",
+    "discovered_at": "2026-11-13T16:23:38.379292+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -135,7 +135,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-13T06:45:50.050059+00:00",
+    "discovered_at": "2026-11-13T16:23:39.944105+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -193,7 +193,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-13T06:45:50.050628+00:00",
+    "discovered_at": "2026-11-13T16:23:39.944683+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -251,7 +251,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-13T06:45:50.052682+00:00",
+    "discovered_at": "2026-11-13T16:23:39.946741+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -301,7 +301,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-13T06:45:50.986437+00:00",
+    "discovered_at": "2026-11-13T16:23:40.940396+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -351,7 +351,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-13T06:45:50.048229+00:00",
+    "discovered_at": "2026-11-13T16:23:39.942270+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
