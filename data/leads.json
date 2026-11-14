@@ -1,5 +1,72 @@
 [
   {
+    "item_id": "ecb3bbce46d5d30a",
+    "source": "Reddit /r/SEO",
+    "source_id": "reddit-seo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/SEO/comments/1xuj0qv/ive_built_aigenerated_medical_research_sites_with",
+    "title": "I’ve built AI-generated medical research sites with 10,000+ pages each. How do I approach SEO?",
+    "summary": "I’m a physician and PhD student in cardiology. I’ve built a site for cardiologists. It takes newly published cardiology studies and turns each one into a structured summary: population, comparison, primary result and visual plots, with a reference to the original article. On top of that there’s a weekly overview. The summaries are entirely composed by AI from the published abstracts, and checked automatically against them. I’ve tried to be very transparent about how everything is made on the site. Before launching I built an archive going back almost four years, so the site started with 10,000+ pages. Since then I’ve made a few sister sites for other specialties, and the plan is 20+ in total. Same setup, each with its own archive. I get very good feedback from the physicians who use it. But I know how “20 AI-generated sites with 10,000 pages each” sounds, and I get that Google might flag that. That’s fair and understandable. I’ve read a lot in the SEO subreddits and tried to cover the basics: sitemaps, canonical tags, structured data and a clear robots file. So I’m mostly looking for what I’m missing beyond that. So my questions: How do i approach SEO best with such a big platform with so many AI-generated pages? Is there anything I should do, or stop doing, to avoid the sites being treated as spam? Is that even possible with so many pages and everything generated with AI? Some studies belong to two specialties, so the same summary shows up on two sites. Is that a problem? In hindsight, should I have used one domain instead of spreading it out on several domains (each with 10,000+ pages)? I’ve chosen separate domains, as physicians are often tied to one specialty and will only use one site. (Probably won’t change it, just interested in your opinion) Anything else you’d flag based on what I’ve described? I’m a doctor, not a web developer, so I’m happy to be told what I’ve done wrong. I’m proud of what I’ve made with the technical skills I have, but I’d like to improve it and reach more people. Everything is free, ad-free and funded by myself. Thanks a lot! &#32; submitted by &#32; /u/Cedde_con [link] &#32; [comments]",
+    "published_at": "2026-11-12T17:32:08+00:00",
+    "discovered_at": "2026-11-14T06:23:00.043425+00:00",
+    "stage": "hot",
+    "score": 13,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "commercial_intent": [
+          "looking for",
+          "developer"
+        ],
+        "implementation_intent": [
+          "setup",
+          "missing"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "commercial_intent": 4,
+        "implementation_intent": 4
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "canonical",
+        "sitemap"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "looking for",
+      "developer",
+      "setup",
+      "missing"
+    ],
+    "business_name": null,
+    "business_url": null,
+    "audit": null,
+    "offer_key": "direct_service",
+    "offer_fit": "Done-for-you / service",
+    "action_hint": "Treat this as a direct service lead first.",
+    "sales_route": "email_contact",
+    "cta_label": "Email for direct help",
+    "cta_destination": "mailto:schemaagent@gmail.com",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Best fit for: I’ve built AI-generated medical research sites with 10,000+ ",
+    "reply_draft": "Here’s the fastest route I’d take.\n\nThis looks more hands-on than a template-only fix. If you want direct help with structured data visibility, email schemaagent@gmail.com.\n\nTreat this as a direct service lead first.\n\nBest next step: email schemaagent@gmail.com with the page URL and the exact issue.",
+    "follow_up_draft": "Just following up in case you still want hands-on schema help for your setup. You can reach me at schemaagent@gmail.com.",
+    "tags": [
+      "reddit",
+      "seo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "7cad77e02dd47c6d",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -8,7 +75,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-13T16:23:39.947042+00:00",
+    "discovered_at": "2026-11-14T06:23:01.581550+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +139,7 @@
     "title": "How do I approach SEO for several large sites with AI-generated summaries?",
     "summary": "I’m a physician and PhD student in cardiology. I’ve built a site for cardiologists. It takes newly published cardiology studies and turns each one into a structured summary: population, comparison, primary result and visual plots, with a reference to the original article. On top of that there’s a weekly overview. The summaries are entirely composed by AI from the published abstracts, and checked automatically against them. I’ve tried to be very transparent about how everything is made on the site. Before launching I built an archive going back almost four years, so the site started with 10,000+ pages. Since then I’ve made a few sister sites for other specialties, and the plan is 20+ in total. Same setup, each with its own archive and its own domain. I get very good feedback from the physicians who use it. But I know how “20 AI-generated sites with 10,000 pages each” sounds, and I get that Google might flag that. That’s fair and understandable. I’ve read a lot in the SEO subreddits and tried to cover the basics: sitemaps, canonical tags, structured data and a clear robots file. But I really don’t know what I’m actually doing. So my questions: How do I approach SEO best with such a big platform with so many AI-generated pages? Is there anything I should do, or stop doing, to avoid the sites being treated as spam? Is that even possible with so many pages and everything generated with AI? Some studies belong to two specialties, so the same summary shows up on two sites. Is that a problem? In hindsight, should I have used one domain instead of spreading it out on several domains (each with 10,000+ pages)? I’ve chosen separate domains, as physicians are often tied to one specialty and will only use one site. (Probably won’t change it, just interested in your opinion) Anything else? I’m a doctor, not a web developer, so I’m happy to be told what I’ve done wrong. I’m proud of what I’ve made with the technical skills I have, but I’d like to improve it and reach more people. EDIT: I just wanted to say thanks! It’s amazing how fast you can get so much valuable feedback. I really appreciate it! &#32; submitted by &#32; /u/Cedde_con [link] &#32; [comments]",
     "published_at": "2026-11-12T17:52:11+00:00",
-    "discovered_at": "2026-11-13T16:23:38.379292+00:00",
+    "discovered_at": "2026-11-14T06:23:00.043285+00:00",
     "stage": "warm",
     "score": 9,
     "score_breakdown": {
@@ -127,6 +194,91 @@
     ]
   },
   {
+    "item_id": "c2e21f81e4e74f5d",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1xrlke4/how_do_you_recover_seo_traffic_after_a_hubspot",
+    "title": "How do you recover SEO traffic after a HubSpot migration and website rebrand? A B2B SaaS case study",
+    "summary": "I worked on an SEO recovery project for a B2B SaaS company after a website rebrand and migration to HubSpot caused a sharp loss of organic traffic. The new website was already live when the recovery work started. The company had changed its name, but the migration hadn’t properly connected the previous website to the replacement site. Earlier attempts to resolve the traffic loss hadn’t restored performance. The business operated in the SAP software space. I’m keeping its identity out of this post and focusing on the recovery work, the longer-term results, and what those results can reasonably tell us. The main lesson was that this involved two connected problems: repairing a damaged migration and improving the site’s ability to compete afterward. Why had organic traffic dropped after the migration? The project records identified three main issues: Missing 301 redirects from old URLs. The new website wasn’t receiving the full benefit of the previous site’s existing links and visibility. Existing content lacked a clear keyword strategy. The first two were migration problems. The third was a broader SEO problem that would still matter after the migration repairs. That distinction affected the order of work. Publishing more content could help expand the site’s coverage, but it wouldn’t reconnect an old URL to its replacement. Equally, restoring redirects wouldn’t automatically make every destination page relevant to the searches the business wanted to compete for. The company needed both migration recovery and a clearer content strategy. What did the post-migration SEO audit cover? The work started with a post-migration audit to identify remaining technical issues. The documented recovery activities included: Organising old URLs and their destinations on the new website. Adding missing 301 redirects. Updating schema markup. Creating a new sitemap. These activities addressed different parts of the migration. The redirects connected old addresses to their replacements. The sitemap reflected the new site’s URLs. Schema updates addressed structured information on the replacement website. I wouldn’t assign the same importance to every task or claim that they contributed equally. The available project material doesn’t isolate their individual effects. There also isn’t a verified URL count or redirect coverage percentage in this write-up. I can explain the work that was documented, but I can’t supply a page-by-page implementation log. How did we approach the missing 301 redirects? The missing redirects were a central migration issue. The old website had established URLs, external references, and search visibility. After the rebrand, the new website needed a reliable connection to those previous addresses. The recovery work included organising the old URLs and redirecting them to the new site. One practical point is that “the domain redirects” and “the migration redirects are complete” are different statements. A working homepage redirect alone doesn’t demonstrate that the previous site’s important pages have appropriate destinations. For anyone diagnosing a similar migration, I would inspect individual old URLs and their destinations rather than assume the entire move is correct because the homepage works. That is a diagnostic recommendation, rather than a claim that every migration failure has the same cause. What role did the sitemap and schema updates play? The new sitemap was part of bringing the replacement site’s technical setup into line with the migration. It belonged alongside the redirect work. It didn’t replace it. The same applies to schema markup. Updating structured information was one part of the post-migration cleanup, but this case doesn’t demonstrate that schema changes alone restored the lost traffic. That matters when discussing website migration recovery because several tasks often happen close together. Seeing performance improve after a group of changes doesn’t establish that one particular task caused the improvement. In this project, the evidence supports describing a combined recovery effort. Why did we optimise existing content before relying on new pages? The existing site also needed better keyword focus. The company already had content about its software and market. However, having relevant subject matter on a website isn’t the same as having pages clearly aligned with the searches potential buyers use. The work included pairing suitable keywords with existing content and improving those pages. That gave the content strategy a starting point beyond simply increasing publishing volume. We could work with material the business already had while planning additional coverage around its niche. A content calendar supported that expansion. Its purpose was to improve topical relevance around the company’s software market, alongside the technical recovery. I don’t have a verified publishing breakdown here, so I can’t state how many pages were updated versus newly created, or which individual page produced the largest improvement. What needed attention outside the website after the rebrand? Changing a company name leaves references to the previous identity outside the main website. The project included claiming, branding, and optimising social accounts and directory listings. It also addressed links associated with the previous brand and their connection to the new website. That work is easy to overlook when a rebrand is discussed only as a design or CMS project. The new site can be live while older profiles, listings, and external references still point people toward the previous identity. For a future rebrand, I would give those references their own workstream, with someone responsible for checking and updating them. The website migration and external brand cleanup overlap, but completing one doesn’t automatically complete the other. How was the recovery measured? Tracking and reporting were part of the work. The marketing team also received guidance on accessing the data it needed for internal reporting. There were two outcomes to distinguish: Recovering from the loss associated with the migration. Building additional organic visibility over the following period. Those outcomes are connected, but they aren’t interchangeable. A website returning toward its previous performance is different from a website exceeding that baseline through ongoing content and authority work. That distinction is particularly important when presenting a recovery project as a case study. A large improvement from a damaged starting point needs context. What results were reported? The project records describe a reversal of the downward traffic trend after the migration issues were addressed, followed by continued growth. Over a little more than two years, the reported outcomes included: 85 page-one rankings. More than 400,000 average monthly organic impressions. Organic cost per lead reported as 45% lower than paid. These are longer-term outcomes from the overall project. I wouldn’t describe them as the result of redirects alone. Content improvements, additional content, and backlink work continued alongside the migration recovery. The cost-per-lead comparison also describes this project’s reported performance. It isn’t a universal benchmark for B2B SaaS marketing. How long does SEO recovery take after a migration? This case doesn’t provide a reliable universal recovery timeline. The longer-term results cover more than two years. That doesn’t mean the initial technical recovery took two years, and it doesn’t establish that another website should expect the same progression. The project material describes an initial reversal of the decline, followed by continued growth. It doesn’t provide enough detail here to assign a precise recovery date to every affected page. I would therefore separate the timing of technical fixes from the timing of traffic recovery and subsequent growth. Otherwise, the final reporting period can easily become a misleading answer to “How long did the migration take to recover?” What would I check on another site with a post-migration traffic drop? My starting questions would be: Which pages and queries lost visibility? What changed in the URLs, domain, content, and platform? Do important old URLs reach appropriate new destinations? Is the replacement content accessible and suitable for indexing? Does the sitemap reflect the current URLs? Are we measuring both the old and new properties appropriately? Those are investigation questions, not a claim that every issue on that list occurred in this project. The aim is to identify what actually broke before deciding that the solution is more content, more links, or a different platform. What this project taught me A rebrand and CMS migration can look complete from a design perspective while still being incomplete from an SEO perspective. In this case, the recovery work addressed missing connections between the old and new websites, improved existing content, cleaned up external brand references, and established reporting for the longer-term work. The clearest lesson was to give migration repair and ongoing SEO growth their own objectives. Repairing the move creates a foundation; the work that follows determines what the site can build on it. For others who have handled a failed website migration: what evidence helped you distinguish normal post-migration fluctuations from an implementation problem that required intervention? &#32; submitted by &#32; /u/Danica_rowley [link] &#32; [comments]",
+    "published_at": "2026-11-09T07:37:14+00:00",
+    "discovered_at": "2026-11-14T06:23:00.473235+00:00",
+    "stage": "warm",
+    "score": 8,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "schema markup"
+        ],
+        "implementation_intent": [
+          "fix",
+          "implement",
+          "implementation",
+          "setup",
+          "audit",
+          "support",
+          "missing"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 4
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "backlink",
+        "sitemap",
+        "traffic drop"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "fix",
+      "implement",
+      "implementation",
+      "setup",
+      "audit",
+      "support",
+      "missing"
+    ],
+    "business_name": "Preview",
+    "business_url": "https://preview.redd.it/ngjz68vnij0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe3757b8cf87a31bbb7377d59ee0ea3833cb095d",
+    "audit": {
+      "business_url": "https://preview.redd.it/ngjz68vnij0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe3757b8cf87a31bbb7377d59ee0ea3833cb095d",
+      "final_url": "https://preview.redd.it/ngjz68vnij0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe3757b8cf87a31bbb7377d59ee0ea3833cb095d",
+      "domain": "preview.redd.it",
+      "status_code": 403,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTP 403"
+    },
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Schema help for Preview",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Preview. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Preview. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "techseo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "b0bd5293d564b9b5",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -135,7 +287,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-13T16:23:39.944105+00:00",
+    "discovered_at": "2026-11-14T06:23:01.579748+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -193,7 +345,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-13T16:23:39.944683+00:00",
+    "discovered_at": "2026-11-14T06:23:01.580116+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -251,7 +403,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-13T16:23:39.946741+00:00",
+    "discovered_at": "2026-11-14T06:23:01.581361+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -301,7 +453,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-13T16:23:40.940396+00:00",
+    "discovered_at": "2026-11-14T06:23:02.599369+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -343,6 +495,80 @@
     ]
   },
   {
+    "item_id": "c405a9546c74d52c",
+    "source": "Reddit /r/TechSEO",
+    "source_id": "reddit-techseo",
+    "source_type": "forum",
+    "source_url": "https://www.reddit.com/r/TechSEO/comments/1xvb9sx/24_technical_seo_and_site_bugs_as_an_advent",
+    "title": "24 technical SEO and site bugs as an advent calendar starting 1 December, which ones would you add?",
+    "summary": "I put together a calendar of 24 snippets, one a day from 1 December. The first week is mostly crawl and index problems: robots.txt with Disallow: /, a stray noindex (and the same instruction arriving in X-Robots-Tag), a canonical pointing at the homepage, a sitemap full of redirects, 404s and noindex URLs, a three-hop redirect chain. Later doors cover structured data, Core Web Vitals, tracking and a few non-SEO bugs. I wrote it from what I keep finding in audits, so it’s biased toward my own client work. Which bugs would you swap in? The calendar (I built it): https://iurii.rogulia.fi/advent &#32; submitted by &#32; /u/Total-Reasonable [link] &#32; [comments]",
+    "published_at": "2026-11-13T15:46:39+00:00",
+    "discovered_at": "2026-11-14T06:23:00.471770+00:00",
+    "stage": "watch",
+    "score": 5,
+    "score_breakdown": {
+      "matches": {
+        "schema_core": [
+          "structured data"
+        ],
+        "implementation_intent": [
+          "audit"
+        ]
+      },
+      "group_points": {
+        "schema_core": 4,
+        "implementation_intent": 2
+      },
+      "freshness": 3,
+      "negative_hits": [
+        "canonical",
+        "core web vitals",
+        "sitemap",
+        "robots.txt"
+      ],
+      "source_boost": 0,
+      "gated": false,
+      "gate_reason": null
+    },
+    "platforms": [],
+    "issue_types": [],
+    "intent_flags": [
+      "audit"
+    ],
+    "business_name": "Preview",
+    "business_url": "https://preview.redd.it/6we8aufxhe1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=61f2b94808d69088f242519c18876f514691d2e9",
+    "audit": {
+      "business_url": "https://preview.redd.it/6we8aufxhe1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=61f2b94808d69088f242519c18876f514691d2e9",
+      "final_url": "https://preview.redd.it/6we8aufxhe1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=61f2b94808d69088f242519c18876f514691d2e9",
+      "domain": "preview.redd.it",
+      "status_code": 403,
+      "ok": false,
+      "has_json_ld": false,
+      "schema_types": [],
+      "cms": null,
+      "site_kind": null,
+      "title": null,
+      "opportunity_gaps": [],
+      "notes": [],
+      "error": "HTTP 403"
+    },
+    "offer_key": "ai_visibility_kit",
+    "offer_fit": "AI Visibility Kit",
+    "action_hint": "Lead with a lightweight, lower-friction offer.",
+    "sales_route": "forum_reply",
+    "cta_label": "Get the AI Visibility Kit",
+    "cta_destination": "https://schemaagent.gumroad.com/l/rfces",
+    "contact_email": "schemaagent@gmail.com",
+    "reply_subject": "Schema help for Preview",
+    "reply_draft": "You can solve this without overcomplicating the build.\n\nIt looks like the fastest fix here is a simple schema implementation path for Preview. If you want a no-code shortcut for structured data visibility, the AI Visibility Kit is the best fit.\n\nLead with a lightweight, lower-friction offer.\n\nBest next step: https://schemaagent.gumroad.com/l/rfces",
+    "follow_up_draft": "Following up in case you still want the quickest route to get this live for Preview. Best fit: https://schemaagent.gumroad.com/l/rfces",
+    "tags": [
+      "reddit",
+      "techseo",
+      "broad"
+    ]
+  },
+  {
     "item_id": "034c991a4ad9f528",
     "source": "WordPress Support - Schema & Structured Data for WP & AMP",
     "source_id": "wordpress-schema-support",
@@ -351,7 +577,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-13T16:23:39.942270+00:00",
+    "discovered_at": "2026-11-14T06:23:01.578751+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
