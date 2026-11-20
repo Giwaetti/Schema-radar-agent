@@ -8,7 +8,7 @@
     "title": "Missing field ‘mainEntity’ in FAQ schema",
     "summary": "Started by: webrightnow",
     "published_at": null,
-    "discovered_at": "2026-11-19T17:22:37.542312+00:00",
+    "discovered_at": "2026-11-20T07:15:28.556907+00:00",
     "stage": "hot",
     "score": 13,
     "score_breakdown": {
@@ -72,7 +72,7 @@
     "title": "Organization Schema: Questions about PostalAddress and ContactPoint implementati",
     "summary": "Started by: blacckmamba",
     "published_at": null,
-    "discovered_at": "2026-11-19T17:22:37.540746+00:00",
+    "discovered_at": "2026-11-20T07:15:28.553968+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -130,7 +130,7 @@
     "title": "Since start of june: many ” Missing field ‘thumbnailUrl’ “.",
     "summary": "Started by: jonkeren1",
     "published_at": null,
-    "discovered_at": "2026-11-19T17:22:37.541023+00:00",
+    "discovered_at": "2026-11-20T07:15:28.554563+00:00",
     "stage": "watch",
     "score": 7,
     "score_breakdown": {
@@ -188,7 +188,7 @@
     "title": "How can I pull ld+json from one post to another?",
     "summary": "1 2 Started by: Roma",
     "published_at": null,
-    "discovered_at": "2026-11-19T17:22:37.542146+00:00",
+    "discovered_at": "2026-11-20T07:15:28.556601+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -238,7 +238,7 @@
     "title": "Not able to preview the structured data",
     "summary": "",
     "published_at": null,
-    "discovered_at": "2026-11-19T17:22:38.431131+00:00",
+    "discovered_at": "2026-11-20T07:15:29.288854+00:00",
     "stage": "watch",
     "score": 6,
     "score_breakdown": {
@@ -288,7 +288,7 @@
     "title": "articleBody cannot be modified for TechArticle schema type",
     "summary": "Started by: Max",
     "published_at": null,
-    "discovered_at": "2026-11-19T17:22:37.539878+00:00",
+    "discovered_at": "2026-11-20T07:15:28.552235+00:00",
     "stage": "watch",
     "score": 5,
     "score_breakdown": {
